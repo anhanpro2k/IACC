@@ -1,0 +1,4915 @@
+{
+    "5726": [
+        {
+            "MaPhuongXa": "57262",
+            "TenPhuongXa": "Sơn Giang",
+            "MaQuanHuyen": "5726",
+            "TenQuanHuyen": "Sơn Hà",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sg",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son giang son ha quang ngai",
+            "Point": null,
+            "Abbr": "sg sh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53807"
+        },
+        {
+            "MaPhuongXa": "57263",
+            "TenPhuongXa": "Sơn Linh",
+            "MaQuanHuyen": "5726",
+            "TenQuanHuyen": "Sơn Hà",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son linh son ha quang ngai",
+            "Point": null,
+            "Abbr": "sl sh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53813"
+        },
+        {
+            "MaPhuongXa": "57260",
+            "TenPhuongXa": "Di Lăng",
+            "MaQuanHuyen": "5726",
+            "TenQuanHuyen": "Sơn Hà",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "di lang son ha quang ngai",
+            "Point": null,
+            "Abbr": "dl sh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53806"
+        },
+        {
+            "MaPhuongXa": "57266",
+            "TenPhuongXa": "Sơn Hạ",
+            "MaQuanHuyen": "5726",
+            "TenQuanHuyen": "Sơn Hà",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sh",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son ha son ha quang ngai",
+            "Point": null,
+            "Abbr": "sh sh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53815"
+        },
+        {
+            "MaPhuongXa": "57267",
+            "TenPhuongXa": "Sơn Thành",
+            "MaQuanHuyen": "5726",
+            "TenQuanHuyen": "Sơn Hà",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son thanh son ha quang ngai",
+            "Point": null,
+            "Abbr": "st sh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53808"
+        },
+        {
+            "MaPhuongXa": "57264",
+            "TenPhuongXa": "Sơn Cao",
+            "MaQuanHuyen": "5726",
+            "TenQuanHuyen": "Sơn Hà",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sc",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son cao son ha quang ngai",
+            "Point": null,
+            "Abbr": "sc sh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53812"
+        },
+        {
+            "MaPhuongXa": "57265",
+            "TenPhuongXa": "Sơn Nham",
+            "MaQuanHuyen": "5726",
+            "TenQuanHuyen": "Sơn Hà",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sn",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son nham son ha quang ngai",
+            "Point": null,
+            "Abbr": "sn sh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53814"
+        },
+        {
+            "MaPhuongXa": "57268",
+            "TenPhuongXa": "Sơn Bao",
+            "MaQuanHuyen": "5726",
+            "TenQuanHuyen": "Sơn Hà",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sb",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son bao son ha quang ngai",
+            "Point": null,
+            "Abbr": "sb sh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53809"
+        },
+        {
+            "MaPhuongXa": "57269",
+            "TenPhuongXa": "Sơn Thượng",
+            "MaQuanHuyen": "5726",
+            "TenQuanHuyen": "Sơn Hà",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son thuong son ha quang ngai",
+            "Point": null,
+            "Abbr": "st sh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53816"
+        },
+        {
+            "MaPhuongXa": "57272",
+            "TenPhuongXa": "Sơn Thủy",
+            "MaQuanHuyen": "5726",
+            "TenQuanHuyen": "Sơn Hà",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son thuy son ha quang ngai",
+            "Point": null,
+            "Abbr": "st sh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53817"
+        },
+        {
+            "MaPhuongXa": "57273",
+            "TenPhuongXa": "Sơn Kỳ",
+            "MaQuanHuyen": "5726",
+            "TenQuanHuyen": "Sơn Hà",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sk",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son ky son ha quang ngai",
+            "Point": null,
+            "Abbr": "sk sh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53818"
+        },
+        {
+            "MaPhuongXa": "57270",
+            "TenPhuongXa": "Sơn Trung",
+            "MaQuanHuyen": "5726",
+            "TenQuanHuyen": "Sơn Hà",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son trung son ha quang ngai",
+            "Point": null,
+            "Abbr": "st sh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53810"
+        },
+        {
+            "MaPhuongXa": "57271",
+            "TenPhuongXa": "Sơn Hải",
+            "MaQuanHuyen": "5726",
+            "TenQuanHuyen": "Sơn Hà",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sh",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son hai son ha quang ngai",
+            "Point": null,
+            "Abbr": "sh sh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53811"
+        },
+        {
+            "MaPhuongXa": "57274",
+            "TenPhuongXa": "Sơn Ba",
+            "MaQuanHuyen": "5726",
+            "TenQuanHuyen": "Sơn Hà",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sb",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son ba son ha quang ngai",
+            "Point": null,
+            "Abbr": "sb sh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53819"
+        }
+    ],
+    "5710": [
+        {
+            "MaPhuongXa": "57161",
+            "TenPhuongXa": "Tịnh Thiện",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh thien quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "tt qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53128"
+        },
+        {
+            "MaPhuongXa": "57122",
+            "TenPhuongXa": "Chánh Lộ",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chanh lo quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "cl qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53115"
+        },
+        {
+            "MaPhuongXa": "57125",
+            "TenPhuongXa": "Nguyễn  Nghiêm",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nn",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyen  nghiem quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "nn qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53110"
+        },
+        {
+            "MaPhuongXa": "57129",
+            "TenPhuongXa": "Nghĩa Chánh",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia chanh quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "nc qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53109"
+        },
+        {
+            "MaPhuongXa": "57101",
+            "TenPhuongXa": "Nghĩa Dũng",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia dung quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "nd qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53118"
+        },
+        {
+            "MaPhuongXa": "57100",
+            "TenPhuongXa": "Nghĩa Dõng",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia dong quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "nd qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53116"
+        },
+        {
+            "MaPhuongXa": "57102",
+            "TenPhuongXa": "Lê Hồng Phong",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "lhp",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "le hong phong quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "lhp qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53107"
+        },
+        {
+            "MaPhuongXa": "57104",
+            "TenPhuongXa": "Trần Hưng Đạo",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "thd",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran hung dao quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "thd qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53106"
+        },
+        {
+            "MaPhuongXa": "57109",
+            "TenPhuongXa": "Trần Phú",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran phu quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "tp qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53108"
+        },
+        {
+            "MaPhuongXa": "57153",
+            "TenPhuongXa": "Tịnh An",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh an quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "ta qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53119"
+        },
+        {
+            "MaPhuongXa": "57155",
+            "TenPhuongXa": "Tịnh Long",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh long quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "tl qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53124"
+        },
+        {
+            "MaPhuongXa": "57154",
+            "TenPhuongXa": "Tịnh Châu",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh chau quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "tc qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53120"
+        },
+        {
+            "MaPhuongXa": "57157",
+            "TenPhuongXa": "Tịnh Kỳ",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tk",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh ky quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "tk qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53126"
+        },
+        {
+            "MaPhuongXa": "57156",
+            "TenPhuongXa": "Tịnh Khê",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tk",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh khe quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "tk qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53125"
+        },
+        {
+            "MaPhuongXa": "57158",
+            "TenPhuongXa": "Tịnh Hoà",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh hoa quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "th qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53127"
+        },
+        {
+            "MaPhuongXa": "57455",
+            "TenPhuongXa": "Trương Quang Trọng",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tqt",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truong quang trong quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "tqt qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53111"
+        },
+        {
+            "MaPhuongXa": "57457",
+            "TenPhuongXa": "Tịnh Ấn Đông",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tad",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh an dong quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "tad qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "57451",
+            "TenPhuongXa": "Nghĩa Hà",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia ha quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "nh qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53117"
+        },
+        {
+            "MaPhuongXa": "57453",
+            "TenPhuongXa": "Nghĩa Phú",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia phu quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "np qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53122"
+        },
+        {
+            "MaPhuongXa": "57459",
+            "TenPhuongXa": "Tịnh Ấn Tây",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tat",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh an tay quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "tat qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "57116",
+            "TenPhuongXa": "Quảng Phú",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "qp",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang phu quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "qp qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53113"
+        },
+        {
+            "MaPhuongXa": "57119",
+            "TenPhuongXa": "Nghĩa Lộ",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia lo quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "nl qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53114"
+        },
+        {
+            "MaPhuongXa": "57449",
+            "TenPhuongXa": "Nghĩa An",
+            "MaQuanHuyen": "5710",
+            "TenQuanHuyen": "Quảng Ngãi",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "na",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia an quang ngai quang ngai",
+            "Point": null,
+            "Abbr": "na qn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53123"
+        }
+    ],
+    "5715": [
+        {
+            "MaPhuongXa": "57160",
+            "TenPhuongXa": "Tịnh Phong",
+            "MaQuanHuyen": "5715",
+            "TenQuanHuyen": "Sơn Tịnh",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh phong son tinh quang ngai",
+            "Point": null,
+            "Abbr": "tp st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53212"
+        },
+        {
+            "MaPhuongXa": "57163",
+            "TenPhuongXa": "Tịnh Sơn",
+            "MaQuanHuyen": "5715",
+            "TenQuanHuyen": "Sơn Tịnh",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh son son tinh quang ngai",
+            "Point": null,
+            "Abbr": "ts st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53207"
+        },
+        {
+            "MaPhuongXa": "57162",
+            "TenPhuongXa": "Tịnh Thọ",
+            "MaQuanHuyen": "5715",
+            "TenQuanHuyen": "Sơn Tịnh",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh tho son tinh quang ngai",
+            "Point": null,
+            "Abbr": "tt st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53213"
+        },
+        {
+            "MaPhuongXa": "57165",
+            "TenPhuongXa": "Tịnh Bình",
+            "MaQuanHuyen": "5715",
+            "TenQuanHuyen": "Sơn Tịnh",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh binh son tinh quang ngai",
+            "Point": null,
+            "Abbr": "tb st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53208"
+        },
+        {
+            "MaPhuongXa": "57164",
+            "TenPhuongXa": "Tịnh Hà",
+            "MaQuanHuyen": "5715",
+            "TenQuanHuyen": "Sơn Tịnh",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh ha son tinh quang ngai",
+            "Point": null,
+            "Abbr": "th st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53206"
+        },
+        {
+            "MaPhuongXa": "57167",
+            "TenPhuongXa": "Tịnh Minh",
+            "MaQuanHuyen": "5715",
+            "TenQuanHuyen": "Sơn Tịnh",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh minh son tinh quang ngai",
+            "Point": null,
+            "Abbr": "tm st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53211"
+        },
+        {
+            "MaPhuongXa": "57166",
+            "TenPhuongXa": "Tịnh Bắc",
+            "MaQuanHuyen": "5715",
+            "TenQuanHuyen": "Sơn Tịnh",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh bac son tinh quang ngai",
+            "Point": null,
+            "Abbr": "tb st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53210"
+        },
+        {
+            "MaPhuongXa": "57169",
+            "TenPhuongXa": "Tịnh Trà",
+            "MaQuanHuyen": "5715",
+            "TenQuanHuyen": "Sơn Tịnh",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh tra son tinh quang ngai",
+            "Point": null,
+            "Abbr": "tt st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53214"
+        },
+        {
+            "MaPhuongXa": "57168",
+            "TenPhuongXa": "Tịnh Hiệp",
+            "MaQuanHuyen": "5715",
+            "TenQuanHuyen": "Sơn Tịnh",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh hiep son tinh quang ngai",
+            "Point": null,
+            "Abbr": "th st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53209"
+        },
+        {
+            "MaPhuongXa": "57171",
+            "TenPhuongXa": "Tịnh Giang",
+            "MaQuanHuyen": "5715",
+            "TenQuanHuyen": "Sơn Tịnh",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tg",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh giang son tinh quang ngai",
+            "Point": null,
+            "Abbr": "tg st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53216"
+        },
+        {
+            "MaPhuongXa": "57170",
+            "TenPhuongXa": "Tịnh Đông",
+            "MaQuanHuyen": "5715",
+            "TenQuanHuyen": "Sơn Tịnh",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh dong son tinh quang ngai",
+            "Point": null,
+            "Abbr": "td st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53215"
+        }
+    ],
+    "5735": [
+        {
+            "MaPhuongXa": "57362",
+            "TenPhuongXa": "Phổ Cường",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho cuong duc pho quang ngai",
+            "Point": null,
+            "Abbr": "pc dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54317"
+        },
+        {
+            "MaPhuongXa": "57361",
+            "TenPhuongXa": "Phổ Hoà",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho hoa duc pho quang ngai",
+            "Point": null,
+            "Abbr": "ph dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54316"
+        },
+        {
+            "MaPhuongXa": "57366",
+            "TenPhuongXa": "Phổ Thạnh",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho thanh duc pho quang ngai",
+            "Point": null,
+            "Abbr": "pt dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54319"
+        },
+        {
+            "MaPhuongXa": "57364",
+            "TenPhuongXa": "Phổ Khánh",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "pk",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho khanh duc pho quang ngai",
+            "Point": null,
+            "Abbr": "pk dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54318"
+        },
+        {
+            "MaPhuongXa": "57369",
+            "TenPhuongXa": "Phổ Minh",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho minh duc pho quang ngai",
+            "Point": null,
+            "Abbr": "pm dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54307"
+        },
+        {
+            "MaPhuongXa": "57368",
+            "TenPhuongXa": "Phổ Châu",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho chau duc pho quang ngai",
+            "Point": null,
+            "Abbr": "pc dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54320"
+        },
+        {
+            "MaPhuongXa": "57353",
+            "TenPhuongXa": "Phổ Thuận",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho thuan duc pho quang ngai",
+            "Point": null,
+            "Abbr": "pt dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54312"
+        },
+        {
+            "MaPhuongXa": "57352",
+            "TenPhuongXa": "Phổ Văn",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "pv",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho van duc pho quang ngai",
+            "Point": null,
+            "Abbr": "pv dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54310"
+        },
+        {
+            "MaPhuongXa": "57351",
+            "TenPhuongXa": "Phổ Ninh",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho ninh duc pho quang ngai",
+            "Point": null,
+            "Abbr": "pn dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54315"
+        },
+        {
+            "MaPhuongXa": "57350",
+            "TenPhuongXa": "Nguyễn Nghiêm",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyen nghiem duc pho quang ngai",
+            "Point": null,
+            "Abbr": "nn dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54306"
+        },
+        {
+            "MaPhuongXa": "57357",
+            "TenPhuongXa": "Phổ An",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "pa",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho an duc pho quang ngai",
+            "Point": null,
+            "Abbr": "pa dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54311"
+        },
+        {
+            "MaPhuongXa": "57355",
+            "TenPhuongXa": "Phổ Phong",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "pp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho phong duc pho quang ngai",
+            "Point": null,
+            "Abbr": "pp dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54313"
+        },
+        {
+            "MaPhuongXa": "57359",
+            "TenPhuongXa": "Phổ Nhơn",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho nhon duc pho quang ngai",
+            "Point": null,
+            "Abbr": "pn dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54314"
+        },
+        {
+            "MaPhuongXa": "57358",
+            "TenPhuongXa": "Phổ Quang",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "pq",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho quang duc pho quang ngai",
+            "Point": null,
+            "Abbr": "pq dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54309"
+        },
+        {
+            "MaPhuongXa": "57371",
+            "TenPhuongXa": "Phổ Vinh",
+            "MaQuanHuyen": "5735",
+            "TenQuanHuyen": "Đức Phổ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "pv",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho vinh duc pho quang ngai",
+            "Point": null,
+            "Abbr": "pv dp qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54308"
+        }
+    ],
+    "5722": [
+        {
+            "MaPhuongXa": "57222",
+            "TenPhuongXa": "Trà Bình",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra binh tra bong quang ngai",
+            "Point": null,
+            "Abbr": "tb tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53414"
+        },
+        {
+            "MaPhuongXa": "57223",
+            "TenPhuongXa": "Trà Giang",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tg",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra giang tra bong quang ngai",
+            "Point": null,
+            "Abbr": "tg tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53407"
+        },
+        {
+            "MaPhuongXa": "57220",
+            "TenPhuongXa": "Trà Xuân",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tx",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra xuan tra bong quang ngai",
+            "Point": null,
+            "Abbr": "tx tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53406"
+        },
+        {
+            "MaPhuongXa": "57221",
+            "TenPhuongXa": "Trà Phú",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra phu tra bong quang ngai",
+            "Point": null,
+            "Abbr": "tp tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53413"
+        },
+        {
+            "MaPhuongXa": "57226",
+            "TenPhuongXa": "Trà Lâm",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra lam tra bong quang ngai",
+            "Point": null,
+            "Abbr": "tl tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53410"
+        },
+        {
+            "MaPhuongXa": "57227",
+            "TenPhuongXa": "Trà Sơn",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra son tra bong quang ngai",
+            "Point": null,
+            "Abbr": "ts tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53412"
+        },
+        {
+            "MaPhuongXa": "57224",
+            "TenPhuongXa": "Trà Thủy",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra thuy tra bong quang ngai",
+            "Point": null,
+            "Abbr": "tt tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53408"
+        },
+        {
+            "MaPhuongXa": "57225",
+            "TenPhuongXa": "Trà Hiệp",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra hiep tra bong quang ngai",
+            "Point": null,
+            "Abbr": "th tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53409"
+        },
+        {
+            "MaPhuongXa": "57228",
+            "TenPhuongXa": "Trà Bùi",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra bui tra bong quang ngai",
+            "Point": null,
+            "Abbr": "tb tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53415"
+        },
+        {
+            "MaPhuongXa": "57229",
+            "TenPhuongXa": "Trà Tân",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra tan tra bong quang ngai",
+            "Point": null,
+            "Abbr": "tt tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53411"
+        },
+        {
+            "MaPhuongXa": "57240",
+            "TenPhuongXa": "Trà Phong",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra phong tra bong quang ngai",
+            "Point": null,
+            "Abbr": "tp tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53506"
+        },
+        {
+            "MaPhuongXa": "57241",
+            "TenPhuongXa": "Hương Trà",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong tra tra bong quang ngai",
+            "Point": null,
+            "Abbr": "ht tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53507"
+        },
+        {
+            "MaPhuongXa": "57247",
+            "TenPhuongXa": "Trà Thọ",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra tho tra bong quang ngai",
+            "Point": null,
+            "Abbr": "tt tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53511"
+        },
+        {
+            "MaPhuongXa": "57244",
+            "TenPhuongXa": "Trà Thanh",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra thanh tra bong quang ngai",
+            "Point": null,
+            "Abbr": "tt tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53514"
+        },
+        {
+            "MaPhuongXa": "57245",
+            "TenPhuongXa": "Sơn Trà",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son tra tra bong quang ngai",
+            "Point": null,
+            "Abbr": "st tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53508"
+        },
+        {
+            "MaPhuongXa": "57248",
+            "TenPhuongXa": "Trà Xinh",
+            "MaQuanHuyen": "5722",
+            "TenQuanHuyen": "Trà Bồng",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "tx",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra xinh tra bong quang ngai",
+            "Point": null,
+            "Abbr": "tx tb qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53510"
+        }
+    ],
+    "5732": [
+        {
+            "MaPhuongXa": "57322",
+            "TenPhuongXa": "Ba Động",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba dong ba to quang ngai",
+            "Point": null,
+            "Abbr": "bd bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54214"
+        },
+        {
+            "MaPhuongXa": "57321",
+            "TenPhuongXa": "Ba Cung",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba cung ba to quang ngai",
+            "Point": null,
+            "Abbr": "bc bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54207"
+        },
+        {
+            "MaPhuongXa": "57320",
+            "TenPhuongXa": "Ba Tơ",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba to ba to quang ngai",
+            "Point": null,
+            "Abbr": "bt bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54206"
+        },
+        {
+            "MaPhuongXa": "57326",
+            "TenPhuongXa": "Ba Vinh",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bv",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba vinh ba to quang ngai",
+            "Point": null,
+            "Abbr": "bv bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54216"
+        },
+        {
+            "MaPhuongXa": "57325",
+            "TenPhuongXa": "Ba Thành",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba thanh ba to quang ngai",
+            "Point": null,
+            "Abbr": "bt bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54215"
+        },
+        {
+            "MaPhuongXa": "57324",
+            "TenPhuongXa": "Ba Liên",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba lien ba to quang ngai",
+            "Point": null,
+            "Abbr": "bl bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54213"
+        },
+        {
+            "MaPhuongXa": "57329",
+            "TenPhuongXa": "Ba Dinh",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba dinh ba to quang ngai",
+            "Point": null,
+            "Abbr": "bd bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54209"
+        },
+        {
+            "MaPhuongXa": "57328",
+            "TenPhuongXa": "Ba Điền",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba dien ba to quang ngai",
+            "Point": null,
+            "Abbr": "bd bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54217"
+        },
+        {
+            "MaPhuongXa": "57333",
+            "TenPhuongXa": "Ba Xa",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bx",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba xa ba to quang ngai",
+            "Point": null,
+            "Abbr": "bx bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54223"
+        },
+        {
+            "MaPhuongXa": "57332",
+            "TenPhuongXa": "Ba Vì",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bv",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba vi ba to quang ngai",
+            "Point": null,
+            "Abbr": "bv bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54221"
+        },
+        {
+            "MaPhuongXa": "57331",
+            "TenPhuongXa": "Ba Nam",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba nam ba to quang ngai",
+            "Point": null,
+            "Abbr": "bn bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54224"
+        },
+        {
+            "MaPhuongXa": "57330",
+            "TenPhuongXa": "Ba Tô",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba to ba to quang ngai",
+            "Point": null,
+            "Abbr": "bt bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54222"
+        },
+        {
+            "MaPhuongXa": "57337",
+            "TenPhuongXa": "Ba Lế",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba le ba to quang ngai",
+            "Point": null,
+            "Abbr": "bl bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54225"
+        },
+        {
+            "MaPhuongXa": "57336",
+            "TenPhuongXa": "Ba Chùa",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba chua ba to quang ngai",
+            "Point": null,
+            "Abbr": "bc bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54208"
+        },
+        {
+            "MaPhuongXa": "57335",
+            "TenPhuongXa": "Ba Tiêu",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba tieu ba to quang ngai",
+            "Point": null,
+            "Abbr": "bt bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54220"
+        },
+        {
+            "MaPhuongXa": "57334",
+            "TenPhuongXa": "Ba Ngạc",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba ngac ba to quang ngai",
+            "Point": null,
+            "Abbr": "bn bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54219"
+        },
+        {
+            "MaPhuongXa": "57339",
+            "TenPhuongXa": "Ba Trang",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba trang ba to quang ngai",
+            "Point": null,
+            "Abbr": "bt bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54211"
+        },
+        {
+            "MaPhuongXa": "57338",
+            "TenPhuongXa": "Ba Bích",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bb",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba bich ba to quang ngai",
+            "Point": null,
+            "Abbr": "bb bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54210"
+        },
+        {
+            "MaPhuongXa": "57340",
+            "TenPhuongXa": "Ba Khâm",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bk",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba kham ba to quang ngai",
+            "Point": null,
+            "Abbr": "bk bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54212"
+        },
+        {
+            "MaPhuongXa": "57344",
+            "TenPhuongXa": "Ba Giang",
+            "MaQuanHuyen": "5732",
+            "TenQuanHuyen": "Ba Tơ",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bg",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba giang ba to quang ngai",
+            "Point": null,
+            "Abbr": "bg bt qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54218"
+        }
+    ],
+    "5729": [
+        {
+            "MaPhuongXa": "57292",
+            "TenPhuongXa": "Hành Trung",
+            "MaQuanHuyen": "5729",
+            "TenQuanHuyen": "Nghĩa Hành",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hanh trung nghia hanh quang ngai",
+            "Point": null,
+            "Abbr": "ht nh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54007"
+        },
+        {
+            "MaPhuongXa": "57293",
+            "TenPhuongXa": "Hành Phước",
+            "MaQuanHuyen": "5729",
+            "TenQuanHuyen": "Nghĩa Hành",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hanh phuoc nghia hanh quang ngai",
+            "Point": null,
+            "Abbr": "hp nh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54017"
+        },
+        {
+            "MaPhuongXa": "57290",
+            "TenPhuongXa": "Chợ Chùa",
+            "MaQuanHuyen": "5729",
+            "TenQuanHuyen": "Nghĩa Hành",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cho chua nghia hanh quang ngai",
+            "Point": null,
+            "Abbr": "cc nh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54006"
+        },
+        {
+            "MaPhuongXa": "57291",
+            "TenPhuongXa": "Hành Đức",
+            "MaQuanHuyen": "5729",
+            "TenQuanHuyen": "Nghĩa Hành",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hanh duc nghia hanh quang ngai",
+            "Point": null,
+            "Abbr": "hd nh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54012"
+        },
+        {
+            "MaPhuongXa": "57296",
+            "TenPhuongXa": "Hành Dũng",
+            "MaQuanHuyen": "5729",
+            "TenQuanHuyen": "Nghĩa Hành",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hanh dung nghia hanh quang ngai",
+            "Point": null,
+            "Abbr": "hd nh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54009"
+        },
+        {
+            "MaPhuongXa": "57297",
+            "TenPhuongXa": "Hành Nhân",
+            "MaQuanHuyen": "5729",
+            "TenQuanHuyen": "Nghĩa Hành",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hanh nhan nghia hanh quang ngai",
+            "Point": null,
+            "Abbr": "hn nh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54010"
+        },
+        {
+            "MaPhuongXa": "57294",
+            "TenPhuongXa": "Hành Thịnh",
+            "MaQuanHuyen": "5729",
+            "TenQuanHuyen": "Nghĩa Hành",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hanh thinh nghia hanh quang ngai",
+            "Point": null,
+            "Abbr": "ht nh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54016"
+        },
+        {
+            "MaPhuongXa": "57295",
+            "TenPhuongXa": "Hành Thuận",
+            "MaQuanHuyen": "5729",
+            "TenQuanHuyen": "Nghĩa Hành",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hanh thuan nghia hanh quang ngai",
+            "Point": null,
+            "Abbr": "ht nh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54008"
+        },
+        {
+            "MaPhuongXa": "57298",
+            "TenPhuongXa": "Hành Minh",
+            "MaQuanHuyen": "5729",
+            "TenQuanHuyen": "Nghĩa Hành",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hanh minh nghia hanh quang ngai",
+            "Point": null,
+            "Abbr": "hm nh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54011"
+        },
+        {
+            "MaPhuongXa": "57299",
+            "TenPhuongXa": "Hành Thiện",
+            "MaQuanHuyen": "5729",
+            "TenQuanHuyen": "Nghĩa Hành",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hanh thien nghia hanh quang ngai",
+            "Point": null,
+            "Abbr": "ht nh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54015"
+        },
+        {
+            "MaPhuongXa": "57301",
+            "TenPhuongXa": "Hành Tín Đông",
+            "MaQuanHuyen": "5729",
+            "TenQuanHuyen": "Nghĩa Hành",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "htd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hanh tin dong nghia hanh quang ngai",
+            "Point": null,
+            "Abbr": "htd nh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54014"
+        },
+        {
+            "MaPhuongXa": "57300",
+            "TenPhuongXa": "Hành Tín Tây",
+            "MaQuanHuyen": "5729",
+            "TenQuanHuyen": "Nghĩa Hành",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "htt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hanh tin tay nghia hanh quang ngai",
+            "Point": null,
+            "Abbr": "htt nh qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54013"
+        }
+    ],
+    "5718": [
+        {
+            "MaPhuongXa": "57191",
+            "TenPhuongXa": "Bình Đông",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh dong binh son quang ngai",
+            "Point": null,
+            "Abbr": "bd bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53318"
+        },
+        {
+            "MaPhuongXa": "57190",
+            "TenPhuongXa": "Bình Thuận",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thuan binh son quang ngai",
+            "Point": null,
+            "Abbr": "bt bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53330"
+        },
+        {
+            "MaPhuongXa": "57193",
+            "TenPhuongXa": "Bình Chánh",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh chanh binh son quang ngai",
+            "Point": null,
+            "Abbr": "bc bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53309"
+        },
+        {
+            "MaPhuongXa": "57192",
+            "TenPhuongXa": "Bình Thạnh",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thanh binh son quang ngai",
+            "Point": null,
+            "Abbr": "bt bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53319"
+        },
+        {
+            "MaPhuongXa": "57195",
+            "TenPhuongXa": "Bình Trung",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh trung binh son quang ngai",
+            "Point": null,
+            "Abbr": "bt bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53311"
+        },
+        {
+            "MaPhuongXa": "57194",
+            "TenPhuongXa": "Bình Nguyên",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh nguyen binh son quang ngai",
+            "Point": null,
+            "Abbr": "bn bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53310"
+        },
+        {
+            "MaPhuongXa": "57197",
+            "TenPhuongXa": "Bình Khương",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bk",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh khuong binh son quang ngai",
+            "Point": null,
+            "Abbr": "bk bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53320"
+        },
+        {
+            "MaPhuongXa": "57196",
+            "TenPhuongXa": "Bình Dương",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh duong binh son quang ngai",
+            "Point": null,
+            "Abbr": "bd bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53308"
+        },
+        {
+            "MaPhuongXa": "57199",
+            "TenPhuongXa": "Bình Minh",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bm",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh minh binh son quang ngai",
+            "Point": null,
+            "Abbr": "bm bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53322"
+        },
+        {
+            "MaPhuongXa": "57198",
+            "TenPhuongXa": "Bình An",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ba",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh an binh son quang ngai",
+            "Point": null,
+            "Abbr": "ba bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53321"
+        },
+        {
+            "MaPhuongXa": "57202",
+            "TenPhuongXa": "Bình Long",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh long binh son quang ngai",
+            "Point": null,
+            "Abbr": "bl bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53313"
+        },
+        {
+            "MaPhuongXa": "57203",
+            "TenPhuongXa": "Bình Hiệp",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh hiep binh son quang ngai",
+            "Point": null,
+            "Abbr": "bh bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53324"
+        },
+        {
+            "MaPhuongXa": "57200",
+            "TenPhuongXa": "Bình Chương",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh chuong binh son quang ngai",
+            "Point": null,
+            "Abbr": "bc bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53312"
+        },
+        {
+            "MaPhuongXa": "57201",
+            "TenPhuongXa": "Bình Mỹ",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bm",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh my binh son quang ngai",
+            "Point": null,
+            "Abbr": "bm bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53323"
+        },
+        {
+            "MaPhuongXa": "57204",
+            "TenPhuongXa": "Bình Thanh",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thanh binh son quang ngai",
+            "Point": null,
+            "Abbr": "bt bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53314"
+        },
+        {
+            "MaPhuongXa": "57205",
+            "TenPhuongXa": "Bình Thanh Đông",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "btd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thanh dong binh son quang ngai",
+            "Point": null,
+            "Abbr": "btd bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53315"
+        },
+        {
+            "MaPhuongXa": "57181",
+            "TenPhuongXa": "Bình Thới",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thoi binh son quang ngai",
+            "Point": null,
+            "Abbr": "bt bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53307"
+        },
+        {
+            "MaPhuongXa": "57180",
+            "TenPhuongXa": "Châu Ổ",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "co",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau o binh son quang ngai",
+            "Point": null,
+            "Abbr": "co bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53306"
+        },
+        {
+            "MaPhuongXa": "57183",
+            "TenPhuongXa": "Bình Trị",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh tri binh son quang ngai",
+            "Point": null,
+            "Abbr": "bt bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53329"
+        },
+        {
+            "MaPhuongXa": "57182",
+            "TenPhuongXa": "Bình Phước",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh phuoc binh son quang ngai",
+            "Point": null,
+            "Abbr": "bp bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53317"
+        },
+        {
+            "MaPhuongXa": "57185",
+            "TenPhuongXa": "Bình Hải",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh hai binh son quang ngai",
+            "Point": null,
+            "Abbr": "bh bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53328"
+        },
+        {
+            "MaPhuongXa": "57184",
+            "TenPhuongXa": "Bình Hoà",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh hoa binh son quang ngai",
+            "Point": null,
+            "Abbr": "bh bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53316"
+        },
+        {
+            "MaPhuongXa": "57187",
+            "TenPhuongXa": "Bình Châu",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh chau binh son quang ngai",
+            "Point": null,
+            "Abbr": "bc bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53326"
+        },
+        {
+            "MaPhuongXa": "57186",
+            "TenPhuongXa": "Bình Phú",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh phu binh son quang ngai",
+            "Point": null,
+            "Abbr": "bp bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53327"
+        },
+        {
+            "MaPhuongXa": "57189",
+            "TenPhuongXa": "Bình Tân Phú",
+            "MaQuanHuyen": "5718",
+            "TenQuanHuyen": "Bình Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "btp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh tan phu binh son quang ngai",
+            "Point": null,
+            "Abbr": "btp bs qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53325"
+        }
+    ],
+    "5738": [
+        {
+            "MaPhuongXa": "57393",
+            "TenPhuongXa": "Đức Phú",
+            "MaQuanHuyen": "5738",
+            "TenQuanHuyen": "Mộ Đức",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "md",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc phu mo duc quang ngai",
+            "Point": null,
+            "Abbr": "dp md qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54116"
+        },
+        {
+            "MaPhuongXa": "57391",
+            "TenPhuongXa": "Đức Hoà",
+            "MaQuanHuyen": "5738",
+            "TenQuanHuyen": "Mộ Đức",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "md",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc hoa mo duc quang ngai",
+            "Point": null,
+            "Abbr": "dh md qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54115"
+        },
+        {
+            "MaPhuongXa": "57390",
+            "TenPhuongXa": "Đức Hiệp",
+            "MaQuanHuyen": "5738",
+            "TenQuanHuyen": "Mộ Đức",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "md",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc hiep mo duc quang ngai",
+            "Point": null,
+            "Abbr": "dh md qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54113"
+        },
+        {
+            "MaPhuongXa": "57395",
+            "TenPhuongXa": "Đức Lân",
+            "MaQuanHuyen": "5738",
+            "TenQuanHuyen": "Mộ Đức",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "md",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc lan mo duc quang ngai",
+            "Point": null,
+            "Abbr": "dl md qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54117"
+        },
+        {
+            "MaPhuongXa": "57394",
+            "TenPhuongXa": "Đức Tân",
+            "MaQuanHuyen": "5738",
+            "TenQuanHuyen": "Mộ Đức",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "md",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc tan mo duc quang ngai",
+            "Point": null,
+            "Abbr": "dt md qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54114"
+        },
+        {
+            "MaPhuongXa": "57383",
+            "TenPhuongXa": "Đức Minh",
+            "MaQuanHuyen": "5738",
+            "TenQuanHuyen": "Mộ Đức",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "md",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc minh mo duc quang ngai",
+            "Point": null,
+            "Abbr": "dm md qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54108"
+        },
+        {
+            "MaPhuongXa": "57382",
+            "TenPhuongXa": "Đức Thạnh",
+            "MaQuanHuyen": "5738",
+            "TenQuanHuyen": "Mộ Đức",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "md",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc thanh mo duc quang ngai",
+            "Point": null,
+            "Abbr": "dt md qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54107"
+        },
+        {
+            "MaPhuongXa": "57381",
+            "TenPhuongXa": "Đức Phong",
+            "MaQuanHuyen": "5738",
+            "TenQuanHuyen": "Mộ Đức",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "md",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc phong mo duc quang ngai",
+            "Point": null,
+            "Abbr": "dp md qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54118"
+        },
+        {
+            "MaPhuongXa": "57380",
+            "TenPhuongXa": "Mộ Đức",
+            "MaQuanHuyen": "5738",
+            "TenQuanHuyen": "Mộ Đức",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "md",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mo duc mo duc quang ngai",
+            "Point": null,
+            "Abbr": "md md qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54106"
+        },
+        {
+            "MaPhuongXa": "57387",
+            "TenPhuongXa": "Đức Lợi",
+            "MaQuanHuyen": "5738",
+            "TenQuanHuyen": "Mộ Đức",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "md",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc loi mo duc quang ngai",
+            "Point": null,
+            "Abbr": "dl md qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54111"
+        },
+        {
+            "MaPhuongXa": "57386",
+            "TenPhuongXa": "Đức Thắng",
+            "MaQuanHuyen": "5738",
+            "TenQuanHuyen": "Mộ Đức",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "md",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc thang mo duc quang ngai",
+            "Point": null,
+            "Abbr": "dt md qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54110"
+        },
+        {
+            "MaPhuongXa": "57384",
+            "TenPhuongXa": "Đức Chánh",
+            "MaQuanHuyen": "5738",
+            "TenQuanHuyen": "Mộ Đức",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "md",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc chanh mo duc quang ngai",
+            "Point": null,
+            "Abbr": "dc md qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54109"
+        },
+        {
+            "MaPhuongXa": "57388",
+            "TenPhuongXa": "Đức Nhuận",
+            "MaQuanHuyen": "5738",
+            "TenQuanHuyen": "Mộ Đức",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "md",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc nhuan mo duc quang ngai",
+            "Point": null,
+            "Abbr": "dn md qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54112"
+        }
+    ],
+    "5740": [
+        {
+            "MaPhuongXa": "57400",
+            "TenPhuongXa": "La Hà",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "la ha tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "lh tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53906"
+        },
+        {
+            "MaPhuongXa": "57402",
+            "TenPhuongXa": "Nghĩa Thương",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia thuong tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "nt tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53907"
+        },
+        {
+            "MaPhuongXa": "57403",
+            "TenPhuongXa": "Nghĩa Hoà",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia hoa tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "nh tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53908"
+        },
+        {
+            "MaPhuongXa": "57408",
+            "TenPhuongXa": "Nghĩa Điền",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia dien tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "nd tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53914"
+        },
+        {
+            "MaPhuongXa": "57409",
+            "TenPhuongXa": "Nghĩa Kỳ",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nk",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia ky tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "nk tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53915"
+        },
+        {
+            "MaPhuongXa": "57414",
+            "TenPhuongXa": "Nghĩa Sơn",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia son tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "ns tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53920"
+        },
+        {
+            "MaPhuongXa": "57415",
+            "TenPhuongXa": "Nghĩa Trung",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia trung tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "nt tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53909"
+        },
+        {
+            "MaPhuongXa": "57416",
+            "TenPhuongXa": "Nghĩa Phương",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia phuong tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "np tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53910"
+        },
+        {
+            "MaPhuongXa": "57417",
+            "TenPhuongXa": "Sông Vệ",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sv",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song ve tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "sv tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53912"
+        },
+        {
+            "MaPhuongXa": "57410",
+            "TenPhuongXa": "Nghĩa Thuận",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia thuan tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "nt tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53916"
+        },
+        {
+            "MaPhuongXa": "57411",
+            "TenPhuongXa": "Nghĩa Thắng",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia thang tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "nt tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53917"
+        },
+        {
+            "MaPhuongXa": "57412",
+            "TenPhuongXa": "Nghĩa Thọ",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia tho tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "nt tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53919"
+        },
+        {
+            "MaPhuongXa": "57413",
+            "TenPhuongXa": "Nghĩa Lâm",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia lam tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "nl tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53918"
+        },
+        {
+            "MaPhuongXa": "57418",
+            "TenPhuongXa": "Nghĩa Mỹ",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia my tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "nm tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53911"
+        },
+        {
+            "MaPhuongXa": "57419",
+            "TenPhuongXa": "Nghĩa Hiệp",
+            "MaQuanHuyen": "5740",
+            "TenQuanHuyen": "Tư Nghĩa",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia hiep tu nghia quang ngai",
+            "Point": null,
+            "Abbr": "nh tn qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53913"
+        }
+    ],
+    "5731": [
+        {
+            "MaPhuongXa": "57313",
+            "TenPhuongXa": "Thanh An",
+            "MaQuanHuyen": "5731",
+            "TenQuanHuyen": "Minh Long",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh an minh long quang ngai",
+            "Point": null,
+            "Abbr": "ta ml qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53709"
+        },
+        {
+            "MaPhuongXa": "57312",
+            "TenPhuongXa": "Long Sơn",
+            "MaQuanHuyen": "5731",
+            "TenQuanHuyen": "Minh Long",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long son minh long quang ngai",
+            "Point": null,
+            "Abbr": "ls ml qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53708"
+        },
+        {
+            "MaPhuongXa": "57311",
+            "TenPhuongXa": "Long Mai",
+            "MaQuanHuyen": "5731",
+            "TenQuanHuyen": "Minh Long",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "lm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long mai minh long quang ngai",
+            "Point": null,
+            "Abbr": "lm ml qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53707"
+        },
+        {
+            "MaPhuongXa": "57310",
+            "TenPhuongXa": "Long Hiệp",
+            "MaQuanHuyen": "5731",
+            "TenQuanHuyen": "Minh Long",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long hiep minh long quang ngai",
+            "Point": null,
+            "Abbr": "lh ml qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53706"
+        },
+        {
+            "MaPhuongXa": "57314",
+            "TenPhuongXa": "Long Môn",
+            "MaQuanHuyen": "5731",
+            "TenQuanHuyen": "Minh Long",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "lm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long mon minh long quang ngai",
+            "Point": null,
+            "Abbr": "lm ml qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53710"
+        }
+    ],
+    "5728": [
+        {
+            "MaPhuongXa": "57282",
+            "TenPhuongXa": "Sơn Tinh",
+            "MaQuanHuyen": "5728",
+            "TenQuanHuyen": "Sơn Tây",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son tinh son tay quang ngai",
+            "Point": null,
+            "Abbr": "st st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53614"
+        },
+        {
+            "MaPhuongXa": "57283",
+            "TenPhuongXa": "Sơn Lập",
+            "MaQuanHuyen": "5728",
+            "TenQuanHuyen": "Sơn Tây",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son lap son tay quang ngai",
+            "Point": null,
+            "Abbr": "sl st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53613"
+        },
+        {
+            "MaPhuongXa": "57280",
+            "TenPhuongXa": "Sơn Dung",
+            "MaQuanHuyen": "5728",
+            "TenQuanHuyen": "Sơn Tây",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sd",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son dung son tay quang ngai",
+            "Point": null,
+            "Abbr": "sd st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53606"
+        },
+        {
+            "MaPhuongXa": "57281",
+            "TenPhuongXa": "Sơn Tân",
+            "MaQuanHuyen": "5728",
+            "TenQuanHuyen": "Sơn Tây",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son tan son tay quang ngai",
+            "Point": null,
+            "Abbr": "st st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53608"
+        },
+        {
+            "MaPhuongXa": "57286",
+            "TenPhuongXa": "Sơn Liên",
+            "MaQuanHuyen": "5728",
+            "TenQuanHuyen": "Sơn Tây",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son lien son tay quang ngai",
+            "Point": null,
+            "Abbr": "sl st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53611"
+        },
+        {
+            "MaPhuongXa": "57287",
+            "TenPhuongXa": "Sơn Long",
+            "MaQuanHuyen": "5728",
+            "TenQuanHuyen": "Sơn Tây",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son long son tay quang ngai",
+            "Point": null,
+            "Abbr": "sl st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53612"
+        },
+        {
+            "MaPhuongXa": "57284",
+            "TenPhuongXa": "Sơn Mùa",
+            "MaQuanHuyen": "5728",
+            "TenQuanHuyen": "Sơn Tây",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sm",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son mua son tay quang ngai",
+            "Point": null,
+            "Abbr": "sm st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53609"
+        },
+        {
+            "MaPhuongXa": "57285",
+            "TenPhuongXa": "Sơn Bua",
+            "MaQuanHuyen": "5728",
+            "TenQuanHuyen": "Sơn Tây",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sb",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son bua son tay quang ngai",
+            "Point": null,
+            "Abbr": "sb st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53610"
+        },
+        {
+            "MaPhuongXa": "57288",
+            "TenPhuongXa": "Sơn Mầu",
+            "MaQuanHuyen": "5728",
+            "TenQuanHuyen": "Sơn Tây",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "sm",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son mau son tay quang ngai",
+            "Point": null,
+            "Abbr": "sm st qn",
+            "TrangThai": null,
+            "MaBuuChinh": "53607"
+        }
+    ],
+    "5714": [
+        {
+            "MaPhuongXa": "57141",
+            "TenPhuongXa": "An Vĩnh",
+            "MaQuanHuyen": "5714",
+            "TenQuanHuyen": "Lý Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "av",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an vinh ly son quang ngai",
+            "Point": null,
+            "Abbr": "av ls qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54406"
+        },
+        {
+            "MaPhuongXa": "57140",
+            "TenPhuongXa": "An Hải",
+            "MaQuanHuyen": "5714",
+            "TenQuanHuyen": "Lý Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hai ly son quang ngai",
+            "Point": null,
+            "Abbr": "ah ls qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54407"
+        },
+        {
+            "MaPhuongXa": "57142",
+            "TenPhuongXa": "An Bình",
+            "MaQuanHuyen": "5714",
+            "TenQuanHuyen": "Lý Sơn",
+            "MaTinhThanh": "57",
+            "TenTinhThanh": "Quảng Ngãi",
+            "LstSearchTag": [
+                {
+                    "Key": "ab",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an binh ly son quang ngai",
+            "Point": null,
+            "Abbr": "ab ls qn",
+            "TrangThai": null,
+            "MaBuuChinh": "54408"
+        }
+    ]
+}

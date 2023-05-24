@@ -1,0 +1,2776 @@
+{
+    "5825": [
+        {
+            "MaPhuongXa": "58278",
+            "TenPhuongXa": "Ngọc Tụ",
+            "MaQuanHuyen": "5825",
+            "TenQuanHuyen": "Đăk Tô",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc tu dak to kon tum",
+            "Point": null,
+            "Abbr": "nt dt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60661"
+        },
+        {
+            "MaPhuongXa": "58253",
+            "TenPhuongXa": "Kon Đào",
+            "MaQuanHuyen": "5825",
+            "TenQuanHuyen": "Đăk Tô",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "kd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kon dao dak to kon tum",
+            "Point": null,
+            "Abbr": "kd dt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60657"
+        },
+        {
+            "MaPhuongXa": "58250",
+            "TenPhuongXa": "Đắk Tô",
+            "MaQuanHuyen": "5825",
+            "TenQuanHuyen": "Đăk Tô",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak to dak to kon tum",
+            "Point": null,
+            "Abbr": "dt dt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60656"
+        },
+        {
+            "MaPhuongXa": "58255",
+            "TenPhuongXa": "Văn Lem",
+            "MaQuanHuyen": "5825",
+            "TenQuanHuyen": "Đăk Tô",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van lem dak to kon tum",
+            "Point": null,
+            "Abbr": "vl dt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60658"
+        },
+        {
+            "MaPhuongXa": "58258",
+            "TenPhuongXa": "Diên Bình",
+            "MaQuanHuyen": "5825",
+            "TenQuanHuyen": "Đăk Tô",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien binh dak to kon tum",
+            "Point": null,
+            "Abbr": "db dt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60664"
+        },
+        {
+            "MaPhuongXa": "58262",
+            "TenPhuongXa": "Đắk Trăm",
+            "MaQuanHuyen": "5825",
+            "TenQuanHuyen": "Đăk Tô",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak tram dak to kon tum",
+            "Point": null,
+            "Abbr": "dt dt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60659"
+        },
+        {
+            "MaPhuongXa": "58260",
+            "TenPhuongXa": "Đắk Rơ Nga",
+            "MaQuanHuyen": "5825",
+            "TenQuanHuyen": "Đăk Tô",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "drn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak ro nga dak to kon tum",
+            "Point": null,
+            "Abbr": "drn dt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60660"
+        },
+        {
+            "MaPhuongXa": "58282",
+            "TenPhuongXa": "Pô Kô",
+            "MaQuanHuyen": "5825",
+            "TenQuanHuyen": "Đăk Tô",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "pk",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "po ko dak to kon tum",
+            "Point": null,
+            "Abbr": "pk dt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60663"
+        },
+        {
+            "MaPhuongXa": "58280",
+            "TenPhuongXa": "Tân Cảnh",
+            "MaQuanHuyen": "5825",
+            "TenQuanHuyen": "Đăk Tô",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan canh dak to kon tum",
+            "Point": null,
+            "Abbr": "tc dt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60662"
+        }
+    ],
+    "5837": [
+        {
+            "MaPhuongXa": "58372",
+            "TenPhuongXa": "Tu Mơ Rông",
+            "MaQuanHuyen": "5837",
+            "TenQuanHuyen": "Tu Mơ Rông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "tmr",
+                    "Point": 5
+                },
+                {
+                    "Key": "tmr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu mo rong tu mo rong kon tum",
+            "Point": null,
+            "Abbr": "tmr tmr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60307"
+        },
+        {
+            "MaPhuongXa": "58370",
+            "TenPhuongXa": "Đắk Hà",
+            "MaQuanHuyen": "5837",
+            "TenQuanHuyen": "Tu Mơ Rông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tmr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak ha tu mo rong kon tum",
+            "Point": null,
+            "Abbr": "dh tmr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60306"
+        },
+        {
+            "MaPhuongXa": "58376",
+            "TenPhuongXa": "Ngok Lây",
+            "MaQuanHuyen": "5837",
+            "TenQuanHuyen": "Tu Mơ Rông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tmr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngok lay tu mo rong kon tum",
+            "Point": null,
+            "Abbr": "nl tmr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60310"
+        },
+        {
+            "MaPhuongXa": "58374",
+            "TenPhuongXa": "Măng Ri",
+            "MaQuanHuyen": "5837",
+            "TenQuanHuyen": "Tu Mơ Rông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "mr",
+                    "Point": 5
+                },
+                {
+                    "Key": "tmr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mang ri tu mo rong kon tum",
+            "Point": null,
+            "Abbr": "mr tmr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60311"
+        },
+        {
+            "MaPhuongXa": "58378",
+            "TenPhuongXa": "Tê Xăng",
+            "MaQuanHuyen": "5837",
+            "TenQuanHuyen": "Tu Mơ Rông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "tx",
+                    "Point": 5
+                },
+                {
+                    "Key": "tmr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "te xang tu mo rong kon tum",
+            "Point": null,
+            "Abbr": "tx tmr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60314"
+        },
+        {
+            "MaPhuongXa": "58391",
+            "TenPhuongXa": "Đắk Rơ Ông",
+            "MaQuanHuyen": "5837",
+            "TenQuanHuyen": "Tu Mơ Rông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dro",
+                    "Point": 5
+                },
+                {
+                    "Key": "tmr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak ro ong tu mo rong kon tum",
+            "Point": null,
+            "Abbr": "dro tmr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60315"
+        },
+        {
+            "MaPhuongXa": "58382",
+            "TenPhuongXa": "Ngọk Yêu",
+            "MaQuanHuyen": "5837",
+            "TenQuanHuyen": "Tu Mơ Rông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "ny",
+                    "Point": 5
+                },
+                {
+                    "Key": "tmr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngok yeu tu mo rong kon tum",
+            "Point": null,
+            "Abbr": "ny tmr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60308"
+        },
+        {
+            "MaPhuongXa": "58380",
+            "TenPhuongXa": "Văn Xuôi",
+            "MaQuanHuyen": "5837",
+            "TenQuanHuyen": "Tu Mơ Rông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "vx",
+                    "Point": 5
+                },
+                {
+                    "Key": "tmr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van xuoi tu mo rong kon tum",
+            "Point": null,
+            "Abbr": "vx tmr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60309"
+        },
+        {
+            "MaPhuongXa": "58387",
+            "TenPhuongXa": "Đắk Na",
+            "MaQuanHuyen": "5837",
+            "TenQuanHuyen": "Tu Mơ Rông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tmr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak na tu mo rong kon tum",
+            "Point": null,
+            "Abbr": "dn tmr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60312"
+        },
+        {
+            "MaPhuongXa": "58384",
+            "TenPhuongXa": "Đắk Tờ Kan",
+            "MaQuanHuyen": "5837",
+            "TenQuanHuyen": "Tu Mơ Rông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dtk",
+                    "Point": 5
+                },
+                {
+                    "Key": "tmr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak to kan tu mo rong kon tum",
+            "Point": null,
+            "Abbr": "dtk tmr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60316"
+        },
+        {
+            "MaPhuongXa": "58389",
+            "TenPhuongXa": "Đắk Sao",
+            "MaQuanHuyen": "5837",
+            "TenQuanHuyen": "Tu Mơ Rông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "tmr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak sao tu mo rong kon tum",
+            "Point": null,
+            "Abbr": "ds tmr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60313"
+        }
+    ],
+    "5820": [
+        {
+            "MaPhuongXa": "58212",
+            "TenPhuongXa": "Măng Bút",
+            "MaQuanHuyen": "5820",
+            "TenQuanHuyen": "Kon PLông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "mb",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mang but kon plong kon tum",
+            "Point": null,
+            "Abbr": "mb kp kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60262"
+        },
+        {
+            "MaPhuongXa": "58211",
+            "TenPhuongXa": "Đắk Nên",
+            "MaQuanHuyen": "5820",
+            "TenQuanHuyen": "Kon PLông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak nen kon plong kon tum",
+            "Point": null,
+            "Abbr": "dn kp kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60261"
+        },
+        {
+            "MaPhuongXa": "58214",
+            "TenPhuongXa": "Măng Cành",
+            "MaQuanHuyen": "5820",
+            "TenQuanHuyen": "Kon PLông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mang canh kon plong kon tum",
+            "Point": null,
+            "Abbr": "mc kp kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60264"
+        },
+        {
+            "MaPhuongXa": "58202",
+            "TenPhuongXa": "Măng Đen",
+            "MaQuanHuyen": "5820",
+            "TenQuanHuyen": "Kon PLông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mang den kon plong kon tum",
+            "Point": null,
+            "Abbr": "md kp kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60256"
+        },
+        {
+            "MaPhuongXa": "58203",
+            "TenPhuongXa": "Hiếu",
+            "MaQuanHuyen": "5820",
+            "TenQuanHuyen": "Kon PLông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "h",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hieu kon plong kon tum",
+            "Point": null,
+            "Abbr": "h kp kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60257"
+        },
+        {
+            "MaPhuongXa": "58206",
+            "TenPhuongXa": "Ngọk Tem",
+            "MaQuanHuyen": "5820",
+            "TenQuanHuyen": "Kon PLông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngok tem kon plong kon tum",
+            "Point": null,
+            "Abbr": "nt kp kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60259"
+        },
+        {
+            "MaPhuongXa": "58205",
+            "TenPhuongXa": "Pờ Ê",
+            "MaQuanHuyen": "5820",
+            "TenQuanHuyen": "Kon PLông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "pe",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "po e kon plong kon tum",
+            "Point": null,
+            "Abbr": "pe kp kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60258"
+        },
+        {
+            "MaPhuongXa": "58208",
+            "TenPhuongXa": "Đắk Tăng",
+            "MaQuanHuyen": "5820",
+            "TenQuanHuyen": "Kon PLông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak tang kon plong kon tum",
+            "Point": null,
+            "Abbr": "dt kp kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60263"
+        },
+        {
+            "MaPhuongXa": "58209",
+            "TenPhuongXa": "Đắk Rin",
+            "MaQuanHuyen": "5820",
+            "TenQuanHuyen": "Kon PLông",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dr",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak rin kon plong kon tum",
+            "Point": null,
+            "Abbr": "dr kp kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60260"
+        }
+    ],
+    "5810": [
+        {
+            "MaPhuongXa": "58115",
+            "TenPhuongXa": "Trường Chinh",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truong chinh kon tum kon tum",
+            "Point": null,
+            "Abbr": "tc kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60109"
+        },
+        {
+            "MaPhuongXa": "58119",
+            "TenPhuongXa": "Duy Tân",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duy tan kon tum kon tum",
+            "Point": null,
+            "Abbr": "dt kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60110"
+        },
+        {
+            "MaPhuongXa": "58151",
+            "TenPhuongXa": "Vinh Quang",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "vq",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh quang kon tum kon tum",
+            "Point": null,
+            "Abbr": "vq kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60119"
+        },
+        {
+            "MaPhuongXa": "58153",
+            "TenPhuongXa": "KRoong",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "k",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kroong kon tum kon tum",
+            "Point": null,
+            "Abbr": "k kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60121"
+        },
+        {
+            "MaPhuongXa": "58152",
+            "TenPhuongXa": "Ngok Bay",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "nb",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngok bay kon tum kon tum",
+            "Point": null,
+            "Abbr": "nb kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60120"
+        },
+        {
+            "MaPhuongXa": "58155",
+            "TenPhuongXa": "Đoàn Kết",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "doan ket kon tum kon tum",
+            "Point": null,
+            "Abbr": "dk kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60123"
+        },
+        {
+            "MaPhuongXa": "58156",
+            "TenPhuongXa": "Ya Chim",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "yc",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ya chim kon tum kon tum",
+            "Point": null,
+            "Abbr": "yc kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60124"
+        },
+        {
+            "MaPhuongXa": "58159",
+            "TenPhuongXa": "Chư HReng",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu hreng kon tum kon tum",
+            "Point": null,
+            "Abbr": "ch kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60126"
+        },
+        {
+            "MaPhuongXa": "58125",
+            "TenPhuongXa": "Quang Trung",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang trung kon tum kon tum",
+            "Point": null,
+            "Abbr": "qt kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60107"
+        },
+        {
+            "MaPhuongXa": "58161",
+            "TenPhuongXa": "Hoà Bình",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh kon tum kon tum",
+            "Point": null,
+            "Abbr": "hb kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60125"
+        },
+        {
+            "MaPhuongXa": "58165",
+            "TenPhuongXa": "Đak Năng",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak nang kon tum kon tum",
+            "Point": null,
+            "Abbr": "dn kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60122"
+        },
+        {
+            "MaPhuongXa": "58100",
+            "TenPhuongXa": "Thắng Lợi",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thang loi kon tum kon tum",
+            "Point": null,
+            "Abbr": "tl kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60108"
+        },
+        {
+            "MaPhuongXa": "58107",
+            "TenPhuongXa": "Thống Nhất",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thong nhat kon tum kon tum",
+            "Point": null,
+            "Abbr": "tn kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60115"
+        },
+        {
+            "MaPhuongXa": "58145",
+            "TenPhuongXa": "Đắk Rơ Wa",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "drw",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak ro wa kon tum kon tum",
+            "Point": null,
+            "Abbr": "drw kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60116"
+        },
+        {
+            "MaPhuongXa": "58146",
+            "TenPhuongXa": "Đắk Blà",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak bla kon tum kon tum",
+            "Point": null,
+            "Abbr": "db kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60117"
+        },
+        {
+            "MaPhuongXa": "58149",
+            "TenPhuongXa": "Đắk Cấm",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak cam kon tum kon tum",
+            "Point": null,
+            "Abbr": "dc kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60118"
+        },
+        {
+            "MaPhuongXa": "58131",
+            "TenPhuongXa": "Ngô Mây",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngo may kon tum kon tum",
+            "Point": null,
+            "Abbr": "nm kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60111"
+        },
+        {
+            "MaPhuongXa": "58133",
+            "TenPhuongXa": "Trần Hưng Đạo",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "thd",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran hung dao kon tum kon tum",
+            "Point": null,
+            "Abbr": "thd kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60113"
+        },
+        {
+            "MaPhuongXa": "58132",
+            "TenPhuongXa": "Nguyễn Trãi",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyen trai kon tum kon tum",
+            "Point": null,
+            "Abbr": "nt kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60112"
+        },
+        {
+            "MaPhuongXa": "58135",
+            "TenPhuongXa": "Lê Lợi",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "ll",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "le loi kon tum kon tum",
+            "Point": null,
+            "Abbr": "ll kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60114"
+        },
+        {
+            "MaPhuongXa": "58136",
+            "TenPhuongXa": "Quyết Thắng",
+            "MaQuanHuyen": "5810",
+            "TenQuanHuyen": "Kon Tum",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quyet thang kon tum kon tum",
+            "Point": null,
+            "Abbr": "qt kt kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60106"
+        }
+    ],
+    "5830": [
+        {
+            "MaPhuongXa": "58313",
+            "TenPhuongXa": "Sa Loong",
+            "MaQuanHuyen": "5830",
+            "TenQuanHuyen": "Ngọc Hồi",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sa loong ngoc hoi kon tum",
+            "Point": null,
+            "Abbr": "sl nh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60513"
+        },
+        {
+            "MaPhuongXa": "58311",
+            "TenPhuongXa": "Pờ Y",
+            "MaQuanHuyen": "5830",
+            "TenQuanHuyen": "Ngọc Hồi",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "py",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "po y ngoc hoi kon tum",
+            "Point": null,
+            "Abbr": "py nh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60511"
+        },
+        {
+            "MaPhuongXa": "58303",
+            "TenPhuongXa": "Đắk Dục",
+            "MaQuanHuyen": "5830",
+            "TenQuanHuyen": "Ngọc Hồi",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak duc ngoc hoi kon tum",
+            "Point": null,
+            "Abbr": "dd nh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60508"
+        },
+        {
+            "MaPhuongXa": "58302",
+            "TenPhuongXa": "Đắk Nông",
+            "MaQuanHuyen": "5830",
+            "TenQuanHuyen": "Ngọc Hồi",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak nong ngoc hoi kon tum",
+            "Point": null,
+            "Abbr": "dn nh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60509"
+        },
+        {
+            "MaPhuongXa": "58300",
+            "TenPhuongXa": "Plei Kần",
+            "MaQuanHuyen": "5830",
+            "TenQuanHuyen": "Ngọc Hồi",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "pk",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "plei kan ngoc hoi kon tum",
+            "Point": null,
+            "Abbr": "pk nh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60506"
+        },
+        {
+            "MaPhuongXa": "58307",
+            "TenPhuongXa": "Đắk Xú",
+            "MaQuanHuyen": "5830",
+            "TenQuanHuyen": "Ngọc Hồi",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dx",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak xu ngoc hoi kon tum",
+            "Point": null,
+            "Abbr": "dx nh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60510"
+        },
+        {
+            "MaPhuongXa": "58305",
+            "TenPhuongXa": "Đắk Ang",
+            "MaQuanHuyen": "5830",
+            "TenQuanHuyen": "Ngọc Hồi",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "da",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak ang ngoc hoi kon tum",
+            "Point": null,
+            "Abbr": "da nh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60507"
+        },
+        {
+            "MaPhuongXa": "58309",
+            "TenPhuongXa": "Đắk Kan",
+            "MaQuanHuyen": "5830",
+            "TenQuanHuyen": "Ngọc Hồi",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak kan ngoc hoi kon tum",
+            "Point": null,
+            "Abbr": "dk nh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60512"
+        }
+    ],
+    "5835": [
+        {
+            "MaPhuongXa": "58353",
+            "TenPhuongXa": "Sa Nhơn",
+            "MaQuanHuyen": "5835",
+            "TenQuanHuyen": "Sa Thầy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "sn",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sa nhon sa thay kon tum",
+            "Point": null,
+            "Abbr": "sn st kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60709"
+        },
+        {
+            "MaPhuongXa": "58352",
+            "TenPhuongXa": "Sa Nghĩa",
+            "MaQuanHuyen": "5835",
+            "TenQuanHuyen": "Sa Thầy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "sn",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sa nghia sa thay kon tum",
+            "Point": null,
+            "Abbr": "sn st kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60707"
+        },
+        {
+            "MaPhuongXa": "58350",
+            "TenPhuongXa": "Sa Thầy",
+            "MaQuanHuyen": "5835",
+            "TenQuanHuyen": "Sa Thầy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sa thay sa thay kon tum",
+            "Point": null,
+            "Abbr": "st st kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60706"
+        },
+        {
+            "MaPhuongXa": "58357",
+            "TenPhuongXa": "Ya Xiêr",
+            "MaQuanHuyen": "5835",
+            "TenQuanHuyen": "Sa Thầy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "yx",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ya xier sa thay kon tum",
+            "Point": null,
+            "Abbr": "yx st kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60713"
+        },
+        {
+            "MaPhuongXa": "58356",
+            "TenPhuongXa": "Mô Ray",
+            "MaQuanHuyen": "5835",
+            "TenQuanHuyen": "Sa Thầy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "mr",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mo ray sa thay kon tum",
+            "Point": null,
+            "Abbr": "mr st kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60711"
+        },
+        {
+            "MaPhuongXa": "58355",
+            "TenPhuongXa": "Rờ Kơi",
+            "MaQuanHuyen": "5835",
+            "TenQuanHuyen": "Sa Thầy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "rk",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ro koi sa thay kon tum",
+            "Point": null,
+            "Abbr": "rk st kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60710"
+        },
+        {
+            "MaPhuongXa": "58354",
+            "TenPhuongXa": "Sa Sơn",
+            "MaQuanHuyen": "5835",
+            "TenQuanHuyen": "Sa Thầy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "ss",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sa son sa thay kon tum",
+            "Point": null,
+            "Abbr": "ss st kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60712"
+        },
+        {
+            "MaPhuongXa": "58359",
+            "TenPhuongXa": "Ya Tăng",
+            "MaQuanHuyen": "5835",
+            "TenQuanHuyen": "Sa Thầy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ya tang sa thay kon tum",
+            "Point": null,
+            "Abbr": "yt st kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60716"
+        },
+        {
+            "MaPhuongXa": "58361",
+            "TenPhuongXa": "Sa Bình",
+            "MaQuanHuyen": "5835",
+            "TenQuanHuyen": "Sa Thầy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "sb",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sa binh sa thay kon tum",
+            "Point": null,
+            "Abbr": "sb st kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60714"
+        },
+        {
+            "MaPhuongXa": "58360",
+            "TenPhuongXa": "Ya Ly",
+            "MaQuanHuyen": "5835",
+            "TenQuanHuyen": "Sa Thầy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "yl",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ya ly sa thay kon tum",
+            "Point": null,
+            "Abbr": "yl st kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60715"
+        },
+        {
+            "MaPhuongXa": "58364",
+            "TenPhuongXa": "Hơ Moong",
+            "MaQuanHuyen": "5835",
+            "TenQuanHuyen": "Sa Thầy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "st",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ho moong sa thay kon tum",
+            "Point": null,
+            "Abbr": "hm st kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60708"
+        }
+    ],
+    "5822": [
+        {
+            "MaPhuongXa": "58223",
+            "TenPhuongXa": "Đắk Ui",
+            "MaQuanHuyen": "5822",
+            "TenQuanHuyen": "Đắk Hà",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "du",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak ui dak ha kon tum",
+            "Point": null,
+            "Abbr": "du dh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60609"
+        },
+        {
+            "MaPhuongXa": "58220",
+            "TenPhuongXa": "Đắk Hà",
+            "MaQuanHuyen": "5822",
+            "TenQuanHuyen": "Đắk Hà",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak ha dak ha kon tum",
+            "Point": null,
+            "Abbr": "dh dh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60606"
+        },
+        {
+            "MaPhuongXa": "58226",
+            "TenPhuongXa": "Đắk PXi",
+            "MaQuanHuyen": "5822",
+            "TenQuanHuyen": "Đắk Hà",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak pxi dak ha kon tum",
+            "Point": null,
+            "Abbr": "dp dh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60608"
+        },
+        {
+            "MaPhuongXa": "58228",
+            "TenPhuongXa": "Đắk HRing",
+            "MaQuanHuyen": "5822",
+            "TenQuanHuyen": "Đắk Hà",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak hring dak ha kon tum",
+            "Point": null,
+            "Abbr": "dh dh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60611"
+        },
+        {
+            "MaPhuongXa": "58240",
+            "TenPhuongXa": "Đăk Long",
+            "MaQuanHuyen": "5822",
+            "TenQuanHuyen": "Đắk Hà",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak long dak ha kon tum",
+            "Point": null,
+            "Abbr": "dl dh kt",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "58232",
+            "TenPhuongXa": "Hà Mòn",
+            "MaQuanHuyen": "5822",
+            "TenQuanHuyen": "Đắk Hà",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha mon dak ha kon tum",
+            "Point": null,
+            "Abbr": "hm dh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60613"
+        },
+        {
+            "MaPhuongXa": "58233",
+            "TenPhuongXa": "Đắk La",
+            "MaQuanHuyen": "5822",
+            "TenQuanHuyen": "Đắk Hà",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak la dak ha kon tum",
+            "Point": null,
+            "Abbr": "dl dh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60614"
+        },
+        {
+            "MaPhuongXa": "58230",
+            "TenPhuongXa": "Đắk Mar",
+            "MaQuanHuyen": "5822",
+            "TenQuanHuyen": "Đắk Hà",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak mar dak ha kon tum",
+            "Point": null,
+            "Abbr": "dm dh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60612"
+        },
+        {
+            "MaPhuongXa": "58237",
+            "TenPhuongXa": "Ngọk Réo",
+            "MaQuanHuyen": "5822",
+            "TenQuanHuyen": "Đắk Hà",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "nr",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngok reo dak ha kon tum",
+            "Point": null,
+            "Abbr": "nr dh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60616"
+        },
+        {
+            "MaPhuongXa": "58235",
+            "TenPhuongXa": "Ngọk Wang",
+            "MaQuanHuyen": "5822",
+            "TenQuanHuyen": "Đắk Hà",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "nw",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngok wang dak ha kon tum",
+            "Point": null,
+            "Abbr": "nw dh kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60615"
+        },
+        {
+            "MaPhuongXa": "58239",
+            "TenPhuongXa": "Đăk Ngọk",
+            "MaQuanHuyen": "5822",
+            "TenQuanHuyen": "Đắk Hà",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak ngok dak ha kon tum",
+            "Point": null,
+            "Abbr": "dn dh kt",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        }
+    ],
+    "5832": [
+        {
+            "MaPhuongXa": "58323",
+            "TenPhuongXa": "Đắk Pék",
+            "MaQuanHuyen": "5832",
+            "TenQuanHuyen": "Đắk Glei",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dg",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak pek dak glei kon tum",
+            "Point": null,
+            "Abbr": "dp dg kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60414"
+        },
+        {
+            "MaPhuongXa": "58320",
+            "TenPhuongXa": "Đắk Glei",
+            "MaQuanHuyen": "5832",
+            "TenQuanHuyen": "Đắk Glei",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dg",
+                    "Point": 5
+                },
+                {
+                    "Key": "dg",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak glei dak glei kon tum",
+            "Point": null,
+            "Abbr": "dg dg kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60406"
+        },
+        {
+            "MaPhuongXa": "58327",
+            "TenPhuongXa": "Ngọc Linh",
+            "MaQuanHuyen": "5832",
+            "TenQuanHuyen": "Đắk Glei",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dg",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc linh dak glei kon tum",
+            "Point": null,
+            "Abbr": "nl dg kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60408"
+        },
+        {
+            "MaPhuongXa": "58325",
+            "TenPhuongXa": "Xốp",
+            "MaQuanHuyen": "5832",
+            "TenQuanHuyen": "Đắk Glei",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "x",
+                    "Point": 5
+                },
+                {
+                    "Key": "dg",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xop dak glei kon tum",
+            "Point": null,
+            "Abbr": "x dg kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60407"
+        },
+        {
+            "MaPhuongXa": "58342",
+            "TenPhuongXa": "Đắk K Roong",
+            "MaQuanHuyen": "5832",
+            "TenQuanHuyen": "Đắk Glei",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dkr",
+                    "Point": 5
+                },
+                {
+                    "Key": "dg",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak k roong dak glei kon tum",
+            "Point": null,
+            "Abbr": "dkr dg kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60415"
+        },
+        {
+            "MaPhuongXa": "58340",
+            "TenPhuongXa": "Đắk Môn",
+            "MaQuanHuyen": "5832",
+            "TenQuanHuyen": "Đắk Glei",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "dg",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak mon dak glei kon tum",
+            "Point": null,
+            "Abbr": "dm dg kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60416"
+        },
+        {
+            "MaPhuongXa": "58333",
+            "TenPhuongXa": "Đắk Choong",
+            "MaQuanHuyen": "5832",
+            "TenQuanHuyen": "Đắk Glei",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "dg",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak choong dak glei kon tum",
+            "Point": null,
+            "Abbr": "dc dg kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60410"
+        },
+        {
+            "MaPhuongXa": "58330",
+            "TenPhuongXa": "Mường Hoong",
+            "MaQuanHuyen": "5832",
+            "TenQuanHuyen": "Đắk Glei",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dg",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong hoong dak glei kon tum",
+            "Point": null,
+            "Abbr": "mh dg kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60409"
+        },
+        {
+            "MaPhuongXa": "58337",
+            "TenPhuongXa": "Đắk Nhoong",
+            "MaQuanHuyen": "5832",
+            "TenQuanHuyen": "Đắk Glei",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dg",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak nhoong dak glei kon tum",
+            "Point": null,
+            "Abbr": "dn dg kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60413"
+        },
+        {
+            "MaPhuongXa": "58336",
+            "TenPhuongXa": "Đắk B Lô",
+            "MaQuanHuyen": "5832",
+            "TenQuanHuyen": "Đắk Glei",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dbl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dg",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak b lo dak glei kon tum",
+            "Point": null,
+            "Abbr": "dbl dg kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60412"
+        },
+        {
+            "MaPhuongXa": "58335",
+            "TenPhuongXa": "Đắk Man",
+            "MaQuanHuyen": "5832",
+            "TenQuanHuyen": "Đắk Glei",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "dg",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak man dak glei kon tum",
+            "Point": null,
+            "Abbr": "dm dg kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60411"
+        },
+        {
+            "MaPhuongXa": "58338",
+            "TenPhuongXa": "Đắk Long",
+            "MaQuanHuyen": "5832",
+            "TenQuanHuyen": "Đắk Glei",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dg",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak long dak glei kon tum",
+            "Point": null,
+            "Abbr": "dl dg kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60417"
+        }
+    ],
+    "5843": [
+        {
+            "MaPhuongXa": "58434",
+            "TenPhuongXa": "Ia Tơi",
+            "MaQuanHuyen": "5843",
+            "TenQuanHuyen": "Ia H'Drai",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "it",
+                    "Point": 5
+                },
+                {
+                    "Key": "ih",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia toi ia h'drai kon tum",
+            "Point": null,
+            "Abbr": "it ih kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60806"
+        },
+        {
+            "MaPhuongXa": "58430",
+            "TenPhuongXa": "Ia Đal",
+            "MaQuanHuyen": "5843",
+            "TenQuanHuyen": "Ia H'Drai",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "id",
+                    "Point": 5
+                },
+                {
+                    "Key": "ih",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia dal ia h'drai kon tum",
+            "Point": null,
+            "Abbr": "id ih kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60808"
+        },
+        {
+            "MaPhuongXa": "58432",
+            "TenPhuongXa": "Ia Dom",
+            "MaQuanHuyen": "5843",
+            "TenQuanHuyen": "Ia H'Drai",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "id",
+                    "Point": 5
+                },
+                {
+                    "Key": "ih",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia dom ia h'drai kon tum",
+            "Point": null,
+            "Abbr": "id ih kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60807"
+        }
+    ],
+    "5818": [
+        {
+            "MaPhuongXa": "58180",
+            "TenPhuongXa": "Đăk Rờ Ve",
+            "MaQuanHuyen": "5818",
+            "TenQuanHuyen": "Kon Rẫy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "drv",
+                    "Point": 5
+                },
+                {
+                    "Key": "kr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak ro ve kon ray kon tum",
+            "Point": null,
+            "Abbr": "drv kr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60206"
+        },
+        {
+            "MaPhuongXa": "58183",
+            "TenPhuongXa": "Đắk Kôi",
+            "MaQuanHuyen": "5818",
+            "TenQuanHuyen": "Kon Rẫy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "kr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak koi kon ray kon tum",
+            "Point": null,
+            "Abbr": "dk kr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60207"
+        },
+        {
+            "MaPhuongXa": "58182",
+            "TenPhuongXa": "Đắk Pờ Ne",
+            "MaQuanHuyen": "5818",
+            "TenQuanHuyen": "Kon Rẫy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dpn",
+                    "Point": 5
+                },
+                {
+                    "Key": "kr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak po ne kon ray kon tum",
+            "Point": null,
+            "Abbr": "dpn kr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60212"
+        },
+        {
+            "MaPhuongXa": "58185",
+            "TenPhuongXa": "Đắk Tờ Lùng",
+            "MaQuanHuyen": "5818",
+            "TenQuanHuyen": "Kon Rẫy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dtl",
+                    "Point": 5
+                },
+                {
+                    "Key": "kr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak to lung kon ray kon tum",
+            "Point": null,
+            "Abbr": "dtl kr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60208"
+        },
+        {
+            "MaPhuongXa": "58186",
+            "TenPhuongXa": "Đắk Ruồng",
+            "MaQuanHuyen": "5818",
+            "TenQuanHuyen": "Kon Rẫy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dr",
+                    "Point": 5
+                },
+                {
+                    "Key": "kr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak ruong kon ray kon tum",
+            "Point": null,
+            "Abbr": "dr kr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60210"
+        },
+        {
+            "MaPhuongXa": "58189",
+            "TenPhuongXa": "Đắk Tờ Re",
+            "MaQuanHuyen": "5818",
+            "TenQuanHuyen": "Kon Rẫy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "dtr",
+                    "Point": 5
+                },
+                {
+                    "Key": "kr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak to re kon ray kon tum",
+            "Point": null,
+            "Abbr": "dtr kr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60209"
+        },
+        {
+            "MaPhuongXa": "58188",
+            "TenPhuongXa": "Tân Lập",
+            "MaQuanHuyen": "5818",
+            "TenQuanHuyen": "Kon Rẫy",
+            "MaTinhThanh": "58",
+            "TenTinhThanh": "Kon Tum",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "kr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap kon ray kon tum",
+            "Point": null,
+            "Abbr": "tl kr kt",
+            "TrangThai": null,
+            "MaBuuChinh": "60211"
+        }
+    ]
+}

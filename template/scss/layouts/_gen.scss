@@ -1,0 +1,249 @@
+.gen-top {
+    align-items: baseline;
+
+    &-item {
+        @include max(600px) {
+            width: 100%;
+            margin-bottom: 1rem;
+        }
+
+        &:last-child {
+            flex: 1;
+        }
+    }
+
+
+}
+
+.genTop {
+    .swiper-pagination {
+        margin-top: 0;
+    }
+}
+
+.type {
+    &-list {
+        justify-content: flex-end;
+        margin-top: -0.5rem;
+        margin-bottom: -0.5rem;
+
+        @include max(600px) {
+            justify-content: flex-start;
+        }
+    }
+
+    &-item {
+        cursor: pointer;
+        transition: all 0.3s ease-in-out;
+        position: relative;
+        @include flex;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+
+        &:hover {
+            .type-text {
+                color: rgba($color: $color-second, $alpha: 0.8)
+            }
+        }
+
+        &.active {
+            .type-text {
+                &::before {
+                    width: 100%;
+                }
+            }
+
+            .type-checkbox {
+                background: $color-pri;
+            }
+        }
+
+        &-text {
+            color: #555A5A;
+            font-weight: 700;
+        }
+    }
+
+    &-checkbox {
+        border: 0.1rem solid #D9D9D9;
+        border-radius: 0.2rem;
+        width: 2.6rem;
+        height: 2.6rem;
+        @include mid-flex;
+        padding: 0.5rem;
+        transition: all 0.3s ease-in-out;
+        overflow: hidden;
+        margin-top: -0.2rem;
+        margin-right: 1rem;
+    }
+
+    &-text {
+        cursor: pointer;
+        font-weight: 700;
+        color: $color-pri;
+        transition: all 0.3s ease-in-out;
+    }
+}
+
+.genSec {
+    background: #f5f5f5;
+
+    &.other {
+        background: white;
+
+        &-2 {
+            background: white;
+
+
+        }
+    }
+
+    &-sidebar {
+        width: calc(100% * 3 / 12);
+
+        @include min(1202px) {
+            padding-right: 5.6rem;
+        }
+
+        @include max(1201px) {
+            width: 100%;
+        }
+
+        .sidebar {
+            margin-bottom: 1.8rem;
+            @include min(1202px) {
+                // position: sticky;
+                // top: 13rem;
+            }
+        }
+    }
+
+    &-wrap {
+        width: calc(100% * 9 / 12);
+
+        @include max(1201px) {
+            width: 100%;
+        }
+    }
+
+    &-decor {
+        width: 100%;
+        bottom: 0;
+        transform: translateY(50%);
+    }
+
+    &-container {
+        position: relative;
+        // z-index: 10;
+
+        @include max(1201px) {
+            flex-direction: column-reverse;
+        }
+    }
+
+    &-title {
+        font-weight: 600;
+        @include fz-40;
+        line-height: 1.2;
+    }
+
+    &-content {
+        .content {
+            p {
+                margin: 3rem 0;
+            }
+
+            img {
+                margin: 3rem 0;
+                border-radius: 1.2rem;
+            }
+        }
+    }
+
+    &.other {
+        .genSec-container {
+            @include max(1201px) {
+                flex-direction: column;
+            }
+        }
+    }
+
+    .side-fixed-wrap {
+        @include max(1201px) {
+            padding: 5rem 0;
+        }
+    }
+}
+
+.policySec {
+    background: white;
+    padding-top: 1.8rem;
+
+    .sidebar-wrap {
+        border: none;
+    }
+
+    .sidebar-content {
+        background: #EEF8F8;
+        padding: 2.4rem 0;
+    }
+
+    &-wrap {}
+
+    &-box {
+        margin-bottom: 3.2rem;
+    }
+
+    &-title {
+        font-weight: 600;
+        @include fz-20;
+        line-height: 1.2;
+        color: #212233;
+        margin: 0;
+        margin-bottom: 1.6rem;
+    }
+
+    .content {
+        color: #696969;
+
+        ul {
+            margin-left: 2.8rem;
+
+            li {
+                list-style: disc;
+            }
+        }
+
+        p {
+            // margin: 1.5rem 0;
+        }
+    }
+
+    .proFilter-cate-open {
+        margin-left: 0;
+
+        .icon {
+            width: 3.2rem;
+        }
+    }
+}
+
+.ctl {
+    background: #F4F4F4;
+    border-radius: 1.2rem;
+    padding: 2.4rem 2rem 5.6rem;
+    position: relative;
+
+    &-img {
+        max-width: 19.6rem;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .btn {
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translate(-50%, 50%);
+    }
+}

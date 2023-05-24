@@ -1,0 +1,1744 @@
+{
+    "9626": [
+        {
+            "MaPhuongXa": "96278",
+            "TenPhuongXa": "Tân Phong",
+            "MaQuanHuyen": "9626",
+            "TenQuanHuyen": "Giá Rai",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "gr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phong gia rai bac lieu",
+            "Point": null,
+            "Abbr": "tp gr bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97513"
+        },
+        {
+            "MaPhuongXa": "96272",
+            "TenPhuongXa": "Hộ Phòng",
+            "MaQuanHuyen": "9626",
+            "TenQuanHuyen": "Giá Rai",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "gr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ho phong gia rai bac lieu",
+            "Point": null,
+            "Abbr": "hp gr bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97507"
+        },
+        {
+            "MaPhuongXa": "96270",
+            "TenPhuongXa": "Phong Thạnh Tây",
+            "MaQuanHuyen": "9626",
+            "TenQuanHuyen": "Giá Rai",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ptt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong thanh tay gia rai bac lieu",
+            "Point": null,
+            "Abbr": "ptt gr bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97514"
+        },
+        {
+            "MaPhuongXa": "96280",
+            "TenPhuongXa": "Tân Thạnh",
+            "MaQuanHuyen": "9626",
+            "TenQuanHuyen": "Giá Rai",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh gia rai bac lieu",
+            "Point": null,
+            "Abbr": "tt gr bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97515"
+        },
+        {
+            "MaPhuongXa": "96269",
+            "TenPhuongXa": "Phong Thạnh A",
+            "MaQuanHuyen": "9626",
+            "TenQuanHuyen": "Giá Rai",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "pta",
+                    "Point": 5
+                },
+                {
+                    "Key": "gr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong thanh a gia rai bac lieu",
+            "Point": null,
+            "Abbr": "pta gr bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97512"
+        },
+        {
+            "MaPhuongXa": "96267",
+            "TenPhuongXa": "Phong Thạnh",
+            "MaQuanHuyen": "9626",
+            "TenQuanHuyen": "Giá Rai",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong thanh gia rai bac lieu",
+            "Point": null,
+            "Abbr": "pt gr bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97511"
+        },
+        {
+            "MaPhuongXa": "96265",
+            "TenPhuongXa": "Phong Tân",
+            "MaQuanHuyen": "9626",
+            "TenQuanHuyen": "Giá Rai",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong tan gia rai bac lieu",
+            "Point": null,
+            "Abbr": "pt gr bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97510"
+        },
+        {
+            "MaPhuongXa": "96263",
+            "TenPhuongXa": "Phong Thạnh Đông",
+            "MaQuanHuyen": "9626",
+            "TenQuanHuyen": "Giá Rai",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ptd",
+                    "Point": 5
+                },
+                {
+                    "Key": "gr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong thanh dong gia rai bac lieu",
+            "Point": null,
+            "Abbr": "ptd gr bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97509"
+        },
+        {
+            "MaPhuongXa": "96260",
+            "TenPhuongXa": "Giá Rai",
+            "MaQuanHuyen": "9626",
+            "TenQuanHuyen": "Giá Rai",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "gr",
+                    "Point": 5
+                },
+                {
+                    "Key": "gr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia rai gia rai bac lieu",
+            "Point": null,
+            "Abbr": "gr gr bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97506"
+        },
+        {
+            "MaPhuongXa": "96261",
+            "TenPhuongXa": "Phong Thạnh Đông A",
+            "MaQuanHuyen": "9626",
+            "TenQuanHuyen": "Giá Rai",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ptda",
+                    "Point": 5
+                },
+                {
+                    "Key": "gr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong thanh dong a gia rai bac lieu",
+            "Point": null,
+            "Abbr": "ptda gr bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97508"
+        }
+    ],
+    "9615": [
+        {
+            "MaPhuongXa": "96175",
+            "TenPhuongXa": "Vĩnh Hưng",
+            "MaQuanHuyen": "9615",
+            "TenQuanHuyen": "Vĩnh Lợi",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hung vinh loi bac lieu",
+            "Point": null,
+            "Abbr": "vh vl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97212"
+        },
+        {
+            "MaPhuongXa": "96177",
+            "TenPhuongXa": "Vĩnh Hưng A",
+            "MaQuanHuyen": "9615",
+            "TenQuanHuyen": "Vĩnh Lợi",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vha",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hung a vinh loi bac lieu",
+            "Point": null,
+            "Abbr": "vha vl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97213"
+        },
+        {
+            "MaPhuongXa": "96169",
+            "TenPhuongXa": "Châu Thới",
+            "MaQuanHuyen": "9615",
+            "TenQuanHuyen": "Vĩnh Lợi",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau thoi vinh loi bac lieu",
+            "Point": null,
+            "Abbr": "ct vl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97206"
+        },
+        {
+            "MaPhuongXa": "96165",
+            "TenPhuongXa": "Hưng Hội",
+            "MaQuanHuyen": "9615",
+            "TenQuanHuyen": "Vĩnh Lợi",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung hoi vinh loi bac lieu",
+            "Point": null,
+            "Abbr": "hh vl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97209"
+        },
+        {
+            "MaPhuongXa": "96167",
+            "TenPhuongXa": "Hưng Thành",
+            "MaQuanHuyen": "9615",
+            "TenQuanHuyen": "Vĩnh Lợi",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung thanh vinh loi bac lieu",
+            "Point": null,
+            "Abbr": "ht vl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97210"
+        },
+        {
+            "MaPhuongXa": "96161",
+            "TenPhuongXa": "Châu Hưng",
+            "MaQuanHuyen": "9615",
+            "TenQuanHuyen": "Vĩnh Lợi",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau hung vinh loi bac lieu",
+            "Point": null,
+            "Abbr": "ch vl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97208"
+        },
+        {
+            "MaPhuongXa": "96163",
+            "TenPhuongXa": "Châu Hưng A",
+            "MaQuanHuyen": "9615",
+            "TenQuanHuyen": "Vĩnh Lợi",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "cha",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau hung a vinh loi bac lieu",
+            "Point": null,
+            "Abbr": "cha vl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97211"
+        },
+        {
+            "MaPhuongXa": "96158",
+            "TenPhuongXa": "Long Thạnh",
+            "MaQuanHuyen": "9615",
+            "TenQuanHuyen": "Vĩnh Lợi",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long thanh vinh loi bac lieu",
+            "Point": null,
+            "Abbr": "lt vl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97207"
+        }
+    ],
+    "9610": [
+        {
+            "MaPhuongXa": "96130",
+            "TenPhuongXa": "Nhà Mát",
+            "MaQuanHuyen": "9610",
+            "TenQuanHuyen": "Bạc Liêu",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nha mat bac lieu bac lieu",
+            "Point": null,
+            "Abbr": "nm bl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97115"
+        },
+        {
+            "MaPhuongXa": "96133",
+            "TenPhuongXa": "Vĩnh Trạch Đông",
+            "MaQuanHuyen": "9610",
+            "TenQuanHuyen": "Bạc Liêu",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vtd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh trach dong bac lieu bac lieu",
+            "Point": null,
+            "Abbr": "vtd bl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97113"
+        },
+        {
+            "MaPhuongXa": "96132",
+            "TenPhuongXa": "Hiệp Thành",
+            "MaQuanHuyen": "9610",
+            "TenQuanHuyen": "Bạc Liêu",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep thanh bac lieu bac lieu",
+            "Point": null,
+            "Abbr": "ht bl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97114"
+        },
+        {
+            "MaPhuongXa": "96109",
+            "TenPhuongXa": "5",
+            "MaQuanHuyen": "9610",
+            "TenQuanHuyen": "Bạc Liêu",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "5",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "5 bac lieu bac lieu",
+            "Point": null,
+            "Abbr": "5 bl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97111"
+        },
+        {
+            "MaPhuongXa": "96100",
+            "TenPhuongXa": "3",
+            "MaQuanHuyen": "9610",
+            "TenQuanHuyen": "Bạc Liêu",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "3",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "3 bac lieu bac lieu",
+            "Point": null,
+            "Abbr": "3 bl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97106"
+        },
+        {
+            "MaPhuongXa": "96125",
+            "TenPhuongXa": "8",
+            "MaQuanHuyen": "9610",
+            "TenQuanHuyen": "Bạc Liêu",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "8",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "8 bac lieu bac lieu",
+            "Point": null,
+            "Abbr": "8 bl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97109"
+        },
+        {
+            "MaPhuongXa": "96127",
+            "TenPhuongXa": "2",
+            "MaQuanHuyen": "9610",
+            "TenQuanHuyen": "Bạc Liêu",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "2",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "2 bac lieu bac lieu",
+            "Point": null,
+            "Abbr": "2 bl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97110"
+        },
+        {
+            "MaPhuongXa": "96120",
+            "TenPhuongXa": "7",
+            "MaQuanHuyen": "9610",
+            "TenQuanHuyen": "Bạc Liêu",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "7",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "7 bac lieu bac lieu",
+            "Point": null,
+            "Abbr": "7 bl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97108"
+        },
+        {
+            "MaPhuongXa": "96115",
+            "TenPhuongXa": "1",
+            "MaQuanHuyen": "9610",
+            "TenQuanHuyen": "Bạc Liêu",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "1",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "1 bac lieu bac lieu",
+            "Point": null,
+            "Abbr": "1 bl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97107"
+        },
+        {
+            "MaPhuongXa": "96113",
+            "TenPhuongXa": "Vĩnh Trạch",
+            "MaQuanHuyen": "9610",
+            "TenQuanHuyen": "Bạc Liêu",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh trach bac lieu bac lieu",
+            "Point": null,
+            "Abbr": "vt bl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97112"
+        }
+    ],
+    "9632": [
+        {
+            "MaPhuongXa": "96339",
+            "TenPhuongXa": "Vĩnh Mỹ B",
+            "MaQuanHuyen": "9632",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vmb",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh my b hoa binh bac lieu",
+            "Point": null,
+            "Abbr": "vmb hb bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97709"
+        },
+        {
+            "MaPhuongXa": "96336",
+            "TenPhuongXa": "Vĩnh Mỹ A",
+            "MaQuanHuyen": "9632",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vma",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh my a hoa binh bac lieu",
+            "Point": null,
+            "Abbr": "vma hb bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97710"
+        },
+        {
+            "MaPhuongXa": "96333",
+            "TenPhuongXa": "Minh Diệu",
+            "MaQuanHuyen": "9632",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh dieu hoa binh bac lieu",
+            "Point": null,
+            "Abbr": "md hb bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97707"
+        },
+        {
+            "MaPhuongXa": "96331",
+            "TenPhuongXa": "Vĩnh Thịnh",
+            "MaQuanHuyen": "9632",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh thinh hoa binh bac lieu",
+            "Point": null,
+            "Abbr": "vt hb bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97711"
+        },
+        {
+            "MaPhuongXa": "96344",
+            "TenPhuongXa": "Vĩnh Hậu A",
+            "MaQuanHuyen": "9632",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vha",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hau a hoa binh bac lieu",
+            "Point": null,
+            "Abbr": "vha hb bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97713"
+        },
+        {
+            "MaPhuongXa": "96342",
+            "TenPhuongXa": "Vĩnh Hậu",
+            "MaQuanHuyen": "9632",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hau hoa binh bac lieu",
+            "Point": null,
+            "Abbr": "vh hb bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97712"
+        },
+        {
+            "MaPhuongXa": "96328",
+            "TenPhuongXa": "Vĩnh Bình",
+            "MaQuanHuyen": "9632",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vb",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh binh hoa binh bac lieu",
+            "Point": null,
+            "Abbr": "vb hb bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97708"
+        },
+        {
+            "MaPhuongXa": "96320",
+            "TenPhuongXa": "Hoà Bình",
+            "MaQuanHuyen": "9632",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh hoa binh bac lieu",
+            "Point": null,
+            "Abbr": "hb hb bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97706"
+        }
+    ],
+    "9624": [
+        {
+            "MaPhuongXa": "96248",
+            "TenPhuongXa": "Lộc Ninh",
+            "MaQuanHuyen": "9624",
+            "TenQuanHuyen": "Hồng Dân",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ln",
+                    "Point": 5
+                },
+                {
+                    "Key": "hd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc ninh hong dan bac lieu",
+            "Point": null,
+            "Abbr": "ln hd bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97311"
+        },
+        {
+            "MaPhuongXa": "96246",
+            "TenPhuongXa": "Ninh Qưới A",
+            "MaQuanHuyen": "9624",
+            "TenQuanHuyen": "Hồng Dân",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "nqa",
+                    "Point": 5
+                },
+                {
+                    "Key": "hd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh quoi a hong dan bac lieu",
+            "Point": null,
+            "Abbr": "nqa hd bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97314"
+        },
+        {
+            "MaPhuongXa": "96244",
+            "TenPhuongXa": "Ninh Qưới",
+            "MaQuanHuyen": "9624",
+            "TenQuanHuyen": "Hồng Dân",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "nq",
+                    "Point": 5
+                },
+                {
+                    "Key": "hd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh quoi hong dan bac lieu",
+            "Point": null,
+            "Abbr": "nq hd bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97313"
+        },
+        {
+            "MaPhuongXa": "96242",
+            "TenPhuongXa": "Ninh Hoà",
+            "MaQuanHuyen": "9624",
+            "TenQuanHuyen": "Hồng Dân",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "hd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh hoa hong dan bac lieu",
+            "Point": null,
+            "Abbr": "nh hd bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97312"
+        },
+        {
+            "MaPhuongXa": "96240",
+            "TenPhuongXa": "Ngan Dừa",
+            "MaQuanHuyen": "9624",
+            "TenQuanHuyen": "Hồng Dân",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "hd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngan dua hong dan bac lieu",
+            "Point": null,
+            "Abbr": "nd hd bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97306"
+        },
+        {
+            "MaPhuongXa": "96255",
+            "TenPhuongXa": "Ninh Thạnh Lợi A",
+            "MaQuanHuyen": "9624",
+            "TenQuanHuyen": "Hồng Dân",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ntla",
+                    "Point": 5
+                },
+                {
+                    "Key": "hd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh thanh loi a hong dan bac lieu",
+            "Point": null,
+            "Abbr": "ntla hd bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97309"
+        },
+        {
+            "MaPhuongXa": "96252",
+            "TenPhuongXa": "Ninh Thạnh Lợi",
+            "MaQuanHuyen": "9624",
+            "TenQuanHuyen": "Hồng Dân",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ntl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh thanh loi hong dan bac lieu",
+            "Point": null,
+            "Abbr": "ntl hd bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97310"
+        },
+        {
+            "MaPhuongXa": "96250",
+            "TenPhuongXa": "Vĩnh Lộc",
+            "MaQuanHuyen": "9624",
+            "TenQuanHuyen": "Hồng Dân",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh loc hong dan bac lieu",
+            "Point": null,
+            "Abbr": "vl hd bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97307"
+        },
+        {
+            "MaPhuongXa": "96251",
+            "TenPhuongXa": "Vĩnh Lộc A",
+            "MaQuanHuyen": "9624",
+            "TenQuanHuyen": "Hồng Dân",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vla",
+                    "Point": 5
+                },
+                {
+                    "Key": "hd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh loc a hong dan bac lieu",
+            "Point": null,
+            "Abbr": "vla hd bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97308"
+        }
+    ],
+    "9629": [
+        {
+            "MaPhuongXa": "96308",
+            "TenPhuongXa": "Điền Hải",
+            "MaQuanHuyen": "9629",
+            "TenQuanHuyen": "Đông Hải",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien hai dong hai bac lieu",
+            "Point": null,
+            "Abbr": "dh dh bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97608"
+        },
+        {
+            "MaPhuongXa": "96307",
+            "TenPhuongXa": "An Trạch A",
+            "MaQuanHuyen": "9629",
+            "TenQuanHuyen": "Đông Hải",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ata",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an trach a dong hai bac lieu",
+            "Point": null,
+            "Abbr": "ata dh bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97612"
+        },
+        {
+            "MaPhuongXa": "96306",
+            "TenPhuongXa": "Định Thành A",
+            "MaQuanHuyen": "9629",
+            "TenQuanHuyen": "Đông Hải",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "dta",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh thanh a dong hai bac lieu",
+            "Point": null,
+            "Abbr": "dta dh bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97615"
+        },
+        {
+            "MaPhuongXa": "96305",
+            "TenPhuongXa": "Định Thành",
+            "MaQuanHuyen": "9629",
+            "TenQuanHuyen": "Đông Hải",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh thanh dong hai bac lieu",
+            "Point": null,
+            "Abbr": "dt dh bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97614"
+        },
+        {
+            "MaPhuongXa": "96303",
+            "TenPhuongXa": "An Phúc",
+            "MaQuanHuyen": "9629",
+            "TenQuanHuyen": "Đông Hải",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ap",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an phuc dong hai bac lieu",
+            "Point": null,
+            "Abbr": "ap dh bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97616"
+        },
+        {
+            "MaPhuongXa": "96300",
+            "TenPhuongXa": "An Trạch",
+            "MaQuanHuyen": "9629",
+            "TenQuanHuyen": "Đông Hải",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an trach dong hai bac lieu",
+            "Point": null,
+            "Abbr": "at dh bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97613"
+        },
+        {
+            "MaPhuongXa": "96297",
+            "TenPhuongXa": "Long Điền",
+            "MaQuanHuyen": "9629",
+            "TenQuanHuyen": "Đông Hải",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long dien dong hai bac lieu",
+            "Point": null,
+            "Abbr": "ld dh bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97611"
+        },
+        {
+            "MaPhuongXa": "96294",
+            "TenPhuongXa": "Long Điền Đông",
+            "MaQuanHuyen": "9629",
+            "TenQuanHuyen": "Đông Hải",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ldd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long dien dong dong hai bac lieu",
+            "Point": null,
+            "Abbr": "ldd dh bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97609"
+        },
+        {
+            "MaPhuongXa": "96295",
+            "TenPhuongXa": "Long Điền Đông A",
+            "MaQuanHuyen": "9629",
+            "TenQuanHuyen": "Đông Hải",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ldda",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long dien dong a dong hai bac lieu",
+            "Point": null,
+            "Abbr": "ldda dh bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97610"
+        },
+        {
+            "MaPhuongXa": "96292",
+            "TenPhuongXa": "Long Điền Tây",
+            "MaQuanHuyen": "9629",
+            "TenQuanHuyen": "Đông Hải",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ldt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long dien tay dong hai bac lieu",
+            "Point": null,
+            "Abbr": "ldt dh bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97607"
+        },
+        {
+            "MaPhuongXa": "96290",
+            "TenPhuongXa": "Gành Hào",
+            "MaQuanHuyen": "9629",
+            "TenQuanHuyen": "Đông Hải",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "gh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ganh hao dong hai bac lieu",
+            "Point": null,
+            "Abbr": "gh dh bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97606"
+        }
+    ],
+    "9621": [
+        {
+            "MaPhuongXa": "96226",
+            "TenPhuongXa": "Phong Thạnh Tây B",
+            "MaQuanHuyen": "9621",
+            "TenQuanHuyen": "Phước Long",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "pttb",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong thanh tay b phuoc long bac lieu",
+            "Point": null,
+            "Abbr": "pttb pl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97409"
+        },
+        {
+            "MaPhuongXa": "96224",
+            "TenPhuongXa": "Phong Thạnh Tây A",
+            "MaQuanHuyen": "9621",
+            "TenQuanHuyen": "Phước Long",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "ptta",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong thanh tay a phuoc long bac lieu",
+            "Point": null,
+            "Abbr": "ptta pl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97408"
+        },
+        {
+            "MaPhuongXa": "96222",
+            "TenPhuongXa": "Hưng Phú",
+            "MaQuanHuyen": "9621",
+            "TenQuanHuyen": "Phước Long",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung phu phuoc long bac lieu",
+            "Point": null,
+            "Abbr": "hp pl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97412"
+        },
+        {
+            "MaPhuongXa": "96219",
+            "TenPhuongXa": "Vĩnh Thanh",
+            "MaQuanHuyen": "9621",
+            "TenQuanHuyen": "Phước Long",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh thanh phuoc long bac lieu",
+            "Point": null,
+            "Abbr": "vt pl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97411"
+        },
+        {
+            "MaPhuongXa": "96217",
+            "TenPhuongXa": "Vĩnh Phú Tây",
+            "MaQuanHuyen": "9621",
+            "TenQuanHuyen": "Phước Long",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vpt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh phu tay phuoc long bac lieu",
+            "Point": null,
+            "Abbr": "vpt pl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97410"
+        },
+        {
+            "MaPhuongXa": "96215",
+            "TenPhuongXa": "Phước Long",
+            "MaQuanHuyen": "9621",
+            "TenQuanHuyen": "Phước Long",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc long phuoc long bac lieu",
+            "Point": null,
+            "Abbr": "pl pl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97407"
+        },
+        {
+            "MaPhuongXa": "96213",
+            "TenPhuongXa": "Vĩnh Phú Đông",
+            "MaQuanHuyen": "9621",
+            "TenQuanHuyen": "Phước Long",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "vpd",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh phu dong phuoc long bac lieu",
+            "Point": null,
+            "Abbr": "vpd pl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97413"
+        },
+        {
+            "MaPhuongXa": "96210",
+            "TenPhuongXa": "Phước Long",
+            "MaQuanHuyen": "9621",
+            "TenQuanHuyen": "Phước Long",
+            "MaTinhThanh": "96",
+            "TenTinhThanh": "Bạc Liêu",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc long phuoc long bac lieu",
+            "Point": null,
+            "Abbr": "pl pl bl",
+            "TrangThai": null,
+            "MaBuuChinh": "97406"
+        }
+    ]
+}

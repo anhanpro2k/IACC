@@ -1,0 +1,6080 @@
+{
+    "1848": [
+        {
+            "MaPhuongXa": "18480",
+            "TenPhuongXa": "An Dương",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ad",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an duong an duong hai phong",
+            "Point": null,
+            "Abbr": "ad ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04406"
+        },
+        {
+            "MaPhuongXa": "18482",
+            "TenPhuongXa": "Nam Sơn",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam son an duong hai phong",
+            "Point": null,
+            "Abbr": "ns ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04407"
+        },
+        {
+            "MaPhuongXa": "18483",
+            "TenPhuongXa": "Bắc Sơn",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "bs",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac son an duong hai phong",
+            "Point": null,
+            "Abbr": "bs ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04408"
+        },
+        {
+            "MaPhuongXa": "18484",
+            "TenPhuongXa": "Tân Tiến",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tien an duong hai phong",
+            "Point": null,
+            "Abbr": "tt ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04409"
+        },
+        {
+            "MaPhuongXa": "18485",
+            "TenPhuongXa": "An Hưng",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hung an duong hai phong",
+            "Point": null,
+            "Abbr": "ah ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04410"
+        },
+        {
+            "MaPhuongXa": "18487",
+            "TenPhuongXa": "An Hồng",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hong an duong hai phong",
+            "Point": null,
+            "Abbr": "ah ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04411"
+        },
+        {
+            "MaPhuongXa": "18489",
+            "TenPhuongXa": "Đại Bản",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai ban an duong hai phong",
+            "Point": null,
+            "Abbr": "db ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04412"
+        },
+        {
+            "MaPhuongXa": "18491",
+            "TenPhuongXa": "Hồng Phong",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong phong an duong hai phong",
+            "Point": null,
+            "Abbr": "hp ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04415"
+        },
+        {
+            "MaPhuongXa": "18493",
+            "TenPhuongXa": "Lê Thiện",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "le thien an duong hai phong",
+            "Point": null,
+            "Abbr": "lt ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04413"
+        },
+        {
+            "MaPhuongXa": "18494",
+            "TenPhuongXa": "An Hoà",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hoa an duong hai phong",
+            "Point": null,
+            "Abbr": "ah ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04414"
+        },
+        {
+            "MaPhuongXa": "18495",
+            "TenPhuongXa": "Lê Lợi",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ll",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "le loi an duong hai phong",
+            "Point": null,
+            "Abbr": "ll ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04416"
+        },
+        {
+            "MaPhuongXa": "18496",
+            "TenPhuongXa": "Đăng Cương",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dang cuong an duong hai phong",
+            "Point": null,
+            "Abbr": "dc ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04418"
+        },
+        {
+            "MaPhuongXa": "18498",
+            "TenPhuongXa": "Quốc Tuấn",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quoc tuan an duong hai phong",
+            "Point": null,
+            "Abbr": "qt ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04417"
+        },
+        {
+            "MaPhuongXa": "18499",
+            "TenPhuongXa": "Hồng Thái",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong thai an duong hai phong",
+            "Point": null,
+            "Abbr": "ht ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04419"
+        },
+        {
+            "MaPhuongXa": "18501",
+            "TenPhuongXa": "An Đồng",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ad",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an dong an duong hai phong",
+            "Point": null,
+            "Abbr": "ad ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04421"
+        },
+        {
+            "MaPhuongXa": "18500",
+            "TenPhuongXa": "Đồng Thái",
+            "MaQuanHuyen": "1848",
+            "TenQuanHuyen": "An Dương",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ad",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong thai an duong hai phong",
+            "Point": null,
+            "Abbr": "dt ad hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04420"
+        }
+    ],
+    "1867": [
+        {
+            "MaPhuongXa": "18682",
+            "TenPhuongXa": "Thuận Thiên",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuan thien kien thuy hai phong",
+            "Point": null,
+            "Abbr": "tt kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05111"
+        },
+        {
+            "MaPhuongXa": "18683",
+            "TenPhuongXa": "Thanh Sơn",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh son kien thuy hai phong",
+            "Point": null,
+            "Abbr": "ts kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05116"
+        },
+        {
+            "MaPhuongXa": "18681",
+            "TenPhuongXa": "Hữu Bằng",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu bang kien thuy hai phong",
+            "Point": null,
+            "Abbr": "hb kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05110"
+        },
+        {
+            "MaPhuongXa": "18687",
+            "TenPhuongXa": "Ngũ Phúc",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngu phuc kien thuy hai phong",
+            "Point": null,
+            "Abbr": "np kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05113"
+        },
+        {
+            "MaPhuongXa": "18684",
+            "TenPhuongXa": "Thụy Hương",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy huong kien thuy hai phong",
+            "Point": null,
+            "Abbr": "th kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05115"
+        },
+        {
+            "MaPhuongXa": "18685",
+            "TenPhuongXa": "Kiến Quốc",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "kq",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kien quoc kien thuy hai phong",
+            "Point": null,
+            "Abbr": "kq kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05114"
+        },
+        {
+            "MaPhuongXa": "18688",
+            "TenPhuongXa": "Đại Hà",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai ha kien thuy hai phong",
+            "Point": null,
+            "Abbr": "dh kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05117"
+        },
+        {
+            "MaPhuongXa": "18689",
+            "TenPhuongXa": "Tân Trào",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan trao kien thuy hai phong",
+            "Point": null,
+            "Abbr": "tt kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05118"
+        },
+        {
+            "MaPhuongXa": "18670",
+            "TenPhuongXa": "Núi Đối",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nui doi kien thuy hai phong",
+            "Point": null,
+            "Abbr": "nd kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05106"
+        },
+        {
+            "MaPhuongXa": "18671",
+            "TenPhuongXa": "Minh Tân",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh tan kien thuy hai phong",
+            "Point": null,
+            "Abbr": "mt kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05107"
+        },
+        {
+            "MaPhuongXa": "18676",
+            "TenPhuongXa": "Đông Phương",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong phuong kien thuy hai phong",
+            "Point": null,
+            "Abbr": "dp kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05109"
+        },
+        {
+            "MaPhuongXa": "18675",
+            "TenPhuongXa": "Đại Đồng",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai dong kien thuy hai phong",
+            "Point": null,
+            "Abbr": "dd kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05108"
+        },
+        {
+            "MaPhuongXa": "18693",
+            "TenPhuongXa": "Đại Hợp",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai hop kien thuy hai phong",
+            "Point": null,
+            "Abbr": "dh kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05120"
+        },
+        {
+            "MaPhuongXa": "18690",
+            "TenPhuongXa": "Ngũ Đoan",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngu doan kien thuy hai phong",
+            "Point": null,
+            "Abbr": "nd kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05123"
+        },
+        {
+            "MaPhuongXa": "18691",
+            "TenPhuongXa": "Đoàn Xá",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dx",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "doan xa kien thuy hai phong",
+            "Point": null,
+            "Abbr": "dx kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05119"
+        },
+        {
+            "MaPhuongXa": "18694",
+            "TenPhuongXa": "Tú Sơn",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu son kien thuy hai phong",
+            "Point": null,
+            "Abbr": "ts kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05121"
+        },
+        {
+            "MaPhuongXa": "18695",
+            "TenPhuongXa": "Tân Phong",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phong kien thuy hai phong",
+            "Point": null,
+            "Abbr": "tp kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05122"
+        },
+        {
+            "MaPhuongXa": "18698",
+            "TenPhuongXa": "Du Lễ",
+            "MaQuanHuyen": "1867",
+            "TenQuanHuyen": "Kiến Thuỵ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "kt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "du le kien thuy hai phong",
+            "Point": null,
+            "Abbr": "dl kt hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05112"
+        }
+    ],
+    "1856": [
+        {
+            "MaPhuongXa": "18580",
+            "TenPhuongXa": "Tiên Minh",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien minh tien lang hai phong",
+            "Point": null,
+            "Abbr": "tm tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05218"
+        },
+        {
+            "MaPhuongXa": "18582",
+            "TenPhuongXa": "Nam Hưng",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam hung tien lang hai phong",
+            "Point": null,
+            "Abbr": "nh tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05219"
+        },
+        {
+            "MaPhuongXa": "18585",
+            "TenPhuongXa": "Bắc Hưng",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac hung tien lang hai phong",
+            "Point": null,
+            "Abbr": "bh tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05225"
+        },
+        {
+            "MaPhuongXa": "18584",
+            "TenPhuongXa": "Tây Hưng",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tay hung tien lang hai phong",
+            "Point": null,
+            "Abbr": "th tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05220"
+        },
+        {
+            "MaPhuongXa": "18587",
+            "TenPhuongXa": "Đông Hưng",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong hung tien lang hai phong",
+            "Point": null,
+            "Abbr": "dh tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05221"
+        },
+        {
+            "MaPhuongXa": "18589",
+            "TenPhuongXa": "Quang Phục",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "qp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang phuc tien lang hai phong",
+            "Point": null,
+            "Abbr": "qp tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05228"
+        },
+        {
+            "MaPhuongXa": "18588",
+            "TenPhuongXa": "Tiên Hưng",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien hung tien lang hai phong",
+            "Point": null,
+            "Abbr": "th tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05222"
+        },
+        {
+            "MaPhuongXa": "18571",
+            "TenPhuongXa": "Cấp Tiến",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cap tien tien lang hai phong",
+            "Point": null,
+            "Abbr": "ct tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05214"
+        },
+        {
+            "MaPhuongXa": "18573",
+            "TenPhuongXa": "Kiến Thiết",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kien thiet tien lang hai phong",
+            "Point": null,
+            "Abbr": "kt tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05215"
+        },
+        {
+            "MaPhuongXa": "18575",
+            "TenPhuongXa": "Bạch Đằng",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bach dang tien lang hai phong",
+            "Point": null,
+            "Abbr": "bd tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05217"
+        },
+        {
+            "MaPhuongXa": "18577",
+            "TenPhuongXa": "Đoàn Lập",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "doan lap tien lang hai phong",
+            "Point": null,
+            "Abbr": "dl tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05216"
+        },
+        {
+            "MaPhuongXa": "18592",
+            "TenPhuongXa": "Toàn Thắng",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "toan thang tien lang hai phong",
+            "Point": null,
+            "Abbr": "tt tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05227"
+        },
+        {
+            "MaPhuongXa": "18594",
+            "TenPhuongXa": "Tiên Thắng",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien thang tien lang hai phong",
+            "Point": null,
+            "Abbr": "tt tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05226"
+        },
+        {
+            "MaPhuongXa": "18596",
+            "TenPhuongXa": "Hùng Thắng",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung thang tien lang hai phong",
+            "Point": null,
+            "Abbr": "ht tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05224"
+        },
+        {
+            "MaPhuongXa": "18599",
+            "TenPhuongXa": "Vinh Quang",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "vq",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh quang tien lang hai phong",
+            "Point": null,
+            "Abbr": "vq tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05223"
+        },
+        {
+            "MaPhuongXa": "18561",
+            "TenPhuongXa": "Quyết Tiến",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quyet tien tien lang hai phong",
+            "Point": null,
+            "Abbr": "qt tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05207"
+        },
+        {
+            "MaPhuongXa": "18560",
+            "TenPhuongXa": "Tiên Lãng",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien lang tien lang hai phong",
+            "Point": null,
+            "Abbr": "tl tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05206"
+        },
+        {
+            "MaPhuongXa": "18563",
+            "TenPhuongXa": "Tiên Tiến",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien tien tien lang hai phong",
+            "Point": null,
+            "Abbr": "tt tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05211"
+        },
+        {
+            "MaPhuongXa": "18565",
+            "TenPhuongXa": "Khởi Nghĩa",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "kn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khoi nghia tien lang hai phong",
+            "Point": null,
+            "Abbr": "kn tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05212"
+        },
+        {
+            "MaPhuongXa": "18564",
+            "TenPhuongXa": "Tự Cường",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu cuong tien lang hai phong",
+            "Point": null,
+            "Abbr": "tc tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05208"
+        },
+        {
+            "MaPhuongXa": "18566",
+            "TenPhuongXa": "Tiên Cường",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien cuong tien lang hai phong",
+            "Point": null,
+            "Abbr": "tc tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05210"
+        },
+        {
+            "MaPhuongXa": "18569",
+            "TenPhuongXa": "Tiên Thanh",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien thanh tien lang hai phong",
+            "Point": null,
+            "Abbr": "tt tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05213"
+        },
+        {
+            "MaPhuongXa": "18568",
+            "TenPhuongXa": "Đại Thắng",
+            "MaQuanHuyen": "1856",
+            "TenQuanHuyen": "Tiên Lãng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai thang tien lang hai phong",
+            "Point": null,
+            "Abbr": "dt tl hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05209"
+        }
+    ],
+    "1818": [
+        {
+            "MaPhuongXa": "18180",
+            "TenPhuongXa": "Máy Tơ",
+            "MaQuanHuyen": "1818",
+            "TenQuanHuyen": "Ngô Quyền",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "may to ngo quyen hai phong",
+            "Point": null,
+            "Abbr": "mt nq hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04206"
+        },
+        {
+            "MaPhuongXa": "18210",
+            "TenPhuongXa": "Vạn Mỹ",
+            "MaQuanHuyen": "1818",
+            "TenQuanHuyen": "Ngô Quyền",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "vm",
+                    "Point": 5
+                },
+                {
+                    "Key": "nq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van my ngo quyen hai phong",
+            "Point": null,
+            "Abbr": "vm nq hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04217"
+        },
+        {
+            "MaPhuongXa": "18218",
+            "TenPhuongXa": "Máy Chai",
+            "MaQuanHuyen": "1818",
+            "TenQuanHuyen": "Ngô Quyền",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "nq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "may chai ngo quyen hai phong",
+            "Point": null,
+            "Abbr": "mc nq hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04218"
+        },
+        {
+            "MaPhuongXa": "18253",
+            "TenPhuongXa": "Đồng Quốc Bình",
+            "MaQuanHuyen": "1818",
+            "TenQuanHuyen": "Ngô Quyền",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dqb",
+                    "Point": 5
+                },
+                {
+                    "Key": "nq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong quoc binh ngo quyen hai phong",
+            "Point": null,
+            "Abbr": "dqb nq hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04211"
+        },
+        {
+            "MaPhuongXa": "18195",
+            "TenPhuongXa": "Lạc Viên",
+            "MaQuanHuyen": "1818",
+            "TenQuanHuyen": "Ngô Quyền",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "lv",
+                    "Point": 5
+                },
+                {
+                    "Key": "nq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac vien ngo quyen hai phong",
+            "Point": null,
+            "Abbr": "lv nq hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04215"
+        },
+        {
+            "MaPhuongXa": "18223",
+            "TenPhuongXa": "Lương Khánh Thiện",
+            "MaQuanHuyen": "1818",
+            "TenQuanHuyen": "Ngô Quyền",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "lkt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong khanh thien ngo quyen hai phong",
+            "Point": null,
+            "Abbr": "lkt nq hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04207"
+        },
+        {
+            "MaPhuongXa": "18228",
+            "TenPhuongXa": "Gia Viện",
+            "MaQuanHuyen": "1818",
+            "TenQuanHuyen": "Ngô Quyền",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "gv",
+                    "Point": 5
+                },
+                {
+                    "Key": "nq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia vien ngo quyen hai phong",
+            "Point": null,
+            "Abbr": "gv nq hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04213"
+        },
+        {
+            "MaPhuongXa": "18267",
+            "TenPhuongXa": "Đông Khê",
+            "MaQuanHuyen": "1818",
+            "TenQuanHuyen": "Ngô Quyền",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "nq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong khe ngo quyen hai phong",
+            "Point": null,
+            "Abbr": "dk nq hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04214"
+        },
+        {
+            "MaPhuongXa": "18261",
+            "TenPhuongXa": "Đằng Giang",
+            "MaQuanHuyen": "1818",
+            "TenQuanHuyen": "Ngô Quyền",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dg",
+                    "Point": 5
+                },
+                {
+                    "Key": "nq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dang giang ngo quyen hai phong",
+            "Point": null,
+            "Abbr": "dg nq hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04212"
+        },
+        {
+            "MaPhuongXa": "18200",
+            "TenPhuongXa": "Cầu Tre",
+            "MaQuanHuyen": "1818",
+            "TenQuanHuyen": "Ngô Quyền",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "nq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cau tre ngo quyen hai phong",
+            "Point": null,
+            "Abbr": "ct nq hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04216"
+        },
+        {
+            "MaPhuongXa": "18245",
+            "TenPhuongXa": "Lạch Tray",
+            "MaQuanHuyen": "1818",
+            "TenQuanHuyen": "Ngô Quyền",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lach tray ngo quyen hai phong",
+            "Point": null,
+            "Abbr": "lt nq hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04210"
+        },
+        {
+            "MaPhuongXa": "18234",
+            "TenPhuongXa": "Cầu Đất",
+            "MaQuanHuyen": "1818",
+            "TenQuanHuyen": "Ngô Quyền",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cau dat ngo quyen hai phong",
+            "Point": null,
+            "Abbr": "cd nq hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04208"
+        },
+        {
+            "MaPhuongXa": "18239",
+            "TenPhuongXa": "Lê Lợi",
+            "MaQuanHuyen": "1818",
+            "TenQuanHuyen": "Ngô Quyền",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ll",
+                    "Point": 5
+                },
+                {
+                    "Key": "nq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "le loi ngo quyen hai phong",
+            "Point": null,
+            "Abbr": "ll nq hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04209"
+        }
+    ],
+    "1836": [
+        {
+            "MaPhuongXa": "18384",
+            "TenPhuongXa": "Trần Nguyên Hãn",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tnh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran nguyen han le chan hai phong",
+            "Point": null,
+            "Abbr": "tnh lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04710"
+        },
+        {
+            "MaPhuongXa": "18389",
+            "TenPhuongXa": "An Dương",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ad",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an duong le chan hai phong",
+            "Point": null,
+            "Abbr": "ad lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04711"
+        },
+        {
+            "MaPhuongXa": "18473",
+            "TenPhuongXa": "Kênh Dương",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "kd",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kenh duong le chan hai phong",
+            "Point": null,
+            "Abbr": "kd lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04717"
+        },
+        {
+            "MaPhuongXa": "18377",
+            "TenPhuongXa": "Hồ Nam",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ho nam le chan hai phong",
+            "Point": null,
+            "Abbr": "hn lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04709"
+        },
+        {
+            "MaPhuongXa": "18371",
+            "TenPhuongXa": "Cát Dài",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cat dai le chan hai phong",
+            "Point": null,
+            "Abbr": "cd lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04708"
+        },
+        {
+            "MaPhuongXa": "18411",
+            "TenPhuongXa": "Dư Hàng",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "du hang le chan hai phong",
+            "Point": null,
+            "Abbr": "dh lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04720"
+        },
+        {
+            "MaPhuongXa": "18414",
+            "TenPhuongXa": "Hàng Kênh",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hk",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hang kenh le chan hai phong",
+            "Point": null,
+            "Abbr": "hk lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04719"
+        },
+        {
+            "MaPhuongXa": "18419",
+            "TenPhuongXa": "Đông Hải",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong hai le chan hai phong",
+            "Point": null,
+            "Abbr": "dh lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04718"
+        },
+        {
+            "MaPhuongXa": "18424",
+            "TenPhuongXa": "Nghĩa Xá",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "nx",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia xa le chan hai phong",
+            "Point": null,
+            "Abbr": "nx lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04714"
+        },
+        {
+            "MaPhuongXa": "18395",
+            "TenPhuongXa": "Lam Sơn",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lam son le chan hai phong",
+            "Point": null,
+            "Abbr": "ls lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04712"
+        },
+        {
+            "MaPhuongXa": "18366",
+            "TenPhuongXa": "An Biên",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ab",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an bien le chan hai phong",
+            "Point": null,
+            "Abbr": "ab lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04707"
+        },
+        {
+            "MaPhuongXa": "18360",
+            "TenPhuongXa": "Trại Cau",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trai cau le chan hai phong",
+            "Point": null,
+            "Abbr": "tc lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04706"
+        },
+        {
+            "MaPhuongXa": "18403",
+            "TenPhuongXa": "Niệm Nghĩa",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "nn",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "niem nghia le chan hai phong",
+            "Point": null,
+            "Abbr": "nn lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04713"
+        },
+        {
+            "MaPhuongXa": "18430",
+            "TenPhuongXa": "Vĩnh Niệm",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "vn",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh niem le chan hai phong",
+            "Point": null,
+            "Abbr": "vn lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04715"
+        },
+        {
+            "MaPhuongXa": "18439",
+            "TenPhuongXa": "Dư Hàng Kênh",
+            "MaQuanHuyen": "1836",
+            "TenQuanHuyen": "Lê Chân",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dhk",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "du hang kenh le chan hai phong",
+            "Point": null,
+            "Abbr": "dhk lc hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04716"
+        }
+    ],
+    "1851": [
+        {
+            "MaPhuongXa": "18510",
+            "TenPhuongXa": "Trần Thành Ngọ",
+            "MaQuanHuyen": "1851",
+            "TenQuanHuyen": "Kiến An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ttn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ka",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran thanh ngo kien an hai phong",
+            "Point": null,
+            "Abbr": "ttn ka hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04606"
+        },
+        {
+            "MaPhuongXa": "18515",
+            "TenPhuongXa": "Bắc Sơn",
+            "MaQuanHuyen": "1851",
+            "TenQuanHuyen": "Kiến An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "bs",
+                    "Point": 5
+                },
+                {
+                    "Key": "ka",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac son kien an hai phong",
+            "Point": null,
+            "Abbr": "bs ka hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04614"
+        },
+        {
+            "MaPhuongXa": "18514",
+            "TenPhuongXa": "Nam Sơn",
+            "MaQuanHuyen": "1851",
+            "TenQuanHuyen": "Kiến An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "ka",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam son kien an hai phong",
+            "Point": null,
+            "Abbr": "ns ka hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04615"
+        },
+        {
+            "MaPhuongXa": "18517",
+            "TenPhuongXa": "Đồng Hoà",
+            "MaQuanHuyen": "1851",
+            "TenQuanHuyen": "Kiến An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ka",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong hoa kien an hai phong",
+            "Point": null,
+            "Abbr": "dh ka hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04611"
+        },
+        {
+            "MaPhuongXa": "18519",
+            "TenPhuongXa": "Ngọc Sơn",
+            "MaQuanHuyen": "1851",
+            "TenQuanHuyen": "Kiến An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "ka",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc son kien an hai phong",
+            "Point": null,
+            "Abbr": "ns ka hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04607"
+        },
+        {
+            "MaPhuongXa": "18518",
+            "TenPhuongXa": "Quán Trữ",
+            "MaQuanHuyen": "1851",
+            "TenQuanHuyen": "Kiến An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ka",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quan tru kien an hai phong",
+            "Point": null,
+            "Abbr": "qt ka hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04613"
+        },
+        {
+            "MaPhuongXa": "18520",
+            "TenPhuongXa": "Tràng Minh",
+            "MaQuanHuyen": "1851",
+            "TenQuanHuyen": "Kiến An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ka",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trang minh kien an hai phong",
+            "Point": null,
+            "Abbr": "tm ka hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04608"
+        },
+        {
+            "MaPhuongXa": "18522",
+            "TenPhuongXa": "Phù Liễn",
+            "MaQuanHuyen": "1851",
+            "TenQuanHuyen": "Kiến An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ka",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu lien kien an hai phong",
+            "Point": null,
+            "Abbr": "pl ka hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04609"
+        },
+        {
+            "MaPhuongXa": "18524",
+            "TenPhuongXa": "Văn Đẩu",
+            "MaQuanHuyen": "1851",
+            "TenQuanHuyen": "Kiến An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "vd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ka",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van dau kien an hai phong",
+            "Point": null,
+            "Abbr": "vd ka hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04610"
+        },
+        {
+            "MaPhuongXa": "18527",
+            "TenPhuongXa": "Lãm Hà",
+            "MaQuanHuyen": "1851",
+            "TenQuanHuyen": "Kiến An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ka",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lam ha kien an hai phong",
+            "Point": null,
+            "Abbr": "lh ka hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04612"
+        }
+    ],
+    "1871": [
+        {
+            "MaPhuongXa": "18713",
+            "TenPhuongXa": "Ngọc Xuyên",
+            "MaQuanHuyen": "1871",
+            "TenQuanHuyen": "Đồ Sơn",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "nx",
+                    "Point": 5
+                },
+                {
+                    "Key": "ds",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc xuyen do son hai phong",
+            "Point": null,
+            "Abbr": "nx ds hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05006"
+        },
+        {
+            "MaPhuongXa": "18712",
+            "TenPhuongXa": "Ngọc Hải",
+            "MaQuanHuyen": "1871",
+            "TenQuanHuyen": "Đồ Sơn",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ds",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc hai do son hai phong",
+            "Point": null,
+            "Abbr": "nh ds hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05012"
+        },
+        {
+            "MaPhuongXa": "18710",
+            "TenPhuongXa": "Vạn Sơn",
+            "MaQuanHuyen": "1871",
+            "TenQuanHuyen": "Đồ Sơn",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "vs",
+                    "Point": 5
+                },
+                {
+                    "Key": "ds",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van son do son hai phong",
+            "Point": null,
+            "Abbr": "vs ds hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05011"
+        },
+        {
+            "MaPhuongXa": "18716",
+            "TenPhuongXa": "Hợp Đức",
+            "MaQuanHuyen": "1871",
+            "TenQuanHuyen": "Đồ Sơn",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ds",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop duc do son hai phong",
+            "Point": null,
+            "Abbr": "hd ds hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05007"
+        },
+        {
+            "MaPhuongXa": "18715",
+            "TenPhuongXa": "Vạn Hương",
+            "MaQuanHuyen": "1871",
+            "TenQuanHuyen": "Đồ Sơn",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ds",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van huong do son hai phong",
+            "Point": null,
+            "Abbr": "vh ds hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05010"
+        },
+        {
+            "MaPhuongXa": "18714",
+            "TenPhuongXa": "Bàng La",
+            "MaQuanHuyen": "1871",
+            "TenQuanHuyen": "Đồ Sơn",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ds",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bang la do son hai phong",
+            "Point": null,
+            "Abbr": "bl ds hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05009"
+        },
+        {
+            "MaPhuongXa": "18718",
+            "TenPhuongXa": "Minh Đức",
+            "MaQuanHuyen": "1871",
+            "TenQuanHuyen": "Đồ Sơn",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "ds",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh duc do son hai phong",
+            "Point": null,
+            "Abbr": "md ds hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05008"
+        }
+    ],
+    "1810": [
+        {
+            "MaPhuongXa": "18118",
+            "TenPhuongXa": "Sở Dầu",
+            "MaQuanHuyen": "1810",
+            "TenQuanHuyen": "Hồng Bàng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "sd",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so dau hong bang hai phong",
+            "Point": null,
+            "Abbr": "sd hb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04113"
+        },
+        {
+            "MaPhuongXa": "18156",
+            "TenPhuongXa": "Hoàng Văn Thụ",
+            "MaQuanHuyen": "1810",
+            "TenQuanHuyen": "Hồng Bàng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hvt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang van thu hong bang hai phong",
+            "Point": null,
+            "Abbr": "hvt hb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04106"
+        },
+        {
+            "MaPhuongXa": "18122",
+            "TenPhuongXa": "Hùng Vương",
+            "MaQuanHuyen": "1810",
+            "TenQuanHuyen": "Hồng Bàng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung vuong hong bang hai phong",
+            "Point": null,
+            "Abbr": "hv hb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04115"
+        },
+        {
+            "MaPhuongXa": "18128",
+            "TenPhuongXa": "Quán Toan",
+            "MaQuanHuyen": "1810",
+            "TenQuanHuyen": "Hồng Bàng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quan toan hong bang hai phong",
+            "Point": null,
+            "Abbr": "qt hb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04116"
+        },
+        {
+            "MaPhuongXa": "18107",
+            "TenPhuongXa": "Hạ Lý",
+            "MaQuanHuyen": "1810",
+            "TenQuanHuyen": "Hồng Bàng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha ly hong bang hai phong",
+            "Point": null,
+            "Abbr": "hl hb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04111"
+        },
+        {
+            "MaPhuongXa": "18100",
+            "TenPhuongXa": "Minh Khai",
+            "MaQuanHuyen": "1810",
+            "TenQuanHuyen": "Hồng Bàng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "mk",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh khai hong bang hai phong",
+            "Point": null,
+            "Abbr": "mk hb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04107"
+        },
+        {
+            "MaPhuongXa": "18108",
+            "TenPhuongXa": "Thượng Lý",
+            "MaQuanHuyen": "1810",
+            "TenQuanHuyen": "Hồng Bàng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong ly hong bang hai phong",
+            "Point": null,
+            "Abbr": "tl hb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04112"
+        },
+        {
+            "MaPhuongXa": "18135",
+            "TenPhuongXa": "Phạm Hồng Thái",
+            "MaQuanHuyen": "1810",
+            "TenQuanHuyen": "Hồng Bàng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "pht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pham hong thai hong bang hai phong",
+            "Point": null,
+            "Abbr": "pht hb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04110"
+        },
+        {
+            "MaPhuongXa": "18137",
+            "TenPhuongXa": "Trại Chuối",
+            "MaQuanHuyen": "1810",
+            "TenQuanHuyen": "Hồng Bàng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trai chuoi hong bang hai phong",
+            "Point": null,
+            "Abbr": "tc hb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04114"
+        },
+        {
+            "MaPhuongXa": "18131",
+            "TenPhuongXa": "Quang Trung",
+            "MaQuanHuyen": "1810",
+            "TenQuanHuyen": "Hồng Bàng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang trung hong bang hai phong",
+            "Point": null,
+            "Abbr": "qt hb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04108"
+        },
+        {
+            "MaPhuongXa": "18133",
+            "TenPhuongXa": "Phan Bội Châu",
+            "MaQuanHuyen": "1810",
+            "TenQuanHuyen": "Hồng Bàng",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "pbc",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phan boi chau hong bang hai phong",
+            "Point": null,
+            "Abbr": "pbc hb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04109"
+        }
+    ],
+    "1830": [
+        {
+            "MaPhuongXa": "18317",
+            "TenPhuongXa": "Thủy Đường",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy duong thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "td tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04307"
+        },
+        {
+            "MaPhuongXa": "18316",
+            "TenPhuongXa": "Gia Minh",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "gm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia minh thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "gm tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04320"
+        },
+        {
+            "MaPhuongXa": "18315",
+            "TenPhuongXa": "Minh Tân",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh tan thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "mt tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04319"
+        },
+        {
+            "MaPhuongXa": "18314",
+            "TenPhuongXa": "Ngũ Lão",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngu lao thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "nl tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04316"
+        },
+        {
+            "MaPhuongXa": "18313",
+            "TenPhuongXa": "Trung Hà",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung ha thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "th tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04310"
+        },
+        {
+            "MaPhuongXa": "18312",
+            "TenPhuongXa": "Hoà Bình",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "hb tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04308"
+        },
+        {
+            "MaPhuongXa": "18311",
+            "TenPhuongXa": "Gia Đức",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "gd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia duc thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "gd tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04318"
+        },
+        {
+            "MaPhuongXa": "18319",
+            "TenPhuongXa": "Kênh Giang",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "kg",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kenh giang thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "kg tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04331"
+        },
+        {
+            "MaPhuongXa": "18318",
+            "TenPhuongXa": "Đông Sơn",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong son thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "ds tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04332"
+        },
+        {
+            "MaPhuongXa": "18327",
+            "TenPhuongXa": "Kiền Bái",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "kb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kien bai thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "kb tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04335"
+        },
+        {
+            "MaPhuongXa": "18326",
+            "TenPhuongXa": "Lại Xuân",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "lx",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lai xuan thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "lx tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04324"
+        },
+        {
+            "MaPhuongXa": "18325",
+            "TenPhuongXa": "Kỳ Sơn",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ks",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ky son thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "ks tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04323"
+        },
+        {
+            "MaPhuongXa": "18324",
+            "TenPhuongXa": "Chính Mỹ",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chinh my thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "cm tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04329"
+        },
+        {
+            "MaPhuongXa": "18323",
+            "TenPhuongXa": "Mỹ Đồng",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my dong thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "md tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04333"
+        },
+        {
+            "MaPhuongXa": "18321",
+            "TenPhuongXa": "Liên Khê",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "lk",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien khe thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "lk tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04322"
+        },
+        {
+            "MaPhuongXa": "18320",
+            "TenPhuongXa": "Lưu Kiếm",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "lk",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luu kiem thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "lk tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04330"
+        },
+        {
+            "MaPhuongXa": "18329",
+            "TenPhuongXa": "Hợp Thành",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop thanh thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "ht tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04327"
+        },
+        {
+            "MaPhuongXa": "18328",
+            "TenPhuongXa": "Cao Nhân",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao nhan thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "cn tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04334"
+        },
+        {
+            "MaPhuongXa": "18307",
+            "TenPhuongXa": "Phục Lễ",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuc le thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "pl tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04315"
+        },
+        {
+            "MaPhuongXa": "18305",
+            "TenPhuongXa": "Phả Lễ",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pha le thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "pl tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04313"
+        },
+        {
+            "MaPhuongXa": "18304",
+            "TenPhuongXa": "Thủy Triều",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy trieu thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "tt tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04311"
+        },
+        {
+            "MaPhuongXa": "18302",
+            "TenPhuongXa": "An Lư",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "al",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an lu thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "al tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04309"
+        },
+        {
+            "MaPhuongXa": "18301",
+            "TenPhuongXa": "Thủy Sơn",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy son thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "ts tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04339"
+        },
+        {
+            "MaPhuongXa": "18300",
+            "TenPhuongXa": "Núi Đèo",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nui deo thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "nd tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04306"
+        },
+        {
+            "MaPhuongXa": "18309",
+            "TenPhuongXa": "Minh Đức",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh duc thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "md tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04317"
+        },
+        {
+            "MaPhuongXa": "18308",
+            "TenPhuongXa": "Tam Hưng",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam hung thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "th tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04314"
+        },
+        {
+            "MaPhuongXa": "18342",
+            "TenPhuongXa": "Lưu Kỳ",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "lk",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luu ky thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "lk tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04321"
+        },
+        {
+            "MaPhuongXa": "18340",
+            "TenPhuongXa": "Lập Lễ",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ll",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lap le thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "ll tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04312"
+        },
+        {
+            "MaPhuongXa": "18337",
+            "TenPhuongXa": "Tân Dương",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan duong thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "td tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04341"
+        },
+        {
+            "MaPhuongXa": "18336",
+            "TenPhuongXa": "Hoa Động",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa dong thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "hd tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04340"
+        },
+        {
+            "MaPhuongXa": "18335",
+            "TenPhuongXa": "Lâm Động",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lam dong thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "ld tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04337"
+        },
+        {
+            "MaPhuongXa": "18334",
+            "TenPhuongXa": "Hoàng Động",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang dong thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "hd tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04336"
+        },
+        {
+            "MaPhuongXa": "18333",
+            "TenPhuongXa": "Thiên Hương",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thien huong thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "th tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04338"
+        },
+        {
+            "MaPhuongXa": "18332",
+            "TenPhuongXa": "An Sơn",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "as",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an son thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "as tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04325"
+        },
+        {
+            "MaPhuongXa": "18331",
+            "TenPhuongXa": "Phù Ninh",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu ninh thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "pn tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04326"
+        },
+        {
+            "MaPhuongXa": "18330",
+            "TenPhuongXa": "Quảng Thanh",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang thanh thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "qt tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04328"
+        },
+        {
+            "MaPhuongXa": "18339",
+            "TenPhuongXa": "Dương Quan",
+            "MaQuanHuyen": "1830",
+            "TenQuanHuyen": "Thuỷ Nguyên",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dq",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duong quan thuy nguyen hai phong",
+            "Point": null,
+            "Abbr": "dq tn hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04342"
+        }
+    ],
+    "1862": [
+        {
+            "MaPhuongXa": "18652",
+            "TenPhuongXa": "Tam Cường",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam cuong vinh bao hai phong",
+            "Point": null,
+            "Abbr": "tc vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05327"
+        },
+        {
+            "MaPhuongXa": "18653",
+            "TenPhuongXa": "Tam Đa",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam da vinh bao hai phong",
+            "Point": null,
+            "Abbr": "td vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05335"
+        },
+        {
+            "MaPhuongXa": "18651",
+            "TenPhuongXa": "Cao Minh",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao minh vinh bao hai phong",
+            "Point": null,
+            "Abbr": "cm vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05326"
+        },
+        {
+            "MaPhuongXa": "18656",
+            "TenPhuongXa": "Vĩnh Tiến",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh tien vinh bao hai phong",
+            "Point": null,
+            "Abbr": "vt vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05329"
+        },
+        {
+            "MaPhuongXa": "18657",
+            "TenPhuongXa": "Lý Học",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ly hoc vinh bao hai phong",
+            "Point": null,
+            "Abbr": "lh vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05332"
+        },
+        {
+            "MaPhuongXa": "18655",
+            "TenPhuongXa": "Cổ Am",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ca",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "co am vinh bao hai phong",
+            "Point": null,
+            "Abbr": "ca vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05328"
+        },
+        {
+            "MaPhuongXa": "18658",
+            "TenPhuongXa": "Hoà Bình",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh vinh bao hai phong",
+            "Point": null,
+            "Abbr": "hb vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05331"
+        },
+        {
+            "MaPhuongXa": "18659",
+            "TenPhuongXa": "Trấn Dương",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran duong vinh bao hai phong",
+            "Point": null,
+            "Abbr": "td vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05330"
+        },
+        {
+            "MaPhuongXa": "18620",
+            "TenPhuongXa": "Vĩnh Bảo",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "vb",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh bao vinh bao hai phong",
+            "Point": null,
+            "Abbr": "vb vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05306"
+        },
+        {
+            "MaPhuongXa": "18626",
+            "TenPhuongXa": "Vĩnh An",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "va",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh an vinh bao hai phong",
+            "Point": null,
+            "Abbr": "va vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05309"
+        },
+        {
+            "MaPhuongXa": "18627",
+            "TenPhuongXa": "Giang Biên",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "gb",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giang bien vinh bao hai phong",
+            "Point": null,
+            "Abbr": "gb vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05310"
+        },
+        {
+            "MaPhuongXa": "18624",
+            "TenPhuongXa": "Tân Liên",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lien vinh bao hai phong",
+            "Point": null,
+            "Abbr": "tl vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05307"
+        },
+        {
+            "MaPhuongXa": "18628",
+            "TenPhuongXa": "Việt Tiến",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet tien vinh bao hai phong",
+            "Point": null,
+            "Abbr": "vt vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05308"
+        },
+        {
+            "MaPhuongXa": "18629",
+            "TenPhuongXa": "Dũng Tiến",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dung tien vinh bao hai phong",
+            "Point": null,
+            "Abbr": "dt vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05311"
+        },
+        {
+            "MaPhuongXa": "18642",
+            "TenPhuongXa": "Tiền Phong",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien phong vinh bao hai phong",
+            "Point": null,
+            "Abbr": "tp vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05321"
+        },
+        {
+            "MaPhuongXa": "18643",
+            "TenPhuongXa": "Vĩnh Phong",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "vp",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh phong vinh bao hai phong",
+            "Point": null,
+            "Abbr": "vp vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05322"
+        },
+        {
+            "MaPhuongXa": "18641",
+            "TenPhuongXa": "Đồng Minh",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong minh vinh bao hai phong",
+            "Point": null,
+            "Abbr": "dm vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05320"
+        },
+        {
+            "MaPhuongXa": "18646",
+            "TenPhuongXa": "Thanh Lương",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh luong vinh bao hai phong",
+            "Point": null,
+            "Abbr": "tl vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05324"
+        },
+        {
+            "MaPhuongXa": "18647",
+            "TenPhuongXa": "Cộng Hiền",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cong hien vinh bao hai phong",
+            "Point": null,
+            "Abbr": "ch vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05323"
+        },
+        {
+            "MaPhuongXa": "18644",
+            "TenPhuongXa": "Nhân Hoà",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhan hoa vinh bao hai phong",
+            "Point": null,
+            "Abbr": "nh vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05334"
+        },
+        {
+            "MaPhuongXa": "18645",
+            "TenPhuongXa": "Vinh Quang",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "vq",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh quang vinh bao hai phong",
+            "Point": null,
+            "Abbr": "vq vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05333"
+        },
+        {
+            "MaPhuongXa": "18648",
+            "TenPhuongXa": "Liên Am",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "la",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien am vinh bao hai phong",
+            "Point": null,
+            "Abbr": "la vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05325"
+        },
+        {
+            "MaPhuongXa": "18632",
+            "TenPhuongXa": "Tân Hưng",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hung vinh bao hai phong",
+            "Point": null,
+            "Abbr": "th vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05317"
+        },
+        {
+            "MaPhuongXa": "18633",
+            "TenPhuongXa": "Hùng Tiến",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung tien vinh bao hai phong",
+            "Point": null,
+            "Abbr": "ht vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05316"
+        },
+        {
+            "MaPhuongXa": "18630",
+            "TenPhuongXa": "Trung Lập",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung lap vinh bao hai phong",
+            "Point": null,
+            "Abbr": "tl vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05312"
+        },
+        {
+            "MaPhuongXa": "18631",
+            "TenPhuongXa": "Thắng Thủy",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thang thuy vinh bao hai phong",
+            "Point": null,
+            "Abbr": "tt vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05313"
+        },
+        {
+            "MaPhuongXa": "18636",
+            "TenPhuongXa": "Hiệp Hoà",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep hoa vinh bao hai phong",
+            "Point": null,
+            "Abbr": "hh vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05315"
+        },
+        {
+            "MaPhuongXa": "18637",
+            "TenPhuongXa": "An Hoà",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hoa vinh bao hai phong",
+            "Point": null,
+            "Abbr": "ah vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05318"
+        },
+        {
+            "MaPhuongXa": "18635",
+            "TenPhuongXa": "Vĩnh Long",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh long vinh bao hai phong",
+            "Point": null,
+            "Abbr": "vl vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05314"
+        },
+        {
+            "MaPhuongXa": "18639",
+            "TenPhuongXa": "Hưng Nhân",
+            "MaQuanHuyen": "1862",
+            "TenQuanHuyen": "Vĩnh Bảo",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung nhan vinh bao hai phong",
+            "Point": null,
+            "Abbr": "hn vb hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05319"
+        }
+    ],
+    "1853": [
+        {
+            "MaPhuongXa": "18550",
+            "TenPhuongXa": "An Thọ",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an tho an lao hai phong",
+            "Point": null,
+            "Abbr": "at al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04516"
+        },
+        {
+            "MaPhuongXa": "18553",
+            "TenPhuongXa": "An Thái",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thai an lao hai phong",
+            "Point": null,
+            "Abbr": "at al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04520"
+        },
+        {
+            "MaPhuongXa": "18552",
+            "TenPhuongXa": "Thái Sơn",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai son an lao hai phong",
+            "Point": null,
+            "Abbr": "ts al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04519"
+        },
+        {
+            "MaPhuongXa": "18541",
+            "TenPhuongXa": "Quốc Tuấn",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quoc tuan an lao hai phong",
+            "Point": null,
+            "Abbr": "qt al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04513"
+        },
+        {
+            "MaPhuongXa": "18540",
+            "TenPhuongXa": "Quang Hưng",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "qh",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang hung an lao hai phong",
+            "Point": null,
+            "Abbr": "qh al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04511"
+        },
+        {
+            "MaPhuongXa": "18543",
+            "TenPhuongXa": "Tân Viên",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan vien an lao hai phong",
+            "Point": null,
+            "Abbr": "tv al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04514"
+        },
+        {
+            "MaPhuongXa": "18542",
+            "TenPhuongXa": "Quang Trung",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang trung an lao hai phong",
+            "Point": null,
+            "Abbr": "qt al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04512"
+        },
+        {
+            "MaPhuongXa": "18544",
+            "TenPhuongXa": "Chiến Thắng",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chien thang an lao hai phong",
+            "Point": null,
+            "Abbr": "ct al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04515"
+        },
+        {
+            "MaPhuongXa": "18546",
+            "TenPhuongXa": "Tân Dân",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan dan an lao hai phong",
+            "Point": null,
+            "Abbr": "td al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04517"
+        },
+        {
+            "MaPhuongXa": "18548",
+            "TenPhuongXa": "Mỹ Đức",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my duc an lao hai phong",
+            "Point": null,
+            "Abbr": "md al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04518"
+        },
+        {
+            "MaPhuongXa": "18530",
+            "TenPhuongXa": "An Lão",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "al",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an lao an lao hai phong",
+            "Point": null,
+            "Abbr": "al al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04506"
+        },
+        {
+            "MaPhuongXa": "18533",
+            "TenPhuongXa": "Trường Sơn",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truong son an lao hai phong",
+            "Point": null,
+            "Abbr": "ts al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04521"
+        },
+        {
+            "MaPhuongXa": "18532",
+            "TenPhuongXa": "An Thắng",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thang an lao hai phong",
+            "Point": null,
+            "Abbr": "at al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04522"
+        },
+        {
+            "MaPhuongXa": "18535",
+            "TenPhuongXa": "Trường Thành",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truong thanh an lao hai phong",
+            "Point": null,
+            "Abbr": "tt al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04508"
+        },
+        {
+            "MaPhuongXa": "18534",
+            "TenPhuongXa": "An Tiến",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an tien an lao hai phong",
+            "Point": null,
+            "Abbr": "at al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04507"
+        },
+        {
+            "MaPhuongXa": "18537",
+            "TenPhuongXa": "Trường Thọ",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truong tho an lao hai phong",
+            "Point": null,
+            "Abbr": "tt al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04509"
+        },
+        {
+            "MaPhuongXa": "18538",
+            "TenPhuongXa": "Bát Trang",
+            "MaQuanHuyen": "1853",
+            "TenQuanHuyen": "An Lão",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bat trang an lao hai phong",
+            "Point": null,
+            "Abbr": "bt al hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04510"
+        }
+    ],
+    "1875": [
+        {
+            "MaPhuongXa": "18752",
+            "TenPhuongXa": "Đằng Hải",
+            "MaQuanHuyen": "1875",
+            "TenQuanHuyen": "Hải An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ha",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dang hai hai an hai phong",
+            "Point": null,
+            "Abbr": "dh ha hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04813"
+        },
+        {
+            "MaPhuongXa": "18750",
+            "TenPhuongXa": "Đằng Lâm",
+            "MaQuanHuyen": "1875",
+            "TenQuanHuyen": "Hải An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ha",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dang lam hai an hai phong",
+            "Point": null,
+            "Abbr": "dl ha hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04806"
+        },
+        {
+            "MaPhuongXa": "18755",
+            "TenPhuongXa": "Đông Hải 1",
+            "MaQuanHuyen": "1875",
+            "TenQuanHuyen": "Hải An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dh1",
+                    "Point": 5
+                },
+                {
+                    "Key": "ha",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong hai 1 hai an hai phong",
+            "Point": null,
+            "Abbr": "dh1 ha hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04812"
+        },
+        {
+            "MaPhuongXa": "18758",
+            "TenPhuongXa": "Nam Hải",
+            "MaQuanHuyen": "1875",
+            "TenQuanHuyen": "Hải An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ha",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam hai hai an hai phong",
+            "Point": null,
+            "Abbr": "nh ha hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04810"
+        },
+        {
+            "MaPhuongXa": "18762",
+            "TenPhuongXa": "Cát Bi",
+            "MaQuanHuyen": "1875",
+            "TenQuanHuyen": "Hải An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ha",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cat bi hai an hai phong",
+            "Point": null,
+            "Abbr": "cb ha hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04807"
+        },
+        {
+            "MaPhuongXa": "18760",
+            "TenPhuongXa": "Tràng Cát",
+            "MaQuanHuyen": "1875",
+            "TenQuanHuyen": "Hải An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ha",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trang cat hai an hai phong",
+            "Point": null,
+            "Abbr": "tc ha hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04809"
+        },
+        {
+            "MaPhuongXa": "18766",
+            "TenPhuongXa": "Thành Tô",
+            "MaQuanHuyen": "1875",
+            "TenQuanHuyen": "Hải An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ha",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh to hai an hai phong",
+            "Point": null,
+            "Abbr": "tt ha hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04808"
+        },
+        {
+            "MaPhuongXa": "18765",
+            "TenPhuongXa": "Đông Hải 2",
+            "MaQuanHuyen": "1875",
+            "TenQuanHuyen": "Hải An",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dh2",
+                    "Point": 5
+                },
+                {
+                    "Key": "ha",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong hai 2 hai an hai phong",
+            "Point": null,
+            "Abbr": "dh2 ha hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04811"
+        }
+    ],
+    "1872": [
+        {
+            "MaPhuongXa": "18720",
+            "TenPhuongXa": "Bạch Long Vĩ",
+            "MaQuanHuyen": "1872",
+            "TenQuanHuyen": "Bạch Long Vĩ",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "blv",
+                    "Point": 5
+                },
+                {
+                    "Key": "blv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bach long vi bach long vi hai phong",
+            "Point": null,
+            "Abbr": "blv blv hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05500"
+        }
+    ],
+    "1873": [
+        {
+            "MaPhuongXa": "18742",
+            "TenPhuongXa": "Hoàng Châu",
+            "MaQuanHuyen": "1873",
+            "TenQuanHuyen": "Cát Hải",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang chau cat hai hai phong",
+            "Point": null,
+            "Abbr": "hc ch hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05412"
+        },
+        {
+            "MaPhuongXa": "18741",
+            "TenPhuongXa": "Nghĩa Lộ",
+            "MaQuanHuyen": "1873",
+            "TenQuanHuyen": "Cát Hải",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia lo cat hai hai phong",
+            "Point": null,
+            "Abbr": "nl ch hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05411"
+        },
+        {
+            "MaPhuongXa": "18740",
+            "TenPhuongXa": "Văn Phong",
+            "MaQuanHuyen": "1873",
+            "TenQuanHuyen": "Cát Hải",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "vp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van phong cat hai hai phong",
+            "Point": null,
+            "Abbr": "vp ch hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05413"
+        },
+        {
+            "MaPhuongXa": "18733",
+            "TenPhuongXa": "Trân Châu",
+            "MaQuanHuyen": "1873",
+            "TenQuanHuyen": "Cát Hải",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran chau cat hai hai phong",
+            "Point": null,
+            "Abbr": "tc ch hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05417"
+        },
+        {
+            "MaPhuongXa": "18732",
+            "TenPhuongXa": "Việt Hải",
+            "MaQuanHuyen": "1873",
+            "TenQuanHuyen": "Cát Hải",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet hai cat hai hai phong",
+            "Point": null,
+            "Abbr": "vh ch hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05407"
+        },
+        {
+            "MaPhuongXa": "18730",
+            "TenPhuongXa": "Cát Bà",
+            "MaQuanHuyen": "1873",
+            "TenQuanHuyen": "Cát Hải",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cat ba cat hai hai phong",
+            "Point": null,
+            "Abbr": "cb ch hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05406"
+        },
+        {
+            "MaPhuongXa": "18737",
+            "TenPhuongXa": "Phù Long",
+            "MaQuanHuyen": "1873",
+            "TenQuanHuyen": "Cát Hải",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu long cat hai hai phong",
+            "Point": null,
+            "Abbr": "pl ch hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05409"
+        },
+        {
+            "MaPhuongXa": "18736",
+            "TenPhuongXa": "Hiền Hào",
+            "MaQuanHuyen": "1873",
+            "TenQuanHuyen": "Cát Hải",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hien hao cat hai hai phong",
+            "Point": null,
+            "Abbr": "hh ch hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05415"
+        },
+        {
+            "MaPhuongXa": "18735",
+            "TenPhuongXa": "Xuân Đám",
+            "MaQuanHuyen": "1873",
+            "TenQuanHuyen": "Cát Hải",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "xd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan dam cat hai hai phong",
+            "Point": null,
+            "Abbr": "xd ch hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05416"
+        },
+        {
+            "MaPhuongXa": "18734",
+            "TenPhuongXa": "Gia Luận",
+            "MaQuanHuyen": "1873",
+            "TenQuanHuyen": "Cát Hải",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "gl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia luan cat hai hai phong",
+            "Point": null,
+            "Abbr": "gl ch hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05408"
+        },
+        {
+            "MaPhuongXa": "18739",
+            "TenPhuongXa": "Đồng Bài",
+            "MaQuanHuyen": "1873",
+            "TenQuanHuyen": "Cát Hải",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong bai cat hai hai phong",
+            "Point": null,
+            "Abbr": "db ch hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05410"
+        },
+        {
+            "MaPhuongXa": "18738",
+            "TenPhuongXa": "Cát Hải",
+            "MaQuanHuyen": "1873",
+            "TenQuanHuyen": "Cát Hải",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cat hai cat hai hai phong",
+            "Point": null,
+            "Abbr": "ch ch hp",
+            "TrangThai": null,
+            "MaBuuChinh": "05414"
+        }
+    ],
+    "1883": [
+        {
+            "MaPhuongXa": "18834",
+            "TenPhuongXa": "Hưng Đạo",
+            "MaQuanHuyen": "1883",
+            "TenQuanHuyen": "Dương Kinh",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung dao duong kinh hai phong",
+            "Point": null,
+            "Abbr": "hd dk hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04907"
+        },
+        {
+            "MaPhuongXa": "18835",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "1883",
+            "TenQuanHuyen": "Dương Kinh",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh duong kinh hai phong",
+            "Point": null,
+            "Abbr": "tt dk hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04911"
+        },
+        {
+            "MaPhuongXa": "18830",
+            "TenPhuongXa": "Anh Dũng",
+            "MaQuanHuyen": "1883",
+            "TenQuanHuyen": "Dương Kinh",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ad",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "anh dung duong kinh hai phong",
+            "Point": null,
+            "Abbr": "ad dk hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04906"
+        },
+        {
+            "MaPhuongXa": "18831",
+            "TenPhuongXa": "Đa Phúc",
+            "MaQuanHuyen": "1883",
+            "TenQuanHuyen": "Dương Kinh",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da phuc duong kinh hai phong",
+            "Point": null,
+            "Abbr": "dp dk hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04908"
+        },
+        {
+            "MaPhuongXa": "18832",
+            "TenPhuongXa": "Hải Thành",
+            "MaQuanHuyen": "1883",
+            "TenQuanHuyen": "Dương Kinh",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai thanh duong kinh hai phong",
+            "Point": null,
+            "Abbr": "ht dk hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04909"
+        },
+        {
+            "MaPhuongXa": "18833",
+            "TenPhuongXa": "Hoà Nghĩa",
+            "MaQuanHuyen": "1883",
+            "TenQuanHuyen": "Dương Kinh",
+            "MaTinhThanh": "18",
+            "TenTinhThanh": "Hải Phòng",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "hp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa nghia duong kinh hai phong",
+            "Point": null,
+            "Abbr": "hn dk hp",
+            "TrangThai": null,
+            "MaBuuChinh": "04910"
+        }
+    ]
+}

@@ -1,0 +1,2961 @@
+{
+    "8921": [
+        {
+            "MaPhuongXa": "89224",
+            "TenPhuongXa": "Mỹ Hoà",
+            "MaQuanHuyen": "8921",
+            "TenQuanHuyen": "Bình Minh",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my hoa binh minh vinh long",
+            "Point": null,
+            "Abbr": "mh bm vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85510"
+        },
+        {
+            "MaPhuongXa": "89222",
+            "TenPhuongXa": "Đông Thành",
+            "MaQuanHuyen": "8921",
+            "TenQuanHuyen": "Bình Minh",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong thanh binh minh vinh long",
+            "Point": null,
+            "Abbr": "dt bm vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85513"
+        },
+        {
+            "MaPhuongXa": "89221",
+            "TenPhuongXa": "Đông Thạnh",
+            "MaQuanHuyen": "8921",
+            "TenQuanHuyen": "Bình Minh",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong thanh binh minh vinh long",
+            "Point": null,
+            "Abbr": "dt bm vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85512"
+        },
+        {
+            "MaPhuongXa": "89219",
+            "TenPhuongXa": "Đông Bình",
+            "MaQuanHuyen": "8921",
+            "TenQuanHuyen": "Bình Minh",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong binh binh minh vinh long",
+            "Point": null,
+            "Abbr": "db bm vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85511"
+        },
+        {
+            "MaPhuongXa": "89217",
+            "TenPhuongXa": "Thành Phước",
+            "MaQuanHuyen": "8921",
+            "TenQuanHuyen": "Bình Minh",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh phuoc binh minh vinh long",
+            "Point": null,
+            "Abbr": "tp bm vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85509"
+        },
+        {
+            "MaPhuongXa": "89215",
+            "TenPhuongXa": "Đông Thuận",
+            "MaQuanHuyen": "8921",
+            "TenQuanHuyen": "Bình Minh",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong thuan binh minh vinh long",
+            "Point": null,
+            "Abbr": "dt bm vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85507"
+        },
+        {
+            "MaPhuongXa": "89212",
+            "TenPhuongXa": "Thuận An",
+            "MaQuanHuyen": "8921",
+            "TenQuanHuyen": "Bình Minh",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuan an binh minh vinh long",
+            "Point": null,
+            "Abbr": "ta bm vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85508"
+        },
+        {
+            "MaPhuongXa": "89210",
+            "TenPhuongXa": "Cái Vồn",
+            "MaQuanHuyen": "8921",
+            "TenQuanHuyen": "Bình Minh",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "cv",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cai von binh minh vinh long",
+            "Point": null,
+            "Abbr": "cv bm vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85506"
+        }
+    ],
+    "8929": [
+        {
+            "MaPhuongXa": "89324",
+            "TenPhuongXa": "Qưới Thiện",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quoi thien vung liem vinh long",
+            "Point": null,
+            "Abbr": "qt vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85722"
+        },
+        {
+            "MaPhuongXa": "89322",
+            "TenPhuongXa": "Thanh Bình",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh binh vung liem vinh long",
+            "Point": null,
+            "Abbr": "tb vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85721"
+        },
+        {
+            "MaPhuongXa": "89320",
+            "TenPhuongXa": "Tân Qưới Trung",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tqt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan quoi trung vung liem vinh long",
+            "Point": null,
+            "Abbr": "tqt vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85709"
+        },
+        {
+            "MaPhuongXa": "89318",
+            "TenPhuongXa": "Qưới An",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "qa",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quoi an vung liem vinh long",
+            "Point": null,
+            "Abbr": "qa vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85708"
+        },
+        {
+            "MaPhuongXa": "89316",
+            "TenPhuongXa": "Trung An",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung an vung liem vinh long",
+            "Point": null,
+            "Abbr": "ta vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85718"
+        },
+        {
+            "MaPhuongXa": "89314",
+            "TenPhuongXa": "Trung Thành Tây",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ttt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung thanh tay vung liem vinh long",
+            "Point": null,
+            "Abbr": "ttt vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85707"
+        },
+        {
+            "MaPhuongXa": "89312",
+            "TenPhuongXa": "Trung Nghĩa",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung nghia vung liem vinh long",
+            "Point": null,
+            "Abbr": "tn vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85720"
+        },
+        {
+            "MaPhuongXa": "89313",
+            "TenPhuongXa": "Trung Thành Đông",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ttd",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung thanh dong vung liem vinh long",
+            "Point": null,
+            "Abbr": "ttd vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85713"
+        },
+        {
+            "MaPhuongXa": "89310",
+            "TenPhuongXa": "Trung Ngãi",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung ngai vung liem vinh long",
+            "Point": null,
+            "Abbr": "tn vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85719"
+        },
+        {
+            "MaPhuongXa": "89299",
+            "TenPhuongXa": "Hiếu Thuận",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hieu thuan vung liem vinh long",
+            "Point": null,
+            "Abbr": "ht vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85717"
+        },
+        {
+            "MaPhuongXa": "89297",
+            "TenPhuongXa": "Hiếu Phụng",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hieu phung vung liem vinh long",
+            "Point": null,
+            "Abbr": "hp vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85716"
+        },
+        {
+            "MaPhuongXa": "89295",
+            "TenPhuongXa": "Trung Chánh",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung chanh vung liem vinh long",
+            "Point": null,
+            "Abbr": "tc vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85710"
+        },
+        {
+            "MaPhuongXa": "89293",
+            "TenPhuongXa": "Trung Hiệp",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung hiep vung liem vinh long",
+            "Point": null,
+            "Abbr": "th vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85712"
+        },
+        {
+            "MaPhuongXa": "89291",
+            "TenPhuongXa": "Trung Hiếu",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung hieu vung liem vinh long",
+            "Point": null,
+            "Abbr": "th vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85715"
+        },
+        {
+            "MaPhuongXa": "89290",
+            "TenPhuongXa": "Vũng Liêm",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vung liem vung liem vinh long",
+            "Point": null,
+            "Abbr": "vl vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85706"
+        },
+        {
+            "MaPhuongXa": "89308",
+            "TenPhuongXa": "Trung Thành",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung thanh vung liem vinh long",
+            "Point": null,
+            "Abbr": "tt vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85714"
+        },
+        {
+            "MaPhuongXa": "89306",
+            "TenPhuongXa": "Tân An Luông",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tal",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan an luong vung liem vinh long",
+            "Point": null,
+            "Abbr": "tal vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85711"
+        },
+        {
+            "MaPhuongXa": "89304",
+            "TenPhuongXa": "Hiếu Nghĩa",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hieu nghia vung liem vinh long",
+            "Point": null,
+            "Abbr": "hn vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85725"
+        },
+        {
+            "MaPhuongXa": "89302",
+            "TenPhuongXa": "Hiếu Thành",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hieu thanh vung liem vinh long",
+            "Point": null,
+            "Abbr": "ht vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85724"
+        },
+        {
+            "MaPhuongXa": "89300",
+            "TenPhuongXa": "Hiếu Nhơn",
+            "MaQuanHuyen": "8929",
+            "TenQuanHuyen": "Vũng Liêm",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hieu nhon vung liem vinh long",
+            "Point": null,
+            "Abbr": "hn vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85723"
+        }
+    ],
+    "8913": [
+        {
+            "MaPhuongXa": "89149",
+            "TenPhuongXa": "Phước Hậu",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc hau long ho vinh long",
+            "Point": null,
+            "Abbr": "ph lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85213"
+        },
+        {
+            "MaPhuongXa": "89145",
+            "TenPhuongXa": "Hoà Phú",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa phu long ho vinh long",
+            "Point": null,
+            "Abbr": "hp lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85217"
+        },
+        {
+            "MaPhuongXa": "89147",
+            "TenPhuongXa": "Lộc Hoà",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc hoa long ho vinh long",
+            "Point": null,
+            "Abbr": "lh lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85218"
+        },
+        {
+            "MaPhuongXa": "89141",
+            "TenPhuongXa": "Phú Qưới",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "pq",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu quoi long ho vinh long",
+            "Point": null,
+            "Abbr": "pq lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85216"
+        },
+        {
+            "MaPhuongXa": "89143",
+            "TenPhuongXa": "Thạnh Qưới",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tq",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh quoi long ho vinh long",
+            "Point": null,
+            "Abbr": "tq lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85215"
+        },
+        {
+            "MaPhuongXa": "89139",
+            "TenPhuongXa": "Tân Hạnh",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hanh long ho vinh long",
+            "Point": null,
+            "Abbr": "th lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85214"
+        },
+        {
+            "MaPhuongXa": "89134",
+            "TenPhuongXa": "Bình Hoà Phước",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "bhp",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh hoa phuoc long ho vinh long",
+            "Point": null,
+            "Abbr": "bhp lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85208"
+        },
+        {
+            "MaPhuongXa": "89135",
+            "TenPhuongXa": "Đồng Phú",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong phu long ho vinh long",
+            "Point": null,
+            "Abbr": "dp lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85209"
+        },
+        {
+            "MaPhuongXa": "89137",
+            "TenPhuongXa": "An Bình",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ab",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an binh long ho vinh long",
+            "Point": null,
+            "Abbr": "ab lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85211"
+        },
+        {
+            "MaPhuongXa": "89130",
+            "TenPhuongXa": "Long Hồ",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long ho long ho vinh long",
+            "Point": null,
+            "Abbr": "lh lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85206"
+        },
+        {
+            "MaPhuongXa": "89131",
+            "TenPhuongXa": "Thanh Đức",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh duc long ho vinh long",
+            "Point": null,
+            "Abbr": "td lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85207"
+        },
+        {
+            "MaPhuongXa": "89133",
+            "TenPhuongXa": "Hoà Ninh",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa ninh long ho vinh long",
+            "Point": null,
+            "Abbr": "hn lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85210"
+        },
+        {
+            "MaPhuongXa": "89154",
+            "TenPhuongXa": "Long An",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "la",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long an long ho vinh long",
+            "Point": null,
+            "Abbr": "la lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85220"
+        },
+        {
+            "MaPhuongXa": "89150",
+            "TenPhuongXa": "Long Phước",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long phuoc long ho vinh long",
+            "Point": null,
+            "Abbr": "lp lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85212"
+        },
+        {
+            "MaPhuongXa": "89152",
+            "TenPhuongXa": "Phú Đức",
+            "MaQuanHuyen": "8913",
+            "TenQuanHuyen": "Long Hồ",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu duc long ho vinh long",
+            "Point": null,
+            "Abbr": "pd lh vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85219"
+        }
+    ],
+    "8934": [
+        {
+            "MaPhuongXa": "89349",
+            "TenPhuongXa": "Nhơn Phú",
+            "MaQuanHuyen": "8934",
+            "TenQuanHuyen": "Mang Thít",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhon phu mang thit vinh long",
+            "Point": null,
+            "Abbr": "np mt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85813"
+        },
+        {
+            "MaPhuongXa": "89347",
+            "TenPhuongXa": "Mỹ An",
+            "MaQuanHuyen": "8934",
+            "TenQuanHuyen": "Mang Thít",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ma",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my an mang thit vinh long",
+            "Point": null,
+            "Abbr": "ma mt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85810"
+        },
+        {
+            "MaPhuongXa": "89345",
+            "TenPhuongXa": "Mỹ Phước",
+            "MaQuanHuyen": "8934",
+            "TenQuanHuyen": "Mang Thít",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "mp",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my phuoc mang thit vinh long",
+            "Point": null,
+            "Abbr": "mp mt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85809"
+        },
+        {
+            "MaPhuongXa": "89343",
+            "TenPhuongXa": "An Phước",
+            "MaQuanHuyen": "8934",
+            "TenQuanHuyen": "Mang Thít",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ap",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an phuoc mang thit vinh long",
+            "Point": null,
+            "Abbr": "ap mt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85808"
+        },
+        {
+            "MaPhuongXa": "89340",
+            "TenPhuongXa": "Cái Nhum",
+            "MaQuanHuyen": "8934",
+            "TenQuanHuyen": "Mang Thít",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cai nhum mang thit vinh long",
+            "Point": null,
+            "Abbr": "cn mt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85806"
+        },
+        {
+            "MaPhuongXa": "89341",
+            "TenPhuongXa": "Chánh An",
+            "MaQuanHuyen": "8934",
+            "TenQuanHuyen": "Mang Thít",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ca",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chanh an mang thit vinh long",
+            "Point": null,
+            "Abbr": "ca mt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85807"
+        },
+        {
+            "MaPhuongXa": "89363",
+            "TenPhuongXa": "Tân An Hội",
+            "MaQuanHuyen": "8934",
+            "TenQuanHuyen": "Mang Thít",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tah",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan an hoi mang thit vinh long",
+            "Point": null,
+            "Abbr": "tah mt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85816"
+        },
+        {
+            "MaPhuongXa": "89361",
+            "TenPhuongXa": "Tân Long Hội",
+            "MaQuanHuyen": "8934",
+            "TenQuanHuyen": "Mang Thít",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tlh",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan long hoi mang thit vinh long",
+            "Point": null,
+            "Abbr": "tlh mt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85818"
+        },
+        {
+            "MaPhuongXa": "89358",
+            "TenPhuongXa": "Long Mỹ",
+            "MaQuanHuyen": "8934",
+            "TenQuanHuyen": "Mang Thít",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "lm",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long my mang thit vinh long",
+            "Point": null,
+            "Abbr": "lm mt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85811"
+        },
+        {
+            "MaPhuongXa": "89359",
+            "TenPhuongXa": "Tân Long",
+            "MaQuanHuyen": "8934",
+            "TenQuanHuyen": "Mang Thít",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan long mang thit vinh long",
+            "Point": null,
+            "Abbr": "tl mt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85817"
+        },
+        {
+            "MaPhuongXa": "89356",
+            "TenPhuongXa": "Hoà Tịnh",
+            "MaQuanHuyen": "8934",
+            "TenQuanHuyen": "Mang Thít",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa tinh mang thit vinh long",
+            "Point": null,
+            "Abbr": "ht mt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85812"
+        },
+        {
+            "MaPhuongXa": "89353",
+            "TenPhuongXa": "Bình Phước",
+            "MaQuanHuyen": "8934",
+            "TenQuanHuyen": "Mang Thít",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh phuoc mang thit vinh long",
+            "Point": null,
+            "Abbr": "bp mt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85815"
+        },
+        {
+            "MaPhuongXa": "89351",
+            "TenPhuongXa": "Chánh Hội",
+            "MaQuanHuyen": "8934",
+            "TenQuanHuyen": "Mang Thít",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chanh hoi mang thit vinh long",
+            "Point": null,
+            "Abbr": "ch mt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85814"
+        }
+    ],
+    "8925": [
+        {
+            "MaPhuongXa": "89269",
+            "TenPhuongXa": "Nhơn Bình",
+            "MaQuanHuyen": "8925",
+            "TenQuanHuyen": "Trà Ôn",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "nb",
+                    "Point": 5
+                },
+                {
+                    "Key": "to",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhon binh tra on vinh long",
+            "Point": null,
+            "Abbr": "nb to vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85617"
+        },
+        {
+            "MaPhuongXa": "89267",
+            "TenPhuongXa": "Hoà Bình",
+            "MaQuanHuyen": "8925",
+            "TenQuanHuyen": "Trà Ôn",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "to",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh tra on vinh long",
+            "Point": null,
+            "Abbr": "hb to vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85615"
+        },
+        {
+            "MaPhuongXa": "89265",
+            "TenPhuongXa": "Xuân Hiệp",
+            "MaQuanHuyen": "8925",
+            "TenQuanHuyen": "Trà Ôn",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "to",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan hiep tra on vinh long",
+            "Point": null,
+            "Abbr": "xh to vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85616"
+        },
+        {
+            "MaPhuongXa": "89263",
+            "TenPhuongXa": "Thới Hòa",
+            "MaQuanHuyen": "8925",
+            "TenQuanHuyen": "Trà Ôn",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "to",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thoi hoa tra on vinh long",
+            "Point": null,
+            "Abbr": "th to vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85614"
+        },
+        {
+            "MaPhuongXa": "89261",
+            "TenPhuongXa": "Hựu Thành",
+            "MaQuanHuyen": "8925",
+            "TenQuanHuyen": "Trà Ôn",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "to",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu thanh tra on vinh long",
+            "Point": null,
+            "Abbr": "ht to vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85613"
+        },
+        {
+            "MaPhuongXa": "89260",
+            "TenPhuongXa": "Thuận Thới",
+            "MaQuanHuyen": "8925",
+            "TenQuanHuyen": "Trà Ôn",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "to",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuan thoi tra on vinh long",
+            "Point": null,
+            "Abbr": "tt to vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85612"
+        },
+        {
+            "MaPhuongXa": "89258",
+            "TenPhuongXa": "Vĩnh Xuân",
+            "MaQuanHuyen": "8925",
+            "TenQuanHuyen": "Trà Ôn",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "vx",
+                    "Point": 5
+                },
+                {
+                    "Key": "to",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh xuan tra on vinh long",
+            "Point": null,
+            "Abbr": "vx to vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85609"
+        },
+        {
+            "MaPhuongXa": "89256",
+            "TenPhuongXa": "Tích Thiện",
+            "MaQuanHuyen": "8925",
+            "TenQuanHuyen": "Trà Ôn",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "to",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tich thien tra on vinh long",
+            "Point": null,
+            "Abbr": "tt to vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85608"
+        },
+        {
+            "MaPhuongXa": "89254",
+            "TenPhuongXa": "Phú Thành",
+            "MaQuanHuyen": "8925",
+            "TenQuanHuyen": "Trà Ôn",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "to",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thanh tra on vinh long",
+            "Point": null,
+            "Abbr": "pt to vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85619"
+        },
+        {
+            "MaPhuongXa": "89252",
+            "TenPhuongXa": "Lục Sỹ Thành",
+            "MaQuanHuyen": "8925",
+            "TenQuanHuyen": "Trà Ôn",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "lst",
+                    "Point": 5
+                },
+                {
+                    "Key": "to",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luc sy thanh tra on vinh long",
+            "Point": null,
+            "Abbr": "lst to vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85618"
+        },
+        {
+            "MaPhuongXa": "89250",
+            "TenPhuongXa": "Trà Ôn",
+            "MaQuanHuyen": "8925",
+            "TenQuanHuyen": "Trà Ôn",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "to",
+                    "Point": 5
+                },
+                {
+                    "Key": "to",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra on tra on vinh long",
+            "Point": null,
+            "Abbr": "to to vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85606"
+        },
+        {
+            "MaPhuongXa": "89275",
+            "TenPhuongXa": "Thiện Mỹ",
+            "MaQuanHuyen": "8925",
+            "TenQuanHuyen": "Trà Ôn",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "to",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thien my tra on vinh long",
+            "Point": null,
+            "Abbr": "tm to vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85607"
+        },
+        {
+            "MaPhuongXa": "89273",
+            "TenPhuongXa": "Tân Mỹ",
+            "MaQuanHuyen": "8925",
+            "TenQuanHuyen": "Trà Ôn",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "to",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan my tra on vinh long",
+            "Point": null,
+            "Abbr": "tm to vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85610"
+        },
+        {
+            "MaPhuongXa": "89271",
+            "TenPhuongXa": "Trà Côn",
+            "MaQuanHuyen": "8925",
+            "TenQuanHuyen": "Trà Ôn",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "to",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra con tra on vinh long",
+            "Point": null,
+            "Abbr": "tc to vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85611"
+        }
+    ],
+    "8917": [
+        {
+            "MaPhuongXa": "89188",
+            "TenPhuongXa": "Mỹ Lộc",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my loc tam binh vinh long",
+            "Point": null,
+            "Abbr": "ml tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85318"
+        },
+        {
+            "MaPhuongXa": "89185",
+            "TenPhuongXa": "Tân Lộc",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan loc tam binh vinh long",
+            "Point": null,
+            "Abbr": "tl tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85312"
+        },
+        {
+            "MaPhuongXa": "89186",
+            "TenPhuongXa": "Phú Lộc",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu loc tam binh vinh long",
+            "Point": null,
+            "Abbr": "pl tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85313"
+        },
+        {
+            "MaPhuongXa": "89180",
+            "TenPhuongXa": "Tân Phú",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phu tam binh vinh long",
+            "Point": null,
+            "Abbr": "tp tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85316"
+        },
+        {
+            "MaPhuongXa": "89181",
+            "TenPhuongXa": "Song Phú",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "sp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song phu tam binh vinh long",
+            "Point": null,
+            "Abbr": "sp tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85314"
+        },
+        {
+            "MaPhuongXa": "89183",
+            "TenPhuongXa": "Phú Thịnh",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thinh tam binh vinh long",
+            "Point": null,
+            "Abbr": "pt tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85315"
+        },
+        {
+            "MaPhuongXa": "89179",
+            "TenPhuongXa": "Long Phú",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long phu tam binh vinh long",
+            "Point": null,
+            "Abbr": "lp tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85317"
+        },
+        {
+            "MaPhuongXa": "89175",
+            "TenPhuongXa": "Loan Mỹ",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "lm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loan my tam binh vinh long",
+            "Point": null,
+            "Abbr": "lm tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85320"
+        },
+        {
+            "MaPhuongXa": "89177",
+            "TenPhuongXa": "Ngãi Tứ",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngai tu tam binh vinh long",
+            "Point": null,
+            "Abbr": "nt tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85321"
+        },
+        {
+            "MaPhuongXa": "89170",
+            "TenPhuongXa": "Tam Bình",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam binh tam binh vinh long",
+            "Point": null,
+            "Abbr": "tb tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85306"
+        },
+        {
+            "MaPhuongXa": "89171",
+            "TenPhuongXa": "Mỹ Thạnh Trung",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "mtt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thanh trung tam binh vinh long",
+            "Point": null,
+            "Abbr": "mtt tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85319"
+        },
+        {
+            "MaPhuongXa": "89173",
+            "TenPhuongXa": "Bình Ninh",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh ninh tam binh vinh long",
+            "Point": null,
+            "Abbr": "bn tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85322"
+        },
+        {
+            "MaPhuongXa": "89198",
+            "TenPhuongXa": "Hoà Thạnh",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa thanh tam binh vinh long",
+            "Point": null,
+            "Abbr": "ht tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85309"
+        },
+        {
+            "MaPhuongXa": "89194",
+            "TenPhuongXa": "Hoà Lộc",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa loc tam binh vinh long",
+            "Point": null,
+            "Abbr": "hl tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85310"
+        },
+        {
+            "MaPhuongXa": "89196",
+            "TenPhuongXa": "Hoà Hiệp",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa hiep tam binh vinh long",
+            "Point": null,
+            "Abbr": "hh tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85308"
+        },
+        {
+            "MaPhuongXa": "89190",
+            "TenPhuongXa": "Hậu Lộc",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hau loc tam binh vinh long",
+            "Point": null,
+            "Abbr": "hl tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85311"
+        },
+        {
+            "MaPhuongXa": "89192",
+            "TenPhuongXa": "Tường Lộc",
+            "MaQuanHuyen": "8917",
+            "TenQuanHuyen": "Tam Bình",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tuong loc tam binh vinh long",
+            "Point": null,
+            "Abbr": "tl tb vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85307"
+        }
+    ],
+    "8938": [
+        {
+            "MaPhuongXa": "89388",
+            "TenPhuongXa": "Tân Lược",
+            "MaQuanHuyen": "8938",
+            "TenQuanHuyen": "Bình Tân",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan luoc binh tan vinh long",
+            "Point": null,
+            "Abbr": "tl bt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85414"
+        },
+        {
+            "MaPhuongXa": "89386",
+            "TenPhuongXa": "Tân Hưng",
+            "MaQuanHuyen": "8938",
+            "TenQuanHuyen": "Bình Tân",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hung binh tan vinh long",
+            "Point": null,
+            "Abbr": "th bt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85413"
+        },
+        {
+            "MaPhuongXa": "89384",
+            "TenPhuongXa": "Tân An Thạnh",
+            "MaQuanHuyen": "8938",
+            "TenQuanHuyen": "Bình Tân",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tat",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan an thanh binh tan vinh long",
+            "Point": null,
+            "Abbr": "tat bt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85415"
+        },
+        {
+            "MaPhuongXa": "89385",
+            "TenPhuongXa": "Tân Bình",
+            "MaQuanHuyen": "8938",
+            "TenQuanHuyen": "Bình Tân",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan binh binh tan vinh long",
+            "Point": null,
+            "Abbr": "tb bt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85416"
+        },
+        {
+            "MaPhuongXa": "89382",
+            "TenPhuongXa": "Nguyễn Văn Thảnh",
+            "MaQuanHuyen": "8938",
+            "TenQuanHuyen": "Bình Tân",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "nvt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyen van thanh binh tan vinh long",
+            "Point": null,
+            "Abbr": "nvt bt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85409"
+        },
+        {
+            "MaPhuongXa": "89380",
+            "TenPhuongXa": "Mỹ Thuận",
+            "MaQuanHuyen": "8938",
+            "TenQuanHuyen": "Bình Tân",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thuan binh tan vinh long",
+            "Point": null,
+            "Abbr": "mt bt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85408"
+        },
+        {
+            "MaPhuongXa": "89398",
+            "TenPhuongXa": "Thành Trung",
+            "MaQuanHuyen": "8938",
+            "TenQuanHuyen": "Bình Tân",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh trung binh tan vinh long",
+            "Point": null,
+            "Abbr": "tt bt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85410"
+        },
+        {
+            "MaPhuongXa": "89396",
+            "TenPhuongXa": "Thành Lợi",
+            "MaQuanHuyen": "8938",
+            "TenQuanHuyen": "Bình Tân",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh loi binh tan vinh long",
+            "Point": null,
+            "Abbr": "tl bt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85407"
+        },
+        {
+            "MaPhuongXa": "89394",
+            "TenPhuongXa": "Thành Đông",
+            "MaQuanHuyen": "8938",
+            "TenQuanHuyen": "Bình Tân",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh dong binh tan vinh long",
+            "Point": null,
+            "Abbr": "td bt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85411"
+        },
+        {
+            "MaPhuongXa": "89392",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "8938",
+            "TenQuanHuyen": "Bình Tân",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh binh tan vinh long",
+            "Point": null,
+            "Abbr": "tt bt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85412"
+        },
+        {
+            "MaPhuongXa": "89390",
+            "TenPhuongXa": "Tân Qưới",
+            "MaQuanHuyen": "8938",
+            "TenQuanHuyen": "Bình Tân",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tq",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan quoi binh tan vinh long",
+            "Point": null,
+            "Abbr": "tq bt vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85406"
+        }
+    ],
+    "8910": [
+        {
+            "MaPhuongXa": "89118",
+            "TenPhuongXa": "Số 5",
+            "MaQuanHuyen": "8910",
+            "TenQuanHuyen": "Vĩnh Long",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "s5",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 5 vinh long vinh long",
+            "Point": null,
+            "Abbr": "s5 vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85107"
+        },
+        {
+            "MaPhuongXa": "89115",
+            "TenPhuongXa": "Số 3",
+            "MaQuanHuyen": "8910",
+            "TenQuanHuyen": "Vĩnh Long",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "s3",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 3 vinh long vinh long",
+            "Point": null,
+            "Abbr": "s3 vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85109"
+        },
+        {
+            "MaPhuongXa": "89116",
+            "TenPhuongXa": "Số 4",
+            "MaQuanHuyen": "8910",
+            "TenQuanHuyen": "Vĩnh Long",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "s4",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 4 vinh long vinh long",
+            "Point": null,
+            "Abbr": "s4 vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85108"
+        },
+        {
+            "MaPhuongXa": "89111",
+            "TenPhuongXa": "Tân Hoà",
+            "MaQuanHuyen": "8910",
+            "TenQuanHuyen": "Vĩnh Long",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoa vinh long vinh long",
+            "Point": null,
+            "Abbr": "th vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85115"
+        },
+        {
+            "MaPhuongXa": "89112",
+            "TenPhuongXa": "Tân Hội",
+            "MaQuanHuyen": "8910",
+            "TenQuanHuyen": "Vĩnh Long",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoi vinh long vinh long",
+            "Point": null,
+            "Abbr": "th vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85116"
+        },
+        {
+            "MaPhuongXa": "89113",
+            "TenPhuongXa": "Số 8",
+            "MaQuanHuyen": "8910",
+            "TenQuanHuyen": "Vĩnh Long",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "s8",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 8 vinh long vinh long",
+            "Point": null,
+            "Abbr": "s8 vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85112"
+        },
+        {
+            "MaPhuongXa": "89108",
+            "TenPhuongXa": "Trường An",
+            "MaQuanHuyen": "8910",
+            "TenQuanHuyen": "Vĩnh Long",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truong an vinh long vinh long",
+            "Point": null,
+            "Abbr": "ta vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85113"
+        },
+        {
+            "MaPhuongXa": "89109",
+            "TenPhuongXa": "Tân Ngãi",
+            "MaQuanHuyen": "8910",
+            "TenQuanHuyen": "Vĩnh Long",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan ngai vinh long vinh long",
+            "Point": null,
+            "Abbr": "tn vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85114"
+        },
+        {
+            "MaPhuongXa": "89105",
+            "TenPhuongXa": "Số 2",
+            "MaQuanHuyen": "8910",
+            "TenQuanHuyen": "Vĩnh Long",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "s2",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 2 vinh long vinh long",
+            "Point": null,
+            "Abbr": "s2 vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85110"
+        },
+        {
+            "MaPhuongXa": "89107",
+            "TenPhuongXa": "Số 9",
+            "MaQuanHuyen": "8910",
+            "TenQuanHuyen": "Vĩnh Long",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "s9",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 9 vinh long vinh long",
+            "Point": null,
+            "Abbr": "s9 vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85111"
+        },
+        {
+            "MaPhuongXa": "89100",
+            "TenPhuongXa": "Số 1",
+            "MaQuanHuyen": "8910",
+            "TenQuanHuyen": "Vĩnh Long",
+            "MaTinhThanh": "89",
+            "TenTinhThanh": "Vĩnh Long",
+            "LstSearchTag": [
+                {
+                    "Key": "s1",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 1 vinh long vinh long",
+            "Point": null,
+            "Abbr": "s1 vl vl",
+            "TrangThai": null,
+            "MaBuuChinh": "85106"
+        }
+    ]
+}

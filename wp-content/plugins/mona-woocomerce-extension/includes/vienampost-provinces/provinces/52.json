@@ -1,0 +1,3827 @@
+{
+    "5218": [
+        {
+            "MaPhuongXa": "52211",
+            "TenPhuongXa": "Vĩnh Thạch",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh thach vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vt vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48417"
+        },
+        {
+            "MaPhuongXa": "52214",
+            "TenPhuongXa": "Cửa Tùng",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cua tung vinh linh quang tri",
+            "Point": null,
+            "Abbr": "ct vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48419"
+        },
+        {
+            "MaPhuongXa": "52202",
+            "TenPhuongXa": "Vĩnh Sơn",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vs",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh son vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vs vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48425"
+        },
+        {
+            "MaPhuongXa": "52200",
+            "TenPhuongXa": "Vĩnh Lâm",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh lam vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vl vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48422"
+        },
+        {
+            "MaPhuongXa": "52206",
+            "TenPhuongXa": "Vĩnh Thành",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh thanh vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vt vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48421"
+        },
+        {
+            "MaPhuongXa": "52207",
+            "TenPhuongXa": "Vĩnh Giang",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vg",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh giang vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vg vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48420"
+        },
+        {
+            "MaPhuongXa": "52204",
+            "TenPhuongXa": "Vĩnh Hoà",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hoa vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vh vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48415"
+        },
+        {
+            "MaPhuongXa": "52208",
+            "TenPhuongXa": "Vĩnh Tân",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh tan vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vt vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48418"
+        },
+        {
+            "MaPhuongXa": "52209",
+            "TenPhuongXa": "Hiền Thành",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hien thanh vinh linh quang tri",
+            "Point": null,
+            "Abbr": "ht vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48416"
+        },
+        {
+            "MaPhuongXa": "52191",
+            "TenPhuongXa": "Vĩnh Khê",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vk",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh khe vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vk vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48413"
+        },
+        {
+            "MaPhuongXa": "52190",
+            "TenPhuongXa": "Vĩnh Chấp",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vc",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh chap vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vc vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48412"
+        },
+        {
+            "MaPhuongXa": "52193",
+            "TenPhuongXa": "Bến Quan",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "bq",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ben quan vinh linh quang tri",
+            "Point": null,
+            "Abbr": "bq vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48423"
+        },
+        {
+            "MaPhuongXa": "52192",
+            "TenPhuongXa": "Vĩnh Long",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh long vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vl vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48414"
+        },
+        {
+            "MaPhuongXa": "52195",
+            "TenPhuongXa": "Vĩnh Hà",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh ha vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vh vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48426"
+        },
+        {
+            "MaPhuongXa": "52196",
+            "TenPhuongXa": "Vĩnh Ô",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vo",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh o vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vo vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48427"
+        },
+        {
+            "MaPhuongXa": "52198",
+            "TenPhuongXa": "Vĩnh Thủy",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh thuy vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vt vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48424"
+        },
+        {
+            "MaPhuongXa": "52180",
+            "TenPhuongXa": "Hồ Xá",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hx",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ho xa vinh linh quang tri",
+            "Point": null,
+            "Abbr": "hx vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48406"
+        },
+        {
+            "MaPhuongXa": "52183",
+            "TenPhuongXa": "Trung Nam",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung nam vinh linh quang tri",
+            "Point": null,
+            "Abbr": "tn vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48407"
+        },
+        {
+            "MaPhuongXa": "52185",
+            "TenPhuongXa": "Kim Thạch",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim thach vinh linh quang tri",
+            "Point": null,
+            "Abbr": "kt vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48409"
+        },
+        {
+            "MaPhuongXa": "52184",
+            "TenPhuongXa": "Vĩnh Trung",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh trung vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vt vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48408"
+        },
+        {
+            "MaPhuongXa": "52187",
+            "TenPhuongXa": "Vĩnh Thái",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh thai vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vt vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48410"
+        },
+        {
+            "MaPhuongXa": "52189",
+            "TenPhuongXa": "Vĩnh Tú",
+            "MaQuanHuyen": "5218",
+            "TenQuanHuyen": "Vĩnh Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh tu vinh linh quang tri",
+            "Point": null,
+            "Abbr": "vt vl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48411"
+        }
+    ],
+    "5210": [
+        {
+            "MaPhuongXa": "52111",
+            "TenPhuongXa": "Đông Lễ",
+            "MaQuanHuyen": "5210",
+            "TenQuanHuyen": "Đông Hà",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong le dong ha quang tri",
+            "Point": null,
+            "Abbr": "dl dh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48113"
+        },
+        {
+            "MaPhuongXa": "52114",
+            "TenPhuongXa": "Đông Giang",
+            "MaQuanHuyen": "5210",
+            "TenQuanHuyen": "Đông Hà",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "dg",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong giang dong ha quang tri",
+            "Point": null,
+            "Abbr": "dg dh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48108"
+        },
+        {
+            "MaPhuongXa": "52116",
+            "TenPhuongXa": "Đông Thanh",
+            "MaQuanHuyen": "5210",
+            "TenQuanHuyen": "Đông Hà",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong thanh dong ha quang tri",
+            "Point": null,
+            "Abbr": "dt dh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48109"
+        },
+        {
+            "MaPhuongXa": "52118",
+            "TenPhuongXa": "Số 3",
+            "MaQuanHuyen": "5210",
+            "TenQuanHuyen": "Đông Hà",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "s3",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 3 dong ha quang tri",
+            "Point": null,
+            "Abbr": "s3 dh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48111"
+        },
+        {
+            "MaPhuongXa": "52100",
+            "TenPhuongXa": "Số 1",
+            "MaQuanHuyen": "5210",
+            "TenQuanHuyen": "Đông Hà",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "s1",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 1 dong ha quang tri",
+            "Point": null,
+            "Abbr": "s1 dh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48106"
+        },
+        {
+            "MaPhuongXa": "52108",
+            "TenPhuongXa": "Số 2",
+            "MaQuanHuyen": "5210",
+            "TenQuanHuyen": "Đông Hà",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "s2",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 2 dong ha quang tri",
+            "Point": null,
+            "Abbr": "s2 dh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48107"
+        },
+        {
+            "MaPhuongXa": "52121",
+            "TenPhuongXa": "Số 4",
+            "MaQuanHuyen": "5210",
+            "TenQuanHuyen": "Đông Hà",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "s4",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 4 dong ha quang tri",
+            "Point": null,
+            "Abbr": "s4 dh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48110"
+        },
+        {
+            "MaPhuongXa": "52122",
+            "TenPhuongXa": "Số 5",
+            "MaQuanHuyen": "5210",
+            "TenQuanHuyen": "Đông Hà",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "s5",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 5 dong ha quang tri",
+            "Point": null,
+            "Abbr": "s5 dh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48112"
+        },
+        {
+            "MaPhuongXa": "52128",
+            "TenPhuongXa": "Đông Lương",
+            "MaQuanHuyen": "5210",
+            "TenQuanHuyen": "Đông Hà",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong luong dong ha quang tri",
+            "Point": null,
+            "Abbr": "dl dh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48114"
+        }
+    ],
+    "5230": [
+        {
+            "MaPhuongXa": "52313",
+            "TenPhuongXa": "A Vao",
+            "MaQuanHuyen": "5230",
+            "TenQuanHuyen": "Đa KRông",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "av",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "a vao da krong quang tri",
+            "Point": null,
+            "Abbr": "av dk qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48616"
+        },
+        {
+            "MaPhuongXa": "52311",
+            "TenPhuongXa": "Tà Long",
+            "MaQuanHuyen": "5230",
+            "TenQuanHuyen": "Đa KRông",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta long da krong quang tri",
+            "Point": null,
+            "Abbr": "tl dk qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48614"
+        },
+        {
+            "MaPhuongXa": "52317",
+            "TenPhuongXa": "Tà Rụt",
+            "MaQuanHuyen": "5230",
+            "TenQuanHuyen": "Đa KRông",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tr",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta rut da krong quang tri",
+            "Point": null,
+            "Abbr": "tr dk qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48617"
+        },
+        {
+            "MaPhuongXa": "52315",
+            "TenPhuongXa": "A Ngo",
+            "MaQuanHuyen": "5230",
+            "TenQuanHuyen": "Đa KRông",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "an",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "a ngo da krong quang tri",
+            "Point": null,
+            "Abbr": "an dk qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48619"
+        },
+        {
+            "MaPhuongXa": "52319",
+            "TenPhuongXa": "A Bung",
+            "MaQuanHuyen": "5230",
+            "TenQuanHuyen": "Đa KRông",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ab",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "a bung da krong quang tri",
+            "Point": null,
+            "Abbr": "ab dk qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48618"
+        },
+        {
+            "MaPhuongXa": "52303",
+            "TenPhuongXa": "Triệu Nguyên",
+            "MaQuanHuyen": "5230",
+            "TenQuanHuyen": "Đa KRông",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu nguyen da krong quang tri",
+            "Point": null,
+            "Abbr": "tn dk qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48611"
+        },
+        {
+            "MaPhuongXa": "52301",
+            "TenPhuongXa": "Đa KRông",
+            "MaQuanHuyen": "5230",
+            "TenQuanHuyen": "Đa KRông",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da krong da krong quang tri",
+            "Point": null,
+            "Abbr": "dk dk qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48608"
+        },
+        {
+            "MaPhuongXa": "52300",
+            "TenPhuongXa": "Krông Klang",
+            "MaQuanHuyen": "5230",
+            "TenQuanHuyen": "Đa KRông",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "kk",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "krong klang da krong quang tri",
+            "Point": null,
+            "Abbr": "kk dk qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48606"
+        },
+        {
+            "MaPhuongXa": "52307",
+            "TenPhuongXa": "Hướng Hiệp",
+            "MaQuanHuyen": "5230",
+            "TenQuanHuyen": "Đa KRông",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong hiep da krong quang tri",
+            "Point": null,
+            "Abbr": "hh dk qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48607"
+        },
+        {
+            "MaPhuongXa": "52306",
+            "TenPhuongXa": "Mò Ó",
+            "MaQuanHuyen": "5230",
+            "TenQuanHuyen": "Đa KRông",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "mo",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mo o da krong quang tri",
+            "Point": null,
+            "Abbr": "mo dk qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48609"
+        },
+        {
+            "MaPhuongXa": "52304",
+            "TenPhuongXa": "Ba Lòng",
+            "MaQuanHuyen": "5230",
+            "TenQuanHuyen": "Đa KRông",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba long da krong quang tri",
+            "Point": null,
+            "Abbr": "bl dk qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48612"
+        },
+        {
+            "MaPhuongXa": "52309",
+            "TenPhuongXa": "Ba Nang",
+            "MaQuanHuyen": "5230",
+            "TenQuanHuyen": "Đa KRông",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba nang da krong quang tri",
+            "Point": null,
+            "Abbr": "bn dk qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48610"
+        },
+        {
+            "MaPhuongXa": "52323",
+            "TenPhuongXa": "Hải Phúc",
+            "MaQuanHuyen": "5230",
+            "TenQuanHuyen": "Đa KRông",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai phuc da krong quang tri",
+            "Point": null,
+            "Abbr": "hp dk qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48613"
+        },
+        {
+            "MaPhuongXa": "52322",
+            "TenPhuongXa": "Húc Nghì",
+            "MaQuanHuyen": "5230",
+            "TenQuanHuyen": "Đa KRông",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huc nghi da krong quang tri",
+            "Point": null,
+            "Abbr": "hn dk qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48615"
+        }
+    ],
+    "5226": [
+        {
+            "MaPhuongXa": "52272",
+            "TenPhuongXa": "Tân Lập",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap huong hoa quang tri",
+            "Point": null,
+            "Abbr": "tl hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48517"
+        },
+        {
+            "MaPhuongXa": "52270",
+            "TenPhuongXa": "Tân Liên",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lien huong hoa quang tri",
+            "Point": null,
+            "Abbr": "tl hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48518"
+        },
+        {
+            "MaPhuongXa": "52276",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh huong hoa quang tri",
+            "Point": null,
+            "Abbr": "tt hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48513"
+        },
+        {
+            "MaPhuongXa": "52277",
+            "TenPhuongXa": "Lao Bảo",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lao bao huong hoa quang tri",
+            "Point": null,
+            "Abbr": "lb hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48515"
+        },
+        {
+            "MaPhuongXa": "52274",
+            "TenPhuongXa": "Tân Long",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan long huong hoa quang tri",
+            "Point": null,
+            "Abbr": "tl hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48516"
+        },
+        {
+            "MaPhuongXa": "52278",
+            "TenPhuongXa": "Thuận",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "t",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuan huong hoa quang tri",
+            "Point": null,
+            "Abbr": "t hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48521"
+        },
+        {
+            "MaPhuongXa": "52292",
+            "TenPhuongXa": "Hướng Việt",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong viet huong hoa quang tri",
+            "Point": null,
+            "Abbr": "hv hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48511"
+        },
+        {
+            "MaPhuongXa": "52290",
+            "TenPhuongXa": "Ba Tầng",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba tang huong hoa quang tri",
+            "Point": null,
+            "Abbr": "bt hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48524"
+        },
+        {
+            "MaPhuongXa": "52262",
+            "TenPhuongXa": "Tân Hợp",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hop huong hoa quang tri",
+            "Point": null,
+            "Abbr": "th hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48507"
+        },
+        {
+            "MaPhuongXa": "52263",
+            "TenPhuongXa": "Hướng Linh",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong linh huong hoa quang tri",
+            "Point": null,
+            "Abbr": "hl hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48508"
+        },
+        {
+            "MaPhuongXa": "52260",
+            "TenPhuongXa": "Khe Sanh",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ks",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khe sanh huong hoa quang tri",
+            "Point": null,
+            "Abbr": "ks hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48506"
+        },
+        {
+            "MaPhuongXa": "52267",
+            "TenPhuongXa": "Hướng Tân",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong tan huong hoa quang tri",
+            "Point": null,
+            "Abbr": "ht hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48514"
+        },
+        {
+            "MaPhuongXa": "52264",
+            "TenPhuongXa": "Hướng Sơn",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong son huong hoa quang tri",
+            "Point": null,
+            "Abbr": "hs hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48509"
+        },
+        {
+            "MaPhuongXa": "52265",
+            "TenPhuongXa": "Hướng Lập",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong lap huong hoa quang tri",
+            "Point": null,
+            "Abbr": "hl hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48510"
+        },
+        {
+            "MaPhuongXa": "52268",
+            "TenPhuongXa": "Hướng Phùng",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong phung huong hoa quang tri",
+            "Point": null,
+            "Abbr": "hp hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48512"
+        },
+        {
+            "MaPhuongXa": "52282",
+            "TenPhuongXa": "Hướng Lộc",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong loc huong hoa quang tri",
+            "Point": null,
+            "Abbr": "hl hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48520"
+        },
+        {
+            "MaPhuongXa": "52280",
+            "TenPhuongXa": "Thanh",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "t",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh huong hoa quang tri",
+            "Point": null,
+            "Abbr": "t hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48522"
+        },
+        {
+            "MaPhuongXa": "52287",
+            "TenPhuongXa": "Xy",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "x",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xy huong hoa quang tri",
+            "Point": null,
+            "Abbr": "x hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48527"
+        },
+        {
+            "MaPhuongXa": "52284",
+            "TenPhuongXa": "Lìa",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "l",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lia huong hoa quang tri",
+            "Point": null,
+            "Abbr": "l hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48523"
+        },
+        {
+            "MaPhuongXa": "52285",
+            "TenPhuongXa": "A Túc",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "a tuc huong hoa quang tri",
+            "Point": null,
+            "Abbr": "at hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48525"
+        },
+        {
+            "MaPhuongXa": "52288",
+            "TenPhuongXa": "A Dơi",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ad",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "a doi huong hoa quang tri",
+            "Point": null,
+            "Abbr": "ad hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48526"
+        },
+        {
+            "MaPhuongXa": "52289",
+            "TenPhuongXa": "Húc",
+            "MaQuanHuyen": "5226",
+            "TenQuanHuyen": "Hướng Hoá",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "h",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huc huong hoa quang tri",
+            "Point": null,
+            "Abbr": "h hh qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48519"
+        }
+    ],
+    "5237": [
+        {
+            "MaPhuongXa": "52370",
+            "TenPhuongXa": "1",
+            "MaQuanHuyen": "5237",
+            "TenQuanHuyen": "Quảng Trị",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "1",
+                    "Point": 5
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "1 quang tri quang tri",
+            "Point": null,
+            "Abbr": "1 qt qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48808"
+        },
+        {
+            "MaPhuongXa": "52374",
+            "TenPhuongXa": "2",
+            "MaQuanHuyen": "5237",
+            "TenQuanHuyen": "Quảng Trị",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "2",
+                    "Point": 5
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "2 quang tri quang tri",
+            "Point": null,
+            "Abbr": "2 qt qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48806"
+        },
+        {
+            "MaPhuongXa": "52379",
+            "TenPhuongXa": "3",
+            "MaQuanHuyen": "5237",
+            "TenQuanHuyen": "Quảng Trị",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "3",
+                    "Point": 5
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "3 quang tri quang tri",
+            "Point": null,
+            "Abbr": "3 qt qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48807"
+        },
+        {
+            "MaPhuongXa": "52420",
+            "TenPhuongXa": "An Đôn",
+            "MaQuanHuyen": "5237",
+            "TenQuanHuyen": "Quảng Trị",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ad",
+                    "Point": 5
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an don quang tri quang tri",
+            "Point": null,
+            "Abbr": "ad qt qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48809"
+        },
+        {
+            "MaPhuongXa": "52421",
+            "TenPhuongXa": "Hải Lệ",
+            "MaQuanHuyen": "5237",
+            "TenQuanHuyen": "Quảng Trị",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai le quang tri quang tri",
+            "Point": null,
+            "Abbr": "hl qt qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48810"
+        }
+    ],
+    "5214": [
+        {
+            "MaPhuongXa": "52150",
+            "TenPhuongXa": "Trung Sơn",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung son gio linh quang tri",
+            "Point": null,
+            "Abbr": "ts gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48311"
+        },
+        {
+            "MaPhuongXa": "52153",
+            "TenPhuongXa": "Gio An",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ga",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gio an gio linh quang tri",
+            "Point": null,
+            "Abbr": "ga gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48313"
+        },
+        {
+            "MaPhuongXa": "52152",
+            "TenPhuongXa": "Linh Trường",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "linh truong gio linh quang tri",
+            "Point": null,
+            "Abbr": "lt gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48312"
+        },
+        {
+            "MaPhuongXa": "52155",
+            "TenPhuongXa": "Gio Hoà",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "gh",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gio hoa gio linh quang tri",
+            "Point": null,
+            "Abbr": "gh gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48322"
+        },
+        {
+            "MaPhuongXa": "52157",
+            "TenPhuongXa": "Hải Thái",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai thai gio linh quang tri",
+            "Point": null,
+            "Abbr": "ht gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48324"
+        },
+        {
+            "MaPhuongXa": "52156",
+            "TenPhuongXa": "Gio Sơn",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "gs",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gio son gio linh quang tri",
+            "Point": null,
+            "Abbr": "gs gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48323"
+        },
+        {
+            "MaPhuongXa": "52159",
+            "TenPhuongXa": "Linh Thượng",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "linh thuong gio linh quang tri",
+            "Point": null,
+            "Abbr": "lt gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48326"
+        },
+        {
+            "MaPhuongXa": "52140",
+            "TenPhuongXa": "Gio Linh",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "gl",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gio linh gio linh quang tri",
+            "Point": null,
+            "Abbr": "gl gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48306"
+        },
+        {
+            "MaPhuongXa": "52143",
+            "TenPhuongXa": "Gio Hải",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "gh",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gio hai gio linh quang tri",
+            "Point": null,
+            "Abbr": "gh gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48317"
+        },
+        {
+            "MaPhuongXa": "52142",
+            "TenPhuongXa": "Gio Mỹ",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "gm",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gio my gio linh quang tri",
+            "Point": null,
+            "Abbr": "gm gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48307"
+        },
+        {
+            "MaPhuongXa": "52145",
+            "TenPhuongXa": "Trung Giang",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tg",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung giang gio linh quang tri",
+            "Point": null,
+            "Abbr": "tg gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48308"
+        },
+        {
+            "MaPhuongXa": "52147",
+            "TenPhuongXa": "Trung Hải",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung hai gio linh quang tri",
+            "Point": null,
+            "Abbr": "th gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48309"
+        },
+        {
+            "MaPhuongXa": "52146",
+            "TenPhuongXa": "Phong Bình",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "pb",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong binh gio linh quang tri",
+            "Point": null,
+            "Abbr": "pb gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48310"
+        },
+        {
+            "MaPhuongXa": "52149",
+            "TenPhuongXa": "Gio Bình",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "gb",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gio binh gio linh quang tri",
+            "Point": null,
+            "Abbr": "gb gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48314"
+        },
+        {
+            "MaPhuongXa": "52148",
+            "TenPhuongXa": "Gio Châu",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "gc",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gio chau gio linh quang tri",
+            "Point": null,
+            "Abbr": "gc gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48315"
+        },
+        {
+            "MaPhuongXa": "52161",
+            "TenPhuongXa": "Linh Hải",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "linh hai gio linh quang tri",
+            "Point": null,
+            "Abbr": "lh gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48325"
+        },
+        {
+            "MaPhuongXa": "52163",
+            "TenPhuongXa": "Gio Quang",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "gq",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gio quang gio linh quang tri",
+            "Point": null,
+            "Abbr": "gq gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48321"
+        },
+        {
+            "MaPhuongXa": "52165",
+            "TenPhuongXa": "Gio Mai",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "gm",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gio mai gio linh quang tri",
+            "Point": null,
+            "Abbr": "gm gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48320"
+        },
+        {
+            "MaPhuongXa": "52164",
+            "TenPhuongXa": "Gio Thành",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "gt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gio thanh gio linh quang tri",
+            "Point": null,
+            "Abbr": "gt gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48316"
+        },
+        {
+            "MaPhuongXa": "52166",
+            "TenPhuongXa": "Gio Việt",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "gv",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gio viet gio linh quang tri",
+            "Point": null,
+            "Abbr": "gv gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48318"
+        },
+        {
+            "MaPhuongXa": "52168",
+            "TenPhuongXa": "Cửa Việt",
+            "MaQuanHuyen": "5214",
+            "TenQuanHuyen": "Gio Linh",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "cv",
+                    "Point": 5
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cua viet gio linh quang tri",
+            "Point": null,
+            "Abbr": "cv gl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48319"
+        }
+    ],
+    "5233": [
+        {
+            "MaPhuongXa": "52353",
+            "TenPhuongXa": "Triệu Độ",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu do trieu phong quang tri",
+            "Point": null,
+            "Abbr": "td tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48717"
+        },
+        {
+            "MaPhuongXa": "52352",
+            "TenPhuongXa": "Triệu Thuận",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu thuan trieu phong quang tri",
+            "Point": null,
+            "Abbr": "tt tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48719"
+        },
+        {
+            "MaPhuongXa": "52351",
+            "TenPhuongXa": "Triệu Giang",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tg",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu giang trieu phong quang tri",
+            "Point": null,
+            "Abbr": "tg tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48722"
+        },
+        {
+            "MaPhuongXa": "52357",
+            "TenPhuongXa": "Triệu Thượng",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu thuong trieu phong quang tri",
+            "Point": null,
+            "Abbr": "tt tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48724"
+        },
+        {
+            "MaPhuongXa": "52355",
+            "TenPhuongXa": "Triệu Ái",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu ai trieu phong quang tri",
+            "Point": null,
+            "Abbr": "ta tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48723"
+        },
+        {
+            "MaPhuongXa": "52343",
+            "TenPhuongXa": "Triệu Vân",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu van trieu phong quang tri",
+            "Point": null,
+            "Abbr": "tv tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48714"
+        },
+        {
+            "MaPhuongXa": "52342",
+            "TenPhuongXa": "Triệu Trạch",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu trach trieu phong quang tri",
+            "Point": null,
+            "Abbr": "tt tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48713"
+        },
+        {
+            "MaPhuongXa": "52340",
+            "TenPhuongXa": "Triệu Hoà",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu hoa trieu phong quang tri",
+            "Point": null,
+            "Abbr": "th tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48720"
+        },
+        {
+            "MaPhuongXa": "52347",
+            "TenPhuongXa": "Triệu Đại",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu dai trieu phong quang tri",
+            "Point": null,
+            "Abbr": "td tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48718"
+        },
+        {
+            "MaPhuongXa": "52345",
+            "TenPhuongXa": "Triệu Long",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu long trieu phong quang tri",
+            "Point": null,
+            "Abbr": "tl tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48721"
+        },
+        {
+            "MaPhuongXa": "52344",
+            "TenPhuongXa": "Triệu An",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu an trieu phong quang tri",
+            "Point": null,
+            "Abbr": "ta tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48715"
+        },
+        {
+            "MaPhuongXa": "52349",
+            "TenPhuongXa": "Triệu Phước",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu phuoc trieu phong quang tri",
+            "Point": null,
+            "Abbr": "tp tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48716"
+        },
+        {
+            "MaPhuongXa": "52332",
+            "TenPhuongXa": "Triệu Tài",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu tai trieu phong quang tri",
+            "Point": null,
+            "Abbr": "tt tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48709"
+        },
+        {
+            "MaPhuongXa": "52331",
+            "TenPhuongXa": "Triệu Thành",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu thanh trieu phong quang tri",
+            "Point": null,
+            "Abbr": "tt tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48707"
+        },
+        {
+            "MaPhuongXa": "52330",
+            "TenPhuongXa": "Ái Tử",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ai tu trieu phong quang tri",
+            "Point": null,
+            "Abbr": "at tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48706"
+        },
+        {
+            "MaPhuongXa": "52336",
+            "TenPhuongXa": "Triệu Sơn",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu son trieu phong quang tri",
+            "Point": null,
+            "Abbr": "ts tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48711"
+        },
+        {
+            "MaPhuongXa": "52334",
+            "TenPhuongXa": "Triệu Trung",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu trung trieu phong quang tri",
+            "Point": null,
+            "Abbr": "tt tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48710"
+        },
+        {
+            "MaPhuongXa": "52339",
+            "TenPhuongXa": "Triệu Đông",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu dong trieu phong quang tri",
+            "Point": null,
+            "Abbr": "td tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48708"
+        },
+        {
+            "MaPhuongXa": "52338",
+            "TenPhuongXa": "Triệu Lăng",
+            "MaQuanHuyen": "5233",
+            "TenQuanHuyen": "Triệu Phong",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu lang trieu phong quang tri",
+            "Point": null,
+            "Abbr": "tl tp qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48712"
+        }
+    ],
+    "5238": [
+        {
+            "MaPhuongXa": "52401",
+            "TenPhuongXa": "Hải Chánh",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai chanh hai lang quang tri",
+            "Point": null,
+            "Abbr": "hc hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48925"
+        },
+        {
+            "MaPhuongXa": "52403",
+            "TenPhuongXa": "Hải Tân",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai tan hai lang quang tri",
+            "Point": null,
+            "Abbr": "ht hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48920"
+        },
+        {
+            "MaPhuongXa": "52393",
+            "TenPhuongXa": "Hải Phú",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai phu hai lang quang tri",
+            "Point": null,
+            "Abbr": "hp hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48919"
+        },
+        {
+            "MaPhuongXa": "52392",
+            "TenPhuongXa": "Hải Quy",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hq",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai quy hai lang quang tri",
+            "Point": null,
+            "Abbr": "hq hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48917"
+        },
+        {
+            "MaPhuongXa": "52391",
+            "TenPhuongXa": "Hải Thượng",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai thuong hai lang quang tri",
+            "Point": null,
+            "Abbr": "ht hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48918"
+        },
+        {
+            "MaPhuongXa": "52390",
+            "TenPhuongXa": "Hải Xuân",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hx",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai xuan hai lang quang tri",
+            "Point": null,
+            "Abbr": "hx hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48916"
+        },
+        {
+            "MaPhuongXa": "52397",
+            "TenPhuongXa": "Hải Trường",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai truong hai lang quang tri",
+            "Point": null,
+            "Abbr": "ht hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48922"
+        },
+        {
+            "MaPhuongXa": "52396",
+            "TenPhuongXa": "Hải Thọ",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai tho hai lang quang tri",
+            "Point": null,
+            "Abbr": "ht hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48921"
+        },
+        {
+            "MaPhuongXa": "52395",
+            "TenPhuongXa": "Hải Lâm",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai lam hai lang quang tri",
+            "Point": null,
+            "Abbr": "hl hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48923"
+        },
+        {
+            "MaPhuongXa": "52399",
+            "TenPhuongXa": "Hải Sơn",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai son hai lang quang tri",
+            "Point": null,
+            "Abbr": "hs hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48924"
+        },
+        {
+            "MaPhuongXa": "52383",
+            "TenPhuongXa": "Hải Dương",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai duong hai lang quang tri",
+            "Point": null,
+            "Abbr": "hd hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48910"
+        },
+        {
+            "MaPhuongXa": "52382",
+            "TenPhuongXa": "Hải Phong",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai phong hai lang quang tri",
+            "Point": null,
+            "Abbr": "hp hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48909"
+        },
+        {
+            "MaPhuongXa": "52381",
+            "TenPhuongXa": "Hải Thành",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai thanh hai lang quang tri",
+            "Point": null,
+            "Abbr": "ht hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48908"
+        },
+        {
+            "MaPhuongXa": "52380",
+            "TenPhuongXa": "Diên Sanh",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien sanh hai lang quang tri",
+            "Point": null,
+            "Abbr": "ds hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48906"
+        },
+        {
+            "MaPhuongXa": "52387",
+            "TenPhuongXa": "Hải An",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ha",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai an hai lang quang tri",
+            "Point": null,
+            "Abbr": "ha hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48912"
+        },
+        {
+            "MaPhuongXa": "52386",
+            "TenPhuongXa": "Hải Quế",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hq",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai que hai lang quang tri",
+            "Point": null,
+            "Abbr": "hq hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48913"
+        },
+        {
+            "MaPhuongXa": "52385",
+            "TenPhuongXa": "Hải Định",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai dinh hai lang quang tri",
+            "Point": null,
+            "Abbr": "hd hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48907"
+        },
+        {
+            "MaPhuongXa": "52384",
+            "TenPhuongXa": "Hải Khê",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hk",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai khe hai lang quang tri",
+            "Point": null,
+            "Abbr": "hk hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48911"
+        },
+        {
+            "MaPhuongXa": "52389",
+            "TenPhuongXa": "Hải Ba",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai ba hai lang quang tri",
+            "Point": null,
+            "Abbr": "hb hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48914"
+        },
+        {
+            "MaPhuongXa": "52388",
+            "TenPhuongXa": "Hải Hưng",
+            "MaQuanHuyen": "5238",
+            "TenQuanHuyen": "Hải Lăng",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai hung hai lang quang tri",
+            "Point": null,
+            "Abbr": "hh hl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48915"
+        }
+    ],
+    "5223": [
+        {
+            "MaPhuongXa": "52243",
+            "TenPhuongXa": "Cam Thành",
+            "MaQuanHuyen": "5223",
+            "TenQuanHuyen": "Cam lộ",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam thanh cam lo quang tri",
+            "Point": null,
+            "Abbr": "ct cl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48211"
+        },
+        {
+            "MaPhuongXa": "52241",
+            "TenPhuongXa": "Cam Tuyền",
+            "MaQuanHuyen": "5223",
+            "TenQuanHuyen": "Cam lộ",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam tuyen cam lo quang tri",
+            "Point": null,
+            "Abbr": "ct cl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48210"
+        },
+        {
+            "MaPhuongXa": "52246",
+            "TenPhuongXa": "Cam Nghĩa",
+            "MaQuanHuyen": "5223",
+            "TenQuanHuyen": "Cam lộ",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam nghia cam lo quang tri",
+            "Point": null,
+            "Abbr": "cn cl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48213"
+        },
+        {
+            "MaPhuongXa": "52248",
+            "TenPhuongXa": "Cam Chính",
+            "MaQuanHuyen": "5223",
+            "TenQuanHuyen": "Cam lộ",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam chinh cam lo quang tri",
+            "Point": null,
+            "Abbr": "cc cl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48214"
+        },
+        {
+            "MaPhuongXa": "52233",
+            "TenPhuongXa": "Cam Hiếu",
+            "MaQuanHuyen": "5223",
+            "TenQuanHuyen": "Cam lộ",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam hieu cam lo quang tri",
+            "Point": null,
+            "Abbr": "ch cl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48212"
+        },
+        {
+            "MaPhuongXa": "52230",
+            "TenPhuongXa": "Cam Lộ",
+            "MaQuanHuyen": "5223",
+            "TenQuanHuyen": "Cam lộ",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam lo cam lo quang tri",
+            "Point": null,
+            "Abbr": "cl cl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48206"
+        },
+        {
+            "MaPhuongXa": "52237",
+            "TenPhuongXa": "Thanh An",
+            "MaQuanHuyen": "5223",
+            "TenQuanHuyen": "Cam lộ",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh an cam lo quang tri",
+            "Point": null,
+            "Abbr": "ta cl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48207"
+        },
+        {
+            "MaPhuongXa": "52235",
+            "TenPhuongXa": "Cam Thủy",
+            "MaQuanHuyen": "5223",
+            "TenQuanHuyen": "Cam lộ",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam thuy cam lo quang tri",
+            "Point": null,
+            "Abbr": "ct cl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48209"
+        },
+        {
+            "MaPhuongXa": "52238",
+            "TenPhuongXa": "Cam An",
+            "MaQuanHuyen": "5223",
+            "TenQuanHuyen": "Cam lộ",
+            "MaTinhThanh": "52",
+            "TenTinhThanh": "Quảng Trị",
+            "LstSearchTag": [
+                {
+                    "Key": "ca",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "qt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam an cam lo quang tri",
+            "Point": null,
+            "Abbr": "ca cl qt",
+            "TrangThai": null,
+            "MaBuuChinh": "48208"
+        }
+    ]
+}

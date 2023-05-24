@@ -1,0 +1,43 @@
+.breadcrumb {
+  padding-top: 1.2rem;
+
+  &-list {
+    @include flex;
+    margin: 0 -1.6rem;
+    align-items: center;
+    overflow-x: auto;
+    &::-webkit-scrollbar {
+      height: 0.3rem;
+    }
+  }
+  &-item {
+    padding: 0 1.6rem;
+    position: relative;
+    &:not(:last-child) {
+      &::before {
+        content: "";
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translate(50%, -50%);
+        width: 0.6rem;
+        height: 0.6rem;
+        border-radius: 50%;
+        background: #cc9900;
+      }
+    }
+    &:last-child {
+      .breadcrumb-link {
+        color: $color-pri;
+      }
+    }
+  }
+  &-link {
+    display: inline-block;
+    color: $color-text;
+    font-weight: 500;
+    font-size: 1.2rem;
+    line-height: 1.2;
+    white-space: nowrap;
+  }
+}

@@ -1,0 +1,6209 @@
+{
+    "4210": [
+        {
+            "MaPhuongXa": "42312",
+            "TenPhuongXa": "Lộc Hạ",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc ha nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "lh nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07113"
+        },
+        {
+            "MaPhuongXa": "42316",
+            "TenPhuongXa": "Nam Phong",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam phong nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "np nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07126"
+        },
+        {
+            "MaPhuongXa": "42317",
+            "TenPhuongXa": "Nam Vân",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nv",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam van nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "nv nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07125"
+        },
+        {
+            "MaPhuongXa": "42314",
+            "TenPhuongXa": "Lộc Vượng",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "lv",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc vuong nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "lv nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07115"
+        },
+        {
+            "MaPhuongXa": "42315",
+            "TenPhuongXa": "Cửa Nam",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cua nam nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "cn nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07127"
+        },
+        {
+            "MaPhuongXa": "42177",
+            "TenPhuongXa": "Nguyễn Du",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyen du nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "nd nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07108"
+        },
+        {
+            "MaPhuongXa": "42257",
+            "TenPhuongXa": "Thống Nhất",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thong nhat nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "tn nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07114"
+        },
+        {
+            "MaPhuongXa": "42100",
+            "TenPhuongXa": "Trần Hưng Đạo",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "thd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran hung dao nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "thd nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07129"
+        },
+        {
+            "MaPhuongXa": "42305",
+            "TenPhuongXa": "Hạ Long",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha long nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "hl nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07112"
+        },
+        {
+            "MaPhuongXa": "42147",
+            "TenPhuongXa": "Năng Tĩnh",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nang tinh nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "nt nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07124"
+        },
+        {
+            "MaPhuongXa": "42242",
+            "TenPhuongXa": "Trần Quang Khải",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tqk",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran quang khai nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "tqk nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07121"
+        },
+        {
+            "MaPhuongXa": "42249",
+            "TenPhuongXa": "Vị Hoàng",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vi hoang nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "vh nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07109"
+        },
+        {
+            "MaPhuongXa": "42193",
+            "TenPhuongXa": "Quang Trung",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang trung nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "qt nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07107"
+        },
+        {
+            "MaPhuongXa": "42199",
+            "TenPhuongXa": "Văn Miếu",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "vm",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van mieu nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "vm nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07123"
+        },
+        {
+            "MaPhuongXa": "42291",
+            "TenPhuongXa": "Trần Tế Xương",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ttx",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran te xuong nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "ttx nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07111"
+        },
+        {
+            "MaPhuongXa": "42226",
+            "TenPhuongXa": "Trường Thi",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truong thi nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "tt nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07119"
+        },
+        {
+            "MaPhuongXa": "42322",
+            "TenPhuongXa": "Mỹ Xá",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "mx",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my xa nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "mx nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07118"
+        },
+        {
+            "MaPhuongXa": "42320",
+            "TenPhuongXa": "Lộc An",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "la",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc an nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "la nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07120"
+        },
+        {
+            "MaPhuongXa": "42160",
+            "TenPhuongXa": "Ngô Quyền",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nq",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngo quyen nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "nq nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07130"
+        },
+        {
+            "MaPhuongXa": "42168",
+            "TenPhuongXa": "Phan Đình Phùng",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "pdp",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phan dinh phung nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "pdp nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07128"
+        },
+        {
+            "MaPhuongXa": "42269",
+            "TenPhuongXa": "Vị Xuyên",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "vx",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vi xuyen nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "vx nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07110"
+        },
+        {
+            "MaPhuongXa": "42136",
+            "TenPhuongXa": "Trần Đăng Ninh",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tdn",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran dang ninh nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "tdn nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07122"
+        },
+        {
+            "MaPhuongXa": "42330",
+            "TenPhuongXa": "Lộc Hoà",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc hoa nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "lh nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07117"
+        },
+        {
+            "MaPhuongXa": "42112",
+            "TenPhuongXa": "Bà Triệu",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba trieu nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "bt nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07106"
+        },
+        {
+            "MaPhuongXa": "42119",
+            "TenPhuongXa": "Cửa Bắc",
+            "MaQuanHuyen": "4210",
+            "TenQuanHuyen": "Nam Định",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cua bac nam dinh nam dinh",
+            "Point": null,
+            "Abbr": "cb nd nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07116"
+        }
+    ],
+    "4251": [
+        {
+            "MaPhuongXa": "42517",
+            "TenPhuongXa": "Liêm Hải",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "liem hai truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "lh tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07624"
+        },
+        {
+            "MaPhuongXa": "42510",
+            "TenPhuongXa": "Cổ Lễ",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "co le truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "cl tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07606"
+        },
+        {
+            "MaPhuongXa": "42512",
+            "TenPhuongXa": "Trực Chính",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truc chinh truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "tc tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07626"
+        },
+        {
+            "MaPhuongXa": "42513",
+            "TenPhuongXa": "Phương Định",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "d",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong dinh truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "d tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07625"
+        },
+        {
+            "MaPhuongXa": "42519",
+            "TenPhuongXa": "Việt Hùng",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet hung truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "vh tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07623"
+        },
+        {
+            "MaPhuongXa": "42555",
+            "TenPhuongXa": "Trực Tuấn",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truc tuan truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "tt tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07608"
+        },
+        {
+            "MaPhuongXa": "42556",
+            "TenPhuongXa": "Trung Đông",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung dong truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "td tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07607"
+        },
+        {
+            "MaPhuongXa": "42550",
+            "TenPhuongXa": "Trực Đạo",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truc dao truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "td tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07609"
+        },
+        {
+            "MaPhuongXa": "42551",
+            "TenPhuongXa": "Cát Thành",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cat thanh truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "ct tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07622"
+        },
+        {
+            "MaPhuongXa": "42545",
+            "TenPhuongXa": "Trực Mỹ",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truc my truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "tm tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07613"
+        },
+        {
+            "MaPhuongXa": "42547",
+            "TenPhuongXa": "Trực Nội",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truc noi truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "tn tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07611"
+        },
+        {
+            "MaPhuongXa": "42540",
+            "TenPhuongXa": "Trực Thuận",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truc thuan truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "tt tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07615"
+        },
+        {
+            "MaPhuongXa": "42542",
+            "TenPhuongXa": "Trực Khang",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tk",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truc khang truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "tk tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07614"
+        },
+        {
+            "MaPhuongXa": "42543",
+            "TenPhuongXa": "Trực Hưng",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truc hung truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "th tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07612"
+        },
+        {
+            "MaPhuongXa": "42549",
+            "TenPhuongXa": "Trực Thanh",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truc thanh truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "tt tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07610"
+        },
+        {
+            "MaPhuongXa": "42526",
+            "TenPhuongXa": "Trực Đại",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truc dai truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "td tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07621"
+        },
+        {
+            "MaPhuongXa": "42523",
+            "TenPhuongXa": "Trực Thắng",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truc thang truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "tt tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07620"
+        },
+        {
+            "MaPhuongXa": "42536",
+            "TenPhuongXa": "Ninh Cường",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh cuong truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "nc tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07617"
+        },
+        {
+            "MaPhuongXa": "42530",
+            "TenPhuongXa": "Trực Thái",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truc thai truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "tt tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07619"
+        },
+        {
+            "MaPhuongXa": "42533",
+            "TenPhuongXa": "Trực Cường",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truc cuong truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "tc tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07618"
+        },
+        {
+            "MaPhuongXa": "42539",
+            "TenPhuongXa": "Trực Hùng",
+            "MaQuanHuyen": "4251",
+            "TenQuanHuyen": "Trực Ninh",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truc hung truc ninh nam dinh",
+            "Point": null,
+            "Abbr": "th tn nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07616"
+        }
+    ],
+    "4257": [
+        {
+            "MaPhuongXa": "42616",
+            "TenPhuongXa": "Yên Trị",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen tri y yen nam dinh",
+            "Point": null,
+            "Abbr": "yt yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07329"
+        },
+        {
+            "MaPhuongXa": "42614",
+            "TenPhuongXa": "Yên Đồng",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yd",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen dong y yen nam dinh",
+            "Point": null,
+            "Abbr": "yd yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07328"
+        },
+        {
+            "MaPhuongXa": "42613",
+            "TenPhuongXa": "Yên Ninh",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yn",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen ninh y yen nam dinh",
+            "Point": null,
+            "Abbr": "yn yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07335"
+        },
+        {
+            "MaPhuongXa": "42611",
+            "TenPhuongXa": "Yên Tiến",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen tien y yen nam dinh",
+            "Point": null,
+            "Abbr": "yt yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07325"
+        },
+        {
+            "MaPhuongXa": "42618",
+            "TenPhuongXa": "Yên Nhân",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yn",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen nhan y yen nam dinh",
+            "Point": null,
+            "Abbr": "yn yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07330"
+        },
+        {
+            "MaPhuongXa": "42574",
+            "TenPhuongXa": "Yên Mỹ",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ym",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen my y yen nam dinh",
+            "Point": null,
+            "Abbr": "ym yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07308"
+        },
+        {
+            "MaPhuongXa": "42576",
+            "TenPhuongXa": "Yên Minh",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ym",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen minh y yen nam dinh",
+            "Point": null,
+            "Abbr": "ym yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07309"
+        },
+        {
+            "MaPhuongXa": "42570",
+            "TenPhuongXa": "Lâm",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "l",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lam y yen nam dinh",
+            "Point": null,
+            "Abbr": "l yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07306"
+        },
+        {
+            "MaPhuongXa": "42572",
+            "TenPhuongXa": "Yên Xá",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yx",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen xa y yen nam dinh",
+            "Point": null,
+            "Abbr": "yx yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07337"
+        },
+        {
+            "MaPhuongXa": "42573",
+            "TenPhuongXa": "Yên Dương",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yd",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen duong y yen nam dinh",
+            "Point": null,
+            "Abbr": "yd yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07307"
+        },
+        {
+            "MaPhuongXa": "42578",
+            "TenPhuongXa": "Yên Lợi",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yl",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen loi y yen nam dinh",
+            "Point": null,
+            "Abbr": "yl yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07311"
+        },
+        {
+            "MaPhuongXa": "42606",
+            "TenPhuongXa": "Yên Bằng",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yb",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen bang y yen nam dinh",
+            "Point": null,
+            "Abbr": "yb yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07326"
+        },
+        {
+            "MaPhuongXa": "42604",
+            "TenPhuongXa": "Yên Quang",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yq",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen quang y yen nam dinh",
+            "Point": null,
+            "Abbr": "yq yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07323"
+        },
+        {
+            "MaPhuongXa": "42602",
+            "TenPhuongXa": "Yên Hồng",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yh",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen hong y yen nam dinh",
+            "Point": null,
+            "Abbr": "yh yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07324"
+        },
+        {
+            "MaPhuongXa": "42600",
+            "TenPhuongXa": "Yên Phong",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yp",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen phong y yen nam dinh",
+            "Point": null,
+            "Abbr": "yp yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07322"
+        },
+        {
+            "MaPhuongXa": "42609",
+            "TenPhuongXa": "Yên Khang",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yk",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen khang y yen nam dinh",
+            "Point": null,
+            "Abbr": "yk yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07327"
+        },
+        {
+            "MaPhuongXa": "42595",
+            "TenPhuongXa": "Yên Hưng",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yh",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen hung y yen nam dinh",
+            "Point": null,
+            "Abbr": "yh yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07320"
+        },
+        {
+            "MaPhuongXa": "42596",
+            "TenPhuongXa": "Yên Bình",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yb",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen binh y yen nam dinh",
+            "Point": null,
+            "Abbr": "yb yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07310"
+        },
+        {
+            "MaPhuongXa": "42591",
+            "TenPhuongXa": "Yên Chính",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yc",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen chinh y yen nam dinh",
+            "Point": null,
+            "Abbr": "yc yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07318"
+        },
+        {
+            "MaPhuongXa": "42593",
+            "TenPhuongXa": "Yên Phú",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yp",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen phu y yen nam dinh",
+            "Point": null,
+            "Abbr": "yp yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07319"
+        },
+        {
+            "MaPhuongXa": "42598",
+            "TenPhuongXa": "Yên Khánh",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yk",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen khanh y yen nam dinh",
+            "Point": null,
+            "Abbr": "yk yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07321"
+        },
+        {
+            "MaPhuongXa": "42625",
+            "TenPhuongXa": "Yên Cường",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yc",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen cuong y yen nam dinh",
+            "Point": null,
+            "Abbr": "yc yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07331"
+        },
+        {
+            "MaPhuongXa": "42623",
+            "TenPhuongXa": "Yên Phúc",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yp",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen phuc y yen nam dinh",
+            "Point": null,
+            "Abbr": "yp yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07333"
+        },
+        {
+            "MaPhuongXa": "42621",
+            "TenPhuongXa": "Yên Lộc",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yl",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen loc y yen nam dinh",
+            "Point": null,
+            "Abbr": "yl yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07332"
+        },
+        {
+            "MaPhuongXa": "42628",
+            "TenPhuongXa": "Yên Thắng",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen thang y yen nam dinh",
+            "Point": null,
+            "Abbr": "yt yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07334"
+        },
+        {
+            "MaPhuongXa": "42630",
+            "TenPhuongXa": "Yên Lương",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yl",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen luong y yen nam dinh",
+            "Point": null,
+            "Abbr": "yl yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07336"
+        },
+        {
+            "MaPhuongXa": "42584",
+            "TenPhuongXa": "Yên Nghĩa",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yn",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen nghia y yen nam dinh",
+            "Point": null,
+            "Abbr": "yn yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07313"
+        },
+        {
+            "MaPhuongXa": "42586",
+            "TenPhuongXa": "Yên Thành",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen thanh y yen nam dinh",
+            "Point": null,
+            "Abbr": "yt yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07315"
+        },
+        {
+            "MaPhuongXa": "42580",
+            "TenPhuongXa": "Yên Tân",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen tan y yen nam dinh",
+            "Point": null,
+            "Abbr": "yt yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07312"
+        },
+        {
+            "MaPhuongXa": "42582",
+            "TenPhuongXa": "Yên Trung",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen trung y yen nam dinh",
+            "Point": null,
+            "Abbr": "yt yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07314"
+        },
+        {
+            "MaPhuongXa": "42588",
+            "TenPhuongXa": "Yên Thọ",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen tho y yen nam dinh",
+            "Point": null,
+            "Abbr": "yt yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07316"
+        },
+        {
+            "MaPhuongXa": "42589",
+            "TenPhuongXa": "Yên Phương",
+            "MaQuanHuyen": "4257",
+            "TenQuanHuyen": "Ý Yên",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yp",
+                    "Point": 5
+                },
+                {
+                    "Key": "yy",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen phuong y yen nam dinh",
+            "Point": null,
+            "Abbr": "yp yy nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07317"
+        }
+    ],
+    "4271": [
+        {
+            "MaPhuongXa": "42715",
+            "TenPhuongXa": "Xuân Ninh",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xn",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan ninh xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xn xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07709"
+        },
+        {
+            "MaPhuongXa": "42713",
+            "TenPhuongXa": "Xuân Kiên",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xk",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan kien xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xk xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07708"
+        },
+        {
+            "MaPhuongXa": "42710",
+            "TenPhuongXa": "Xuân Trường",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan truong xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xt xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07706"
+        },
+        {
+            "MaPhuongXa": "42718",
+            "TenPhuongXa": "Xuân Tiến",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan tien xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xt xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07707"
+        },
+        {
+            "MaPhuongXa": "42757",
+            "TenPhuongXa": "Xuân Hồng",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan hong xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xh xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07721"
+        },
+        {
+            "MaPhuongXa": "42754",
+            "TenPhuongXa": "Xuân Thủy",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan thuy xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xt xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07723"
+        },
+        {
+            "MaPhuongXa": "42751",
+            "TenPhuongXa": "Xuân Thượng",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan thuong xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xt xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07720"
+        },
+        {
+            "MaPhuongXa": "42746",
+            "TenPhuongXa": "Xuân Phong",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xp",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan phong xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xp xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07725"
+        },
+        {
+            "MaPhuongXa": "42743",
+            "TenPhuongXa": "Xuân Tân",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan tan xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xt xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07717"
+        },
+        {
+            "MaPhuongXa": "42741",
+            "TenPhuongXa": "Xuân Thành",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan thanh xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xt xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07718"
+        },
+        {
+            "MaPhuongXa": "42749",
+            "TenPhuongXa": "Xuân Châu",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xc",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan chau xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xc xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07719"
+        },
+        {
+            "MaPhuongXa": "42726",
+            "TenPhuongXa": "Xuân Trung",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan trung xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xt xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07712"
+        },
+        {
+            "MaPhuongXa": "42723",
+            "TenPhuongXa": "Xuân Vinh",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xv",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan vinh xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xv xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07711"
+        },
+        {
+            "MaPhuongXa": "42720",
+            "TenPhuongXa": "Xuân Hoà",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan hoa xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xh xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07710"
+        },
+        {
+            "MaPhuongXa": "42728",
+            "TenPhuongXa": "Xuân Bắc",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xb",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan bac xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xb xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07724"
+        },
+        {
+            "MaPhuongXa": "42763",
+            "TenPhuongXa": "Xuân Ngọc",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xn",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan ngoc xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xn xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07722"
+        },
+        {
+            "MaPhuongXa": "42736",
+            "TenPhuongXa": "Xuân Phú",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xp",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan phu xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xp xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07715"
+        },
+        {
+            "MaPhuongXa": "42732",
+            "TenPhuongXa": "Thọ Nghiệp",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tho nghiep xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "tn xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07714"
+        },
+        {
+            "MaPhuongXa": "42730",
+            "TenPhuongXa": "Xuân Phương",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xp",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan phuong xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xp xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07713"
+        },
+        {
+            "MaPhuongXa": "42739",
+            "TenPhuongXa": "Xuân Đài",
+            "MaQuanHuyen": "4271",
+            "TenQuanHuyen": "Xuân Trường",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "xd",
+                    "Point": 5
+                },
+                {
+                    "Key": "xt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan dai xuan truong nam dinh",
+            "Point": null,
+            "Abbr": "xd xt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07716"
+        }
+    ],
+    "4246": [
+        {
+            "MaPhuongXa": "42474",
+            "TenPhuongXa": "Nam Thái",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam thai nam truc nam dinh",
+            "Point": null,
+            "Abbr": "nt nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07522"
+        },
+        {
+            "MaPhuongXa": "42471",
+            "TenPhuongXa": "Nam Hùng",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam hung nam truc nam dinh",
+            "Point": null,
+            "Abbr": "nh nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07507"
+        },
+        {
+            "MaPhuongXa": "42470",
+            "TenPhuongXa": "Nam Hồng",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam hong nam truc nam dinh",
+            "Point": null,
+            "Abbr": "nh nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07509"
+        },
+        {
+            "MaPhuongXa": "42473",
+            "TenPhuongXa": "Nghĩa An",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "na",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia an nam truc nam dinh",
+            "Point": null,
+            "Abbr": "na nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07516"
+        },
+        {
+            "MaPhuongXa": "42472",
+            "TenPhuongXa": "Nam Cường",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam cuong nam truc nam dinh",
+            "Point": null,
+            "Abbr": "nc nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07517"
+        },
+        {
+            "MaPhuongXa": "42478",
+            "TenPhuongXa": "Nam Tiến",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam tien nam truc nam dinh",
+            "Point": null,
+            "Abbr": "nt nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07520"
+        },
+        {
+            "MaPhuongXa": "42495",
+            "TenPhuongXa": "Nam Thắng",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam thang nam truc nam dinh",
+            "Point": null,
+            "Abbr": "nt nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07511"
+        },
+        {
+            "MaPhuongXa": "42496",
+            "TenPhuongXa": "Điền Xá",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "dx",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien xa nam truc nam dinh",
+            "Point": null,
+            "Abbr": "dx nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07512"
+        },
+        {
+            "MaPhuongXa": "42490",
+            "TenPhuongXa": "Nam Hải",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam hai nam truc nam dinh",
+            "Point": null,
+            "Abbr": "nh nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07523"
+        },
+        {
+            "MaPhuongXa": "42493",
+            "TenPhuongXa": "Tân Thịnh",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thinh nam truc nam dinh",
+            "Point": null,
+            "Abbr": "tt nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07510"
+        },
+        {
+            "MaPhuongXa": "42465",
+            "TenPhuongXa": "Bình Minh",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "bm",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh minh nam truc nam dinh",
+            "Point": null,
+            "Abbr": "bm nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07519"
+        },
+        {
+            "MaPhuongXa": "42467",
+            "TenPhuongXa": "Đồng Sơn",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong son nam truc nam dinh",
+            "Point": null,
+            "Abbr": "ds nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07521"
+        },
+        {
+            "MaPhuongXa": "42460",
+            "TenPhuongXa": "Nam Giang",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ng",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam giang nam truc nam dinh",
+            "Point": null,
+            "Abbr": "ng nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07506"
+        },
+        {
+            "MaPhuongXa": "42463",
+            "TenPhuongXa": "Nam Dương",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam duong nam truc nam dinh",
+            "Point": null,
+            "Abbr": "nd nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07518"
+        },
+        {
+            "MaPhuongXa": "42469",
+            "TenPhuongXa": "Nam Hoa",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam hoa nam truc nam dinh",
+            "Point": null,
+            "Abbr": "nh nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07508"
+        },
+        {
+            "MaPhuongXa": "42486",
+            "TenPhuongXa": "Hồng Quang",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hq",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong quang nam truc nam dinh",
+            "Point": null,
+            "Abbr": "hq nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07515"
+        },
+        {
+            "MaPhuongXa": "42480",
+            "TenPhuongXa": "Nam Lợi",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam loi nam truc nam dinh",
+            "Point": null,
+            "Abbr": "nl nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07524"
+        },
+        {
+            "MaPhuongXa": "42483",
+            "TenPhuongXa": "Nam Thanh",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam thanh nam truc nam dinh",
+            "Point": null,
+            "Abbr": "nt nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07525"
+        },
+        {
+            "MaPhuongXa": "42489",
+            "TenPhuongXa": "Nam Mỹ",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam my nam truc nam dinh",
+            "Point": null,
+            "Abbr": "nm nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07513"
+        },
+        {
+            "MaPhuongXa": "42488",
+            "TenPhuongXa": "Nam Toàn",
+            "MaQuanHuyen": "4246",
+            "TenQuanHuyen": "Nam Trực",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam toan nam truc nam dinh",
+            "Point": null,
+            "Abbr": "nt nt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07514"
+        }
+    ],
+    "4265": [
+        {
+            "MaPhuongXa": "42677",
+            "TenPhuongXa": "Nghĩa Phú",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia phu nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "np nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07416"
+        },
+        {
+            "MaPhuongXa": "42675",
+            "TenPhuongXa": "Nghĩa Tân",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia tan nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nt nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07427"
+        },
+        {
+            "MaPhuongXa": "42674",
+            "TenPhuongXa": "Nghĩa Bình",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nb",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia binh nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nb nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07428"
+        },
+        {
+            "MaPhuongXa": "42671",
+            "TenPhuongXa": "Nghĩa Phong",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia phong nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "np nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07429"
+        },
+        {
+            "MaPhuongXa": "42656",
+            "TenPhuongXa": "Nghĩa Thái",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia thai nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nt nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07407"
+        },
+        {
+            "MaPhuongXa": "42654",
+            "TenPhuongXa": "Nghĩa Sơn",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia son nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "ns nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07414"
+        },
+        {
+            "MaPhuongXa": "42652",
+            "TenPhuongXa": "Nghĩa Trung",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia trung nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nt nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07413"
+        },
+        {
+            "MaPhuongXa": "42650",
+            "TenPhuongXa": "Liễu Đề",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lieu de nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "ld nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07406"
+        },
+        {
+            "MaPhuongXa": "42659",
+            "TenPhuongXa": "Nghĩa Thịnh",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia thinh nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nt nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07409"
+        },
+        {
+            "MaPhuongXa": "42697",
+            "TenPhuongXa": "Nghĩa Hải",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia hai nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nh nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07419"
+        },
+        {
+            "MaPhuongXa": "42695",
+            "TenPhuongXa": "Nam Điền",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam dien nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nd nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07420"
+        },
+        {
+            "MaPhuongXa": "42693",
+            "TenPhuongXa": "Rạng Đông",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "rd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "rang dong nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "rd nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07421"
+        },
+        {
+            "MaPhuongXa": "42691",
+            "TenPhuongXa": "Phúc Thắng",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuc thang nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "pt nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07422"
+        },
+        {
+            "MaPhuongXa": "42667",
+            "TenPhuongXa": "Nghĩa Lạc",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia lac nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nl nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07415"
+        },
+        {
+            "MaPhuongXa": "42665",
+            "TenPhuongXa": "Hoàng Nam",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang nam nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "hn nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07411"
+        },
+        {
+            "MaPhuongXa": "42664",
+            "TenPhuongXa": "Nghĩa Minh",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia minh nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nm nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07410"
+        },
+        {
+            "MaPhuongXa": "42662",
+            "TenPhuongXa": "Nghĩa Châu",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia chau nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nc nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07412"
+        },
+        {
+            "MaPhuongXa": "42660",
+            "TenPhuongXa": "Nghĩa Đồng",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia dong nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nd nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07408"
+        },
+        {
+            "MaPhuongXa": "42668",
+            "TenPhuongXa": "Nghĩa Hồng",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia hong nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nh nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07430"
+        },
+        {
+            "MaPhuongXa": "42686",
+            "TenPhuongXa": "Nghĩa Thắng",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia thang nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nt nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07425"
+        },
+        {
+            "MaPhuongXa": "42685",
+            "TenPhuongXa": "Nghĩa Hùng",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia hung nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nh nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07418"
+        },
+        {
+            "MaPhuongXa": "42684",
+            "TenPhuongXa": "Nghĩa Lâm",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia lam nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nl nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07423"
+        },
+        {
+            "MaPhuongXa": "42682",
+            "TenPhuongXa": "Nghĩa Hoà",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia hoa nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nh nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07417"
+        },
+        {
+            "MaPhuongXa": "42680",
+            "TenPhuongXa": "Nghĩa Thành",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia thanh nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nt nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07426"
+        },
+        {
+            "MaPhuongXa": "42688",
+            "TenPhuongXa": "Nghĩa Lợi",
+            "MaQuanHuyen": "4265",
+            "TenQuanHuyen": "Nghĩa Hưng",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia loi nghia hung nam dinh",
+            "Point": null,
+            "Abbr": "nl nh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07424"
+        }
+    ],
+    "4282": [
+        {
+            "MaPhuongXa": "42879",
+            "TenPhuongXa": "Hải Lý",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai ly hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hl hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07935"
+        },
+        {
+            "MaPhuongXa": "42870",
+            "TenPhuongXa": "Hải Hoà",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai hoa hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hh hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07926"
+        },
+        {
+            "MaPhuongXa": "42872",
+            "TenPhuongXa": "Hải Triều",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai trieu hai hau nam dinh",
+            "Point": null,
+            "Abbr": "ht hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07925"
+        },
+        {
+            "MaPhuongXa": "42874",
+            "TenPhuongXa": "Hải Xuân",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hx",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai xuan hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hx hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07929"
+        },
+        {
+            "MaPhuongXa": "42877",
+            "TenPhuongXa": "Hải Chính",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai chinh hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hc hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07930"
+        },
+        {
+            "MaPhuongXa": "42858",
+            "TenPhuongXa": "Hải Toàn",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai toan hai hau nam dinh",
+            "Point": null,
+            "Abbr": "ht hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07919"
+        },
+        {
+            "MaPhuongXa": "42850",
+            "TenPhuongXa": "Hải Đường",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai duong hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hd hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07917"
+        },
+        {
+            "MaPhuongXa": "42854",
+            "TenPhuongXa": "Hải Long",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai long hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hl hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07940"
+        },
+        {
+            "MaPhuongXa": "42857",
+            "TenPhuongXa": "Hải Phong",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai phong hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hp hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07918"
+        },
+        {
+            "MaPhuongXa": "42900",
+            "TenPhuongXa": "Hải Quang",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hq",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai quang hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hq hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07937"
+        },
+        {
+            "MaPhuongXa": "42903",
+            "TenPhuongXa": "Hải Phương",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai phuong hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hp hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07939"
+        },
+        {
+            "MaPhuongXa": "42842",
+            "TenPhuongXa": "Hải Anh",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ha",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai anh hai hau nam dinh",
+            "Point": null,
+            "Abbr": "ha hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07915"
+        },
+        {
+            "MaPhuongXa": "42846",
+            "TenPhuongXa": "Hải Minh",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai minh hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hm hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07916"
+        },
+        {
+            "MaPhuongXa": "42891",
+            "TenPhuongXa": "Hải Sơn",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai son hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hs hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07932"
+        },
+        {
+            "MaPhuongXa": "42893",
+            "TenPhuongXa": "Hải Cường",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai cuong hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hc hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07928"
+        },
+        {
+            "MaPhuongXa": "42894",
+            "TenPhuongXa": "Hải Phú",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai phu hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hp hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07927"
+        },
+        {
+            "MaPhuongXa": "42897",
+            "TenPhuongXa": "Cồn",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "c",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "con hai hau nam dinh",
+            "Point": null,
+            "Abbr": "c hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07931"
+        },
+        {
+            "MaPhuongXa": "42828",
+            "TenPhuongXa": "Hải Phúc",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai phuc hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hp hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07909"
+        },
+        {
+            "MaPhuongXa": "42820",
+            "TenPhuongXa": "Yên Định",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "yd",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen dinh hai hau nam dinh",
+            "Point": null,
+            "Abbr": "yd hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07906"
+        },
+        {
+            "MaPhuongXa": "42822",
+            "TenPhuongXa": "Hải Thanh",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai thanh hai hau nam dinh",
+            "Point": null,
+            "Abbr": "ht hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07907"
+        },
+        {
+            "MaPhuongXa": "42824",
+            "TenPhuongXa": "Hải Hà",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai ha hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hh hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07908"
+        },
+        {
+            "MaPhuongXa": "42826",
+            "TenPhuongXa": "Hải Lộc",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai loc hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hl hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07938"
+        },
+        {
+            "MaPhuongXa": "42861",
+            "TenPhuongXa": "Hải Giang",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hg",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai giang hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hg hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07921"
+        },
+        {
+            "MaPhuongXa": "42860",
+            "TenPhuongXa": "Hải An",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ha",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai an hai hau nam dinh",
+            "Point": null,
+            "Abbr": "ha hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07920"
+        },
+        {
+            "MaPhuongXa": "42862",
+            "TenPhuongXa": "Hải Ninh",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai ninh hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hn hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07922"
+        },
+        {
+            "MaPhuongXa": "42865",
+            "TenPhuongXa": "Hải Châu",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai chau hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hc hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07923"
+        },
+        {
+            "MaPhuongXa": "42866",
+            "TenPhuongXa": "Thịnh Long",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thinh long hai hau nam dinh",
+            "Point": null,
+            "Abbr": "tl hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07924"
+        },
+        {
+            "MaPhuongXa": "42839",
+            "TenPhuongXa": "Hải Trung",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai trung hai hau nam dinh",
+            "Point": null,
+            "Abbr": "ht hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07914"
+        },
+        {
+            "MaPhuongXa": "42831",
+            "TenPhuongXa": "Hải Nam",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai nam hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hn hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07910"
+        },
+        {
+            "MaPhuongXa": "42832",
+            "TenPhuongXa": "Hải Vân",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai van hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hv hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07911"
+        },
+        {
+            "MaPhuongXa": "42834",
+            "TenPhuongXa": "Hải Hưng",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai hung hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hh hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07912"
+        },
+        {
+            "MaPhuongXa": "42837",
+            "TenPhuongXa": "Hải Bắc",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai bac hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hb hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07913"
+        },
+        {
+            "MaPhuongXa": "42888",
+            "TenPhuongXa": "Hải Tân",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai tan hai hau nam dinh",
+            "Point": null,
+            "Abbr": "ht hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07933"
+        },
+        {
+            "MaPhuongXa": "42882",
+            "TenPhuongXa": "Hải Đông",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai dong hai hau nam dinh",
+            "Point": null,
+            "Abbr": "hd hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07936"
+        },
+        {
+            "MaPhuongXa": "42885",
+            "TenPhuongXa": "Hải Tây",
+            "MaQuanHuyen": "4282",
+            "TenQuanHuyen": "Hải Hậu",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hh",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai tay hai hau nam dinh",
+            "Point": null,
+            "Abbr": "ht hh nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07934"
+        }
+    ],
+    "4239": [
+        {
+            "MaPhuongXa": "42405",
+            "TenPhuongXa": "Mỹ Thịnh",
+            "MaQuanHuyen": "4239",
+            "TenQuanHuyen": "Mỹ Lộc",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thinh my loc nam dinh",
+            "Point": null,
+            "Abbr": "mt ml nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07213"
+        },
+        {
+            "MaPhuongXa": "42404",
+            "TenPhuongXa": "Mỹ Hà",
+            "MaQuanHuyen": "4239",
+            "TenQuanHuyen": "Mỹ Lộc",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my ha my loc nam dinh",
+            "Point": null,
+            "Abbr": "mh ml nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07215"
+        },
+        {
+            "MaPhuongXa": "42407",
+            "TenPhuongXa": "Mỹ Thuận",
+            "MaQuanHuyen": "4239",
+            "TenQuanHuyen": "Mỹ Lộc",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thuan my loc nam dinh",
+            "Point": null,
+            "Abbr": "mt ml nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07212"
+        },
+        {
+            "MaPhuongXa": "42406",
+            "TenPhuongXa": "Mỹ Thành",
+            "MaQuanHuyen": "4239",
+            "TenQuanHuyen": "Mỹ Lộc",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thanh my loc nam dinh",
+            "Point": null,
+            "Abbr": "mt ml nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07214"
+        },
+        {
+            "MaPhuongXa": "42402",
+            "TenPhuongXa": "Mỹ Thắng",
+            "MaQuanHuyen": "4239",
+            "TenQuanHuyen": "Mỹ Lộc",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thang my loc nam dinh",
+            "Point": null,
+            "Abbr": "mt ml nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07207"
+        },
+        {
+            "MaPhuongXa": "42392",
+            "TenPhuongXa": "Mỹ Hưng",
+            "MaQuanHuyen": "4239",
+            "TenQuanHuyen": "Mỹ Lộc",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my hung my loc nam dinh",
+            "Point": null,
+            "Abbr": "mh ml nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07211"
+        },
+        {
+            "MaPhuongXa": "42390",
+            "TenPhuongXa": "Mỹ Lộc",
+            "MaQuanHuyen": "4239",
+            "TenQuanHuyen": "Mỹ Lộc",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my loc my loc nam dinh",
+            "Point": null,
+            "Abbr": "ml ml nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07206"
+        },
+        {
+            "MaPhuongXa": "42394",
+            "TenPhuongXa": "Mỹ Tiến",
+            "MaQuanHuyen": "4239",
+            "TenQuanHuyen": "Mỹ Lộc",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my tien my loc nam dinh",
+            "Point": null,
+            "Abbr": "mt ml nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07216"
+        },
+        {
+            "MaPhuongXa": "42395",
+            "TenPhuongXa": "Mỹ Tân",
+            "MaQuanHuyen": "4239",
+            "TenQuanHuyen": "Mỹ Lộc",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my tan my loc nam dinh",
+            "Point": null,
+            "Abbr": "mt ml nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07209"
+        },
+        {
+            "MaPhuongXa": "42398",
+            "TenPhuongXa": "Mỹ Trung",
+            "MaQuanHuyen": "4239",
+            "TenQuanHuyen": "Mỹ Lộc",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my trung my loc nam dinh",
+            "Point": null,
+            "Abbr": "mt ml nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07208"
+        },
+        {
+            "MaPhuongXa": "42399",
+            "TenPhuongXa": "Mỹ Phúc",
+            "MaQuanHuyen": "4239",
+            "TenQuanHuyen": "Mỹ Lộc",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "mp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my phuc my loc nam dinh",
+            "Point": null,
+            "Abbr": "mp ml nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07210"
+        }
+    ],
+    "4278": [
+        {
+            "MaPhuongXa": "42809",
+            "TenPhuongXa": "Hồng Thuận",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong thuan giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "ht gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07826"
+        },
+        {
+            "MaPhuongXa": "42808",
+            "TenPhuongXa": "Giao Hương",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gh",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao huong giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gh gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07824"
+        },
+        {
+            "MaPhuongXa": "42800",
+            "TenPhuongXa": "Giao Xuân",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gx",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao xuan giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gx gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07820"
+        },
+        {
+            "MaPhuongXa": "42803",
+            "TenPhuongXa": "Giao Thanh",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao thanh giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gt gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07825"
+        },
+        {
+            "MaPhuongXa": "42802",
+            "TenPhuongXa": "Giao Lạc",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gl",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao lac giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gl gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07821"
+        },
+        {
+            "MaPhuongXa": "42805",
+            "TenPhuongXa": "Giao An",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ga",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao an giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "ga gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07822"
+        },
+        {
+            "MaPhuongXa": "42806",
+            "TenPhuongXa": "Giao Thiện",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao thien giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gt gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07823"
+        },
+        {
+            "MaPhuongXa": "42796",
+            "TenPhuongXa": "Bạch Long",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bach long giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "bl gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07816"
+        },
+        {
+            "MaPhuongXa": "42794",
+            "TenPhuongXa": "Giao Phong",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gp",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao phong giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gp gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07815"
+        },
+        {
+            "MaPhuongXa": "42790",
+            "TenPhuongXa": "Giao Thịnh",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao thinh giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gt gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07813"
+        },
+        {
+            "MaPhuongXa": "42791",
+            "TenPhuongXa": "Quất Lâm",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ql",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quat lam giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "ql gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07814"
+        },
+        {
+            "MaPhuongXa": "42798",
+            "TenPhuongXa": "Giao Long",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gl",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao long giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gl gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07817"
+        },
+        {
+            "MaPhuongXa": "42799",
+            "TenPhuongXa": "Giao Hải",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gh",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao hai giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gh gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07818"
+        },
+        {
+            "MaPhuongXa": "42786",
+            "TenPhuongXa": "Giao Nhân",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gn",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao nhan giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gn gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07808"
+        },
+        {
+            "MaPhuongXa": "42787",
+            "TenPhuongXa": "Giao Châu",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gc",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao chau giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gc gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07810"
+        },
+        {
+            "MaPhuongXa": "42784",
+            "TenPhuongXa": "Giao Hà",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gh",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao ha giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gh gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07819"
+        },
+        {
+            "MaPhuongXa": "42785",
+            "TenPhuongXa": "Giao Tiến",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao tien giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gt gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07809"
+        },
+        {
+            "MaPhuongXa": "42782",
+            "TenPhuongXa": "Bình Hoà",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh hoa giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "bh gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07827"
+        },
+        {
+            "MaPhuongXa": "42783",
+            "TenPhuongXa": "Hoành Sơn",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoanh son giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "hs gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07807"
+        },
+        {
+            "MaPhuongXa": "42780",
+            "TenPhuongXa": "Ngô Đồng",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngo dong giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "nd gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07806"
+        },
+        {
+            "MaPhuongXa": "42788",
+            "TenPhuongXa": "Giao Yến",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gy",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao yen giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gy gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07811"
+        },
+        {
+            "MaPhuongXa": "42789",
+            "TenPhuongXa": "Giao Tân",
+            "MaQuanHuyen": "4278",
+            "TenQuanHuyen": "Giao Thuỷ",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "gt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao tan giao thuy nam dinh",
+            "Point": null,
+            "Abbr": "gt gt nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07812"
+        }
+    ],
+    "4242": [
+        {
+            "MaPhuongXa": "42445",
+            "TenPhuongXa": "Minh Tân",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh tan vu ban nam dinh",
+            "Point": null,
+            "Abbr": "mt vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07272"
+        },
+        {
+            "MaPhuongXa": "42447",
+            "TenPhuongXa": "Cộng Hoà",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cong hoa vu ban nam dinh",
+            "Point": null,
+            "Abbr": "ch vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07271"
+        },
+        {
+            "MaPhuongXa": "42441",
+            "TenPhuongXa": "Minh Thuận",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh thuan vu ban nam dinh",
+            "Point": null,
+            "Abbr": "mt vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07269"
+        },
+        {
+            "MaPhuongXa": "42443",
+            "TenPhuongXa": "Tân Khánh",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tk",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan khanh vu ban nam dinh",
+            "Point": null,
+            "Abbr": "tk vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07270"
+        },
+        {
+            "MaPhuongXa": "42449",
+            "TenPhuongXa": "Kim Thái",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim thai vu ban nam dinh",
+            "Point": null,
+            "Abbr": "kt vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07273"
+        },
+        {
+            "MaPhuongXa": "42424",
+            "TenPhuongXa": "Liên Minh",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "lm",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien minh vu ban nam dinh",
+            "Point": null,
+            "Abbr": "lm vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07258"
+        },
+        {
+            "MaPhuongXa": "42427",
+            "TenPhuongXa": "Đại Thắng",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai thang vu ban nam dinh",
+            "Point": null,
+            "Abbr": "dt vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07260"
+        },
+        {
+            "MaPhuongXa": "42426",
+            "TenPhuongXa": "Vĩnh Hào",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hao vu ban nam dinh",
+            "Point": null,
+            "Abbr": "vh vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07259"
+        },
+        {
+            "MaPhuongXa": "42420",
+            "TenPhuongXa": "Gôi",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "g",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "goi vu ban nam dinh",
+            "Point": null,
+            "Abbr": "g vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07256"
+        },
+        {
+            "MaPhuongXa": "42422",
+            "TenPhuongXa": "Tam Thanh",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam thanh vu ban nam dinh",
+            "Point": null,
+            "Abbr": "tt vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07257"
+        },
+        {
+            "MaPhuongXa": "42429",
+            "TenPhuongXa": "Thành Lợi",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh loi vu ban nam dinh",
+            "Point": null,
+            "Abbr": "tl vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07261"
+        },
+        {
+            "MaPhuongXa": "42435",
+            "TenPhuongXa": "Trung Thành",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung thanh vu ban nam dinh",
+            "Point": null,
+            "Abbr": "tt vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07267"
+        },
+        {
+            "MaPhuongXa": "42434",
+            "TenPhuongXa": "Quang Trung",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang trung vu ban nam dinh",
+            "Point": null,
+            "Abbr": "qt vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07264"
+        },
+        {
+            "MaPhuongXa": "42437",
+            "TenPhuongXa": "Hợp Hưng",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop hung vu ban nam dinh",
+            "Point": null,
+            "Abbr": "hh vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07266"
+        },
+        {
+            "MaPhuongXa": "42431",
+            "TenPhuongXa": "Liên Bảo",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien bao vu ban nam dinh",
+            "Point": null,
+            "Abbr": "lb vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07263"
+        },
+        {
+            "MaPhuongXa": "42430",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh vu ban nam dinh",
+            "Point": null,
+            "Abbr": "tt vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07262"
+        },
+        {
+            "MaPhuongXa": "42433",
+            "TenPhuongXa": "Đại An",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "da",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai an vu ban nam dinh",
+            "Point": null,
+            "Abbr": "da vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07265"
+        },
+        {
+            "MaPhuongXa": "42439",
+            "TenPhuongXa": "Hiển Khánh",
+            "MaQuanHuyen": "4242",
+            "TenQuanHuyen": "Vụ Bản",
+            "MaTinhThanh": "42",
+            "TenTinhThanh": "Nam Định",
+            "LstSearchTag": [
+                {
+                    "Key": "hk",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hien khanh vu ban nam dinh",
+            "Point": null,
+            "Abbr": "hk vb nd",
+            "TrangThai": null,
+            "MaBuuChinh": "07268"
+        }
+    ]
+}

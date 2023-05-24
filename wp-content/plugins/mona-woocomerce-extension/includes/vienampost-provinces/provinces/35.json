@@ -1,0 +1,5588 @@
+{
+    "3539": [
+        {
+            "MaPhuongXa": "35442",
+            "TenPhuongXa": "Tự Do",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu do lac son hoa binh",
+            "Point": null,
+            "Abbr": "td ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36625"
+        },
+        {
+            "MaPhuongXa": "35441",
+            "TenPhuongXa": "Ngọc Sơn",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc son lac son hoa binh",
+            "Point": null,
+            "Abbr": "ns ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36624"
+        },
+        {
+            "MaPhuongXa": "35446",
+            "TenPhuongXa": "Ngọc Lâu",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc lau lac son hoa binh",
+            "Point": null,
+            "Abbr": "nl ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36626"
+        },
+        {
+            "MaPhuongXa": "35444",
+            "TenPhuongXa": "Hương Nhượng",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong nhuong lac son hoa binh",
+            "Point": null,
+            "Abbr": "hn ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36627"
+        },
+        {
+            "MaPhuongXa": "35448",
+            "TenPhuongXa": "Tân Mỹ",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan my lac son hoa binh",
+            "Point": null,
+            "Abbr": "tm ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36632"
+        },
+        {
+            "MaPhuongXa": "35403",
+            "TenPhuongXa": "Văn Nghĩa",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "vn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van nghia lac son hoa binh",
+            "Point": null,
+            "Abbr": "vn ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36609"
+        },
+        {
+            "MaPhuongXa": "35400",
+            "TenPhuongXa": "Yên Phú",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "yp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen phu lac son hoa binh",
+            "Point": null,
+            "Abbr": "yp ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36607"
+        },
+        {
+            "MaPhuongXa": "35407",
+            "TenPhuongXa": "Nhân Nghĩa",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "nn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhan nghia lac son hoa binh",
+            "Point": null,
+            "Abbr": "nn ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36615"
+        },
+        {
+            "MaPhuongXa": "35405",
+            "TenPhuongXa": "Mỹ Thành",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thanh lac son hoa binh",
+            "Point": null,
+            "Abbr": "mt ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36610"
+        },
+        {
+            "MaPhuongXa": "35409",
+            "TenPhuongXa": "Tân Lập",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap lac son hoa binh",
+            "Point": null,
+            "Abbr": "tl ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36614"
+        },
+        {
+            "MaPhuongXa": "35422",
+            "TenPhuongXa": "Văn Sơn",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "vs",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van son lac son hoa binh",
+            "Point": null,
+            "Abbr": "vs ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36616"
+        },
+        {
+            "MaPhuongXa": "35424",
+            "TenPhuongXa": "Thượng Cốc",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong coc lac son hoa binh",
+            "Point": null,
+            "Abbr": "tc ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36618"
+        },
+        {
+            "MaPhuongXa": "35428",
+            "TenPhuongXa": "Quyết Thắng",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quyet thang lac son hoa binh",
+            "Point": null,
+            "Abbr": "qt ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36619"
+        },
+        {
+            "MaPhuongXa": "35394",
+            "TenPhuongXa": "Vũ Bình",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "vb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vu binh lac son hoa binh",
+            "Point": null,
+            "Abbr": "vb ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36629"
+        },
+        {
+            "MaPhuongXa": "35396",
+            "TenPhuongXa": "Bình Chân",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh chan lac son hoa binh",
+            "Point": null,
+            "Abbr": "bc ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36630"
+        },
+        {
+            "MaPhuongXa": "35390",
+            "TenPhuongXa": "Vụ Bản",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "vb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vu ban lac son hoa binh",
+            "Point": null,
+            "Abbr": "vb ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36606"
+        },
+        {
+            "MaPhuongXa": "35392",
+            "TenPhuongXa": "Liên Vũ",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "lv",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien vu lac son hoa binh",
+            "Point": null,
+            "Abbr": "lv ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36628"
+        },
+        {
+            "MaPhuongXa": "35398",
+            "TenPhuongXa": "Bình Hẻm",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh hem lac son hoa binh",
+            "Point": null,
+            "Abbr": "bh ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36608"
+        },
+        {
+            "MaPhuongXa": "35452",
+            "TenPhuongXa": "Vũ Lâm",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vu lam lac son hoa binh",
+            "Point": null,
+            "Abbr": "vl ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36631"
+        },
+        {
+            "MaPhuongXa": "35454",
+            "TenPhuongXa": "Ân Nghĩa",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "an",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an nghia lac son hoa binh",
+            "Point": null,
+            "Abbr": "an ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36633"
+        },
+        {
+            "MaPhuongXa": "35458",
+            "TenPhuongXa": "Yên Nghiệp",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "yn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen nghiep lac son hoa binh",
+            "Point": null,
+            "Abbr": "yn ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36634"
+        },
+        {
+            "MaPhuongXa": "35412",
+            "TenPhuongXa": "Tuân Đạo",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tuan dao lac son hoa binh",
+            "Point": null,
+            "Abbr": "td ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36613"
+        },
+        {
+            "MaPhuongXa": "35417",
+            "TenPhuongXa": "Miền Đồi",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mien doi lac son hoa binh",
+            "Point": null,
+            "Abbr": "md ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36612"
+        },
+        {
+            "MaPhuongXa": "35414",
+            "TenPhuongXa": "Quý Hoà",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "qh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quy hoa lac son hoa binh",
+            "Point": null,
+            "Abbr": "qh ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36611"
+        },
+        {
+            "MaPhuongXa": "35419",
+            "TenPhuongXa": "Xuất Hoá",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuat hoa lac son hoa binh",
+            "Point": null,
+            "Abbr": "xh ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36617"
+        },
+        {
+            "MaPhuongXa": "35433",
+            "TenPhuongXa": "Chí Thiện",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi thien lac son hoa binh",
+            "Point": null,
+            "Abbr": "ct ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36621"
+        },
+        {
+            "MaPhuongXa": "35430",
+            "TenPhuongXa": "Định Cư",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh cu lac son hoa binh",
+            "Point": null,
+            "Abbr": "dc ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36622"
+        },
+        {
+            "MaPhuongXa": "35435",
+            "TenPhuongXa": "Phú Lương",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu luong lac son hoa binh",
+            "Point": null,
+            "Abbr": "pl ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36620"
+        },
+        {
+            "MaPhuongXa": "35439",
+            "TenPhuongXa": "Chí Đạo",
+            "MaQuanHuyen": "3539",
+            "TenQuanHuyen": "Lạc Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi dao lac son hoa binh",
+            "Point": null,
+            "Abbr": "cd ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36623"
+        }
+    ],
+    "3522": [
+        {
+            "MaPhuongXa": "35245",
+            "TenPhuongXa": "Cao Sơn",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao son da bac hoa binh",
+            "Point": null,
+            "Abbr": "cs db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36322"
+        },
+        {
+            "MaPhuongXa": "35247",
+            "TenPhuongXa": "Tiền Phong",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien phong da bac hoa binh",
+            "Point": null,
+            "Abbr": "tp db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36321"
+        },
+        {
+            "MaPhuongXa": "35240",
+            "TenPhuongXa": "Trung Thành",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung thanh da bac hoa binh",
+            "Point": null,
+            "Abbr": "tt db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36319"
+        },
+        {
+            "MaPhuongXa": "35241",
+            "TenPhuongXa": "Yên Hoà",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "yh",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen hoa da bac hoa binh",
+            "Point": null,
+            "Abbr": "yh db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36320"
+        },
+        {
+            "MaPhuongXa": "35249",
+            "TenPhuongXa": "Hiền Lương",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hien luong da bac hoa binh",
+            "Point": null,
+            "Abbr": "hl db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36324"
+        },
+        {
+            "MaPhuongXa": "35225",
+            "TenPhuongXa": "Tân Minh",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan minh da bac hoa binh",
+            "Point": null,
+            "Abbr": "tm db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36309"
+        },
+        {
+            "MaPhuongXa": "35227",
+            "TenPhuongXa": "Tân Pheo",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan pheo da bac hoa binh",
+            "Point": null,
+            "Abbr": "tp db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36310"
+        },
+        {
+            "MaPhuongXa": "35220",
+            "TenPhuongXa": "Đà Bắc",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da bac da bac hoa binh",
+            "Point": null,
+            "Abbr": "db db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36306"
+        },
+        {
+            "MaPhuongXa": "35221",
+            "TenPhuongXa": "Tu Lý",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu ly da bac hoa binh",
+            "Point": null,
+            "Abbr": "tl db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36308"
+        },
+        {
+            "MaPhuongXa": "35223",
+            "TenPhuongXa": "Tú Lý",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu ly da bac hoa binh",
+            "Point": null,
+            "Abbr": "tl db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36307"
+        },
+        {
+            "MaPhuongXa": "35229",
+            "TenPhuongXa": "Giáp Đắt",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "gd",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giap dat da bac hoa binh",
+            "Point": null,
+            "Abbr": "gd db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36311"
+        },
+        {
+            "MaPhuongXa": "35250",
+            "TenPhuongXa": "Vầy Nưa",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "vn",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vay nua da bac hoa binh",
+            "Point": null,
+            "Abbr": "vn db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36323"
+        },
+        {
+            "MaPhuongXa": "35252",
+            "TenPhuongXa": "Toàn Sơn",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "toan son da bac hoa binh",
+            "Point": null,
+            "Abbr": "ts db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36325"
+        },
+        {
+            "MaPhuongXa": "35235",
+            "TenPhuongXa": "Đồng Chum",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong chum da bac hoa binh",
+            "Point": null,
+            "Abbr": "dc db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36316"
+        },
+        {
+            "MaPhuongXa": "35236",
+            "TenPhuongXa": "Mường Chiềng",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong chieng da bac hoa binh",
+            "Point": null,
+            "Abbr": "mc db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36315"
+        },
+        {
+            "MaPhuongXa": "35231",
+            "TenPhuongXa": "Nánh Nghê",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "nn",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nanh nghe da bac hoa binh",
+            "Point": null,
+            "Abbr": "nn db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36312"
+        },
+        {
+            "MaPhuongXa": "35232",
+            "TenPhuongXa": "Đồng Nghê",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong nghe da bac hoa binh",
+            "Point": null,
+            "Abbr": "dn db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36313"
+        },
+        {
+            "MaPhuongXa": "35233",
+            "TenPhuongXa": "Đoàn Kết",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "doan ket da bac hoa binh",
+            "Point": null,
+            "Abbr": "dk db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36318"
+        },
+        {
+            "MaPhuongXa": "35238",
+            "TenPhuongXa": "Mường Tuổng",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong tuong da bac hoa binh",
+            "Point": null,
+            "Abbr": "mt db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36314"
+        },
+        {
+            "MaPhuongXa": "35239",
+            "TenPhuongXa": "Đồng Ruộng",
+            "MaQuanHuyen": "3522",
+            "TenQuanHuyen": "Đà Bắc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dr",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong ruong da bac hoa binh",
+            "Point": null,
+            "Abbr": "dr db hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36317"
+        }
+    ],
+    "3551": [
+        {
+            "MaPhuongXa": "35542",
+            "TenPhuongXa": "Tú Sơn",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu son kim boi hoa binh",
+            "Point": null,
+            "Abbr": "ts kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36915"
+        },
+        {
+            "MaPhuongXa": "35540",
+            "TenPhuongXa": "Vĩnh Tiến",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh tien kim boi hoa binh",
+            "Point": null,
+            "Abbr": "vt kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36916"
+        },
+        {
+            "MaPhuongXa": "35547",
+            "TenPhuongXa": "Hợp Tiến",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop tien kim boi hoa binh",
+            "Point": null,
+            "Abbr": "ht kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36922"
+        },
+        {
+            "MaPhuongXa": "35545",
+            "TenPhuongXa": "Hợp Đồng",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop dong kim boi hoa binh",
+            "Point": null,
+            "Abbr": "hd kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36923"
+        },
+        {
+            "MaPhuongXa": "35548",
+            "TenPhuongXa": "Kim Tiến",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim tien kim boi hoa binh",
+            "Point": null,
+            "Abbr": "kt kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36924"
+        },
+        {
+            "MaPhuongXa": "35561",
+            "TenPhuongXa": "Nam Thượng",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam thuong kim boi hoa binh",
+            "Point": null,
+            "Abbr": "nt kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36931"
+        },
+        {
+            "MaPhuongXa": "35560",
+            "TenPhuongXa": "Hợp Kim",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "hk",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop kim kim boi hoa binh",
+            "Point": null,
+            "Abbr": "hk kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36932"
+        },
+        {
+            "MaPhuongXa": "35527",
+            "TenPhuongXa": "Hùng Tiến",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung tien kim boi hoa binh",
+            "Point": null,
+            "Abbr": "ht kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36911"
+        },
+        {
+            "MaPhuongXa": "35526",
+            "TenPhuongXa": "Hùng Sơn",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung son kim boi hoa binh",
+            "Point": null,
+            "Abbr": "hs kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36910"
+        },
+        {
+            "MaPhuongXa": "35525",
+            "TenPhuongXa": "Kim Lập",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "kl",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim lap kim boi hoa binh",
+            "Point": null,
+            "Abbr": "kl kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36909"
+        },
+        {
+            "MaPhuongXa": "35529",
+            "TenPhuongXa": "Bắc Sơn",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "bs",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac son kim boi hoa binh",
+            "Point": null,
+            "Abbr": "bs kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36912"
+        },
+        {
+            "MaPhuongXa": "35528",
+            "TenPhuongXa": "Thượng Bì",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong bi kim boi hoa binh",
+            "Point": null,
+            "Abbr": "tb kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36918"
+        },
+        {
+            "MaPhuongXa": "35552",
+            "TenPhuongXa": "Cuối Hạ",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cuoi ha kim boi hoa binh",
+            "Point": null,
+            "Abbr": "ch kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36927"
+        },
+        {
+            "MaPhuongXa": "35551",
+            "TenPhuongXa": "Kim Truy",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim truy kim boi hoa binh",
+            "Point": null,
+            "Abbr": "kt kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36926"
+        },
+        {
+            "MaPhuongXa": "35550",
+            "TenPhuongXa": "Kim Bôi",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "kb",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim boi kim boi hoa binh",
+            "Point": null,
+            "Abbr": "kb kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36925"
+        },
+        {
+            "MaPhuongXa": "35556",
+            "TenPhuongXa": "Sào Báy",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "sb",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sao bay kim boi hoa binh",
+            "Point": null,
+            "Abbr": "sb kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36930"
+        },
+        {
+            "MaPhuongXa": "35554",
+            "TenPhuongXa": "Nuông Dăm",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nuong dam kim boi hoa binh",
+            "Point": null,
+            "Abbr": "nd kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36928"
+        },
+        {
+            "MaPhuongXa": "35558",
+            "TenPhuongXa": "Mỵ Hoà",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my hoa kim boi hoa binh",
+            "Point": null,
+            "Abbr": "mh kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36929"
+        },
+        {
+            "MaPhuongXa": "35513",
+            "TenPhuongXa": "Xuân Thủy",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan thuy kim boi hoa binh",
+            "Point": null,
+            "Abbr": "xt kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36908"
+        },
+        {
+            "MaPhuongXa": "35512",
+            "TenPhuongXa": "Kim Bình",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "kb",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim binh kim boi hoa binh",
+            "Point": null,
+            "Abbr": "kb kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36907"
+        },
+        {
+            "MaPhuongXa": "35510",
+            "TenPhuongXa": "Bo",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "b",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bo kim boi hoa binh",
+            "Point": null,
+            "Abbr": "b kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36906"
+        },
+        {
+            "MaPhuongXa": "35514",
+            "TenPhuongXa": "Kim Sơn",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ks",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim son kim boi hoa binh",
+            "Point": null,
+            "Abbr": "ks kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36933"
+        },
+        {
+            "MaPhuongXa": "35532",
+            "TenPhuongXa": "Đú Sáng",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "du sang kim boi hoa binh",
+            "Point": null,
+            "Abbr": "ds kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36914"
+        },
+        {
+            "MaPhuongXa": "35531",
+            "TenPhuongXa": "Bình Sơn",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "bs",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh son kim boi hoa binh",
+            "Point": null,
+            "Abbr": "bs kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36913"
+        },
+        {
+            "MaPhuongXa": "35530",
+            "TenPhuongXa": "Sơn Thủy",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son thuy kim boi hoa binh",
+            "Point": null,
+            "Abbr": "st kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36917"
+        },
+        {
+            "MaPhuongXa": "35536",
+            "TenPhuongXa": "Vĩnh Đồng",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "vd",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh dong kim boi hoa binh",
+            "Point": null,
+            "Abbr": "vd kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36920"
+        },
+        {
+            "MaPhuongXa": "35535",
+            "TenPhuongXa": "Hạ Bì",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha bi kim boi hoa binh",
+            "Point": null,
+            "Abbr": "hb kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36919"
+        },
+        {
+            "MaPhuongXa": "35538",
+            "TenPhuongXa": "Đông Bắc",
+            "MaQuanHuyen": "3551",
+            "TenQuanHuyen": "Kim Bôi",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "kb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong bac kim boi hoa binh",
+            "Point": null,
+            "Abbr": "db kb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36921"
+        }
+    ],
+    "3533": [
+        {
+            "MaPhuongXa": "35345",
+            "TenPhuongXa": "Xăm Khoè",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "xk",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xam khoe mai chau hoa binh",
+            "Point": null,
+            "Abbr": "xk mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36421"
+        },
+        {
+            "MaPhuongXa": "35344",
+            "TenPhuongXa": "Cun Pheo",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cun pheo mai chau hoa binh",
+            "Point": null,
+            "Abbr": "cp mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36416"
+        },
+        {
+            "MaPhuongXa": "35347",
+            "TenPhuongXa": "Piềng Vẽ",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "pv",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pieng ve mai chau hoa binh",
+            "Point": null,
+            "Abbr": "pv mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36417"
+        },
+        {
+            "MaPhuongXa": "35340",
+            "TenPhuongXa": "Bao La",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bao la mai chau hoa binh",
+            "Point": null,
+            "Abbr": "bl mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36418"
+        },
+        {
+            "MaPhuongXa": "35342",
+            "TenPhuongXa": "Hang Kia",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "hk",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hang kia mai chau hoa binh",
+            "Point": null,
+            "Abbr": "hk mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36415"
+        },
+        {
+            "MaPhuongXa": "35349",
+            "TenPhuongXa": "Chiềng Châu",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng chau mai chau hoa binh",
+            "Point": null,
+            "Abbr": "cc mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36424"
+        },
+        {
+            "MaPhuongXa": "35366",
+            "TenPhuongXa": "Tân Dân",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan dan mai chau hoa binh",
+            "Point": null,
+            "Abbr": "td mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36410"
+        },
+        {
+            "MaPhuongXa": "35355",
+            "TenPhuongXa": "Thành Sơn",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh son mai chau hoa binh",
+            "Point": null,
+            "Abbr": "ts mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36426"
+        },
+        {
+            "MaPhuongXa": "35357",
+            "TenPhuongXa": "Noong Luông",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "noong luong mai chau hoa binh",
+            "Point": null,
+            "Abbr": "nl mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36427"
+        },
+        {
+            "MaPhuongXa": "35351",
+            "TenPhuongXa": "Mai Hạ",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mai ha mai chau hoa binh",
+            "Point": null,
+            "Abbr": "mh mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36423"
+        },
+        {
+            "MaPhuongXa": "35353",
+            "TenPhuongXa": "Vạn Mai",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "vm",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van mai mai chau hoa binh",
+            "Point": null,
+            "Abbr": "vm mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36425"
+        },
+        {
+            "MaPhuongXa": "35352",
+            "TenPhuongXa": "Mai Hịch",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mai hich mai chau hoa binh",
+            "Point": null,
+            "Abbr": "mh mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36422"
+        },
+        {
+            "MaPhuongXa": "35359",
+            "TenPhuongXa": "Thung Khe",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tk",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thung khe mai chau hoa binh",
+            "Point": null,
+            "Abbr": "tk mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36428"
+        },
+        {
+            "MaPhuongXa": "35335",
+            "TenPhuongXa": "Nà Phỏn",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na phon mai chau hoa binh",
+            "Point": null,
+            "Abbr": "np mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36420"
+        },
+        {
+            "MaPhuongXa": "35334",
+            "TenPhuongXa": "Phúc Sạn",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ps",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuc san mai chau hoa binh",
+            "Point": null,
+            "Abbr": "ps mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36411"
+        },
+        {
+            "MaPhuongXa": "35337",
+            "TenPhuongXa": "Đồng Tân",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tan mai chau hoa binh",
+            "Point": null,
+            "Abbr": "dt mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36412"
+        },
+        {
+            "MaPhuongXa": "35336",
+            "TenPhuongXa": "Nà Mèo",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na meo mai chau hoa binh",
+            "Point": null,
+            "Abbr": "nm mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36419"
+        },
+        {
+            "MaPhuongXa": "35331",
+            "TenPhuongXa": "Tòng Đậu",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tong dau mai chau hoa binh",
+            "Point": null,
+            "Abbr": "td mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36407"
+        },
+        {
+            "MaPhuongXa": "35330",
+            "TenPhuongXa": "Mai Châu",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mai chau mai chau hoa binh",
+            "Point": null,
+            "Abbr": "mc mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36406"
+        },
+        {
+            "MaPhuongXa": "35333",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh mai chau hoa binh",
+            "Point": null,
+            "Abbr": "tt mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36409"
+        },
+        {
+            "MaPhuongXa": "35332",
+            "TenPhuongXa": "Sơn Thủy",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son thuy mai chau hoa binh",
+            "Point": null,
+            "Abbr": "st mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36408"
+        },
+        {
+            "MaPhuongXa": "35339",
+            "TenPhuongXa": "Pà Co",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pa co mai chau hoa binh",
+            "Point": null,
+            "Abbr": "pc mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36414"
+        },
+        {
+            "MaPhuongXa": "35338",
+            "TenPhuongXa": "Tân Sơn",
+            "MaQuanHuyen": "3533",
+            "TenQuanHuyen": "Mai Châu",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan son mai chau hoa binh",
+            "Point": null,
+            "Abbr": "ts mc hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36413"
+        }
+    ],
+    "3558": [
+        {
+            "MaPhuongXa": "35566",
+            "TenPhuongXa": "Ba Hàng Đồi",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "bhd",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba hang doi lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "bhd lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36811"
+        },
+        {
+            "MaPhuongXa": "35564",
+            "TenPhuongXa": "Thanh Nông",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh nong lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "tn lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36812"
+        },
+        {
+            "MaPhuongXa": "35600",
+            "TenPhuongXa": "Yên Bồng",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "yb",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen bong lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "yb lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36819"
+        },
+        {
+            "MaPhuongXa": "35602",
+            "TenPhuongXa": "Đồng Tâm",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tam lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "dt lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36820"
+        },
+        {
+            "MaPhuongXa": "35593",
+            "TenPhuongXa": "Hưng Thi",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung thi lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "ht lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36813"
+        },
+        {
+            "MaPhuongXa": "35591",
+            "TenPhuongXa": "Phú Thành",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thanh lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "pt lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36810"
+        },
+        {
+            "MaPhuongXa": "35590",
+            "TenPhuongXa": "Liên Hoà",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien hoa lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "lh lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36815"
+        },
+        {
+            "MaPhuongXa": "35597",
+            "TenPhuongXa": "An Bình",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ab",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an binh lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "ab lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36818"
+        },
+        {
+            "MaPhuongXa": "35596",
+            "TenPhuongXa": "An Lạc",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "al",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an lac lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "al lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36817"
+        },
+        {
+            "MaPhuongXa": "35595",
+            "TenPhuongXa": "Thống Nhất",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thong nhat lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "tn lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36814"
+        },
+        {
+            "MaPhuongXa": "35583",
+            "TenPhuongXa": "Phú Nghĩa",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu nghia lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "pn lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36808"
+        },
+        {
+            "MaPhuongXa": "35582",
+            "TenPhuongXa": "Lạc Long",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ll",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac long lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "ll lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36807"
+        },
+        {
+            "MaPhuongXa": "35580",
+            "TenPhuongXa": "Chi Nê",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi ne lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "cn lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36806"
+        },
+        {
+            "MaPhuongXa": "35586",
+            "TenPhuongXa": "Phú Lão",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu lao lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "pl lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36809"
+        },
+        {
+            "MaPhuongXa": "35588",
+            "TenPhuongXa": "Khoan Dụ",
+            "MaQuanHuyen": "3558",
+            "TenQuanHuyen": "Lạc Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "kd",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khoan du lac thuy hoa binh",
+            "Point": null,
+            "Abbr": "kd lt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36816"
+        }
+    ],
+    "3510": [
+        {
+            "MaPhuongXa": "35165",
+            "TenPhuongXa": "Độc Lập",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "doc lap hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "dl hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "35163",
+            "TenPhuongXa": "Trung Minh",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung minh hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "tm hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36109"
+        },
+        {
+            "MaPhuongXa": "35160",
+            "TenPhuongXa": "Thịnh Minh",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thinh minh hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "tm hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "35107",
+            "TenPhuongXa": "Quỳnh Lâm",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ql",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quynh lam hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "ql hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36107"
+        },
+        {
+            "MaPhuongXa": "35100",
+            "TenPhuongXa": "Phương Lâm",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "l",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong lam hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "l hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36106"
+        },
+        {
+            "MaPhuongXa": "35108",
+            "TenPhuongXa": "Đồng Tiến",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tien hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "dt hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36108"
+        },
+        {
+            "MaPhuongXa": "35127",
+            "TenPhuongXa": "Thái Thịnh",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai thinh hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "tt hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36116"
+        },
+        {
+            "MaPhuongXa": "35124",
+            "TenPhuongXa": "Tân Thịnh",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thinh hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "tt hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36115"
+        },
+        {
+            "MaPhuongXa": "35123",
+            "TenPhuongXa": "Hoà Bình",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "hb hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36113"
+        },
+        {
+            "MaPhuongXa": "35129",
+            "TenPhuongXa": "Chăm Mát",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cham mat hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "cm hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36119"
+        },
+        {
+            "MaPhuongXa": "35128",
+            "TenPhuongXa": "Thái Bình",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai binh hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "tb hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36117"
+        },
+        {
+            "MaPhuongXa": "35157",
+            "TenPhuongXa": "Quang Tiến",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang tien hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "qt hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "35153",
+            "TenPhuongXa": "Mông Hoá",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mong hoa hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "mh hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "35150",
+            "TenPhuongXa": "Kỳ Sơn",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ks",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ky son hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "ks hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "35158",
+            "TenPhuongXa": "Hợp Thành",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop thanh hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "ht hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "35114",
+            "TenPhuongXa": "Tân Hoà",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoa hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "th hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36111"
+        },
+        {
+            "MaPhuongXa": "35113",
+            "TenPhuongXa": "Thịnh Lang",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thinh lang hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "tl hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36110"
+        },
+        {
+            "MaPhuongXa": "35119",
+            "TenPhuongXa": "Hữu Nghị",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu nghi hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "hn hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36114"
+        },
+        {
+            "MaPhuongXa": "35118",
+            "TenPhuongXa": "Yên Mông",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ym",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen mong hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "ym hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36112"
+        },
+        {
+            "MaPhuongXa": "35135",
+            "TenPhuongXa": "Dân Chủ",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dan chu hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "dc hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36120"
+        },
+        {
+            "MaPhuongXa": "35134",
+            "TenPhuongXa": "Thống Nhất",
+            "MaQuanHuyen": "3510",
+            "TenQuanHuyen": "Hoà Bình",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thong nhat hoa binh hoa binh",
+            "Point": null,
+            "Abbr": "tn hb hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36118"
+        }
+    ],
+    "3517": [
+        {
+            "MaPhuongXa": "35204",
+            "TenPhuongXa": "Thành Lập",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh lap luong son hoa binh",
+            "Point": null,
+            "Abbr": "tl ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36274"
+        },
+        {
+            "MaPhuongXa": "35206",
+            "TenPhuongXa": "Thanh Cao",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh cao luong son hoa binh",
+            "Point": null,
+            "Abbr": "tc ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36270"
+        },
+        {
+            "MaPhuongXa": "35207",
+            "TenPhuongXa": "Hợp Thanh",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop thanh luong son hoa binh",
+            "Point": null,
+            "Abbr": "ht ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36269"
+        },
+        {
+            "MaPhuongXa": "35200",
+            "TenPhuongXa": "Liên Sơn",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien son luong son hoa binh",
+            "Point": null,
+            "Abbr": "ls ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36265"
+        },
+        {
+            "MaPhuongXa": "35201",
+            "TenPhuongXa": "Trung Sơn",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung son luong son hoa binh",
+            "Point": null,
+            "Abbr": "ts ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36273"
+        },
+        {
+            "MaPhuongXa": "35202",
+            "TenPhuongXa": "Liên Sơn",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien son luong son hoa binh",
+            "Point": null,
+            "Abbr": "ls ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36275"
+        },
+        {
+            "MaPhuongXa": "35197",
+            "TenPhuongXa": "Nhuận Trạch",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhuan trach luong son hoa binh",
+            "Point": null,
+            "Abbr": "nt ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36262"
+        },
+        {
+            "MaPhuongXa": "35194",
+            "TenPhuongXa": "Cư Yên",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "cy",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cu yen luong son hoa binh",
+            "Point": null,
+            "Abbr": "cy ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36263"
+        },
+        {
+            "MaPhuongXa": "35193",
+            "TenPhuongXa": "Hợp Hoà",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop hoa luong son hoa binh",
+            "Point": null,
+            "Abbr": "hh ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36264"
+        },
+        {
+            "MaPhuongXa": "35191",
+            "TenPhuongXa": "Cao Răm",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "cr",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao ram luong son hoa binh",
+            "Point": null,
+            "Abbr": "cr ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36260"
+        },
+        {
+            "MaPhuongXa": "35177",
+            "TenPhuongXa": "Cao Dương",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao duong luong son hoa binh",
+            "Point": null,
+            "Abbr": "cd ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36266"
+        },
+        {
+            "MaPhuongXa": "35175",
+            "TenPhuongXa": "Lâm Sơn",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lam son luong son hoa binh",
+            "Point": null,
+            "Abbr": "ls ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36258"
+        },
+        {
+            "MaPhuongXa": "35173",
+            "TenPhuongXa": "Hoà Sơn",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa son luong son hoa binh",
+            "Point": null,
+            "Abbr": "hs ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36257"
+        },
+        {
+            "MaPhuongXa": "35170",
+            "TenPhuongXa": "Lương Sơn",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong son luong son hoa binh",
+            "Point": null,
+            "Abbr": "ls ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36256"
+        },
+        {
+            "MaPhuongXa": "35179",
+            "TenPhuongXa": "Cao Dương",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao duong luong son hoa binh",
+            "Point": null,
+            "Abbr": "cd ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36272"
+        },
+        {
+            "MaPhuongXa": "35185",
+            "TenPhuongXa": "Thanh Sơn",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh son luong son hoa binh",
+            "Point": null,
+            "Abbr": "ts ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36268"
+        },
+        {
+            "MaPhuongXa": "35183",
+            "TenPhuongXa": "Cao Thắng",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao thang luong son hoa binh",
+            "Point": null,
+            "Abbr": "ct ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36271"
+        },
+        {
+            "MaPhuongXa": "35181",
+            "TenPhuongXa": "Hợp Châu",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop chau luong son hoa binh",
+            "Point": null,
+            "Abbr": "hc ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36267"
+        },
+        {
+            "MaPhuongXa": "35189",
+            "TenPhuongXa": "Tân Vinh",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan vinh luong son hoa binh",
+            "Point": null,
+            "Abbr": "tv ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36261"
+        },
+        {
+            "MaPhuongXa": "35188",
+            "TenPhuongXa": "Cao Sơn",
+            "MaQuanHuyen": "3517",
+            "TenQuanHuyen": "Lương Sơn",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao son luong son hoa binh",
+            "Point": null,
+            "Abbr": "cs ls hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36259"
+        }
+    ],
+    "3548": [
+        {
+            "MaPhuongXa": "35500",
+            "TenPhuongXa": "Ngọc Lương",
+            "MaQuanHuyen": "3548",
+            "TenQuanHuyen": "Yên Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "yt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc luong yen thuy hoa binh",
+            "Point": null,
+            "Abbr": "nl yt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36717"
+        },
+        {
+            "MaPhuongXa": "35492",
+            "TenPhuongXa": "Đa Phúc",
+            "MaQuanHuyen": "3548",
+            "TenQuanHuyen": "Yên Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "yt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da phuc yen thuy hoa binh",
+            "Point": null,
+            "Abbr": "dp yt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36713"
+        },
+        {
+            "MaPhuongXa": "35493",
+            "TenPhuongXa": "Lạc Thịnh",
+            "MaQuanHuyen": "3548",
+            "TenQuanHuyen": "Yên Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "yt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac thinh yen thuy hoa binh",
+            "Point": null,
+            "Abbr": "lt yt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36714"
+        },
+        {
+            "MaPhuongXa": "35491",
+            "TenPhuongXa": "Lạc Sĩ",
+            "MaQuanHuyen": "3548",
+            "TenQuanHuyen": "Yên Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "yt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac si yen thuy hoa binh",
+            "Point": null,
+            "Abbr": "ls yt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36712"
+        },
+        {
+            "MaPhuongXa": "35497",
+            "TenPhuongXa": "Yên Trị",
+            "MaQuanHuyen": "3548",
+            "TenQuanHuyen": "Yên Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "yt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen tri yen thuy hoa binh",
+            "Point": null,
+            "Abbr": "yt yt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36716"
+        },
+        {
+            "MaPhuongXa": "35494",
+            "TenPhuongXa": "Yên Lạc",
+            "MaQuanHuyen": "3548",
+            "TenQuanHuyen": "Yên Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "yl",
+                    "Point": 5
+                },
+                {
+                    "Key": "yt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen lac yen thuy hoa binh",
+            "Point": null,
+            "Abbr": "yl yt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36707"
+        },
+        {
+            "MaPhuongXa": "35495",
+            "TenPhuongXa": "Phú Lai",
+            "MaQuanHuyen": "3548",
+            "TenQuanHuyen": "Yên Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "yt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu lai yen thuy hoa binh",
+            "Point": null,
+            "Abbr": "pl yt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36715"
+        },
+        {
+            "MaPhuongXa": "35482",
+            "TenPhuongXa": "Đoàn Kết",
+            "MaQuanHuyen": "3548",
+            "TenQuanHuyen": "Yên Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "yt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "doan ket yen thuy hoa binh",
+            "Point": null,
+            "Abbr": "dk yt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36718"
+        },
+        {
+            "MaPhuongXa": "35480",
+            "TenPhuongXa": "Hàng Trạm",
+            "MaQuanHuyen": "3548",
+            "TenQuanHuyen": "Yên Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "yt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hang tram yen thuy hoa binh",
+            "Point": null,
+            "Abbr": "ht yt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36706"
+        },
+        {
+            "MaPhuongXa": "35487",
+            "TenPhuongXa": "Bảo Hiệu",
+            "MaQuanHuyen": "3548",
+            "TenQuanHuyen": "Yên Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "yt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bao hieu yen thuy hoa binh",
+            "Point": null,
+            "Abbr": "bh yt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36709"
+        },
+        {
+            "MaPhuongXa": "35484",
+            "TenPhuongXa": "Hữu Lợi",
+            "MaQuanHuyen": "3548",
+            "TenQuanHuyen": "Yên Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "yt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu loi yen thuy hoa binh",
+            "Point": null,
+            "Abbr": "hl yt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36708"
+        },
+        {
+            "MaPhuongXa": "35488",
+            "TenPhuongXa": "Lạc Hưng",
+            "MaQuanHuyen": "3548",
+            "TenQuanHuyen": "Yên Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "yt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac hung yen thuy hoa binh",
+            "Point": null,
+            "Abbr": "lh yt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36710"
+        },
+        {
+            "MaPhuongXa": "35489",
+            "TenPhuongXa": "Lạc Lương",
+            "MaQuanHuyen": "3548",
+            "TenQuanHuyen": "Yên Thuỷ",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ll",
+                    "Point": 5
+                },
+                {
+                    "Key": "yt",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac luong yen thuy hoa binh",
+            "Point": null,
+            "Abbr": "ll yt hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36711"
+        }
+    ],
+    "3527": [
+        {
+            "MaPhuongXa": "35304",
+            "TenPhuongXa": "Tử Nê",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu ne tan lac hoa binh",
+            "Point": null,
+            "Abbr": "tn tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36578"
+        },
+        {
+            "MaPhuongXa": "35306",
+            "TenPhuongXa": "Thanh Hối",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh hoi tan lac hoa binh",
+            "Point": null,
+            "Abbr": "th tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36577"
+        },
+        {
+            "MaPhuongXa": "35301",
+            "TenPhuongXa": "Gia Mô",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "gm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia mo tan lac hoa binh",
+            "Point": null,
+            "Abbr": "gm tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36574"
+        },
+        {
+            "MaPhuongXa": "35302",
+            "TenPhuongXa": "Ngổ Luông",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngo luong tan lac hoa binh",
+            "Point": null,
+            "Abbr": "nl tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36573"
+        },
+        {
+            "MaPhuongXa": "35308",
+            "TenPhuongXa": "Đông Lại",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong lai tan lac hoa binh",
+            "Point": null,
+            "Abbr": "dl tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36576"
+        },
+        {
+            "MaPhuongXa": "35294",
+            "TenPhuongXa": "Mãn Đức",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "man duc tan lac hoa binh",
+            "Point": null,
+            "Abbr": "md tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36579"
+        },
+        {
+            "MaPhuongXa": "35296",
+            "TenPhuongXa": "Do Nhân",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "do nhan tan lac hoa binh",
+            "Point": null,
+            "Abbr": "dn tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36571"
+        },
+        {
+            "MaPhuongXa": "35291",
+            "TenPhuongXa": "Vân Sơn",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "vs",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van son tan lac hoa binh",
+            "Point": null,
+            "Abbr": "vs tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36568"
+        },
+        {
+            "MaPhuongXa": "35292",
+            "TenPhuongXa": "Nam Sơn",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam son tan lac hoa binh",
+            "Point": null,
+            "Abbr": "ns tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36570"
+        },
+        {
+            "MaPhuongXa": "35298",
+            "TenPhuongXa": "Lỗ Sơn",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lo son tan lac hoa binh",
+            "Point": null,
+            "Abbr": "ls tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36572"
+        },
+        {
+            "MaPhuongXa": "35274",
+            "TenPhuongXa": "Suối Hoa",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "sh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi hoa tan lac hoa binh",
+            "Point": null,
+            "Abbr": "sh tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36559"
+        },
+        {
+            "MaPhuongXa": "35275",
+            "TenPhuongXa": "Ngòi Hoa",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoi hoa tan lac hoa binh",
+            "Point": null,
+            "Abbr": "nh tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36560"
+        },
+        {
+            "MaPhuongXa": "35276",
+            "TenPhuongXa": "Phú Vinh",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "pv",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu vinh tan lac hoa binh",
+            "Point": null,
+            "Abbr": "pv tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36561"
+        },
+        {
+            "MaPhuongXa": "35270",
+            "TenPhuongXa": "Mãn Đức",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "man duc tan lac hoa binh",
+            "Point": null,
+            "Abbr": "md tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36556"
+        },
+        {
+            "MaPhuongXa": "35271",
+            "TenPhuongXa": "Quy Hậu",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "qh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quy hau tan lac hoa binh",
+            "Point": null,
+            "Abbr": "qh tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36557"
+        },
+        {
+            "MaPhuongXa": "35273",
+            "TenPhuongXa": "Mỹ Hoà",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my hoa tan lac hoa binh",
+            "Point": null,
+            "Abbr": "mh tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36558"
+        },
+        {
+            "MaPhuongXa": "35278",
+            "TenPhuongXa": "Phú Cường",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu cuong tan lac hoa binh",
+            "Point": null,
+            "Abbr": "pc tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36562"
+        },
+        {
+            "MaPhuongXa": "35310",
+            "TenPhuongXa": "Ngọc Mỹ",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc my tan lac hoa binh",
+            "Point": null,
+            "Abbr": "nm tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36575"
+        },
+        {
+            "MaPhuongXa": "35284",
+            "TenPhuongXa": "Nhân Mỹ",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhan my tan lac hoa binh",
+            "Point": null,
+            "Abbr": "nm tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36565"
+        },
+        {
+            "MaPhuongXa": "35285",
+            "TenPhuongXa": "Địch Giáo",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dg",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dich giao tan lac hoa binh",
+            "Point": null,
+            "Abbr": "dg tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36564"
+        },
+        {
+            "MaPhuongXa": "35287",
+            "TenPhuongXa": "Quyết Chiến",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "qc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quyet chien tan lac hoa binh",
+            "Point": null,
+            "Abbr": "qc tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36567"
+        },
+        {
+            "MaPhuongXa": "35282",
+            "TenPhuongXa": "Phong Phú",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "pp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong phu tan lac hoa binh",
+            "Point": null,
+            "Abbr": "pp tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36563"
+        },
+        {
+            "MaPhuongXa": "35288",
+            "TenPhuongXa": "Quy Mỹ",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "qm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quy my tan lac hoa binh",
+            "Point": null,
+            "Abbr": "qm tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36566"
+        },
+        {
+            "MaPhuongXa": "35289",
+            "TenPhuongXa": "Lũng Vân",
+            "MaQuanHuyen": "3527",
+            "TenQuanHuyen": "Tân Lạc",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "lv",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung van tan lac hoa binh",
+            "Point": null,
+            "Abbr": "lv tl hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36569"
+        }
+    ],
+    "3537": [
+        {
+            "MaPhuongXa": "35375",
+            "TenPhuongXa": "Bình Thanh",
+            "MaQuanHuyen": "3537",
+            "TenQuanHuyen": "Cao Phong",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thanh cao phong hoa binh",
+            "Point": null,
+            "Abbr": "bt cp hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36510"
+        },
+        {
+            "MaPhuongXa": "35374",
+            "TenPhuongXa": "Bắc Phong",
+            "MaQuanHuyen": "3537",
+            "TenQuanHuyen": "Cao Phong",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac phong cao phong hoa binh",
+            "Point": null,
+            "Abbr": "bp cp hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36509"
+        },
+        {
+            "MaPhuongXa": "35377",
+            "TenPhuongXa": "Tây Phong",
+            "MaQuanHuyen": "3537",
+            "TenQuanHuyen": "Cao Phong",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tay phong cao phong hoa binh",
+            "Point": null,
+            "Abbr": "tp cp hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36512"
+        },
+        {
+            "MaPhuongXa": "35376",
+            "TenPhuongXa": "Thung Nai",
+            "MaQuanHuyen": "3537",
+            "TenQuanHuyen": "Cao Phong",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thung nai cao phong hoa binh",
+            "Point": null,
+            "Abbr": "tn cp hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36511"
+        },
+        {
+            "MaPhuongXa": "35370",
+            "TenPhuongXa": "Cao Phong",
+            "MaQuanHuyen": "3537",
+            "TenQuanHuyen": "Cao Phong",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao phong cao phong hoa binh",
+            "Point": null,
+            "Abbr": "cp cp hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36506"
+        },
+        {
+            "MaPhuongXa": "35373",
+            "TenPhuongXa": "Thu Phong",
+            "MaQuanHuyen": "3537",
+            "TenQuanHuyen": "Cao Phong",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thu phong cao phong hoa binh",
+            "Point": null,
+            "Abbr": "tp cp hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36508"
+        },
+        {
+            "MaPhuongXa": "35372",
+            "TenPhuongXa": "Hợp Phong",
+            "MaQuanHuyen": "3537",
+            "TenQuanHuyen": "Cao Phong",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop phong cao phong hoa binh",
+            "Point": null,
+            "Abbr": "hp cp hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36507"
+        },
+        {
+            "MaPhuongXa": "35379",
+            "TenPhuongXa": "Nam Phong",
+            "MaQuanHuyen": "3537",
+            "TenQuanHuyen": "Cao Phong",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam phong cao phong hoa binh",
+            "Point": null,
+            "Abbr": "np cp hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36515"
+        },
+        {
+            "MaPhuongXa": "35378",
+            "TenPhuongXa": "Dũng Phong",
+            "MaQuanHuyen": "3537",
+            "TenQuanHuyen": "Cao Phong",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dung phong cao phong hoa binh",
+            "Point": null,
+            "Abbr": "dp cp hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36514"
+        },
+        {
+            "MaPhuongXa": "35381",
+            "TenPhuongXa": "Thạch Yên",
+            "MaQuanHuyen": "3537",
+            "TenQuanHuyen": "Cao Phong",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "ty",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thach yen cao phong hoa binh",
+            "Point": null,
+            "Abbr": "ty cp hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36516"
+        },
+        {
+            "MaPhuongXa": "35380",
+            "TenPhuongXa": "Tân Phong",
+            "MaQuanHuyen": "3537",
+            "TenQuanHuyen": "Cao Phong",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phong cao phong hoa binh",
+            "Point": null,
+            "Abbr": "tp cp hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36513"
+        },
+        {
+            "MaPhuongXa": "35383",
+            "TenPhuongXa": "Xuân Phong",
+            "MaQuanHuyen": "3537",
+            "TenQuanHuyen": "Cao Phong",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "xp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan phong cao phong hoa binh",
+            "Point": null,
+            "Abbr": "xp cp hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36518"
+        },
+        {
+            "MaPhuongXa": "35382",
+            "TenPhuongXa": "Yên Thượng",
+            "MaQuanHuyen": "3537",
+            "TenQuanHuyen": "Cao Phong",
+            "MaTinhThanh": "35",
+            "TenTinhThanh": "Hoà Bình",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hb",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen thuong cao phong hoa binh",
+            "Point": null,
+            "Abbr": "yt cp hb",
+            "TrangThai": null,
+            "MaBuuChinh": "36517"
+        }
+    ]
+}

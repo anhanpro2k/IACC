@@ -1,0 +1,10 @@
+.header-addr .header-addr-ct .tit .tit-text {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.header-addr .header-addr-ct .tit .icon{
+    flex-shrink: 0;
+}

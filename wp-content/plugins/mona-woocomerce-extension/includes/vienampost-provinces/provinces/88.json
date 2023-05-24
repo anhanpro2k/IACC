@@ -1,0 +1,4236 @@
+{
+    "8840": [
+        {
+            "MaPhuongXa": "88409",
+            "TenPhuongXa": "Tân Lợi",
+            "MaQuanHuyen": "8840",
+            "TenQuanHuyen": "Tịnh Biên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan loi tinh bien an giang",
+            "Point": null,
+            "Abbr": "tl tb ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90717"
+        },
+        {
+            "MaPhuongXa": "88400",
+            "TenPhuongXa": "Nhà Bàng",
+            "MaQuanHuyen": "8840",
+            "TenQuanHuyen": "Tịnh Biên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nha bang tinh bien an giang",
+            "Point": null,
+            "Abbr": "nb tb ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90711"
+        },
+        {
+            "MaPhuongXa": "88403",
+            "TenPhuongXa": "Tịnh Biên",
+            "MaQuanHuyen": "8840",
+            "TenQuanHuyen": "Tịnh Biên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh bien tinh bien an giang",
+            "Point": null,
+            "Abbr": "tb tb ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90706"
+        },
+        {
+            "MaPhuongXa": "88402",
+            "TenPhuongXa": "Nhơn Hưng",
+            "MaQuanHuyen": "8840",
+            "TenQuanHuyen": "Tịnh Biên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhon hung tinh bien an giang",
+            "Point": null,
+            "Abbr": "nh tb ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90710"
+        },
+        {
+            "MaPhuongXa": "88405",
+            "TenPhuongXa": "Văn Giáo",
+            "MaQuanHuyen": "8840",
+            "TenQuanHuyen": "Tịnh Biên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vg",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van giao tinh bien an giang",
+            "Point": null,
+            "Abbr": "vg tb ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90713"
+        },
+        {
+            "MaPhuongXa": "88404",
+            "TenPhuongXa": "An Nông",
+            "MaQuanHuyen": "8840",
+            "TenQuanHuyen": "Tịnh Biên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "an",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an nong tinh bien an giang",
+            "Point": null,
+            "Abbr": "an tb ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90707"
+        },
+        {
+            "MaPhuongXa": "88407",
+            "TenPhuongXa": "Chi Lăng",
+            "MaQuanHuyen": "8840",
+            "TenQuanHuyen": "Tịnh Biên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi lang tinh bien an giang",
+            "Point": null,
+            "Abbr": "cl tb ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90715"
+        },
+        {
+            "MaPhuongXa": "88406",
+            "TenPhuongXa": "Vĩnh Trung",
+            "MaQuanHuyen": "8840",
+            "TenQuanHuyen": "Tịnh Biên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh trung tinh bien an giang",
+            "Point": null,
+            "Abbr": "vt tb ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90714"
+        },
+        {
+            "MaPhuongXa": "88410",
+            "TenPhuongXa": "An Hảo",
+            "MaQuanHuyen": "8840",
+            "TenQuanHuyen": "Tịnh Biên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hao tinh bien an giang",
+            "Point": null,
+            "Abbr": "ah tb ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90718"
+        },
+        {
+            "MaPhuongXa": "88413",
+            "TenPhuongXa": "An Phú",
+            "MaQuanHuyen": "8840",
+            "TenQuanHuyen": "Tịnh Biên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ap",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an phu tinh bien an giang",
+            "Point": null,
+            "Abbr": "ap tb ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90709"
+        },
+        {
+            "MaPhuongXa": "88412",
+            "TenPhuongXa": "Tân Lập",
+            "MaQuanHuyen": "8840",
+            "TenQuanHuyen": "Tịnh Biên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap tinh bien an giang",
+            "Point": null,
+            "Abbr": "tl tb ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90719"
+        },
+        {
+            "MaPhuongXa": "88415",
+            "TenPhuongXa": "Thới Sơn",
+            "MaQuanHuyen": "8840",
+            "TenQuanHuyen": "Tịnh Biên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thoi son tinh bien an giang",
+            "Point": null,
+            "Abbr": "ts tb ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90712"
+        },
+        {
+            "MaPhuongXa": "88414",
+            "TenPhuongXa": "An Cư",
+            "MaQuanHuyen": "8840",
+            "TenQuanHuyen": "Tịnh Biên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ac",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an cu tinh bien an giang",
+            "Point": null,
+            "Abbr": "ac tb ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90708"
+        },
+        {
+            "MaPhuongXa": "88416",
+            "TenPhuongXa": "Núi Voi",
+            "MaQuanHuyen": "8840",
+            "TenQuanHuyen": "Tịnh Biên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nv",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nui voi tinh bien an giang",
+            "Point": null,
+            "Abbr": "nv tb ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90716"
+        }
+    ],
+    "8810": [
+        {
+            "MaPhuongXa": "88106",
+            "TenPhuongXa": "Mỹ Bình",
+            "MaQuanHuyen": "8810",
+            "TenQuanHuyen": "Long xuyên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mb",
+                    "Point": 5
+                },
+                {
+                    "Key": "lx",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my binh long xuyen an giang",
+            "Point": null,
+            "Abbr": "mb lx ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90107"
+        },
+        {
+            "MaPhuongXa": "88100",
+            "TenPhuongXa": "Mỹ Long",
+            "MaQuanHuyen": "8810",
+            "TenQuanHuyen": "Long xuyên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "lx",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my long long xuyen an giang",
+            "Point": null,
+            "Abbr": "ml lx ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90106"
+        },
+        {
+            "MaPhuongXa": "88140",
+            "TenPhuongXa": "Mỹ Khánh",
+            "MaQuanHuyen": "8810",
+            "TenQuanHuyen": "Long xuyên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mk",
+                    "Point": 5
+                },
+                {
+                    "Key": "lx",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my khanh long xuyen an giang",
+            "Point": null,
+            "Abbr": "mk lx ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90114"
+        },
+        {
+            "MaPhuongXa": "88141",
+            "TenPhuongXa": "Mỹ Hoà Hưng",
+            "MaQuanHuyen": "8810",
+            "TenQuanHuyen": "Long xuyên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mhh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lx",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my hoa hung long xuyen an giang",
+            "Point": null,
+            "Abbr": "mhh lx ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90111"
+        },
+        {
+            "MaPhuongXa": "88143",
+            "TenPhuongXa": "Đông Xuyên",
+            "MaQuanHuyen": "8810",
+            "TenQuanHuyen": "Long xuyên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dx",
+                    "Point": 5
+                },
+                {
+                    "Key": "lx",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong xuyen long xuyen an giang",
+            "Point": null,
+            "Abbr": "dx lx ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90116"
+        },
+        {
+            "MaPhuongXa": "88138",
+            "TenPhuongXa": "Mỹ Hoà",
+            "MaQuanHuyen": "8810",
+            "TenQuanHuyen": "Long xuyên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lx",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my hoa long xuyen an giang",
+            "Point": null,
+            "Abbr": "mh lx ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90115"
+        },
+        {
+            "MaPhuongXa": "88134",
+            "TenPhuongXa": "Mỹ Thới",
+            "MaQuanHuyen": "8810",
+            "TenQuanHuyen": "Long xuyên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lx",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thoi long xuyen an giang",
+            "Point": null,
+            "Abbr": "mt lx ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90117"
+        },
+        {
+            "MaPhuongXa": "88136",
+            "TenPhuongXa": "Mỹ Thạnh",
+            "MaQuanHuyen": "8810",
+            "TenQuanHuyen": "Long xuyên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lx",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thanh long xuyen an giang",
+            "Point": null,
+            "Abbr": "mt lx ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90118"
+        },
+        {
+            "MaPhuongXa": "88131",
+            "TenPhuongXa": "Mỹ Quý",
+            "MaQuanHuyen": "8810",
+            "TenQuanHuyen": "Long xuyên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mq",
+                    "Point": 5
+                },
+                {
+                    "Key": "lx",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my quy long xuyen an giang",
+            "Point": null,
+            "Abbr": "mq lx ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90110"
+        },
+        {
+            "MaPhuongXa": "88113",
+            "TenPhuongXa": "Bình Khánh",
+            "MaQuanHuyen": "8810",
+            "TenQuanHuyen": "Long xuyên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bk",
+                    "Point": 5
+                },
+                {
+                    "Key": "lx",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh khanh long xuyen an giang",
+            "Point": null,
+            "Abbr": "bk lx ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90113"
+        },
+        {
+            "MaPhuongXa": "88129",
+            "TenPhuongXa": "Mỹ Phước",
+            "MaQuanHuyen": "8810",
+            "TenQuanHuyen": "Long xuyên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mp",
+                    "Point": 5
+                },
+                {
+                    "Key": "lx",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my phuoc long xuyen an giang",
+            "Point": null,
+            "Abbr": "mp lx ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90109"
+        },
+        {
+            "MaPhuongXa": "88120",
+            "TenPhuongXa": "Bình Đức",
+            "MaQuanHuyen": "8810",
+            "TenQuanHuyen": "Long xuyên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "lx",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh duc long xuyen an giang",
+            "Point": null,
+            "Abbr": "bd lx ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90112"
+        },
+        {
+            "MaPhuongXa": "88123",
+            "TenPhuongXa": "Mỹ Xuyên",
+            "MaQuanHuyen": "8810",
+            "TenQuanHuyen": "Long xuyên",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mx",
+                    "Point": 5
+                },
+                {
+                    "Key": "lx",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my xuyen long xuyen an giang",
+            "Point": null,
+            "Abbr": "mx lx ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90108"
+        }
+    ],
+    "8816": [
+        {
+            "MaPhuongXa": "88200",
+            "TenPhuongXa": "Long Kiến",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lk",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long kien cho moi an giang",
+            "Point": null,
+            "Abbr": "lk cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90217"
+        },
+        {
+            "MaPhuongXa": "88188",
+            "TenPhuongXa": "Mỹ Hội Đông",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mhd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my hoi dong cho moi an giang",
+            "Point": null,
+            "Abbr": "mhd cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90208"
+        },
+        {
+            "MaPhuongXa": "88185",
+            "TenPhuongXa": "Kiến An",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ka",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kien an cho moi an giang",
+            "Point": null,
+            "Abbr": "ka cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90207"
+        },
+        {
+            "MaPhuongXa": "88180",
+            "TenPhuongXa": "Long Giang",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lg",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long giang cho moi an giang",
+            "Point": null,
+            "Abbr": "lg cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90218"
+        },
+        {
+            "MaPhuongXa": "88183",
+            "TenPhuongXa": "An Thạnh Trung",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "att",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thanh trung cho moi an giang",
+            "Point": null,
+            "Abbr": "att cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90219"
+        },
+        {
+            "MaPhuongXa": "88178",
+            "TenPhuongXa": "Tấn Mỹ",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan my cho moi an giang",
+            "Point": null,
+            "Abbr": "tm cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90214"
+        },
+        {
+            "MaPhuongXa": "88174",
+            "TenPhuongXa": "Hoà Bình",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh cho moi an giang",
+            "Point": null,
+            "Abbr": "hb cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90222"
+        },
+        {
+            "MaPhuongXa": "88176",
+            "TenPhuongXa": "Hội An",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ha",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoi an cho moi an giang",
+            "Point": null,
+            "Abbr": "ha cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90221"
+        },
+        {
+            "MaPhuongXa": "88170",
+            "TenPhuongXa": "Kiến Thành",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kien thanh cho moi an giang",
+            "Point": null,
+            "Abbr": "kt cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90210"
+        },
+        {
+            "MaPhuongXa": "88172",
+            "TenPhuongXa": "Nhơn Mỹ",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhon my cho moi an giang",
+            "Point": null,
+            "Abbr": "nm cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90209"
+        },
+        {
+            "MaPhuongXa": "88198",
+            "TenPhuongXa": "Mỹ Hiệp",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my hiep cho moi an giang",
+            "Point": null,
+            "Abbr": "mh cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90215"
+        },
+        {
+            "MaPhuongXa": "88194",
+            "TenPhuongXa": "Hoà An",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ha",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa an cho moi an giang",
+            "Point": null,
+            "Abbr": "ha cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90223"
+        },
+        {
+            "MaPhuongXa": "88196",
+            "TenPhuongXa": "Bình Phước Xuân",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bpx",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh phuoc xuan cho moi an giang",
+            "Point": null,
+            "Abbr": "bpx cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90220"
+        },
+        {
+            "MaPhuongXa": "88190",
+            "TenPhuongXa": "Mỹ Luông",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my luong cho moi an giang",
+            "Point": null,
+            "Abbr": "ml cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90213"
+        },
+        {
+            "MaPhuongXa": "88192",
+            "TenPhuongXa": "Mỹ An",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ma",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my an cho moi an giang",
+            "Point": null,
+            "Abbr": "ma cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90216"
+        },
+        {
+            "MaPhuongXa": "88168",
+            "TenPhuongXa": "Long Điền B",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ldb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long dien b cho moi an giang",
+            "Point": null,
+            "Abbr": "ldb cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90211"
+        },
+        {
+            "MaPhuongXa": "88166",
+            "TenPhuongXa": "Long Điền A",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lda",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long dien a cho moi an giang",
+            "Point": null,
+            "Abbr": "lda cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90212"
+        },
+        {
+            "MaPhuongXa": "88160",
+            "TenPhuongXa": "Chợ Mới",
+            "MaQuanHuyen": "8816",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cho moi cho moi an giang",
+            "Point": null,
+            "Abbr": "cm cm ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90206"
+        }
+    ],
+    "8830": [
+        {
+            "MaPhuongXa": "88300",
+            "TenPhuongXa": "Châu Phú A",
+            "MaQuanHuyen": "8830",
+            "TenQuanHuyen": "Châu Đốc",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cpa",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau phu a chau doc an giang",
+            "Point": null,
+            "Abbr": "cpa cd ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90507"
+        },
+        {
+            "MaPhuongXa": "88319",
+            "TenPhuongXa": "Núi Sam",
+            "MaQuanHuyen": "8830",
+            "TenQuanHuyen": "Châu Đốc",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nui sam chau doc an giang",
+            "Point": null,
+            "Abbr": "ns cd ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90510"
+        },
+        {
+            "MaPhuongXa": "88317",
+            "TenPhuongXa": "Vĩnh Mỹ",
+            "MaQuanHuyen": "8830",
+            "TenQuanHuyen": "Châu Đốc",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vm",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh my chau doc an giang",
+            "Point": null,
+            "Abbr": "vm cd ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90512"
+        },
+        {
+            "MaPhuongXa": "88310",
+            "TenPhuongXa": "Châu Phú B",
+            "MaQuanHuyen": "8830",
+            "TenQuanHuyen": "Châu Đốc",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cpb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau phu b chau doc an giang",
+            "Point": null,
+            "Abbr": "cpb cd ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90506"
+        },
+        {
+            "MaPhuongXa": "88324",
+            "TenPhuongXa": "Vĩnh Châu",
+            "MaQuanHuyen": "8830",
+            "TenQuanHuyen": "Châu Đốc",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh chau chau doc an giang",
+            "Point": null,
+            "Abbr": "vc cd ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90511"
+        },
+        {
+            "MaPhuongXa": "88322",
+            "TenPhuongXa": "Vĩnh Tế",
+            "MaQuanHuyen": "8830",
+            "TenQuanHuyen": "Châu Đốc",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh te chau doc an giang",
+            "Point": null,
+            "Abbr": "vt cd ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90509"
+        },
+        {
+            "MaPhuongXa": "88323",
+            "TenPhuongXa": "Vĩnh Ngươn",
+            "MaQuanHuyen": "8830",
+            "TenQuanHuyen": "Châu Đốc",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh nguon chau doc an giang",
+            "Point": null,
+            "Abbr": "vn cd ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90508"
+        }
+    ],
+    "8843": [
+        {
+            "MaPhuongXa": "88449",
+            "TenPhuongXa": "Vĩnh Gia",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vg",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh gia tri ton an giang",
+            "Point": null,
+            "Abbr": "vg tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90811"
+        },
+        {
+            "MaPhuongXa": "88448",
+            "TenPhuongXa": "Lạc Qưới",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lq",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac quoi tri ton an giang",
+            "Point": null,
+            "Abbr": "lq tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90810"
+        },
+        {
+            "MaPhuongXa": "88440",
+            "TenPhuongXa": "Lương Phi",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong phi tri ton an giang",
+            "Point": null,
+            "Abbr": "lp tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90814"
+        },
+        {
+            "MaPhuongXa": "88443",
+            "TenPhuongXa": "Ô Lâm",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ol",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "o lam tri ton an giang",
+            "Point": null,
+            "Abbr": "ol tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90817"
+        },
+        {
+            "MaPhuongXa": "88442",
+            "TenPhuongXa": "Lương An Trà",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lat",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong an tra tri ton an giang",
+            "Point": null,
+            "Abbr": "lat tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90813"
+        },
+        {
+            "MaPhuongXa": "88445",
+            "TenPhuongXa": "An Tức",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an tuc tri ton an giang",
+            "Point": null,
+            "Abbr": "at tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90815"
+        },
+        {
+            "MaPhuongXa": "88444",
+            "TenPhuongXa": "Tà Đảnh",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta danh tri ton an giang",
+            "Point": null,
+            "Abbr": "td tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90819"
+        },
+        {
+            "MaPhuongXa": "88447",
+            "TenPhuongXa": "Lê Trì",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "le tri tri ton an giang",
+            "Point": null,
+            "Abbr": "lt tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90808"
+        },
+        {
+            "MaPhuongXa": "88446",
+            "TenPhuongXa": "Tân Tuyến",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tuyen tri ton an giang",
+            "Point": null,
+            "Abbr": "tt tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90820"
+        },
+        {
+            "MaPhuongXa": "88439",
+            "TenPhuongXa": "Cô Tô",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "co to tri ton an giang",
+            "Point": null,
+            "Abbr": "ct tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90818"
+        },
+        {
+            "MaPhuongXa": "88430",
+            "TenPhuongXa": "Tri Tôn",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tri ton tri ton an giang",
+            "Point": null,
+            "Abbr": "tt tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90806"
+        },
+        {
+            "MaPhuongXa": "88435",
+            "TenPhuongXa": "Châu Lăng",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau lang tri ton an giang",
+            "Point": null,
+            "Abbr": "cl tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90807"
+        },
+        {
+            "MaPhuongXa": "88434",
+            "TenPhuongXa": "Núi Tô",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nui to tri ton an giang",
+            "Point": null,
+            "Abbr": "nt tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90816"
+        },
+        {
+            "MaPhuongXa": "88437",
+            "TenPhuongXa": "Ba Chúc",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba chuc tri ton an giang",
+            "Point": null,
+            "Abbr": "bc tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90809"
+        },
+        {
+            "MaPhuongXa": "88450",
+            "TenPhuongXa": "Vĩnh Phước",
+            "MaQuanHuyen": "8843",
+            "TenQuanHuyen": "Tri Tôn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh phuoc tri ton an giang",
+            "Point": null,
+            "Abbr": "vp tt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90812"
+        }
+    ],
+    "8834": [
+        {
+            "MaPhuongXa": "88340",
+            "TenPhuongXa": "Long Thạnh",
+            "MaQuanHuyen": "8834",
+            "TenQuanHuyen": "Tân Châu",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long thanh tan chau an giang",
+            "Point": null,
+            "Abbr": "lt tc ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90406"
+        },
+        {
+            "MaPhuongXa": "88358",
+            "TenPhuongXa": "Vĩnh Hoà",
+            "MaQuanHuyen": "8834",
+            "TenQuanHuyen": "Tân Châu",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hoa tan chau an giang",
+            "Point": null,
+            "Abbr": "vh tc ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90409"
+        },
+        {
+            "MaPhuongXa": "88359",
+            "TenPhuongXa": "Phú Lộc",
+            "MaQuanHuyen": "8834",
+            "TenQuanHuyen": "Tân Châu",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu loc tan chau an giang",
+            "Point": null,
+            "Abbr": "pl tc ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90411"
+        },
+        {
+            "MaPhuongXa": "88356",
+            "TenPhuongXa": "Tân An",
+            "MaQuanHuyen": "8834",
+            "TenQuanHuyen": "Tân Châu",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan an tan chau an giang",
+            "Point": null,
+            "Abbr": "ta tc ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90413"
+        },
+        {
+            "MaPhuongXa": "88354",
+            "TenPhuongXa": "Long An",
+            "MaQuanHuyen": "8834",
+            "TenQuanHuyen": "Tân Châu",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "la",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long an tan chau an giang",
+            "Point": null,
+            "Abbr": "la tc ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90414"
+        },
+        {
+            "MaPhuongXa": "88352",
+            "TenPhuongXa": "Lê Chánh",
+            "MaQuanHuyen": "8834",
+            "TenQuanHuyen": "Tân Châu",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "le chanh tan chau an giang",
+            "Point": null,
+            "Abbr": "lc tc ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90416"
+        },
+        {
+            "MaPhuongXa": "88353",
+            "TenPhuongXa": "Châu Phong",
+            "MaQuanHuyen": "8834",
+            "TenQuanHuyen": "Tân Châu",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau phong tan chau an giang",
+            "Point": null,
+            "Abbr": "cp tc ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90415"
+        },
+        {
+            "MaPhuongXa": "88350",
+            "TenPhuongXa": "Long Phú",
+            "MaQuanHuyen": "8834",
+            "TenQuanHuyen": "Tân Châu",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long phu tan chau an giang",
+            "Point": null,
+            "Abbr": "lp tc ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90418"
+        },
+        {
+            "MaPhuongXa": "88351",
+            "TenPhuongXa": "Phú Vĩnh",
+            "MaQuanHuyen": "8834",
+            "TenQuanHuyen": "Tân Châu",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pv",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu vinh tan chau an giang",
+            "Point": null,
+            "Abbr": "pv tc ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90417"
+        },
+        {
+            "MaPhuongXa": "88366",
+            "TenPhuongXa": "Long Châu",
+            "MaQuanHuyen": "8834",
+            "TenQuanHuyen": "Tân Châu",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long chau tan chau an giang",
+            "Point": null,
+            "Abbr": "lc tc ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90408"
+        },
+        {
+            "MaPhuongXa": "88367",
+            "TenPhuongXa": "Long Hưng",
+            "MaQuanHuyen": "8834",
+            "TenQuanHuyen": "Tân Châu",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long hung tan chau an giang",
+            "Point": null,
+            "Abbr": "lh tc ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90407"
+        },
+        {
+            "MaPhuongXa": "88364",
+            "TenPhuongXa": "Long Sơn",
+            "MaQuanHuyen": "8834",
+            "TenQuanHuyen": "Tân Châu",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long son tan chau an giang",
+            "Point": null,
+            "Abbr": "ls tc ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90419"
+        },
+        {
+            "MaPhuongXa": "88363",
+            "TenPhuongXa": "Tân Thạnh",
+            "MaQuanHuyen": "8834",
+            "TenQuanHuyen": "Tân Châu",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh tan chau an giang",
+            "Point": null,
+            "Abbr": "tt tc ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90412"
+        },
+        {
+            "MaPhuongXa": "88360",
+            "TenPhuongXa": "Vĩnh Xương",
+            "MaQuanHuyen": "8834",
+            "TenQuanHuyen": "Tân Châu",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vx",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh xuong tan chau an giang",
+            "Point": null,
+            "Abbr": "vx tc ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90410"
+        }
+    ],
+    "8822": [
+        {
+            "MaPhuongXa": "88236",
+            "TenPhuongXa": "Vĩnh Nhuận",
+            "MaQuanHuyen": "8822",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh nhuan chau thanh an giang",
+            "Point": null,
+            "Abbr": "vn ct ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90915"
+        },
+        {
+            "MaPhuongXa": "88235",
+            "TenPhuongXa": "Vĩnh An",
+            "MaQuanHuyen": "8822",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "va",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh an chau thanh an giang",
+            "Point": null,
+            "Abbr": "va ct ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90913"
+        },
+        {
+            "MaPhuongXa": "88233",
+            "TenPhuongXa": "Vĩnh Hanh",
+            "MaQuanHuyen": "8822",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hanh chau thanh an giang",
+            "Point": null,
+            "Abbr": "vh ct ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90911"
+        },
+        {
+            "MaPhuongXa": "88232",
+            "TenPhuongXa": "Vĩnh Lợi",
+            "MaQuanHuyen": "8822",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh loi chau thanh an giang",
+            "Point": null,
+            "Abbr": "vl ct ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90916"
+        },
+        {
+            "MaPhuongXa": "88231",
+            "TenPhuongXa": "An Hòa",
+            "MaQuanHuyen": "8822",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hoa chau thanh an giang",
+            "Point": null,
+            "Abbr": "ah ct ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90909"
+        },
+        {
+            "MaPhuongXa": "88230",
+            "TenPhuongXa": "Vĩnh Thành",
+            "MaQuanHuyen": "8822",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh thanh chau thanh an giang",
+            "Point": null,
+            "Abbr": "vt ct ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90918"
+        },
+        {
+            "MaPhuongXa": "88229",
+            "TenPhuongXa": "Tân Phú",
+            "MaQuanHuyen": "8822",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phu chau thanh an giang",
+            "Point": null,
+            "Abbr": "tp ct ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90914"
+        },
+        {
+            "MaPhuongXa": "88228",
+            "TenPhuongXa": "Vĩnh Bình",
+            "MaQuanHuyen": "8822",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh binh chau thanh an giang",
+            "Point": null,
+            "Abbr": "vb ct ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90912"
+        },
+        {
+            "MaPhuongXa": "88227",
+            "TenPhuongXa": "Cần Đăng",
+            "MaQuanHuyen": "8822",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "can dang chau thanh an giang",
+            "Point": null,
+            "Abbr": "cd ct ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90910"
+        },
+        {
+            "MaPhuongXa": "88226",
+            "TenPhuongXa": "Hoà Bình Thạnh",
+            "MaQuanHuyen": "8822",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hbt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh thanh chau thanh an giang",
+            "Point": null,
+            "Abbr": "hbt ct ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90917"
+        },
+        {
+            "MaPhuongXa": "88225",
+            "TenPhuongXa": "Bình Thạnh",
+            "MaQuanHuyen": "8822",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thanh chau thanh an giang",
+            "Point": null,
+            "Abbr": "bt ct ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90907"
+        },
+        {
+            "MaPhuongXa": "88223",
+            "TenPhuongXa": "Bình Hoà",
+            "MaQuanHuyen": "8822",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh hoa chau thanh an giang",
+            "Point": null,
+            "Abbr": "bh ct ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90908"
+        },
+        {
+            "MaPhuongXa": "88220",
+            "TenPhuongXa": "An Châu",
+            "MaQuanHuyen": "8822",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ac",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an chau chau thanh an giang",
+            "Point": null,
+            "Abbr": "ac ct ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90906"
+        }
+    ],
+    "8846": [
+        {
+            "MaPhuongXa": "88481",
+            "TenPhuongXa": "Mỹ Phú Đông",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mpd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my phu dong thoai son an giang",
+            "Point": null,
+            "Abbr": "mpd ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90964"
+        },
+        {
+            "MaPhuongXa": "88480",
+            "TenPhuongXa": "Định Mỹ",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh my thoai son an giang",
+            "Point": null,
+            "Abbr": "dm ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90963"
+        },
+        {
+            "MaPhuongXa": "88483",
+            "TenPhuongXa": "An Bình",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ab",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an binh thoai son an giang",
+            "Point": null,
+            "Abbr": "ab ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90967"
+        },
+        {
+            "MaPhuongXa": "88482",
+            "TenPhuongXa": "Vĩnh Phú",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh phu thoai son an giang",
+            "Point": null,
+            "Abbr": "vp ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90965"
+        },
+        {
+            "MaPhuongXa": "88479",
+            "TenPhuongXa": "Vọng Thê",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vong the thoai son an giang",
+            "Point": null,
+            "Abbr": "vt ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90968"
+        },
+        {
+            "MaPhuongXa": "88478",
+            "TenPhuongXa": "Vọng Đông",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vong dong thoai son an giang",
+            "Point": null,
+            "Abbr": "vd ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90970"
+        },
+        {
+            "MaPhuongXa": "88470",
+            "TenPhuongXa": "Vĩnh Trạch",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh trach thoai son an giang",
+            "Point": null,
+            "Abbr": "vt ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90962"
+        },
+        {
+            "MaPhuongXa": "88473",
+            "TenPhuongXa": "Tây Phú",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tay phu thoai son an giang",
+            "Point": null,
+            "Abbr": "tp ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90966"
+        },
+        {
+            "MaPhuongXa": "88472",
+            "TenPhuongXa": "Vĩnh Khánh",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vk",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh khanh thoai son an giang",
+            "Point": null,
+            "Abbr": "vk ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90958"
+        },
+        {
+            "MaPhuongXa": "88475",
+            "TenPhuongXa": "Thoại Giang",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tg",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thoai giang thoai son an giang",
+            "Point": null,
+            "Abbr": "tg ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90971"
+        },
+        {
+            "MaPhuongXa": "88474",
+            "TenPhuongXa": "Vĩnh Chánh",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh chanh thoai son an giang",
+            "Point": null,
+            "Abbr": "vc ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90959"
+        },
+        {
+            "MaPhuongXa": "88477",
+            "TenPhuongXa": "Óc Eo",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "oe",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "oc eo thoai son an giang",
+            "Point": null,
+            "Abbr": "oe ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90969"
+        },
+        {
+            "MaPhuongXa": "88476",
+            "TenPhuongXa": "Bình Thành",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thanh thoai son an giang",
+            "Point": null,
+            "Abbr": "bt ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90972"
+        },
+        {
+            "MaPhuongXa": "88469",
+            "TenPhuongXa": "Phú Thuận",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thuan thoai son an giang",
+            "Point": null,
+            "Abbr": "pt ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90960"
+        },
+        {
+            "MaPhuongXa": "88460",
+            "TenPhuongXa": "Núi Sập",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nui sap thoai son an giang",
+            "Point": null,
+            "Abbr": "ns ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90956"
+        },
+        {
+            "MaPhuongXa": "88467",
+            "TenPhuongXa": "Phú Hoà",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hoa thoai son an giang",
+            "Point": null,
+            "Abbr": "ph ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90961"
+        },
+        {
+            "MaPhuongXa": "88466",
+            "TenPhuongXa": "Định Thành",
+            "MaQuanHuyen": "8846",
+            "TenQuanHuyen": "Thoại Sơn",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh thanh thoai son an giang",
+            "Point": null,
+            "Abbr": "dt ts ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90957"
+        }
+    ],
+    "8828": [
+        {
+            "MaPhuongXa": "88289",
+            "TenPhuongXa": "Khánh Hòa",
+            "MaQuanHuyen": "8828",
+            "TenQuanHuyen": "Châu Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "kh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh hoa chau phu an giang",
+            "Point": null,
+            "Abbr": "kh cp ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90609"
+        },
+        {
+            "MaPhuongXa": "88288",
+            "TenPhuongXa": "Mỹ Đức",
+            "MaQuanHuyen": "8828",
+            "TenQuanHuyen": "Châu Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my duc chau phu an giang",
+            "Point": null,
+            "Abbr": "md cp ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90610"
+        },
+        {
+            "MaPhuongXa": "88287",
+            "TenPhuongXa": "Mỹ Phú",
+            "MaQuanHuyen": "8828",
+            "TenQuanHuyen": "Châu Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my phu chau phu an giang",
+            "Point": null,
+            "Abbr": "mp cp ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90608"
+        },
+        {
+            "MaPhuongXa": "88286",
+            "TenPhuongXa": "Đào Hữu Cảnh",
+            "MaQuanHuyen": "8828",
+            "TenQuanHuyen": "Châu Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dhc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dao huu canh chau phu an giang",
+            "Point": null,
+            "Abbr": "dhc cp ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90612"
+        },
+        {
+            "MaPhuongXa": "88285",
+            "TenPhuongXa": "Thạnh Mỹ Tây",
+            "MaQuanHuyen": "8828",
+            "TenQuanHuyen": "Châu Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tmt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh my tay chau phu an giang",
+            "Point": null,
+            "Abbr": "tmt cp ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90613"
+        },
+        {
+            "MaPhuongXa": "88284",
+            "TenPhuongXa": "Ô Long Vĩ",
+            "MaQuanHuyen": "8828",
+            "TenQuanHuyen": "Châu Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "olv",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "o long vi chau phu an giang",
+            "Point": null,
+            "Abbr": "olv cp ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90611"
+        },
+        {
+            "MaPhuongXa": "88282",
+            "TenPhuongXa": "Vĩnh Thạnh Trung",
+            "MaQuanHuyen": "8828",
+            "TenQuanHuyen": "Châu Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vtt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh thanh trung chau phu an giang",
+            "Point": null,
+            "Abbr": "vtt cp ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90607"
+        },
+        {
+            "MaPhuongXa": "88280",
+            "TenPhuongXa": "Cái Dầu",
+            "MaQuanHuyen": "8828",
+            "TenQuanHuyen": "Châu Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cai dau chau phu an giang",
+            "Point": null,
+            "Abbr": "cd cp ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90606"
+        },
+        {
+            "MaPhuongXa": "88295",
+            "TenPhuongXa": "Bình Thuỷ",
+            "MaQuanHuyen": "8828",
+            "TenQuanHuyen": "Châu Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thuy chau phu an giang",
+            "Point": null,
+            "Abbr": "bt cp ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90618"
+        },
+        {
+            "MaPhuongXa": "88293",
+            "TenPhuongXa": "Bình Mỹ",
+            "MaQuanHuyen": "8828",
+            "TenQuanHuyen": "Châu Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bm",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh my chau phu an giang",
+            "Point": null,
+            "Abbr": "bm cp ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90617"
+        },
+        {
+            "MaPhuongXa": "88292",
+            "TenPhuongXa": "Bình Phú",
+            "MaQuanHuyen": "8828",
+            "TenQuanHuyen": "Châu Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh phu chau phu an giang",
+            "Point": null,
+            "Abbr": "bp cp ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90614"
+        },
+        {
+            "MaPhuongXa": "88291",
+            "TenPhuongXa": "Bình Chánh",
+            "MaQuanHuyen": "8828",
+            "TenQuanHuyen": "Châu Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh chanh chau phu an giang",
+            "Point": null,
+            "Abbr": "bc cp ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90616"
+        },
+        {
+            "MaPhuongXa": "88290",
+            "TenPhuongXa": "Bình Long",
+            "MaQuanHuyen": "8828",
+            "TenQuanHuyen": "Châu Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh long chau phu an giang",
+            "Point": null,
+            "Abbr": "bl cp ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90615"
+        }
+    ],
+    "8837": [
+        {
+            "MaPhuongXa": "88388",
+            "TenPhuongXa": "Long Bình",
+            "MaQuanHuyen": "8837",
+            "TenQuanHuyen": "An Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long binh an phu an giang",
+            "Point": null,
+            "Abbr": "lb ap ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90460"
+        },
+        {
+            "MaPhuongXa": "88386",
+            "TenPhuongXa": "Phước Hưng",
+            "MaQuanHuyen": "8837",
+            "TenQuanHuyen": "An Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc hung an phu an giang",
+            "Point": null,
+            "Abbr": "ph ap ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90464"
+        },
+        {
+            "MaPhuongXa": "88385",
+            "TenPhuongXa": "Vĩnh Trường",
+            "MaQuanHuyen": "8837",
+            "TenQuanHuyen": "An Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh truong an phu an giang",
+            "Point": null,
+            "Abbr": "vt ap ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90468"
+        },
+        {
+            "MaPhuongXa": "88382",
+            "TenPhuongXa": "Phú Hội",
+            "MaQuanHuyen": "8837",
+            "TenQuanHuyen": "An Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hoi an phu an giang",
+            "Point": null,
+            "Abbr": "ph ap ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90465"
+        },
+        {
+            "MaPhuongXa": "88383",
+            "TenPhuongXa": "Vĩnh Hội Đông",
+            "MaQuanHuyen": "8837",
+            "TenQuanHuyen": "An Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vhd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hoi dong an phu an giang",
+            "Point": null,
+            "Abbr": "vhd ap ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90466"
+        },
+        {
+            "MaPhuongXa": "88380",
+            "TenPhuongXa": "Phú Hữu",
+            "MaQuanHuyen": "8837",
+            "TenQuanHuyen": "An Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu huu an phu an giang",
+            "Point": null,
+            "Abbr": "ph ap ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90458"
+        },
+        {
+            "MaPhuongXa": "88378",
+            "TenPhuongXa": "Khánh Bình",
+            "MaQuanHuyen": "8837",
+            "TenQuanHuyen": "An Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "kb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh binh an phu an giang",
+            "Point": null,
+            "Abbr": "kb ap ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90461"
+        },
+        {
+            "MaPhuongXa": "88376",
+            "TenPhuongXa": "Đa Phước",
+            "MaQuanHuyen": "8837",
+            "TenQuanHuyen": "An Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da phuoc an phu an giang",
+            "Point": null,
+            "Abbr": "dp ap ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90467"
+        },
+        {
+            "MaPhuongXa": "88377",
+            "TenPhuongXa": "Vĩnh Lộc",
+            "MaQuanHuyen": "8837",
+            "TenQuanHuyen": "An Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh loc an phu an giang",
+            "Point": null,
+            "Abbr": "vl ap ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90457"
+        },
+        {
+            "MaPhuongXa": "88374",
+            "TenPhuongXa": "Vĩnh Hậu",
+            "MaQuanHuyen": "8837",
+            "TenQuanHuyen": "An Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hau an phu an giang",
+            "Point": null,
+            "Abbr": "vh ap ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90469"
+        },
+        {
+            "MaPhuongXa": "88375",
+            "TenPhuongXa": "Nhơn Hội",
+            "MaQuanHuyen": "8837",
+            "TenQuanHuyen": "An Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhon hoi an phu an giang",
+            "Point": null,
+            "Abbr": "nh ap ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90462"
+        },
+        {
+            "MaPhuongXa": "88372",
+            "TenPhuongXa": "Khánh An",
+            "MaQuanHuyen": "8837",
+            "TenQuanHuyen": "An Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ka",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh an an phu an giang",
+            "Point": null,
+            "Abbr": "ka ap ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90459"
+        },
+        {
+            "MaPhuongXa": "88373",
+            "TenPhuongXa": "Quốc Thái",
+            "MaQuanHuyen": "8837",
+            "TenQuanHuyen": "An Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quoc thai an phu an giang",
+            "Point": null,
+            "Abbr": "qt ap ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90463"
+        },
+        {
+            "MaPhuongXa": "88370",
+            "TenPhuongXa": "An Phú",
+            "MaQuanHuyen": "8837",
+            "TenQuanHuyen": "An Phú",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ap",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an phu an phu an giang",
+            "Point": null,
+            "Abbr": "ap ap ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90456"
+        }
+    ],
+    "8825": [
+        {
+            "MaPhuongXa": "88271",
+            "TenPhuongXa": "Tân Trung",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan trung phu tan an giang",
+            "Point": null,
+            "Abbr": "tt pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90323"
+        },
+        {
+            "MaPhuongXa": "88270",
+            "TenPhuongXa": "Long Hòa",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long hoa phu tan an giang",
+            "Point": null,
+            "Abbr": "lh pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90312"
+        },
+        {
+            "MaPhuongXa": "88259",
+            "TenPhuongXa": "Phú Hưng",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hung phu tan an giang",
+            "Point": null,
+            "Abbr": "ph pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90321"
+        },
+        {
+            "MaPhuongXa": "88258",
+            "TenPhuongXa": "Hoà Lạc",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa lac phu tan an giang",
+            "Point": null,
+            "Abbr": "hl pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90315"
+        },
+        {
+            "MaPhuongXa": "88257",
+            "TenPhuongXa": "Phú Long",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu long phu tan an giang",
+            "Point": null,
+            "Abbr": "pl pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90313"
+        },
+        {
+            "MaPhuongXa": "88256",
+            "TenPhuongXa": "Phú Thành",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thanh phu tan an giang",
+            "Point": null,
+            "Abbr": "pt pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90316"
+        },
+        {
+            "MaPhuongXa": "88255",
+            "TenPhuongXa": "Phú Bình",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pb",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu binh phu tan an giang",
+            "Point": null,
+            "Abbr": "pb pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90319"
+        },
+        {
+            "MaPhuongXa": "88254",
+            "TenPhuongXa": "Tân Hoà",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoa phu tan an giang",
+            "Point": null,
+            "Abbr": "th pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90322"
+        },
+        {
+            "MaPhuongXa": "88252",
+            "TenPhuongXa": "Phú Hiệp",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hiep phu tan an giang",
+            "Point": null,
+            "Abbr": "ph pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90314"
+        },
+        {
+            "MaPhuongXa": "88250",
+            "TenPhuongXa": "Phú Mỹ",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu my phu tan an giang",
+            "Point": null,
+            "Abbr": "pm pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90306"
+        },
+        {
+            "MaPhuongXa": "88269",
+            "TenPhuongXa": "Bình Thạnh Đông",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "btd",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thanh dong phu tan an giang",
+            "Point": null,
+            "Abbr": "btd pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90320"
+        },
+        {
+            "MaPhuongXa": "88268",
+            "TenPhuongXa": "Hiệp Xương",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hx",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep xuong phu tan an giang",
+            "Point": null,
+            "Abbr": "hx pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90318"
+        },
+        {
+            "MaPhuongXa": "88267",
+            "TenPhuongXa": "Chợ Vàm",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cv",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cho vam phu tan an giang",
+            "Point": null,
+            "Abbr": "cv pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90310"
+        },
+        {
+            "MaPhuongXa": "88266",
+            "TenPhuongXa": "Phú An",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pa",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu an phu tan an giang",
+            "Point": null,
+            "Abbr": "pa pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90308"
+        },
+        {
+            "MaPhuongXa": "88265",
+            "TenPhuongXa": "Phú Thọ",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu tho phu tan an giang",
+            "Point": null,
+            "Abbr": "pt pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90307"
+        },
+        {
+            "MaPhuongXa": "88262",
+            "TenPhuongXa": "Phú Xuân",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "px",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu xuan phu tan an giang",
+            "Point": null,
+            "Abbr": "px pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90317"
+        },
+        {
+            "MaPhuongXa": "88261",
+            "TenPhuongXa": "Phú Lâm",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu lam phu tan an giang",
+            "Point": null,
+            "Abbr": "pl pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90311"
+        },
+        {
+            "MaPhuongXa": "88260",
+            "TenPhuongXa": "Phú Thạnh",
+            "MaQuanHuyen": "8825",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "88",
+            "TenTinhThanh": "An Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ag",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thanh phu tan an giang",
+            "Point": null,
+            "Abbr": "pt pt ag",
+            "TrangThai": null,
+            "MaBuuChinh": "90309"
+        }
+    ]
+}

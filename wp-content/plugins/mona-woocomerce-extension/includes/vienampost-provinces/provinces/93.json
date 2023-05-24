@@ -1,0 +1,4448 @@
+{
+    "9320": [
+        {
+            "MaPhuongXa": "93245",
+            "TenPhuongXa": "Hương Mỹ",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong my mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "hm mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86522"
+        },
+        {
+            "MaPhuongXa": "93242",
+            "TenPhuongXa": "Ngãi Đăng",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngai dang mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "nd mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86519"
+        },
+        {
+            "MaPhuongXa": "93243",
+            "TenPhuongXa": "Cẩm Sơn",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam son mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "cs mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86521"
+        },
+        {
+            "MaPhuongXa": "93240",
+            "TenPhuongXa": "Minh Đức",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh duc mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "md mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86520"
+        },
+        {
+            "MaPhuongXa": "93238",
+            "TenPhuongXa": "Thành Thới A",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tta",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh thoi a mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "tta mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86517"
+        },
+        {
+            "MaPhuongXa": "93239",
+            "TenPhuongXa": "Thành Thới B",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ttb",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh thoi b mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "ttb mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86518"
+        },
+        {
+            "MaPhuongXa": "93236",
+            "TenPhuongXa": "An Thới",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thoi mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "at mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86516"
+        },
+        {
+            "MaPhuongXa": "93235",
+            "TenPhuongXa": "Tân Trung",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan trung mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "tt mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86515"
+        },
+        {
+            "MaPhuongXa": "93233",
+            "TenPhuongXa": "An Định",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ad",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an dinh mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "ad mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86514"
+        },
+        {
+            "MaPhuongXa": "93231",
+            "TenPhuongXa": "An Thạnh",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thanh mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "at mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86510"
+        },
+        {
+            "MaPhuongXa": "93253",
+            "TenPhuongXa": "Tân Hội",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoi mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "th mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86509"
+        },
+        {
+            "MaPhuongXa": "93228",
+            "TenPhuongXa": "Bình Khánh Đông",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "bkd",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh khanh dong mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "bkd mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86513"
+        },
+        {
+            "MaPhuongXa": "93208",
+            "TenPhuongXa": "Đa Phước Hội",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "dph",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da phuoc hoi mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "dph mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86511"
+        },
+        {
+            "MaPhuongXa": "93206",
+            "TenPhuongXa": "Bình Khánh",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "bk",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh khanh mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "bk mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86512"
+        },
+        {
+            "MaPhuongXa": "93204",
+            "TenPhuongXa": "Phước Hiệp",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc hiep mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "ph mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86507"
+        },
+        {
+            "MaPhuongXa": "93202",
+            "TenPhuongXa": "Định Thuỷ",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh thuy mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "dt mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86508"
+        },
+        {
+            "MaPhuongXa": "93200",
+            "TenPhuongXa": "Mỏ Cày",
+            "MaQuanHuyen": "9320",
+            "TenQuanHuyen": "Mỏ Cày Nam",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mo cay mo cay nam ben tre",
+            "Point": null,
+            "Abbr": "mc mcn bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86506"
+        }
+    ],
+    "9313": [
+        {
+            "MaPhuongXa": "93149",
+            "TenPhuongXa": "Qưới Thành",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quoi thanh chau thanh ben tre",
+            "Point": null,
+            "Abbr": "qt ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86224"
+        },
+        {
+            "MaPhuongXa": "93148",
+            "TenPhuongXa": "Thành Triệu",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh trieu chau thanh ben tre",
+            "Point": null,
+            "Abbr": "tt ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86221"
+        },
+        {
+            "MaPhuongXa": "93144",
+            "TenPhuongXa": "Phú Đức",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu duc chau thanh ben tre",
+            "Point": null,
+            "Abbr": "pd ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86223"
+        },
+        {
+            "MaPhuongXa": "93147",
+            "TenPhuongXa": "Tường Đa",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tuong da chau thanh ben tre",
+            "Point": null,
+            "Abbr": "td ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86218"
+        },
+        {
+            "MaPhuongXa": "93146",
+            "TenPhuongXa": "Tam Phước",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam phuoc chau thanh ben tre",
+            "Point": null,
+            "Abbr": "tp ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86217"
+        },
+        {
+            "MaPhuongXa": "93140",
+            "TenPhuongXa": "An Khánh",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ak",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an khanh chau thanh ben tre",
+            "Point": null,
+            "Abbr": "ak ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86216"
+        },
+        {
+            "MaPhuongXa": "93142",
+            "TenPhuongXa": "Phú Túc",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu tuc chau thanh ben tre",
+            "Point": null,
+            "Abbr": "pt ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86222"
+        },
+        {
+            "MaPhuongXa": "93138",
+            "TenPhuongXa": "Tân Thạch",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thach chau thanh ben tre",
+            "Point": null,
+            "Abbr": "tt ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86215"
+        },
+        {
+            "MaPhuongXa": "93135",
+            "TenPhuongXa": "Giao Hoà",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "gh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao hoa chau thanh ben tre",
+            "Point": null,
+            "Abbr": "gh ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86212"
+        },
+        {
+            "MaPhuongXa": "93136",
+            "TenPhuongXa": "Qưới Sơn",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "qs",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quoi son chau thanh ben tre",
+            "Point": null,
+            "Abbr": "qs ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86214"
+        },
+        {
+            "MaPhuongXa": "93131",
+            "TenPhuongXa": "An Phước",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ap",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an phuoc chau thanh ben tre",
+            "Point": null,
+            "Abbr": "ap ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86208"
+        },
+        {
+            "MaPhuongXa": "93130",
+            "TenPhuongXa": "Phú An Hoà",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pah",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu an hoa chau thanh ben tre",
+            "Point": null,
+            "Abbr": "pah ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86207"
+        },
+        {
+            "MaPhuongXa": "93132",
+            "TenPhuongXa": "Giao Long",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "gl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao long chau thanh ben tre",
+            "Point": null,
+            "Abbr": "gl ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86213"
+        },
+        {
+            "MaPhuongXa": "93159",
+            "TenPhuongXa": "Tiên Thuỷ",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien thuy chau thanh ben tre",
+            "Point": null,
+            "Abbr": "tt ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86225"
+        },
+        {
+            "MaPhuongXa": "93158",
+            "TenPhuongXa": "Sơn Hoà",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "sh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son hoa chau thanh ben tre",
+            "Point": null,
+            "Abbr": "sh ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86219"
+        },
+        {
+            "MaPhuongXa": "93155",
+            "TenPhuongXa": "Tân Phú",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phu chau thanh ben tre",
+            "Point": null,
+            "Abbr": "tp ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86227"
+        },
+        {
+            "MaPhuongXa": "93157",
+            "TenPhuongXa": "An Hiệp",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hiep chau thanh ben tre",
+            "Point": null,
+            "Abbr": "ah ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86220"
+        },
+        {
+            "MaPhuongXa": "93151",
+            "TenPhuongXa": "An Hoá",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hoa chau thanh ben tre",
+            "Point": null,
+            "Abbr": "ah ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86211"
+        },
+        {
+            "MaPhuongXa": "93150",
+            "TenPhuongXa": "Phước Thạnh",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc thanh chau thanh ben tre",
+            "Point": null,
+            "Abbr": "pt ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86209"
+        },
+        {
+            "MaPhuongXa": "93153",
+            "TenPhuongXa": "Tiên Long",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien long chau thanh ben tre",
+            "Point": null,
+            "Abbr": "tl ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86226"
+        },
+        {
+            "MaPhuongXa": "93152",
+            "TenPhuongXa": "Hữu Định",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu dinh chau thanh ben tre",
+            "Point": null,
+            "Abbr": "hd ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86210"
+        },
+        {
+            "MaPhuongXa": "93161",
+            "TenPhuongXa": "Châu Thành",
+            "MaQuanHuyen": "9313",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau thanh chau thanh ben tre",
+            "Point": null,
+            "Abbr": "ct ct bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86206"
+        }
+    ],
+    "9333": [
+        {
+            "MaPhuongXa": "93348",
+            "TenPhuongXa": "An Hiệp",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hiep ba tri ben tre",
+            "Point": null,
+            "Abbr": "ah bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86823"
+        },
+        {
+            "MaPhuongXa": "93347",
+            "TenPhuongXa": "An Phú Trung",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "apt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an phu trung ba tri ben tre",
+            "Point": null,
+            "Abbr": "apt bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86820"
+        },
+        {
+            "MaPhuongXa": "93346",
+            "TenPhuongXa": "An Ngãi Trung",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ant",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an ngai trung ba tri ben tre",
+            "Point": null,
+            "Abbr": "ant bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86819"
+        },
+        {
+            "MaPhuongXa": "93345",
+            "TenPhuongXa": "An Bình Tây",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "abt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an binh tay ba tri ben tre",
+            "Point": null,
+            "Abbr": "abt bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86818"
+        },
+        {
+            "MaPhuongXa": "93344",
+            "TenPhuongXa": "Mỹ Hoà",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my hoa ba tri ben tre",
+            "Point": null,
+            "Abbr": "mh bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86813"
+        },
+        {
+            "MaPhuongXa": "93343",
+            "TenPhuongXa": "Mỹ Chánh",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my chanh ba tri ben tre",
+            "Point": null,
+            "Abbr": "mc bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86814"
+        },
+        {
+            "MaPhuongXa": "93342",
+            "TenPhuongXa": "Mỹ Thạnh",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thanh ba tri ben tre",
+            "Point": null,
+            "Abbr": "mt bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86815"
+        },
+        {
+            "MaPhuongXa": "93341",
+            "TenPhuongXa": "Mỹ Nhơn",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "mn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my nhon ba tri ben tre",
+            "Point": null,
+            "Abbr": "mn bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86816"
+        },
+        {
+            "MaPhuongXa": "93340",
+            "TenPhuongXa": "Tân Mỹ",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan my ba tri ben tre",
+            "Point": null,
+            "Abbr": "tm bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86812"
+        },
+        {
+            "MaPhuongXa": "93338",
+            "TenPhuongXa": "Tân Xuân",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tx",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan xuan ba tri ben tre",
+            "Point": null,
+            "Abbr": "tx bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86811"
+        },
+        {
+            "MaPhuongXa": "93337",
+            "TenPhuongXa": "Phước Tuy",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc tuy ba tri ben tre",
+            "Point": null,
+            "Abbr": "pt bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86810"
+        },
+        {
+            "MaPhuongXa": "93336",
+            "TenPhuongXa": "Bảo Thạnh",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bao thanh ba tri ben tre",
+            "Point": null,
+            "Abbr": "bt bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86809"
+        },
+        {
+            "MaPhuongXa": "93335",
+            "TenPhuongXa": "Phước Ngãi",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc ngai ba tri ben tre",
+            "Point": null,
+            "Abbr": "pn bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86808"
+        },
+        {
+            "MaPhuongXa": "93334",
+            "TenPhuongXa": "Phú Lễ",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu le ba tri ben tre",
+            "Point": null,
+            "Abbr": "pl bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86817"
+        },
+        {
+            "MaPhuongXa": "93333",
+            "TenPhuongXa": "Bảo Thuận",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bao thuan ba tri ben tre",
+            "Point": null,
+            "Abbr": "bt bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86829"
+        },
+        {
+            "MaPhuongXa": "93332",
+            "TenPhuongXa": "Vĩnh Hoà",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hoa ba tri ben tre",
+            "Point": null,
+            "Abbr": "vh bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86807"
+        },
+        {
+            "MaPhuongXa": "93330",
+            "TenPhuongXa": "Ba Tri",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba tri ba tri ben tre",
+            "Point": null,
+            "Abbr": "bt bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86806"
+        },
+        {
+            "MaPhuongXa": "93357",
+            "TenPhuongXa": "An Thuỷ",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thuy ba tri ben tre",
+            "Point": null,
+            "Abbr": "at bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86827"
+        },
+        {
+            "MaPhuongXa": "93356",
+            "TenPhuongXa": "An Hoà Tây",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "aht",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hoa tay ba tri ben tre",
+            "Point": null,
+            "Abbr": "aht bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86826"
+        },
+        {
+            "MaPhuongXa": "93355",
+            "TenPhuongXa": "Tân Thuỷ",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thuy ba tri ben tre",
+            "Point": null,
+            "Abbr": "tt bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86828"
+        },
+        {
+            "MaPhuongXa": "93354",
+            "TenPhuongXa": "Vĩnh An",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "va",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh an ba tri ben tre",
+            "Point": null,
+            "Abbr": "va bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86825"
+        },
+        {
+            "MaPhuongXa": "93352",
+            "TenPhuongXa": "An Đức",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ad",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an duc ba tri ben tre",
+            "Point": null,
+            "Abbr": "ad bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86824"
+        },
+        {
+            "MaPhuongXa": "93351",
+            "TenPhuongXa": "Tân Hưng",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hung ba tri ben tre",
+            "Point": null,
+            "Abbr": "th bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86821"
+        },
+        {
+            "MaPhuongXa": "93350",
+            "TenPhuongXa": "An Ngãi Tây",
+            "MaQuanHuyen": "9333",
+            "TenQuanHuyen": "Ba Tri",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ant",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an ngai tay ba tri ben tre",
+            "Point": null,
+            "Abbr": "ant bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86822"
+        }
+    ],
+    "9310": [
+        {
+            "MaPhuongXa": "93433",
+            "TenPhuongXa": "Mỹ Thành",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thanh ben tre ben tre",
+            "Point": null,
+            "Abbr": "mt bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86114"
+        },
+        {
+            "MaPhuongXa": "93119",
+            "TenPhuongXa": "Phú Nhuận",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu nhuan ben tre ben tre",
+            "Point": null,
+            "Abbr": "pn bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86122"
+        },
+        {
+            "MaPhuongXa": "93118",
+            "TenPhuongXa": "Nhơn Thạnh",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhon thanh ben tre ben tre",
+            "Point": null,
+            "Abbr": "nt bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86121"
+        },
+        {
+            "MaPhuongXa": "93115",
+            "TenPhuongXa": "Số 5",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "s5",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 5 ben tre ben tre",
+            "Point": null,
+            "Abbr": "s5 bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86118"
+        },
+        {
+            "MaPhuongXa": "93116",
+            "TenPhuongXa": "Mỹ Thạnh An",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "mta",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thanh an ben tre ben tre",
+            "Point": null,
+            "Abbr": "mta bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86120"
+        },
+        {
+            "MaPhuongXa": "93111",
+            "TenPhuongXa": "Số 7",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "s7",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 7 ben tre ben tre",
+            "Point": null,
+            "Abbr": "s7 bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86117"
+        },
+        {
+            "MaPhuongXa": "93110",
+            "TenPhuongXa": "Sơn Đông",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "sd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son dong ben tre ben tre",
+            "Point": null,
+            "Abbr": "sd bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86113"
+        },
+        {
+            "MaPhuongXa": "93113",
+            "TenPhuongXa": "Số 3",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "s3",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 3 ben tre ben tre",
+            "Point": null,
+            "Abbr": "s3 bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86119"
+        },
+        {
+            "MaPhuongXa": "93112",
+            "TenPhuongXa": "Bình Phú",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh phu ben tre ben tre",
+            "Point": null,
+            "Abbr": "bp bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86115"
+        },
+        {
+            "MaPhuongXa": "93126",
+            "TenPhuongXa": "Phú Tân",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu tan ben tre ben tre",
+            "Point": null,
+            "Abbr": "pt bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86112"
+        },
+        {
+            "MaPhuongXa": "93109",
+            "TenPhuongXa": "Số 6",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "s6",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 6 ben tre ben tre",
+            "Point": null,
+            "Abbr": "s6 bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86116"
+        },
+        {
+            "MaPhuongXa": "93108",
+            "TenPhuongXa": "Phú Khương",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pk",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu khuong ben tre ben tre",
+            "Point": null,
+            "Abbr": "pk bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86111"
+        },
+        {
+            "MaPhuongXa": "93105",
+            "TenPhuongXa": "Số 8",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "s8",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 8 ben tre ben tre",
+            "Point": null,
+            "Abbr": "s8 bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86107"
+        },
+        {
+            "MaPhuongXa": "93107",
+            "TenPhuongXa": "Phú Hưng",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hung ben tre ben tre",
+            "Point": null,
+            "Abbr": "ph bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86110"
+        },
+        {
+            "MaPhuongXa": "93106",
+            "TenPhuongXa": "Số 4",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "s4",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 4 ben tre ben tre",
+            "Point": null,
+            "Abbr": "s4 bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86109"
+        },
+        {
+            "MaPhuongXa": "93100",
+            "TenPhuongXa": "An Hội",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hoi ben tre ben tre",
+            "Point": null,
+            "Abbr": "ah bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86106"
+        },
+        {
+            "MaPhuongXa": "93103",
+            "TenPhuongXa": "Số 1",
+            "MaQuanHuyen": "9310",
+            "TenQuanHuyen": "Bến Tre",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "s1",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 1 ben tre ben tre",
+            "Point": null,
+            "Abbr": "s1 bt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86108"
+        }
+    ],
+    "9340": [
+        {
+            "MaPhuongXa": "93419",
+            "TenPhuongXa": "Tân Thanh Tây",
+            "MaQuanHuyen": "9340",
+            "TenQuanHuyen": "Mỏ Cày Bắc",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ttt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh tay mo cay bac ben tre",
+            "Point": null,
+            "Abbr": "ttt mcb bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86416"
+        },
+        {
+            "MaPhuongXa": "93411",
+            "TenPhuongXa": "Phước Mỹ Trung",
+            "MaQuanHuyen": "9340",
+            "TenQuanHuyen": "Mỏ Cày Bắc",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pmt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc my trung mo cay bac ben tre",
+            "Point": null,
+            "Abbr": "pmt mcb bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86406"
+        },
+        {
+            "MaPhuongXa": "93413",
+            "TenPhuongXa": "Tân Bình",
+            "MaQuanHuyen": "9340",
+            "TenQuanHuyen": "Mỏ Cày Bắc",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan binh mo cay bac ben tre",
+            "Point": null,
+            "Abbr": "tb mcb bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86417"
+        },
+        {
+            "MaPhuongXa": "93415",
+            "TenPhuongXa": "Tân Phú Tây",
+            "MaQuanHuyen": "9340",
+            "TenQuanHuyen": "Mỏ Cày Bắc",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tpt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phu tay mo cay bac ben tre",
+            "Point": null,
+            "Abbr": "tpt mcb bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86410"
+        },
+        {
+            "MaPhuongXa": "93417",
+            "TenPhuongXa": "Tân Thành Bình",
+            "MaQuanHuyen": "9340",
+            "TenQuanHuyen": "Mỏ Cày Bắc",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ttb",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh binh mo cay bac ben tre",
+            "Point": null,
+            "Abbr": "ttb mcb bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86409"
+        },
+        {
+            "MaPhuongXa": "93420",
+            "TenPhuongXa": "Thành An",
+            "MaQuanHuyen": "9340",
+            "TenQuanHuyen": "Mỏ Cày Bắc",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh an mo cay bac ben tre",
+            "Point": null,
+            "Abbr": "ta mcb bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86407"
+        },
+        {
+            "MaPhuongXa": "93422",
+            "TenPhuongXa": "Thạnh Ngãi",
+            "MaQuanHuyen": "9340",
+            "TenQuanHuyen": "Mỏ Cày Bắc",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh ngai mo cay bac ben tre",
+            "Point": null,
+            "Abbr": "tn mcb bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86411"
+        },
+        {
+            "MaPhuongXa": "93424",
+            "TenPhuongXa": "Thanh Tân",
+            "MaQuanHuyen": "9340",
+            "TenQuanHuyen": "Mỏ Cày Bắc",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh tan mo cay bac ben tre",
+            "Point": null,
+            "Abbr": "tt mcb bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86412"
+        },
+        {
+            "MaPhuongXa": "93408",
+            "TenPhuongXa": "Phú Mỹ",
+            "MaQuanHuyen": "9340",
+            "TenQuanHuyen": "Mỏ Cày Bắc",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu my mo cay bac ben tre",
+            "Point": null,
+            "Abbr": "pm mcb bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86413"
+        },
+        {
+            "MaPhuongXa": "93400",
+            "TenPhuongXa": "Hoà Lộc",
+            "MaQuanHuyen": "9340",
+            "TenQuanHuyen": "Mỏ Cày Bắc",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa loc mo cay bac ben tre",
+            "Point": null,
+            "Abbr": "hl mcb bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86408"
+        },
+        {
+            "MaPhuongXa": "93402",
+            "TenPhuongXa": "Hưng Khánh Trung A",
+            "MaQuanHuyen": "9340",
+            "TenQuanHuyen": "Mỏ Cày Bắc",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "hkta",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung khanh trung a mo cay bac ben tre",
+            "Point": null,
+            "Abbr": "hkta mcb bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86414"
+        },
+        {
+            "MaPhuongXa": "93404",
+            "TenPhuongXa": "Khánh Thạnh Tân",
+            "MaQuanHuyen": "9340",
+            "TenQuanHuyen": "Mỏ Cày Bắc",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ktt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh thanh tan mo cay bac ben tre",
+            "Point": null,
+            "Abbr": "ktt mcb bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86418"
+        },
+        {
+            "MaPhuongXa": "93406",
+            "TenPhuongXa": "Nhuận Phú Tân",
+            "MaQuanHuyen": "9340",
+            "TenQuanHuyen": "Mỏ Cày Bắc",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "npt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mcb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhuan phu tan mo cay bac ben tre",
+            "Point": null,
+            "Abbr": "npt mcb bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86415"
+        }
+    ],
+    "9330": [
+        {
+            "MaPhuongXa": "93317",
+            "TenPhuongXa": "Mỹ An",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ma",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my an thanh phu ben tre",
+            "Point": null,
+            "Abbr": "ma tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86908"
+        },
+        {
+            "MaPhuongXa": "93316",
+            "TenPhuongXa": "Giao Thạnh",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "gt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao thanh thanh phu ben tre",
+            "Point": null,
+            "Abbr": "gt tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86919"
+        },
+        {
+            "MaPhuongXa": "93315",
+            "TenPhuongXa": "Thạnh Hải",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh hai thanh phu ben tre",
+            "Point": null,
+            "Abbr": "th tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86921"
+        },
+        {
+            "MaPhuongXa": "93314",
+            "TenPhuongXa": "Thạnh Phong",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh phong thanh phu ben tre",
+            "Point": null,
+            "Abbr": "tp tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86920"
+        },
+        {
+            "MaPhuongXa": "93313",
+            "TenPhuongXa": "An Nhơn",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "an",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an nhon thanh phu ben tre",
+            "Point": null,
+            "Abbr": "an tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86918"
+        },
+        {
+            "MaPhuongXa": "93312",
+            "TenPhuongXa": "Bình Thạnh",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thanh thanh phu ben tre",
+            "Point": null,
+            "Abbr": "bt tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86916"
+        },
+        {
+            "MaPhuongXa": "93311",
+            "TenPhuongXa": "An Thuận",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thuan thanh phu ben tre",
+            "Point": null,
+            "Abbr": "at tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86917"
+        },
+        {
+            "MaPhuongXa": "93310",
+            "TenPhuongXa": "An Quy",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "aq",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an quy thanh phu ben tre",
+            "Point": null,
+            "Abbr": "aq tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86923"
+        },
+        {
+            "MaPhuongXa": "93309",
+            "TenPhuongXa": "An Điền",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ad",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an dien thanh phu ben tre",
+            "Point": null,
+            "Abbr": "ad tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86922"
+        },
+        {
+            "MaPhuongXa": "93308",
+            "TenPhuongXa": "Thới Thạnh",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thoi thanh thanh phu ben tre",
+            "Point": null,
+            "Abbr": "tt tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86914"
+        },
+        {
+            "MaPhuongXa": "93307",
+            "TenPhuongXa": "Hoà Lợi",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa loi thanh phu ben tre",
+            "Point": null,
+            "Abbr": "hl tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86915"
+        },
+        {
+            "MaPhuongXa": "93306",
+            "TenPhuongXa": "Phú Khánh",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pk",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu khanh thanh phu ben tre",
+            "Point": null,
+            "Abbr": "pk tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86913"
+        },
+        {
+            "MaPhuongXa": "93305",
+            "TenPhuongXa": "Đại Điền",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai dien thanh phu ben tre",
+            "Point": null,
+            "Abbr": "dd tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86912"
+        },
+        {
+            "MaPhuongXa": "93304",
+            "TenPhuongXa": "Tân Phong",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phong thanh phu ben tre",
+            "Point": null,
+            "Abbr": "tp tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86911"
+        },
+        {
+            "MaPhuongXa": "93303",
+            "TenPhuongXa": "Qưới Điền",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "qd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quoi dien thanh phu ben tre",
+            "Point": null,
+            "Abbr": "qd tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86910"
+        },
+        {
+            "MaPhuongXa": "93302",
+            "TenPhuongXa": "Mỹ Hưng",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my hung thanh phu ben tre",
+            "Point": null,
+            "Abbr": "mh tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86909"
+        },
+        {
+            "MaPhuongXa": "93301",
+            "TenPhuongXa": "An Thạnh",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thanh thanh phu ben tre",
+            "Point": null,
+            "Abbr": "at tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86907"
+        },
+        {
+            "MaPhuongXa": "93300",
+            "TenPhuongXa": "Thạnh Phú",
+            "MaQuanHuyen": "9330",
+            "TenQuanHuyen": "Thạnh Phú",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh phu thanh phu ben tre",
+            "Point": null,
+            "Abbr": "tp tp bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86906"
+        }
+    ],
+    "9326": [
+        {
+            "MaPhuongXa": "93278",
+            "TenPhuongXa": "Phước Long",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc long giong trom ben tre",
+            "Point": null,
+            "Abbr": "pl gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86619"
+        },
+        {
+            "MaPhuongXa": "93277",
+            "TenPhuongXa": "Long Mỹ",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "lm",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long my giong trom ben tre",
+            "Point": null,
+            "Abbr": "lm gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86620"
+        },
+        {
+            "MaPhuongXa": "93275",
+            "TenPhuongXa": "Sơn Phú",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "sp",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son phu giong trom ben tre",
+            "Point": null,
+            "Abbr": "sp gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86617"
+        },
+        {
+            "MaPhuongXa": "93273",
+            "TenPhuongXa": "Thuận Điền",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuan dien giong trom ben tre",
+            "Point": null,
+            "Abbr": "td gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86616"
+        },
+        {
+            "MaPhuongXa": "93270",
+            "TenPhuongXa": "Mỹ Thạnh",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thanh giong trom ben tre",
+            "Point": null,
+            "Abbr": "mt gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86612"
+        },
+        {
+            "MaPhuongXa": "93271",
+            "TenPhuongXa": "Lương Phú",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong phu giong trom ben tre",
+            "Point": null,
+            "Abbr": "lp gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86615"
+        },
+        {
+            "MaPhuongXa": "93289",
+            "TenPhuongXa": "Hưng Nhượng",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung nhuong giong trom ben tre",
+            "Point": null,
+            "Abbr": "hn gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86626"
+        },
+        {
+            "MaPhuongXa": "93287",
+            "TenPhuongXa": "Thạnh Phú Đông",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tpd",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh phu dong giong trom ben tre",
+            "Point": null,
+            "Abbr": "tpd gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86622"
+        },
+        {
+            "MaPhuongXa": "93284",
+            "TenPhuongXa": "Tân Thanh",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh giong trom ben tre",
+            "Point": null,
+            "Abbr": "tt gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86624"
+        },
+        {
+            "MaPhuongXa": "93285",
+            "TenPhuongXa": "Tân Lợi Thạnh",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tlt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan loi thanh giong trom ben tre",
+            "Point": null,
+            "Abbr": "tlt gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86621"
+        },
+        {
+            "MaPhuongXa": "93282",
+            "TenPhuongXa": "Tân Hào",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hao giong trom ben tre",
+            "Point": null,
+            "Abbr": "th gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86623"
+        },
+        {
+            "MaPhuongXa": "93280",
+            "TenPhuongXa": "Hưng Phong",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung phong giong trom ben tre",
+            "Point": null,
+            "Abbr": "hp gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86618"
+        },
+        {
+            "MaPhuongXa": "93281",
+            "TenPhuongXa": "Bình Thành",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thanh giong trom ben tre",
+            "Point": null,
+            "Abbr": "bt gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86625"
+        },
+        {
+            "MaPhuongXa": "93290",
+            "TenPhuongXa": "Hưng Lễ",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung le giong trom ben tre",
+            "Point": null,
+            "Abbr": "hl gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86627"
+        },
+        {
+            "MaPhuongXa": "93268",
+            "TenPhuongXa": "Phong Nẫm",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong nam giong trom ben tre",
+            "Point": null,
+            "Abbr": "pn gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86611"
+        },
+        {
+            "MaPhuongXa": "93269",
+            "TenPhuongXa": "Lương Hoà",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong hoa giong trom ben tre",
+            "Point": null,
+            "Abbr": "lh gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86613"
+        },
+        {
+            "MaPhuongXa": "93266",
+            "TenPhuongXa": "Lương Qưới",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "lq",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong quoi giong trom ben tre",
+            "Point": null,
+            "Abbr": "lq gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86614"
+        },
+        {
+            "MaPhuongXa": "93267",
+            "TenPhuongXa": "Phong Nẫm",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong nam giong trom ben tre",
+            "Point": null,
+            "Abbr": "pn gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86610"
+        },
+        {
+            "MaPhuongXa": "93265",
+            "TenPhuongXa": "Bình Hoà",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh hoa giong trom ben tre",
+            "Point": null,
+            "Abbr": "bh gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86607"
+        },
+        {
+            "MaPhuongXa": "93263",
+            "TenPhuongXa": "Châu Hoà",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau hoa giong trom ben tre",
+            "Point": null,
+            "Abbr": "ch gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86609"
+        },
+        {
+            "MaPhuongXa": "93260",
+            "TenPhuongXa": "Giồng Trôm",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "gt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giong trom giong trom ben tre",
+            "Point": null,
+            "Abbr": "gt gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86606"
+        },
+        {
+            "MaPhuongXa": "93261",
+            "TenPhuongXa": "Châu Bình",
+            "MaQuanHuyen": "9326",
+            "TenQuanHuyen": "Giồng Trôm",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "gt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau binh giong trom ben tre",
+            "Point": null,
+            "Abbr": "cb gt bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86608"
+        }
+    ],
+    "9317": [
+        {
+            "MaPhuongXa": "93179",
+            "TenPhuongXa": "Phú Sơn",
+            "MaQuanHuyen": "9317",
+            "TenQuanHuyen": "Chợ Lách",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ps",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu son cho lach ben tre",
+            "Point": null,
+            "Abbr": "ps cl bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86310"
+        },
+        {
+            "MaPhuongXa": "93175",
+            "TenPhuongXa": "Hoà Nghĩa",
+            "MaQuanHuyen": "9317",
+            "TenQuanHuyen": "Chợ Lách",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa nghia cho lach ben tre",
+            "Point": null,
+            "Abbr": "hn cl bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86307"
+        },
+        {
+            "MaPhuongXa": "93174",
+            "TenPhuongXa": "Phú Phụng",
+            "MaQuanHuyen": "9317",
+            "TenQuanHuyen": "Chợ Lách",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu phung cho lach ben tre",
+            "Point": null,
+            "Abbr": "pp cl bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86314"
+        },
+        {
+            "MaPhuongXa": "93177",
+            "TenPhuongXa": "Long Thới",
+            "MaQuanHuyen": "9317",
+            "TenQuanHuyen": "Chợ Lách",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long thoi cho lach ben tre",
+            "Point": null,
+            "Abbr": "lt cl bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86309"
+        },
+        {
+            "MaPhuongXa": "93170",
+            "TenPhuongXa": "Chợ Lách",
+            "MaQuanHuyen": "9317",
+            "TenQuanHuyen": "Chợ Lách",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cho lach cho lach ben tre",
+            "Point": null,
+            "Abbr": "cl cl bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86306"
+        },
+        {
+            "MaPhuongXa": "93173",
+            "TenPhuongXa": "Vĩnh Bình",
+            "MaQuanHuyen": "9317",
+            "TenQuanHuyen": "Chợ Lách",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "vb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh binh cho lach ben tre",
+            "Point": null,
+            "Abbr": "vb cl bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86315"
+        },
+        {
+            "MaPhuongXa": "93172",
+            "TenPhuongXa": "Sơn Định",
+            "MaQuanHuyen": "9317",
+            "TenQuanHuyen": "Chợ Lách",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "sd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son dinh cho lach ben tre",
+            "Point": null,
+            "Abbr": "sd cl bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86316"
+        },
+        {
+            "MaPhuongXa": "93184",
+            "TenPhuongXa": "Tân Thiềng",
+            "MaQuanHuyen": "9317",
+            "TenQuanHuyen": "Chợ Lách",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thieng cho lach ben tre",
+            "Point": null,
+            "Abbr": "tt cl bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86308"
+        },
+        {
+            "MaPhuongXa": "93186",
+            "TenPhuongXa": "Hưng Khánh Trung B",
+            "MaQuanHuyen": "9317",
+            "TenQuanHuyen": "Chợ Lách",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "hktb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung khanh trung b cho lach ben tre",
+            "Point": null,
+            "Abbr": "hktb cl bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86313"
+        },
+        {
+            "MaPhuongXa": "93180",
+            "TenPhuongXa": "Vĩnh Thành",
+            "MaQuanHuyen": "9317",
+            "TenQuanHuyen": "Chợ Lách",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh thanh cho lach ben tre",
+            "Point": null,
+            "Abbr": "vt cl bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86311"
+        },
+        {
+            "MaPhuongXa": "93182",
+            "TenPhuongXa": "Vĩnh Hoà",
+            "MaQuanHuyen": "9317",
+            "TenQuanHuyen": "Chợ Lách",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hoa cho lach ben tre",
+            "Point": null,
+            "Abbr": "vh cl bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86312"
+        }
+    ],
+    "9337": [
+        {
+            "MaPhuongXa": "93379",
+            "TenPhuongXa": "Long Định",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long dinh binh dai ben tre",
+            "Point": null,
+            "Abbr": "ld bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86721"
+        },
+        {
+            "MaPhuongXa": "93378",
+            "TenPhuongXa": "Tam Hiệp",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam hiep binh dai ben tre",
+            "Point": null,
+            "Abbr": "th bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86722"
+        },
+        {
+            "MaPhuongXa": "93377",
+            "TenPhuongXa": "Phú Thuận",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thuan binh dai ben tre",
+            "Point": null,
+            "Abbr": "pt bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86718"
+        },
+        {
+            "MaPhuongXa": "93376",
+            "TenPhuongXa": "Vang Qưới Tây",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "vqt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vang quoi tay binh dai ben tre",
+            "Point": null,
+            "Abbr": "vqt bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86717"
+        },
+        {
+            "MaPhuongXa": "93375",
+            "TenPhuongXa": "Vang Qưới Đông",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "vqd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vang quoi dong binh dai ben tre",
+            "Point": null,
+            "Abbr": "vqd bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86715"
+        },
+        {
+            "MaPhuongXa": "93374",
+            "TenPhuongXa": "Phú Vang",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pv",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu vang binh dai ben tre",
+            "Point": null,
+            "Abbr": "pv bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86714"
+        },
+        {
+            "MaPhuongXa": "93373",
+            "TenPhuongXa": "Định Trung",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh trung binh dai ben tre",
+            "Point": null,
+            "Abbr": "dt bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86712"
+        },
+        {
+            "MaPhuongXa": "93372",
+            "TenPhuongXa": "Bình Thới",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thoi binh dai ben tre",
+            "Point": null,
+            "Abbr": "bt bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86709"
+        },
+        {
+            "MaPhuongXa": "93371",
+            "TenPhuongXa": "Bình Thắng",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thang binh dai ben tre",
+            "Point": null,
+            "Abbr": "bt bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86707"
+        },
+        {
+            "MaPhuongXa": "93370",
+            "TenPhuongXa": "Bình Đại",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh dai binh dai ben tre",
+            "Point": null,
+            "Abbr": "bd bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86706"
+        },
+        {
+            "MaPhuongXa": "93388",
+            "TenPhuongXa": "Thạnh Phước",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh phuoc binh dai ben tre",
+            "Point": null,
+            "Abbr": "tp bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86723"
+        },
+        {
+            "MaPhuongXa": "93387",
+            "TenPhuongXa": "Đại Hoà Lộc",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "dhl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai hoa loc binh dai ben tre",
+            "Point": null,
+            "Abbr": "dhl bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86708"
+        },
+        {
+            "MaPhuongXa": "93386",
+            "TenPhuongXa": "Thừa Đức",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thua duc binh dai ben tre",
+            "Point": null,
+            "Abbr": "td bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86724"
+        },
+        {
+            "MaPhuongXa": "93385",
+            "TenPhuongXa": "Long Hoà",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long hoa binh dai ben tre",
+            "Point": null,
+            "Abbr": "lh bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86720"
+        },
+        {
+            "MaPhuongXa": "93384",
+            "TenPhuongXa": "Châu Hưng",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau hung binh dai ben tre",
+            "Point": null,
+            "Abbr": "ch bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86719"
+        },
+        {
+            "MaPhuongXa": "93383",
+            "TenPhuongXa": "Thới Lai",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thoi lai binh dai ben tre",
+            "Point": null,
+            "Abbr": "tl bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86716"
+        },
+        {
+            "MaPhuongXa": "93382",
+            "TenPhuongXa": "Lộc Thuận",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc thuan binh dai ben tre",
+            "Point": null,
+            "Abbr": "lt bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86713"
+        },
+        {
+            "MaPhuongXa": "93381",
+            "TenPhuongXa": "Phú Long",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu long binh dai ben tre",
+            "Point": null,
+            "Abbr": "pl bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86711"
+        },
+        {
+            "MaPhuongXa": "93380",
+            "TenPhuongXa": "Thạnh Trị",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh tri binh dai ben tre",
+            "Point": null,
+            "Abbr": "tt bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86710"
+        },
+        {
+            "MaPhuongXa": "93390",
+            "TenPhuongXa": "Thới Thuận",
+            "MaQuanHuyen": "9337",
+            "TenQuanHuyen": "Bình Đại",
+            "MaTinhThanh": "93",
+            "TenTinhThanh": "Bến Tre",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thoi thuan binh dai ben tre",
+            "Point": null,
+            "Abbr": "tt bd bt",
+            "TrangThai": null,
+            "MaBuuChinh": "86725"
+        }
+    ]
+}

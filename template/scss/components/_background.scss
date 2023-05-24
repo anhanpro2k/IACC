@@ -1,0 +1,28 @@
+.bg {
+    &-fade {
+        &-1 {
+            position: absolute;
+            color: "";
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            z-index: 0;
+            pointer-events: none;
+            background: linear-gradient(180deg, #C4C4C4 23.75%, rgba(196, 196, 196, 0) 100%);
+        }
+    }
+}
+
+.bg-gray {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+
+    img {
+        object-fit: cover;
+    }
+}

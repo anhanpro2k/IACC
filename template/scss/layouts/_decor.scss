@@ -1,0 +1,42 @@
+.sec-decor {
+    position: relative;
+    overflow: hidden;
+
+    &::before,
+    &::after {
+        position: absolute;
+        content: "";
+        width: 19rem;
+        height: 32rem;
+        background: url("../assets/images/Union-1.svg");
+        z-index: 10;
+        bottom: -13rem;
+        left: 0;
+        background-repeat: no-repeat;
+        background-size: contain;
+        pointer-events: none;
+
+        @include max(1201px) {
+            width: 14rem;
+            height: 24rem;
+        }
+    }
+
+    &::after {
+        right: 0;
+        left: auto;
+        transform: scaleX(-1);
+    }
+
+    &.other {
+
+        &::before,
+        &::after {
+            bottom: -10rem;
+
+            @include max(1201px) {
+                bottom: -10rem;
+            }
+        }
+    }
+}

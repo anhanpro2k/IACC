@@ -1,0 +1,3796 @@
+{
+    "3055": [
+        {
+            "MaPhuongXa": "30571",
+            "TenPhuongXa": "Yên Thuận",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen thuan ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "yt hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22612"
+        },
+        {
+            "MaPhuongXa": "30574",
+            "TenPhuongXa": "Yên Phú",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "yp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen phu ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "yp hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22615"
+        },
+        {
+            "MaPhuongXa": "30578",
+            "TenPhuongXa": "Yên Lâm",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "yl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen lam ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "yl hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22614"
+        },
+        {
+            "MaPhuongXa": "30582",
+            "TenPhuongXa": "Bằng Cốc",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bang coc ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "bc hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22617"
+        },
+        {
+            "MaPhuongXa": "30580",
+            "TenPhuongXa": "Nhân Mục",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhan muc ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "nm hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22616"
+        },
+        {
+            "MaPhuongXa": "30587",
+            "TenPhuongXa": "Thái Sơn",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai son ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "ts hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22622"
+        },
+        {
+            "MaPhuongXa": "30584",
+            "TenPhuongXa": "Thành Long",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh long ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "tl hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22618"
+        },
+        {
+            "MaPhuongXa": "30601",
+            "TenPhuongXa": "Đức Ninh",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc ninh ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "dn hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22620"
+        },
+        {
+            "MaPhuongXa": "30593",
+            "TenPhuongXa": "Thái Hoà",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai hoa ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "th hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22621"
+        },
+        {
+            "MaPhuongXa": "30590",
+            "TenPhuongXa": "Bình Xa",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "bx",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh xa ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "bx hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22623"
+        },
+        {
+            "MaPhuongXa": "30597",
+            "TenPhuongXa": "Hùng Đức",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung duc ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "hd hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22619"
+        },
+        {
+            "MaPhuongXa": "30561",
+            "TenPhuongXa": "Phù Lưu",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu luu ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "pl hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22609"
+        },
+        {
+            "MaPhuongXa": "30567",
+            "TenPhuongXa": "Minh Khương",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "mk",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh khuong ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "mk hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22611"
+        },
+        {
+            "MaPhuongXa": "30565",
+            "TenPhuongXa": "Minh Dân",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh dan ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "md hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22610"
+        },
+        {
+            "MaPhuongXa": "30569",
+            "TenPhuongXa": "Bạch Xa",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "bx",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bach xa ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "bx hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22613"
+        },
+        {
+            "MaPhuongXa": "30553",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "tt hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22607"
+        },
+        {
+            "MaPhuongXa": "30550",
+            "TenPhuongXa": "Tân Yên",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ty",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan yen ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "ty hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22606"
+        },
+        {
+            "MaPhuongXa": "30557",
+            "TenPhuongXa": "Minh Hương",
+            "MaQuanHuyen": "3055",
+            "TenQuanHuyen": "Hàm Yên",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh huong ham yen tuyen quang",
+            "Point": null,
+            "Abbr": "mh hy tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22608"
+        }
+    ],
+    "3048": [
+        {
+            "MaPhuongXa": "30483",
+            "TenPhuongXa": "Thanh Tương",
+            "MaQuanHuyen": "3048",
+            "TenQuanHuyen": "Na Hang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh tuong na hang tuyen quang",
+            "Point": null,
+            "Abbr": "tt nh tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22417"
+        },
+        {
+            "MaPhuongXa": "30480",
+            "TenPhuongXa": "Na Hang",
+            "MaQuanHuyen": "3048",
+            "TenQuanHuyen": "Na Hang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na hang na hang tuyen quang",
+            "Point": null,
+            "Abbr": "nh nh tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22406"
+        },
+        {
+            "MaPhuongXa": "30486",
+            "TenPhuongXa": "Năng Khả",
+            "MaQuanHuyen": "3048",
+            "TenQuanHuyen": "Na Hang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "nk",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nang kha na hang tuyen quang",
+            "Point": null,
+            "Abbr": "nk nh tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22416"
+        },
+        {
+            "MaPhuongXa": "30507",
+            "TenPhuongXa": "Sơn Phú",
+            "MaQuanHuyen": "3048",
+            "TenQuanHuyen": "Na Hang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "sp",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son phu na hang tuyen quang",
+            "Point": null,
+            "Abbr": "sp nh tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22407"
+        },
+        {
+            "MaPhuongXa": "30509",
+            "TenPhuongXa": "Đà Vị",
+            "MaQuanHuyen": "3048",
+            "TenQuanHuyen": "Na Hang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "dv",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da vi na hang tuyen quang",
+            "Point": null,
+            "Abbr": "dv nh tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22408"
+        },
+        {
+            "MaPhuongXa": "30523",
+            "TenPhuongXa": "Côn Lôn",
+            "MaQuanHuyen": "3048",
+            "TenQuanHuyen": "Na Hang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "con lon na hang tuyen quang",
+            "Point": null,
+            "Abbr": "cl nh tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22414"
+        },
+        {
+            "MaPhuongXa": "30520",
+            "TenPhuongXa": "Sinh Long",
+            "MaQuanHuyen": "3048",
+            "TenQuanHuyen": "Na Hang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sinh long na hang tuyen quang",
+            "Point": null,
+            "Abbr": "sl nh tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22413"
+        },
+        {
+            "MaPhuongXa": "30526",
+            "TenPhuongXa": "Thượng Nông",
+            "MaQuanHuyen": "3048",
+            "TenQuanHuyen": "Na Hang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong nong na hang tuyen quang",
+            "Point": null,
+            "Abbr": "tn nh tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22411"
+        },
+        {
+            "MaPhuongXa": "30512",
+            "TenPhuongXa": "Hồng Thái",
+            "MaQuanHuyen": "3048",
+            "TenQuanHuyen": "Na Hang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong thai na hang tuyen quang",
+            "Point": null,
+            "Abbr": "ht nh tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22409"
+        },
+        {
+            "MaPhuongXa": "30517",
+            "TenPhuongXa": "Khau Tinh",
+            "MaQuanHuyen": "3048",
+            "TenQuanHuyen": "Na Hang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khau tinh na hang tuyen quang",
+            "Point": null,
+            "Abbr": "kt nh tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22415"
+        },
+        {
+            "MaPhuongXa": "30514",
+            "TenPhuongXa": "Yên Hoa",
+            "MaQuanHuyen": "3048",
+            "TenQuanHuyen": "Na Hang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "yh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen hoa na hang tuyen quang",
+            "Point": null,
+            "Abbr": "yh nh tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22410"
+        },
+        {
+            "MaPhuongXa": "30530",
+            "TenPhuongXa": "Thượng Giáp",
+            "MaQuanHuyen": "3048",
+            "TenQuanHuyen": "Na Hang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tg",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong giap na hang tuyen quang",
+            "Point": null,
+            "Abbr": "tg nh tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22412"
+        }
+    ],
+    "3015": [
+        {
+            "MaPhuongXa": "30176",
+            "TenPhuongXa": "Tân Long",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan long yen son tuyen quang",
+            "Point": null,
+            "Abbr": "tl ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22207"
+        },
+        {
+            "MaPhuongXa": "30174",
+            "TenPhuongXa": "Trung Minh",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung minh yen son tuyen quang",
+            "Point": null,
+            "Abbr": "tm ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22236"
+        },
+        {
+            "MaPhuongXa": "30171",
+            "TenPhuongXa": "Hùng Lợi",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung loi yen son tuyen quang",
+            "Point": null,
+            "Abbr": "hl ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22235"
+        },
+        {
+            "MaPhuongXa": "30179",
+            "TenPhuongXa": "Tân Tiến",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tien yen son tuyen quang",
+            "Point": null,
+            "Abbr": "tt ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22208"
+        },
+        {
+            "MaPhuongXa": "30187",
+            "TenPhuongXa": "Trung Trực",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung truc yen son tuyen quang",
+            "Point": null,
+            "Abbr": "tt ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22210"
+        },
+        {
+            "MaPhuongXa": "30182",
+            "TenPhuongXa": "Xuân Vân",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "xv",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan van yen son tuyen quang",
+            "Point": null,
+            "Abbr": "xv ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22211"
+        },
+        {
+            "MaPhuongXa": "30188",
+            "TenPhuongXa": "Kiến Thiết",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kien thiet yen son tuyen quang",
+            "Point": null,
+            "Abbr": "kt ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22209"
+        },
+        {
+            "MaPhuongXa": "30205",
+            "TenPhuongXa": "Phúc Ninh",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuc ninh yen son tuyen quang",
+            "Point": null,
+            "Abbr": "pn ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22215"
+        },
+        {
+            "MaPhuongXa": "30202",
+            "TenPhuongXa": "Tứ Quận",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tq",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu quan yen son tuyen quang",
+            "Point": null,
+            "Abbr": "tq ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22216"
+        },
+        {
+            "MaPhuongXa": "30208",
+            "TenPhuongXa": "Chiêu Yên",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "cy",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieu yen yen son tuyen quang",
+            "Point": null,
+            "Abbr": "cy ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22214"
+        },
+        {
+            "MaPhuongXa": "30226",
+            "TenPhuongXa": "Mỹ Bằng",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "mb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my bang yen son tuyen quang",
+            "Point": null,
+            "Abbr": "mb ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22219"
+        },
+        {
+            "MaPhuongXa": "30245",
+            "TenPhuongXa": "Đội Bình",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "doi binh yen son tuyen quang",
+            "Point": null,
+            "Abbr": "db ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22223"
+        },
+        {
+            "MaPhuongXa": "30247",
+            "TenPhuongXa": "Nhữ Khê",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "nk",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhu khe yen son tuyen quang",
+            "Point": null,
+            "Abbr": "nk ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22222"
+        },
+        {
+            "MaPhuongXa": "30196",
+            "TenPhuongXa": "Lang Quán",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "lq",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lang quan yen son tuyen quang",
+            "Point": null,
+            "Abbr": "lq ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22217"
+        },
+        {
+            "MaPhuongXa": "30194",
+            "TenPhuongXa": "Chân Sơn",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chan son yen son tuyen quang",
+            "Point": null,
+            "Abbr": "cs ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22218"
+        },
+        {
+            "MaPhuongXa": "30191",
+            "TenPhuongXa": "Trung Môn",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung mon yen son tuyen quang",
+            "Point": null,
+            "Abbr": "tm ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22227"
+        },
+        {
+            "MaPhuongXa": "30199",
+            "TenPhuongXa": "Yên Sơn",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ys",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen son yen son tuyen quang",
+            "Point": null,
+            "Abbr": "ys ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22206"
+        },
+        {
+            "MaPhuongXa": "30167",
+            "TenPhuongXa": "Trung Sơn",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung son yen son tuyen quang",
+            "Point": null,
+            "Abbr": "ts ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22234"
+        },
+        {
+            "MaPhuongXa": "30164",
+            "TenPhuongXa": "Công Đa",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cong da yen son tuyen quang",
+            "Point": null,
+            "Abbr": "cd ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22231"
+        },
+        {
+            "MaPhuongXa": "30162",
+            "TenPhuongXa": "Đạo Viện",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "dv",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dao vien yen son tuyen quang",
+            "Point": null,
+            "Abbr": "dv ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22233"
+        },
+        {
+            "MaPhuongXa": "30160",
+            "TenPhuongXa": "Phú Thịnh",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thinh yen son tuyen quang",
+            "Point": null,
+            "Abbr": "pt ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22228"
+        },
+        {
+            "MaPhuongXa": "30169",
+            "TenPhuongXa": "Kim Quan",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "kq",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim quan yen son tuyen quang",
+            "Point": null,
+            "Abbr": "kq ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22232"
+        },
+        {
+            "MaPhuongXa": "30211",
+            "TenPhuongXa": "Quý Quân",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "qq",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quy quan yen son tuyen quang",
+            "Point": null,
+            "Abbr": "qq ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22212"
+        },
+        {
+            "MaPhuongXa": "30213",
+            "TenPhuongXa": "Lực Hành",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luc hanh yen son tuyen quang",
+            "Point": null,
+            "Abbr": "lh ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22213"
+        },
+        {
+            "MaPhuongXa": "30219",
+            "TenPhuongXa": "Hoàng Khai",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "hk",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang khai yen son tuyen quang",
+            "Point": null,
+            "Abbr": "hk ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22225"
+        },
+        {
+            "MaPhuongXa": "30230",
+            "TenPhuongXa": "Nhữ Hán",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhu han yen son tuyen quang",
+            "Point": null,
+            "Abbr": "nh ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22221"
+        },
+        {
+            "MaPhuongXa": "30155",
+            "TenPhuongXa": "Thái Bình",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai binh yen son tuyen quang",
+            "Point": null,
+            "Abbr": "tb ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22229"
+        },
+        {
+            "MaPhuongXa": "30158",
+            "TenPhuongXa": "Tiến Bộ",
+            "MaQuanHuyen": "3015",
+            "TenQuanHuyen": "Yên Sơn",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ys",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien bo yen son tuyen quang",
+            "Point": null,
+            "Abbr": "tb ys tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22230"
+        }
+    ],
+    "3028": [
+        {
+            "MaPhuongXa": "30284",
+            "TenPhuongXa": "Hợp Thành",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop thanh son duong tuyen quang",
+            "Point": null,
+            "Abbr": "ht sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22707"
+        },
+        {
+            "MaPhuongXa": "30287",
+            "TenPhuongXa": "Bình Yên",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "by",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh yen son duong tuyen quang",
+            "Point": null,
+            "Abbr": "by sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22712"
+        },
+        {
+            "MaPhuongXa": "30280",
+            "TenPhuongXa": "Sơn Dương",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "sd",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son duong son duong tuyen quang",
+            "Point": null,
+            "Abbr": "sd sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22706"
+        },
+        {
+            "MaPhuongXa": "30289",
+            "TenPhuongXa": "Lương Thiện",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong thien son duong tuyen quang",
+            "Point": null,
+            "Abbr": "lt sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22708"
+        },
+        {
+            "MaPhuongXa": "30304",
+            "TenPhuongXa": "Vĩnh Lợi",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh loi son duong tuyen quang",
+            "Point": null,
+            "Abbr": "vl sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22715"
+        },
+        {
+            "MaPhuongXa": "30307",
+            "TenPhuongXa": "Cấp Tiến",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cap tien son duong tuyen quang",
+            "Point": null,
+            "Abbr": "ct sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22716"
+        },
+        {
+            "MaPhuongXa": "30301",
+            "TenPhuongXa": "Thượng Ấm",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong am son duong tuyen quang",
+            "Point": null,
+            "Abbr": "ta sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22714"
+        },
+        {
+            "MaPhuongXa": "30309",
+            "TenPhuongXa": "Đông Thọ",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tho son duong tuyen quang",
+            "Point": null,
+            "Abbr": "dt sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22717"
+        },
+        {
+            "MaPhuongXa": "30325",
+            "TenPhuongXa": "Chi Thiết",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi thiet son duong tuyen quang",
+            "Point": null,
+            "Abbr": "ct sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22725"
+        },
+        {
+            "MaPhuongXa": "30327",
+            "TenPhuongXa": "Trường Sinh",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truong sinh son duong tuyen quang",
+            "Point": null,
+            "Abbr": "ts sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22721"
+        },
+        {
+            "MaPhuongXa": "30321",
+            "TenPhuongXa": "Phúc Ứng",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "pu",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuc ung son duong tuyen quang",
+            "Point": null,
+            "Abbr": "pu sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22728"
+        },
+        {
+            "MaPhuongXa": "30329",
+            "TenPhuongXa": "Đông Lợi",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong loi son duong tuyen quang",
+            "Point": null,
+            "Abbr": "dl sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22730"
+        },
+        {
+            "MaPhuongXa": "30328",
+            "TenPhuongXa": "Tân Thanh",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh son duong tuyen quang",
+            "Point": null,
+            "Abbr": "tt sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22729"
+        },
+        {
+            "MaPhuongXa": "30347",
+            "TenPhuongXa": "Sơn Nam",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "sn",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son nam son duong tuyen quang",
+            "Point": null,
+            "Abbr": "sn sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22733"
+        },
+        {
+            "MaPhuongXa": "30340",
+            "TenPhuongXa": "Tuân Lộ",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tuan lo son duong tuyen quang",
+            "Point": null,
+            "Abbr": "tl sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22736"
+        },
+        {
+            "MaPhuongXa": "30343",
+            "TenPhuongXa": "Đại Phú",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai phu son duong tuyen quang",
+            "Point": null,
+            "Abbr": "dp sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22732"
+        },
+        {
+            "MaPhuongXa": "30295",
+            "TenPhuongXa": "Minh Thanh",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh thanh son duong tuyen quang",
+            "Point": null,
+            "Abbr": "mt sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22711"
+        },
+        {
+            "MaPhuongXa": "30291",
+            "TenPhuongXa": "Tân Trào",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan trao son duong tuyen quang",
+            "Point": null,
+            "Abbr": "tt sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22709"
+        },
+        {
+            "MaPhuongXa": "30293",
+            "TenPhuongXa": "Trung Yên",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ty",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung yen son duong tuyen quang",
+            "Point": null,
+            "Abbr": "ty sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22710"
+        },
+        {
+            "MaPhuongXa": "30298",
+            "TenPhuongXa": "Tú Thịnh",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu thinh son duong tuyen quang",
+            "Point": null,
+            "Abbr": "tt sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22713"
+        },
+        {
+            "MaPhuongXa": "30315",
+            "TenPhuongXa": "Vân Sơn",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "vs",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van son son duong tuyen quang",
+            "Point": null,
+            "Abbr": "vs sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22719"
+        },
+        {
+            "MaPhuongXa": "30317",
+            "TenPhuongXa": "Hồng Lạc",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong lac son duong tuyen quang",
+            "Point": null,
+            "Abbr": "hl sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22720"
+        },
+        {
+            "MaPhuongXa": "30313",
+            "TenPhuongXa": "Đồng Quý",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "dq",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong quy son duong tuyen quang",
+            "Point": null,
+            "Abbr": "dq sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22727"
+        },
+        {
+            "MaPhuongXa": "30312",
+            "TenPhuongXa": "Quyết Thắng",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quyet thang son duong tuyen quang",
+            "Point": null,
+            "Abbr": "qt sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22718"
+        },
+        {
+            "MaPhuongXa": "30319",
+            "TenPhuongXa": "Văn Phú",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "vp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van phu son duong tuyen quang",
+            "Point": null,
+            "Abbr": "vp sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22726"
+        },
+        {
+            "MaPhuongXa": "30335",
+            "TenPhuongXa": "Tam Đa",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam da son duong tuyen quang",
+            "Point": null,
+            "Abbr": "td sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22723"
+        },
+        {
+            "MaPhuongXa": "30334",
+            "TenPhuongXa": "Lâm Xuyên",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "lx",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lam xuyen son duong tuyen quang",
+            "Point": null,
+            "Abbr": "lx sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22722"
+        },
+        {
+            "MaPhuongXa": "30332",
+            "TenPhuongXa": "Hào Phú",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hao phu son duong tuyen quang",
+            "Point": null,
+            "Abbr": "hp sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22724"
+        },
+        {
+            "MaPhuongXa": "30338",
+            "TenPhuongXa": "Phú Lương",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu luong son duong tuyen quang",
+            "Point": null,
+            "Abbr": "pl sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22731"
+        },
+        {
+            "MaPhuongXa": "30354",
+            "TenPhuongXa": "Thiện Kế",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tk",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thien ke son duong tuyen quang",
+            "Point": null,
+            "Abbr": "tk sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22735"
+        },
+        {
+            "MaPhuongXa": "30357",
+            "TenPhuongXa": "Hợp Hoà",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop hoa son duong tuyen quang",
+            "Point": null,
+            "Abbr": "hh sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22737"
+        },
+        {
+            "MaPhuongXa": "30351",
+            "TenPhuongXa": "Ninh Lai",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh lai son duong tuyen quang",
+            "Point": null,
+            "Abbr": "nl sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22734"
+        },
+        {
+            "MaPhuongXa": "30359",
+            "TenPhuongXa": "Kháng Nhật",
+            "MaQuanHuyen": "3028",
+            "TenQuanHuyen": "Sơn Dương",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "kn",
+                    "Point": 5
+                },
+                {
+                    "Key": "sd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khang nhat son duong tuyen quang",
+            "Point": null,
+            "Abbr": "kn sd tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22738"
+        }
+    ],
+    "3038": [
+        {
+            "MaPhuongXa": "30386",
+            "TenPhuongXa": "Ngọc Hội",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc hoi chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "nh ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22307"
+        },
+        {
+            "MaPhuongXa": "30380",
+            "TenPhuongXa": "Vĩnh Lộc",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh loc chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "vl ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22306"
+        },
+        {
+            "MaPhuongXa": "30389",
+            "TenPhuongXa": "Phú Bình",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "pb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu binh chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "pb ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22308"
+        },
+        {
+            "MaPhuongXa": "30402",
+            "TenPhuongXa": "Hùng Mỹ",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung my chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "hm ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22311"
+        },
+        {
+            "MaPhuongXa": "30400",
+            "TenPhuongXa": "Xuân Quang",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "xq",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan quang chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "xq ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22318"
+        },
+        {
+            "MaPhuongXa": "30405",
+            "TenPhuongXa": "Tân Mỹ",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan my chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "tm ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22316"
+        },
+        {
+            "MaPhuongXa": "30421",
+            "TenPhuongXa": "Tân Thịnh",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thinh chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "tt ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22320"
+        },
+        {
+            "MaPhuongXa": "30426",
+            "TenPhuongXa": "Hà Lang",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha lang chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "hl ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22315"
+        },
+        {
+            "MaPhuongXa": "30424",
+            "TenPhuongXa": "Tân An",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan an chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "ta ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22317"
+        },
+        {
+            "MaPhuongXa": "30428",
+            "TenPhuongXa": "Trung Hà",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung ha chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "th ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22314"
+        },
+        {
+            "MaPhuongXa": "30442",
+            "TenPhuongXa": "Nhân Lý",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhan ly chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "nl ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22324"
+        },
+        {
+            "MaPhuongXa": "30447",
+            "TenPhuongXa": "Bình Nhân",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh nhan chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "bn ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22325"
+        },
+        {
+            "MaPhuongXa": "30444",
+            "TenPhuongXa": "Vinh Quang",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "vq",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh quang chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "vq ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22326"
+        },
+        {
+            "MaPhuongXa": "30449",
+            "TenPhuongXa": "Kim Bình",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "kb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim binh chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "kb ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22328"
+        },
+        {
+            "MaPhuongXa": "30395",
+            "TenPhuongXa": "Bình Phú",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh phu chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "bp ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22309"
+        },
+        {
+            "MaPhuongXa": "30397",
+            "TenPhuongXa": "Yên Lập",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "yl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen lap chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "yl ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22310"
+        },
+        {
+            "MaPhuongXa": "30392",
+            "TenPhuongXa": "Kiên Đài",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "kd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kien dai chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "kd ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22331"
+        },
+        {
+            "MaPhuongXa": "30419",
+            "TenPhuongXa": "Phúc Thịnh",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuc thinh chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "pt ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22319"
+        },
+        {
+            "MaPhuongXa": "30431",
+            "TenPhuongXa": "Hòa Phú",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa phu chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "hp ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22321"
+        },
+        {
+            "MaPhuongXa": "30437",
+            "TenPhuongXa": "Trung Hoà",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung hoa chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "th ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22327"
+        },
+        {
+            "MaPhuongXa": "30434",
+            "TenPhuongXa": "Yên Nguyên",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "yn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen nguyen chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "yn ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22322"
+        },
+        {
+            "MaPhuongXa": "30439",
+            "TenPhuongXa": "Hoà An",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ha",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa an chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "ha ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22323"
+        },
+        {
+            "MaPhuongXa": "30451",
+            "TenPhuongXa": "Tri Phú",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tri phu chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "tp ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22329"
+        },
+        {
+            "MaPhuongXa": "30454",
+            "TenPhuongXa": "Linh Phú",
+            "MaQuanHuyen": "3038",
+            "TenQuanHuyen": "Chiêm Hoá",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ch",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "linh phu chiem hoa tuyen quang",
+            "Point": null,
+            "Abbr": "lp ch tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22330"
+        }
+    ],
+    "3063": [
+        {
+            "MaPhuongXa": "30408",
+            "TenPhuongXa": "Phúc Sơn",
+            "MaQuanHuyen": "3063",
+            "TenQuanHuyen": "Lâm Bình",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ps",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuc son lam binh tuyen quang",
+            "Point": null,
+            "Abbr": "ps lb tq",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "30641",
+            "TenPhuongXa": "Lăng Can",
+            "MaQuanHuyen": "3063",
+            "TenQuanHuyen": "Lâm Bình",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lang can lam binh tuyen quang",
+            "Point": null,
+            "Abbr": "lc lb tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22506"
+        },
+        {
+            "MaPhuongXa": "30644",
+            "TenPhuongXa": "Xuân Lập",
+            "MaQuanHuyen": "3063",
+            "TenQuanHuyen": "Lâm Bình",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan lap lam binh tuyen quang",
+            "Point": null,
+            "Abbr": "xl lb tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22510"
+        },
+        {
+            "MaPhuongXa": "30646",
+            "TenPhuongXa": "Phúc Yên",
+            "MaQuanHuyen": "3063",
+            "TenQuanHuyen": "Lâm Bình",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "py",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuc yen lam binh tuyen quang",
+            "Point": null,
+            "Abbr": "py lb tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22509"
+        },
+        {
+            "MaPhuongXa": "30410",
+            "TenPhuongXa": "Minh Quang",
+            "MaQuanHuyen": "3063",
+            "TenQuanHuyen": "Lâm Bình",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "mq",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh quang lam binh tuyen quang",
+            "Point": null,
+            "Abbr": "mq lb tq",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "30630",
+            "TenPhuongXa": "Thổ Bình",
+            "MaQuanHuyen": "3063",
+            "TenQuanHuyen": "Lâm Bình",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tho binh lam binh tuyen quang",
+            "Point": null,
+            "Abbr": "tb lb tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22513"
+        },
+        {
+            "MaPhuongXa": "30632",
+            "TenPhuongXa": "Bình An",
+            "MaQuanHuyen": "3063",
+            "TenQuanHuyen": "Lâm Bình",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ba",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh an lam binh tuyen quang",
+            "Point": null,
+            "Abbr": "ba lb tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22511"
+        },
+        {
+            "MaPhuongXa": "30634",
+            "TenPhuongXa": "Hồng Quang",
+            "MaQuanHuyen": "3063",
+            "TenQuanHuyen": "Lâm Bình",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "hq",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong quang lam binh tuyen quang",
+            "Point": null,
+            "Abbr": "hq lb tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22512"
+        },
+        {
+            "MaPhuongXa": "30636",
+            "TenPhuongXa": "Thượng Lâm",
+            "MaQuanHuyen": "3063",
+            "TenQuanHuyen": "Lâm Bình",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong lam lam binh tuyen quang",
+            "Point": null,
+            "Abbr": "tl lb tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22507"
+        },
+        {
+            "MaPhuongXa": "30638",
+            "TenPhuongXa": "Khuôn Hà",
+            "MaQuanHuyen": "3063",
+            "TenQuanHuyen": "Lâm Bình",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "kh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khuon ha lam binh tuyen quang",
+            "Point": null,
+            "Abbr": "kh lb tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22508"
+        }
+    ],
+    "3010": [
+        {
+            "MaPhuongXa": "30100",
+            "TenPhuongXa": "Minh Xuân",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "mx",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh xuan tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "mx tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22110"
+        },
+        {
+            "MaPhuongXa": "30108",
+            "TenPhuongXa": "Phan Thiết",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phan thiet tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "pt tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22111"
+        },
+        {
+            "MaPhuongXa": "30621",
+            "TenPhuongXa": "Đội Cấn",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "doi can tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "dc tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22118"
+        },
+        {
+            "MaPhuongXa": "30624",
+            "TenPhuongXa": "Tân Hà",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan ha tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "th tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22109"
+        },
+        {
+            "MaPhuongXa": "30222",
+            "TenPhuongXa": "Mỹ Lâm",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my lam tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "ml tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22220"
+        },
+        {
+            "MaPhuongXa": "30125",
+            "TenPhuongXa": "Tràng Đà",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trang da tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "td tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22108"
+        },
+        {
+            "MaPhuongXa": "30122",
+            "TenPhuongXa": "Nông Tiến",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nong tien tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "nt tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22107"
+        },
+        {
+            "MaPhuongXa": "30128",
+            "TenPhuongXa": "Ỷ La",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "yl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "y la tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "yl tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22112"
+        },
+        {
+            "MaPhuongXa": "30147",
+            "TenPhuongXa": "An Khang",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ak",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an khang tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "ak tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22116"
+        },
+        {
+            "MaPhuongXa": "30144",
+            "TenPhuongXa": "Lưỡng Vượng",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "lv",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong vuong tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "lv tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22115"
+        },
+        {
+            "MaPhuongXa": "30149",
+            "TenPhuongXa": "Thái Long",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai long tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "tl tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22117"
+        },
+        {
+            "MaPhuongXa": "30215",
+            "TenPhuongXa": "Kim Phú",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "kp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim phu tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "kp tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22226"
+        },
+        {
+            "MaPhuongXa": "30115",
+            "TenPhuongXa": "Tân Quang",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "tq",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan quang tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "tq tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22113"
+        },
+        {
+            "MaPhuongXa": "30135",
+            "TenPhuongXa": "Hưng Thành",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung thanh tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "ht tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22114"
+        },
+        {
+            "MaPhuongXa": "30139",
+            "TenPhuongXa": "An Tường",
+            "MaQuanHuyen": "3010",
+            "TenQuanHuyen": "Tuyên Quang",
+            "MaTinhThanh": "30",
+            "TenTinhThanh": "Tuyên Quang",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                },
+                {
+                    "Key": "tq",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an tuong tuyen quang tuyen quang",
+            "Point": null,
+            "Abbr": "at tq tq",
+            "TrangThai": null,
+            "MaBuuChinh": "22106"
+        }
+    ]
+}

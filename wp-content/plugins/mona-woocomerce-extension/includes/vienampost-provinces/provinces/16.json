@@ -1,0 +1,4373 @@
+{
+    "1625": [
+        {
+            "MaPhuongXa": "16266",
+            "TenPhuongXa": "Bình Kiều",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "bk",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh kieu khoai chau hung yen",
+            "Point": null,
+            "Abbr": "bk kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17816"
+        },
+        {
+            "MaPhuongXa": "16267",
+            "TenPhuongXa": "Liên Khê",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "lk",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien khe khoai chau hung yen",
+            "Point": null,
+            "Abbr": "lk kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17821"
+        },
+        {
+            "MaPhuongXa": "16262",
+            "TenPhuongXa": "Đông Kết",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong ket khoai chau hung yen",
+            "Point": null,
+            "Abbr": "dk kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17815"
+        },
+        {
+            "MaPhuongXa": "16260",
+            "TenPhuongXa": "Hàm Tử",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ham tu khoai chau hung yen",
+            "Point": null,
+            "Abbr": "ht kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17810"
+        },
+        {
+            "MaPhuongXa": "16261",
+            "TenPhuongXa": "Tứ Dân",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu dan khoai chau hung yen",
+            "Point": null,
+            "Abbr": "td kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17813"
+        },
+        {
+            "MaPhuongXa": "16268",
+            "TenPhuongXa": "Tân Châu",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan chau khoai chau hung yen",
+            "Point": null,
+            "Abbr": "tc kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17820"
+        },
+        {
+            "MaPhuongXa": "16269",
+            "TenPhuongXa": "Đông Ninh",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong ninh khoai chau hung yen",
+            "Point": null,
+            "Abbr": "dn kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17824"
+        },
+        {
+            "MaPhuongXa": "16256",
+            "TenPhuongXa": "Tân Dân",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan dan khoai chau hung yen",
+            "Point": null,
+            "Abbr": "td kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17812"
+        },
+        {
+            "MaPhuongXa": "16257",
+            "TenPhuongXa": "Dạ Trạch",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da trach khoai chau hung yen",
+            "Point": null,
+            "Abbr": "dt kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17809"
+        },
+        {
+            "MaPhuongXa": "16254",
+            "TenPhuongXa": "An Vĩ",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "av",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an vi khoai chau hung yen",
+            "Point": null,
+            "Abbr": "av kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17814"
+        },
+        {
+            "MaPhuongXa": "16255",
+            "TenPhuongXa": "Ông Đình",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "od",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ong dinh khoai chau hung yen",
+            "Point": null,
+            "Abbr": "od kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17811"
+        },
+        {
+            "MaPhuongXa": "16252",
+            "TenPhuongXa": "Đồng Tiến",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tien khoai chau hung yen",
+            "Point": null,
+            "Abbr": "dt kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17818"
+        },
+        {
+            "MaPhuongXa": "16253",
+            "TenPhuongXa": "Dân Tiến",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dan tien khoai chau hung yen",
+            "Point": null,
+            "Abbr": "dt kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17817"
+        },
+        {
+            "MaPhuongXa": "16250",
+            "TenPhuongXa": "Khoái Châu",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "kc",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khoai chau khoai chau hung yen",
+            "Point": null,
+            "Abbr": "kc kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17806"
+        },
+        {
+            "MaPhuongXa": "16251",
+            "TenPhuongXa": "Hồng Tiến",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong tien khoai chau hung yen",
+            "Point": null,
+            "Abbr": "ht kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17819"
+        },
+        {
+            "MaPhuongXa": "16258",
+            "TenPhuongXa": "Đông Tảo",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tao khoai chau hung yen",
+            "Point": null,
+            "Abbr": "dt kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17807"
+        },
+        {
+            "MaPhuongXa": "16259",
+            "TenPhuongXa": "Bình Minh",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "bm",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh minh khoai chau hung yen",
+            "Point": null,
+            "Abbr": "bm kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17808"
+        },
+        {
+            "MaPhuongXa": "16276",
+            "TenPhuongXa": "Phùng Hưng",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phung hung khoai chau hung yen",
+            "Point": null,
+            "Abbr": "ph kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17822"
+        },
+        {
+            "MaPhuongXa": "16277",
+            "TenPhuongXa": "Việt Hoà",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet hoa khoai chau hung yen",
+            "Point": null,
+            "Abbr": "vh kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17823"
+        },
+        {
+            "MaPhuongXa": "16274",
+            "TenPhuongXa": "Nhuế Dương",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhue duong khoai chau hung yen",
+            "Point": null,
+            "Abbr": "nd kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17830"
+        },
+        {
+            "MaPhuongXa": "16275",
+            "TenPhuongXa": "Đại Hưng",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai hung khoai chau hung yen",
+            "Point": null,
+            "Abbr": "dh kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17827"
+        },
+        {
+            "MaPhuongXa": "16272",
+            "TenPhuongXa": "Thuần Hưng",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuan hung khoai chau hung yen",
+            "Point": null,
+            "Abbr": "th kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17828"
+        },
+        {
+            "MaPhuongXa": "16273",
+            "TenPhuongXa": "Thành Công",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh cong khoai chau hung yen",
+            "Point": null,
+            "Abbr": "tc kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17829"
+        },
+        {
+            "MaPhuongXa": "16270",
+            "TenPhuongXa": "Đại Tập",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai tap khoai chau hung yen",
+            "Point": null,
+            "Abbr": "dt kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17825"
+        },
+        {
+            "MaPhuongXa": "16271",
+            "TenPhuongXa": "Chí Tân",
+            "MaQuanHuyen": "1625",
+            "TenQuanHuyen": "Khoái Châu",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi tan khoai chau hung yen",
+            "Point": null,
+            "Abbr": "ct kc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17826"
+        }
+    ],
+    "1616": [
+        {
+            "MaPhuongXa": "16165",
+            "TenPhuongXa": "Quang Hưng",
+            "MaQuanHuyen": "1616",
+            "TenQuanHuyen": "Phù Cừ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "qh",
+                    "Point": 5
+                },
+                {
+                    "Key": "pc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang hung phu cu hung yen",
+            "Point": null,
+            "Abbr": "qh pc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17309"
+        },
+        {
+            "MaPhuongXa": "16164",
+            "TenPhuongXa": "Phan Sào Nam",
+            "MaQuanHuyen": "1616",
+            "TenQuanHuyen": "Phù Cừ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "psn",
+                    "Point": 5
+                },
+                {
+                    "Key": "pc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phan sao nam phu cu hung yen",
+            "Point": null,
+            "Abbr": "psn pc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17308"
+        },
+        {
+            "MaPhuongXa": "16167",
+            "TenPhuongXa": "Nhật Quang",
+            "MaQuanHuyen": "1616",
+            "TenQuanHuyen": "Phù Cừ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nq",
+                    "Point": 5
+                },
+                {
+                    "Key": "pc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhat quang phu cu hung yen",
+            "Point": null,
+            "Abbr": "nq pc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17314"
+        },
+        {
+            "MaPhuongXa": "16166",
+            "TenPhuongXa": "Tống Phan",
+            "MaQuanHuyen": "1616",
+            "TenQuanHuyen": "Phù Cừ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "pc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tong phan phu cu hung yen",
+            "Point": null,
+            "Abbr": "tp pc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17312"
+        },
+        {
+            "MaPhuongXa": "16161",
+            "TenPhuongXa": "Đoàn Đào",
+            "MaQuanHuyen": "1616",
+            "TenQuanHuyen": "Phù Cừ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "pc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "doan dao phu cu hung yen",
+            "Point": null,
+            "Abbr": "dd pc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17311"
+        },
+        {
+            "MaPhuongXa": "16160",
+            "TenPhuongXa": "Trần Cao",
+            "MaQuanHuyen": "1616",
+            "TenQuanHuyen": "Phù Cừ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "pc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran cao phu cu hung yen",
+            "Point": null,
+            "Abbr": "tc pc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17306"
+        },
+        {
+            "MaPhuongXa": "16163",
+            "TenPhuongXa": "Minh Tân",
+            "MaQuanHuyen": "1616",
+            "TenQuanHuyen": "Phù Cừ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh tan phu cu hung yen",
+            "Point": null,
+            "Abbr": "mt pc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17307"
+        },
+        {
+            "MaPhuongXa": "16162",
+            "TenPhuongXa": "Minh Hoàng",
+            "MaQuanHuyen": "1616",
+            "TenQuanHuyen": "Phù Cừ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "pc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh hoang phu cu hung yen",
+            "Point": null,
+            "Abbr": "mh pc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17310"
+        },
+        {
+            "MaPhuongXa": "16169",
+            "TenPhuongXa": "Tiên Tiến",
+            "MaQuanHuyen": "1616",
+            "TenQuanHuyen": "Phù Cừ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien tien phu cu hung yen",
+            "Point": null,
+            "Abbr": "tt pc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17315"
+        },
+        {
+            "MaPhuongXa": "16168",
+            "TenPhuongXa": "Đình Cao",
+            "MaQuanHuyen": "1616",
+            "TenQuanHuyen": "Phù Cừ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "pc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh cao phu cu hung yen",
+            "Point": null,
+            "Abbr": "dc pc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17313"
+        },
+        {
+            "MaPhuongXa": "16171",
+            "TenPhuongXa": "Tam Đa",
+            "MaQuanHuyen": "1616",
+            "TenQuanHuyen": "Phù Cừ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "pc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam da phu cu hung yen",
+            "Point": null,
+            "Abbr": "td pc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17316"
+        },
+        {
+            "MaPhuongXa": "16170",
+            "TenPhuongXa": "Nguyên Hoà",
+            "MaQuanHuyen": "1616",
+            "TenQuanHuyen": "Phù Cừ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "pc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyen hoa phu cu hung yen",
+            "Point": null,
+            "Abbr": "nh pc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17318"
+        },
+        {
+            "MaPhuongXa": "16173",
+            "TenPhuongXa": "Minh Tiến",
+            "MaQuanHuyen": "1616",
+            "TenQuanHuyen": "Phù Cừ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh tien phu cu hung yen",
+            "Point": null,
+            "Abbr": "mt pc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17317"
+        },
+        {
+            "MaPhuongXa": "16172",
+            "TenPhuongXa": "Tống Trân",
+            "MaQuanHuyen": "1616",
+            "TenQuanHuyen": "Phù Cừ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pc",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tong tran phu cu hung yen",
+            "Point": null,
+            "Abbr": "tt pc hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17319"
+        }
+    ],
+    "1635": [
+        {
+            "MaPhuongXa": "16367",
+            "TenPhuongXa": "Lạc Đạo",
+            "MaQuanHuyen": "1635",
+            "TenQuanHuyen": "Văn Lâm",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac dao van lam hung yen",
+            "Point": null,
+            "Abbr": "ld vl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17607"
+        },
+        {
+            "MaPhuongXa": "16366",
+            "TenPhuongXa": "Chỉ Đạo",
+            "MaQuanHuyen": "1635",
+            "TenQuanHuyen": "Văn Lâm",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi dao van lam hung yen",
+            "Point": null,
+            "Abbr": "cd vl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17608"
+        },
+        {
+            "MaPhuongXa": "16364",
+            "TenPhuongXa": "Đại Đồng",
+            "MaQuanHuyen": "1635",
+            "TenQuanHuyen": "Văn Lâm",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai dong van lam hung yen",
+            "Point": null,
+            "Abbr": "dd vl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17609"
+        },
+        {
+            "MaPhuongXa": "16362",
+            "TenPhuongXa": "Việt Hưng",
+            "MaQuanHuyen": "1635",
+            "TenQuanHuyen": "Văn Lâm",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet hung van lam hung yen",
+            "Point": null,
+            "Abbr": "vh vl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17610"
+        },
+        {
+            "MaPhuongXa": "16357",
+            "TenPhuongXa": "Đình Dù",
+            "MaQuanHuyen": "1635",
+            "TenQuanHuyen": "Văn Lâm",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh du van lam hung yen",
+            "Point": null,
+            "Abbr": "dd vl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17612"
+        },
+        {
+            "MaPhuongXa": "16355",
+            "TenPhuongXa": "Lạc Hồng",
+            "MaQuanHuyen": "1635",
+            "TenQuanHuyen": "Văn Lâm",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac hong van lam hung yen",
+            "Point": null,
+            "Abbr": "lh vl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17616"
+        },
+        {
+            "MaPhuongXa": "16353",
+            "TenPhuongXa": "Trưng Trắc",
+            "MaQuanHuyen": "1635",
+            "TenQuanHuyen": "Văn Lâm",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung trac van lam hung yen",
+            "Point": null,
+            "Abbr": "tt vl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17615"
+        },
+        {
+            "MaPhuongXa": "16352",
+            "TenPhuongXa": "Tân Quang",
+            "MaQuanHuyen": "1635",
+            "TenQuanHuyen": "Văn Lâm",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tq",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan quang van lam hung yen",
+            "Point": null,
+            "Abbr": "tq vl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17611"
+        },
+        {
+            "MaPhuongXa": "16350",
+            "TenPhuongXa": "Như Quỳnh",
+            "MaQuanHuyen": "1635",
+            "TenQuanHuyen": "Văn Lâm",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nq",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhu quynh van lam hung yen",
+            "Point": null,
+            "Abbr": "nq vl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17606"
+        },
+        {
+            "MaPhuongXa": "16359",
+            "TenPhuongXa": "Lương Tài",
+            "MaQuanHuyen": "1635",
+            "TenQuanHuyen": "Văn Lâm",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong tai van lam hung yen",
+            "Point": null,
+            "Abbr": "lt vl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17614"
+        },
+        {
+            "MaPhuongXa": "16358",
+            "TenPhuongXa": "Minh Hải",
+            "MaQuanHuyen": "1635",
+            "TenQuanHuyen": "Văn Lâm",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh hai van lam hung yen",
+            "Point": null,
+            "Abbr": "mh vl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17613"
+        }
+    ],
+    "1622": [
+        {
+            "MaPhuongXa": "16242",
+            "TenPhuongXa": "Song Mai",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "sm",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song mai kim dong hung yen",
+            "Point": null,
+            "Abbr": "sm kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17913"
+        },
+        {
+            "MaPhuongXa": "16241",
+            "TenPhuongXa": "Hiệp Cường",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep cuong kim dong hung yen",
+            "Point": null,
+            "Abbr": "hc kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17922"
+        },
+        {
+            "MaPhuongXa": "16226",
+            "TenPhuongXa": "Nghĩa Dân",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia dan kim dong hung yen",
+            "Point": null,
+            "Abbr": "nd kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17907"
+        },
+        {
+            "MaPhuongXa": "16227",
+            "TenPhuongXa": "Toàn Thắng",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "toan thang kim dong hung yen",
+            "Point": null,
+            "Abbr": "tt kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17908"
+        },
+        {
+            "MaPhuongXa": "16224",
+            "TenPhuongXa": "Chính Nghĩa",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chinh nghia kim dong hung yen",
+            "Point": null,
+            "Abbr": "cn kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17914"
+        },
+        {
+            "MaPhuongXa": "16225",
+            "TenPhuongXa": "Phạm Ngũ Lão",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "pnl",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pham ngu lao kim dong hung yen",
+            "Point": null,
+            "Abbr": "pnl kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17910"
+        },
+        {
+            "MaPhuongXa": "16222",
+            "TenPhuongXa": "Vũ Xá",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "vx",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vu xa kim dong hung yen",
+            "Point": null,
+            "Abbr": "vx kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17921"
+        },
+        {
+            "MaPhuongXa": "16223",
+            "TenPhuongXa": "Nhân La",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhan la kim dong hung yen",
+            "Point": null,
+            "Abbr": "nl kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17915"
+        },
+        {
+            "MaPhuongXa": "16220",
+            "TenPhuongXa": "Lương Bằng",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong bang kim dong hung yen",
+            "Point": null,
+            "Abbr": "lb kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17906"
+        },
+        {
+            "MaPhuongXa": "16228",
+            "TenPhuongXa": "Vĩnh Xá",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "vx",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh xa kim dong hung yen",
+            "Point": null,
+            "Abbr": "vx kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17909"
+        },
+        {
+            "MaPhuongXa": "16229",
+            "TenPhuongXa": "Phú Thịnh",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thinh kim dong hung yen",
+            "Point": null,
+            "Abbr": "pt kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17916"
+        },
+        {
+            "MaPhuongXa": "16236",
+            "TenPhuongXa": "Hùng An",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ha",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung an kim dong hung yen",
+            "Point": null,
+            "Abbr": "ha kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17919"
+        },
+        {
+            "MaPhuongXa": "16237",
+            "TenPhuongXa": "Ngọc Thanh",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc thanh kim dong hung yen",
+            "Point": null,
+            "Abbr": "nt kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17920"
+        },
+        {
+            "MaPhuongXa": "16235",
+            "TenPhuongXa": "Mai Động",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mai dong kim dong hung yen",
+            "Point": null,
+            "Abbr": "md kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17917"
+        },
+        {
+            "MaPhuongXa": "16232",
+            "TenPhuongXa": "Đồng Thanh",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong thanh kim dong hung yen",
+            "Point": null,
+            "Abbr": "dt kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17912"
+        },
+        {
+            "MaPhuongXa": "16233",
+            "TenPhuongXa": "Đức Hợp",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc hop kim dong hung yen",
+            "Point": null,
+            "Abbr": "dh kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17918"
+        },
+        {
+            "MaPhuongXa": "16230",
+            "TenPhuongXa": "Thọ Vinh",
+            "MaQuanHuyen": "1622",
+            "TenQuanHuyen": "Kim Động",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "kd",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tho vinh kim dong hung yen",
+            "Point": null,
+            "Abbr": "tv kd hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17911"
+        }
+    ],
+    "1613": [
+        {
+            "MaPhuongXa": "16145",
+            "TenPhuongXa": "Đức Thắng",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc thang tien lu hung yen",
+            "Point": null,
+            "Abbr": "dt tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17213"
+        },
+        {
+            "MaPhuongXa": "16144",
+            "TenPhuongXa": "Hải Triều",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai trieu tien lu hung yen",
+            "Point": null,
+            "Abbr": "ht tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17215"
+        },
+        {
+            "MaPhuongXa": "16147",
+            "TenPhuongXa": "Minh Phượng",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "mp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh phuong tien lu hung yen",
+            "Point": null,
+            "Abbr": "mp tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17220"
+        },
+        {
+            "MaPhuongXa": "16146",
+            "TenPhuongXa": "Cương Chính",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cuong chinh tien lu hung yen",
+            "Point": null,
+            "Abbr": "cc tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17219"
+        },
+        {
+            "MaPhuongXa": "16143",
+            "TenPhuongXa": "Thụy Lôi",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy loi tien lu hung yen",
+            "Point": null,
+            "Abbr": "tl tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17218"
+        },
+        {
+            "MaPhuongXa": "16149",
+            "TenPhuongXa": "Lệ Xá",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "lx",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "le xa tien lu hung yen",
+            "Point": null,
+            "Abbr": "lx tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17211"
+        },
+        {
+            "MaPhuongXa": "16148",
+            "TenPhuongXa": "Trung Dũng",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung dung tien lu hung yen",
+            "Point": null,
+            "Abbr": "td tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17214"
+        },
+        {
+            "MaPhuongXa": "16135",
+            "TenPhuongXa": "Dị Chế",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "di che tien lu hung yen",
+            "Point": null,
+            "Abbr": "dc tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17210"
+        },
+        {
+            "MaPhuongXa": "16134",
+            "TenPhuongXa": "Nhật Tân",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhat tan tien lu hung yen",
+            "Point": null,
+            "Abbr": "nt tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17209"
+        },
+        {
+            "MaPhuongXa": "16137",
+            "TenPhuongXa": "Thủ Sĩ",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thu si tien lu hung yen",
+            "Point": null,
+            "Abbr": "ts tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17216"
+        },
+        {
+            "MaPhuongXa": "16136",
+            "TenPhuongXa": "An Viên",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "av",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an vien tien lu hung yen",
+            "Point": null,
+            "Abbr": "av tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17212"
+        },
+        {
+            "MaPhuongXa": "16130",
+            "TenPhuongXa": "Vương",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "v",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vuong tien lu hung yen",
+            "Point": null,
+            "Abbr": "v tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17206"
+        },
+        {
+            "MaPhuongXa": "16133",
+            "TenPhuongXa": "Hưng Đạo",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung dao tien lu hung yen",
+            "Point": null,
+            "Abbr": "hd tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17207"
+        },
+        {
+            "MaPhuongXa": "16132",
+            "TenPhuongXa": "Ngô Quyền",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nq",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngo quyen tien lu hung yen",
+            "Point": null,
+            "Abbr": "nq tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17208"
+        },
+        {
+            "MaPhuongXa": "16138",
+            "TenPhuongXa": "Thiện Phiến",
+            "MaQuanHuyen": "1613",
+            "TenQuanHuyen": "Tiên Lữ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tl",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thien phien tien lu hung yen",
+            "Point": null,
+            "Abbr": "tp tl hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17217"
+        }
+    ],
+    "1618": [
+        {
+            "MaPhuongXa": "16207",
+            "TenPhuongXa": "Tiền Phong",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien phong an thi hung yen",
+            "Point": null,
+            "Abbr": "tp at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17423"
+        },
+        {
+            "MaPhuongXa": "16204",
+            "TenPhuongXa": "Hồng Quang",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hq",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong quang an thi hung yen",
+            "Point": null,
+            "Abbr": "hq at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17425"
+        },
+        {
+            "MaPhuongXa": "16205",
+            "TenPhuongXa": "Hạ Lễ",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha le an thi hung yen",
+            "Point": null,
+            "Abbr": "hl at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17426"
+        },
+        {
+            "MaPhuongXa": "16202",
+            "TenPhuongXa": "Hồ Tùng Mậu",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "htm",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ho tung mau an thi hung yen",
+            "Point": null,
+            "Abbr": "htm at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17422"
+        },
+        {
+            "MaPhuongXa": "16203",
+            "TenPhuongXa": "Hồng Vân",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong van an thi hung yen",
+            "Point": null,
+            "Abbr": "hv at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17424"
+        },
+        {
+            "MaPhuongXa": "16200",
+            "TenPhuongXa": "Cẩm Ninh",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam ninh an thi hung yen",
+            "Point": null,
+            "Abbr": "cn at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17419"
+        },
+        {
+            "MaPhuongXa": "16208",
+            "TenPhuongXa": "Nguyễn Trãi",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyen trai an thi hung yen",
+            "Point": null,
+            "Abbr": "nt at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17420"
+        },
+        {
+            "MaPhuongXa": "16209",
+            "TenPhuongXa": "Đa Lộc",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da loc an thi hung yen",
+            "Point": null,
+            "Abbr": "dl at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17421"
+        },
+        {
+            "MaPhuongXa": "16194",
+            "TenPhuongXa": "Vân Du",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "vd",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van du an thi hung yen",
+            "Point": null,
+            "Abbr": "vd at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17412"
+        },
+        {
+            "MaPhuongXa": "16197",
+            "TenPhuongXa": "Quảng Lãng",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ql",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang lang an thi hung yen",
+            "Point": null,
+            "Abbr": "ql at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17416"
+        },
+        {
+            "MaPhuongXa": "16196",
+            "TenPhuongXa": "Xuân Trúc",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan truc an thi hung yen",
+            "Point": null,
+            "Abbr": "xt at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17414"
+        },
+        {
+            "MaPhuongXa": "16190",
+            "TenPhuongXa": "Bắc Sơn",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "bs",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac son an thi hung yen",
+            "Point": null,
+            "Abbr": "bs at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17408"
+        },
+        {
+            "MaPhuongXa": "16193",
+            "TenPhuongXa": "Quang Vinh",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "qv",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang vinh an thi hung yen",
+            "Point": null,
+            "Abbr": "qv at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17413"
+        },
+        {
+            "MaPhuongXa": "16192",
+            "TenPhuongXa": "Đào Dương",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dao duong an thi hung yen",
+            "Point": null,
+            "Abbr": "dd at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17410"
+        },
+        {
+            "MaPhuongXa": "16198",
+            "TenPhuongXa": "Đặng Lễ",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dang le an thi hung yen",
+            "Point": null,
+            "Abbr": "dl at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17418"
+        },
+        {
+            "MaPhuongXa": "16184",
+            "TenPhuongXa": "Tân Phúc",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phuc an thi hung yen",
+            "Point": null,
+            "Abbr": "tp at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17411"
+        },
+        {
+            "MaPhuongXa": "16186",
+            "TenPhuongXa": "Bãi Sậy",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "bs",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bai say an thi hung yen",
+            "Point": null,
+            "Abbr": "bs at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17409"
+        },
+        {
+            "MaPhuongXa": "16180",
+            "TenPhuongXa": "Ân Thi",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thi an thi hung yen",
+            "Point": null,
+            "Abbr": "at at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17406"
+        },
+        {
+            "MaPhuongXa": "16183",
+            "TenPhuongXa": "Hoàng Hoa Thám",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hht",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang hoa tham an thi hung yen",
+            "Point": null,
+            "Abbr": "hht at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17415"
+        },
+        {
+            "MaPhuongXa": "16182",
+            "TenPhuongXa": "Văn Nhuệ",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "vn",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van nhue an thi hung yen",
+            "Point": null,
+            "Abbr": "vn at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17417"
+        },
+        {
+            "MaPhuongXa": "16188",
+            "TenPhuongXa": "Phù Ủng",
+            "MaQuanHuyen": "1618",
+            "TenQuanHuyen": "Ân Thi",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "pu",
+                    "Point": 5
+                },
+                {
+                    "Key": "at",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu ung an thi hung yen",
+            "Point": null,
+            "Abbr": "pu at hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17407"
+        }
+    ],
+    "1610": [
+        {
+            "MaPhuongXa": "16105",
+            "TenPhuongXa": "Quang Trung",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang trung hung yen hung yen",
+            "Point": null,
+            "Abbr": "qt hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17112"
+        },
+        {
+            "MaPhuongXa": "16100",
+            "TenPhuongXa": "Minh Khai",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "mk",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh khai hung yen hung yen",
+            "Point": null,
+            "Abbr": "mk hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17111"
+        },
+        {
+            "MaPhuongXa": "16103",
+            "TenPhuongXa": "Quảng Châu",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "qc",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang chau hung yen hung yen",
+            "Point": null,
+            "Abbr": "qc hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17117"
+        },
+        {
+            "MaPhuongXa": "16102",
+            "TenPhuongXa": "Hồng Châu",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong chau hung yen hung yen",
+            "Point": null,
+            "Abbr": "hc hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17110"
+        },
+        {
+            "MaPhuongXa": "16108",
+            "TenPhuongXa": "Lê Lợi",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ll",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "le loi hung yen hung yen",
+            "Point": null,
+            "Abbr": "ll hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17109"
+        },
+        {
+            "MaPhuongXa": "16125",
+            "TenPhuongXa": "Phương Chiểu",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "c",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong chieu hung yen hung yen",
+            "Point": null,
+            "Abbr": "c hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17120"
+        },
+        {
+            "MaPhuongXa": "16124",
+            "TenPhuongXa": "Phú Cường",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu cuong hung yen hung yen",
+            "Point": null,
+            "Abbr": "pc hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17118"
+        },
+        {
+            "MaPhuongXa": "16126",
+            "TenPhuongXa": "Tân Hưng",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hung hung yen hung yen",
+            "Point": null,
+            "Abbr": "th hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17121"
+        },
+        {
+            "MaPhuongXa": "16121",
+            "TenPhuongXa": "Lam Sơn",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lam son hung yen hung yen",
+            "Point": null,
+            "Abbr": "ls hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17108"
+        },
+        {
+            "MaPhuongXa": "16120",
+            "TenPhuongXa": "Bảo Khê",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "bk",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bao khe hung yen hung yen",
+            "Point": null,
+            "Abbr": "bk hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17113"
+        },
+        {
+            "MaPhuongXa": "16123",
+            "TenPhuongXa": "Hùng Cường",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung cuong hung yen hung yen",
+            "Point": null,
+            "Abbr": "hc hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17119"
+        },
+        {
+            "MaPhuongXa": "16122",
+            "TenPhuongXa": "Hoàng Hanh",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang hanh hung yen hung yen",
+            "Point": null,
+            "Abbr": "hh hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17122"
+        },
+        {
+            "MaPhuongXa": "16115",
+            "TenPhuongXa": "Hiến Nam",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hien nam hung yen hung yen",
+            "Point": null,
+            "Abbr": "hn hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17106"
+        },
+        {
+            "MaPhuongXa": "16114",
+            "TenPhuongXa": "Trung Nghĩa",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung nghia hung yen hung yen",
+            "Point": null,
+            "Abbr": "tn hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17114"
+        },
+        {
+            "MaPhuongXa": "16111",
+            "TenPhuongXa": "Hồng Nam",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong nam hung yen hung yen",
+            "Point": null,
+            "Abbr": "hn hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17116"
+        },
+        {
+            "MaPhuongXa": "16113",
+            "TenPhuongXa": "Liên Phương",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien phuong hung yen hung yen",
+            "Point": null,
+            "Abbr": "lp hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17115"
+        },
+        {
+            "MaPhuongXa": "16118",
+            "TenPhuongXa": "An Tảo",
+            "MaQuanHuyen": "1610",
+            "TenQuanHuyen": "Hưng Yên",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an tao hung yen hung yen",
+            "Point": null,
+            "Abbr": "at hy hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17107"
+        }
+    ],
+    "1629": [
+        {
+            "MaPhuongXa": "16307",
+            "TenPhuongXa": "Trung Hoà",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung hoa yen my hung yen",
+            "Point": null,
+            "Abbr": "th ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17717"
+        },
+        {
+            "MaPhuongXa": "16306",
+            "TenPhuongXa": "Tân Việt",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan viet yen my hung yen",
+            "Point": null,
+            "Abbr": "tv ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17722"
+        },
+        {
+            "MaPhuongXa": "16305",
+            "TenPhuongXa": "Lý Thường Kiệt",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ltk",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ly thuong kiet yen my hung yen",
+            "Point": null,
+            "Abbr": "ltk ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17721"
+        },
+        {
+            "MaPhuongXa": "16304",
+            "TenPhuongXa": "Minh Châu",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh chau yen my hung yen",
+            "Point": null,
+            "Abbr": "mc ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17719"
+        },
+        {
+            "MaPhuongXa": "16303",
+            "TenPhuongXa": "Việt Cường",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "vc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet cuong yen my hung yen",
+            "Point": null,
+            "Abbr": "vc ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17716"
+        },
+        {
+            "MaPhuongXa": "16302",
+            "TenPhuongXa": "Yên Hoà",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "yh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen hoa yen my hung yen",
+            "Point": null,
+            "Abbr": "yh ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17718"
+        },
+        {
+            "MaPhuongXa": "16301",
+            "TenPhuongXa": "Yên Phú",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "yp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen phu yen my hung yen",
+            "Point": null,
+            "Abbr": "yp ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17715"
+        },
+        {
+            "MaPhuongXa": "16300",
+            "TenPhuongXa": "Hoàn Long",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoan long yen my hung yen",
+            "Point": null,
+            "Abbr": "hl ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17712"
+        },
+        {
+            "MaPhuongXa": "16309",
+            "TenPhuongXa": "Trung Hưng",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung hung yen my hung yen",
+            "Point": null,
+            "Abbr": "th ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17720"
+        },
+        {
+            "MaPhuongXa": "16296",
+            "TenPhuongXa": "Yên Mỹ",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ym",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen my yen my hung yen",
+            "Point": null,
+            "Abbr": "ym ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17706"
+        },
+        {
+            "MaPhuongXa": "16297",
+            "TenPhuongXa": "Thanh Long",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh long yen my hung yen",
+            "Point": null,
+            "Abbr": "tl ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17714"
+        },
+        {
+            "MaPhuongXa": "16294",
+            "TenPhuongXa": "Giai Phạm",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "gp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giai pham yen my hung yen",
+            "Point": null,
+            "Abbr": "gp ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17707"
+        },
+        {
+            "MaPhuongXa": "16295",
+            "TenPhuongXa": "Ngọc Long",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc long yen my hung yen",
+            "Point": null,
+            "Abbr": "nl ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17710"
+        },
+        {
+            "MaPhuongXa": "16292",
+            "TenPhuongXa": "Liêu Xá",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "lx",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lieu xa yen my hung yen",
+            "Point": null,
+            "Abbr": "lx ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17711"
+        },
+        {
+            "MaPhuongXa": "16293",
+            "TenPhuongXa": "Nghĩa Hiệp",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia hiep yen my hung yen",
+            "Point": null,
+            "Abbr": "nh ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17708"
+        },
+        {
+            "MaPhuongXa": "16290",
+            "TenPhuongXa": "Tân Lập",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap yen my hung yen",
+            "Point": null,
+            "Abbr": "tl ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17713"
+        },
+        {
+            "MaPhuongXa": "16298",
+            "TenPhuongXa": "Đồng Than",
+            "MaQuanHuyen": "1629",
+            "TenQuanHuyen": "Yên Mỹ",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong than yen my hung yen",
+            "Point": null,
+            "Abbr": "dt ym hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17709"
+        }
+    ],
+    "1638": [
+        {
+            "MaPhuongXa": "16396",
+            "TenPhuongXa": "Phụng Công",
+            "MaQuanHuyen": "1638",
+            "TenQuanHuyen": "Văn Giang",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "vg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phung cong van giang hung yen",
+            "Point": null,
+            "Abbr": "pc vg hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17659"
+        },
+        {
+            "MaPhuongXa": "16394",
+            "TenPhuongXa": "Xuân Quan",
+            "MaQuanHuyen": "1638",
+            "TenQuanHuyen": "Văn Giang",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xq",
+                    "Point": 5
+                },
+                {
+                    "Key": "vg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan quan van giang hung yen",
+            "Point": null,
+            "Abbr": "xq vg hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17657"
+        },
+        {
+            "MaPhuongXa": "16392",
+            "TenPhuongXa": "Thắng Lợi",
+            "MaQuanHuyen": "1638",
+            "TenQuanHuyen": "Văn Giang",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thang loi van giang hung yen",
+            "Point": null,
+            "Abbr": "tl vg hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17665"
+        },
+        {
+            "MaPhuongXa": "16391",
+            "TenPhuongXa": "Mễ Sở",
+            "MaQuanHuyen": "1638",
+            "TenQuanHuyen": "Văn Giang",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ms",
+                    "Point": 5
+                },
+                {
+                    "Key": "vg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "me so van giang hung yen",
+            "Point": null,
+            "Abbr": "ms vg hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17666"
+        },
+        {
+            "MaPhuongXa": "16390",
+            "TenPhuongXa": "Liên Nghĩa",
+            "MaQuanHuyen": "1638",
+            "TenQuanHuyen": "Văn Giang",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ln",
+                    "Point": 5
+                },
+                {
+                    "Key": "vg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien nghia van giang hung yen",
+            "Point": null,
+            "Abbr": "ln vg hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17663"
+        },
+        {
+            "MaPhuongXa": "16387",
+            "TenPhuongXa": "Vĩnh Khúc",
+            "MaQuanHuyen": "1638",
+            "TenQuanHuyen": "Văn Giang",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "vk",
+                    "Point": 5
+                },
+                {
+                    "Key": "vg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh khuc van giang hung yen",
+            "Point": null,
+            "Abbr": "vk vg hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17662"
+        },
+        {
+            "MaPhuongXa": "16385",
+            "TenPhuongXa": "Nghĩa Trụ",
+            "MaQuanHuyen": "1638",
+            "TenQuanHuyen": "Văn Giang",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia tru van giang hung yen",
+            "Point": null,
+            "Abbr": "nt vg hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17660"
+        },
+        {
+            "MaPhuongXa": "16383",
+            "TenPhuongXa": "Long Hưng",
+            "MaQuanHuyen": "1638",
+            "TenQuanHuyen": "Văn Giang",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long hung van giang hung yen",
+            "Point": null,
+            "Abbr": "lh vg hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17661"
+        },
+        {
+            "MaPhuongXa": "16382",
+            "TenPhuongXa": "Cửu Cao",
+            "MaQuanHuyen": "1638",
+            "TenQuanHuyen": "Văn Giang",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "vg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cuu cao van giang hung yen",
+            "Point": null,
+            "Abbr": "cc vg hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17658"
+        },
+        {
+            "MaPhuongXa": "16380",
+            "TenPhuongXa": "Văn Giang",
+            "MaQuanHuyen": "1638",
+            "TenQuanHuyen": "Văn Giang",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "vg",
+                    "Point": 5
+                },
+                {
+                    "Key": "vg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van giang van giang hung yen",
+            "Point": null,
+            "Abbr": "vg vg hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17656"
+        },
+        {
+            "MaPhuongXa": "16388",
+            "TenPhuongXa": "Tân Tiến",
+            "MaQuanHuyen": "1638",
+            "TenQuanHuyen": "Văn Giang",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tien van giang hung yen",
+            "Point": null,
+            "Abbr": "tt vg hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17664"
+        }
+    ],
+    "1632": [
+        {
+            "MaPhuongXa": "16327",
+            "TenPhuongXa": "Phùng Chí Kiên",
+            "MaQuanHuyen": "1632",
+            "TenQuanHuyen": "Mỹ Hào",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "pck",
+                    "Point": 5
+                },
+                {
+                    "Key": "mh",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phung chi kien my hao hung yen",
+            "Point": null,
+            "Abbr": "pck mh hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17515"
+        },
+        {
+            "MaPhuongXa": "16325",
+            "TenPhuongXa": "Dị Sử",
+            "MaQuanHuyen": "1632",
+            "TenQuanHuyen": "Mỹ Hào",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "mh",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "di su my hao hung yen",
+            "Point": null,
+            "Abbr": "ds mh hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17512"
+        },
+        {
+            "MaPhuongXa": "16323",
+            "TenPhuongXa": "Phan Đình Phùng",
+            "MaQuanHuyen": "1632",
+            "TenQuanHuyen": "Mỹ Hào",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "pdp",
+                    "Point": 5
+                },
+                {
+                    "Key": "mh",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phan dinh phung my hao hung yen",
+            "Point": null,
+            "Abbr": "pdp mh hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17507"
+        },
+        {
+            "MaPhuongXa": "16322",
+            "TenPhuongXa": "Nhân Hoà",
+            "MaQuanHuyen": "1632",
+            "TenQuanHuyen": "Mỹ Hào",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "mh",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhan hoa my hao hung yen",
+            "Point": null,
+            "Abbr": "nh mh hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17511"
+        },
+        {
+            "MaPhuongXa": "16320",
+            "TenPhuongXa": "Bần Yên Nhân",
+            "MaQuanHuyen": "1632",
+            "TenQuanHuyen": "Mỹ Hào",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "byn",
+                    "Point": 5
+                },
+                {
+                    "Key": "mh",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban yen nhan my hao hung yen",
+            "Point": null,
+            "Abbr": "byn mh hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17506"
+        },
+        {
+            "MaPhuongXa": "16328",
+            "TenPhuongXa": "Cẩm Xá",
+            "MaQuanHuyen": "1632",
+            "TenQuanHuyen": "Mỹ Hào",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "cx",
+                    "Point": 5
+                },
+                {
+                    "Key": "mh",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam xa my hao hung yen",
+            "Point": null,
+            "Abbr": "cx mh hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17508"
+        },
+        {
+            "MaPhuongXa": "16337",
+            "TenPhuongXa": "Hoà Phong",
+            "MaQuanHuyen": "1632",
+            "TenQuanHuyen": "Mỹ Hào",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "mh",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa phong my hao hung yen",
+            "Point": null,
+            "Abbr": "hp mh hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17510"
+        },
+        {
+            "MaPhuongXa": "16336",
+            "TenPhuongXa": "Minh Đức",
+            "MaQuanHuyen": "1632",
+            "TenQuanHuyen": "Mỹ Hào",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "mh",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh duc my hao hung yen",
+            "Point": null,
+            "Abbr": "md mh hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17514"
+        },
+        {
+            "MaPhuongXa": "16335",
+            "TenPhuongXa": "Ngọc Lâm",
+            "MaQuanHuyen": "1632",
+            "TenQuanHuyen": "Mỹ Hào",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mh",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc lam my hao hung yen",
+            "Point": null,
+            "Abbr": "nl mh hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17517"
+        },
+        {
+            "MaPhuongXa": "16334",
+            "TenPhuongXa": "Xuân Dục",
+            "MaQuanHuyen": "1632",
+            "TenQuanHuyen": "Mỹ Hào",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xd",
+                    "Point": 5
+                },
+                {
+                    "Key": "mh",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan duc my hao hung yen",
+            "Point": null,
+            "Abbr": "xd mh hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17516"
+        },
+        {
+            "MaPhuongXa": "16333",
+            "TenPhuongXa": "Bạch Sam",
+            "MaQuanHuyen": "1632",
+            "TenQuanHuyen": "Mỹ Hào",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "bs",
+                    "Point": 5
+                },
+                {
+                    "Key": "mh",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bach sam my hao hung yen",
+            "Point": null,
+            "Abbr": "bs mh hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17513"
+        },
+        {
+            "MaPhuongXa": "16332",
+            "TenPhuongXa": "Hưng Long",
+            "MaQuanHuyen": "1632",
+            "TenQuanHuyen": "Mỹ Hào",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mh",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung long my hao hung yen",
+            "Point": null,
+            "Abbr": "hl mh hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17518"
+        },
+        {
+            "MaPhuongXa": "16330",
+            "TenPhuongXa": "Dương Quang",
+            "MaQuanHuyen": "1632",
+            "TenQuanHuyen": "Mỹ Hào",
+            "MaTinhThanh": "16",
+            "TenTinhThanh": "Hưng Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dq",
+                    "Point": 5
+                },
+                {
+                    "Key": "mh",
+                    "Point": 2
+                },
+                {
+                    "Key": "hy",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duong quang my hao hung yen",
+            "Point": null,
+            "Abbr": "dq mh hy",
+            "TrangThai": null,
+            "MaBuuChinh": "17509"
+        }
+    ]
+}

@@ -1,0 +1,4502 @@
+{
+    "3341": [
+        {
+            "MaPhuongXa": "33433",
+            "TenPhuongXa": "Xuân Quang",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "xq",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan quang bao thang lao cai",
+            "Point": null,
+            "Abbr": "xq bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31207"
+        },
+        {
+            "MaPhuongXa": "33431",
+            "TenPhuongXa": "Bản Phiệt",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban phiet bao thang lao cai",
+            "Point": null,
+            "Abbr": "bp bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31211"
+        },
+        {
+            "MaPhuongXa": "33437",
+            "TenPhuongXa": "Phố Lu",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho lu bao thang lao cai",
+            "Point": null,
+            "Abbr": "pl bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31219"
+        },
+        {
+            "MaPhuongXa": "33438",
+            "TenPhuongXa": "Sơn Hà",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "sh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son ha bao thang lao cai",
+            "Point": null,
+            "Abbr": "sh bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31218"
+        },
+        {
+            "MaPhuongXa": "33413",
+            "TenPhuongXa": "Tằng Loỏng",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tang loong bao thang lao cai",
+            "Point": null,
+            "Abbr": "tl bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31216"
+        },
+        {
+            "MaPhuongXa": "33410",
+            "TenPhuongXa": "Phố Lu",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho lu bao thang lao cai",
+            "Point": null,
+            "Abbr": "pl bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31206"
+        },
+        {
+            "MaPhuongXa": "33415",
+            "TenPhuongXa": "Nông trường Phong Hải",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ntph",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nong truong phong hai bao thang lao cai",
+            "Point": null,
+            "Abbr": "ntph bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31209"
+        },
+        {
+            "MaPhuongXa": "33418",
+            "TenPhuongXa": "Bản Cầm",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban cam bao thang lao cai",
+            "Point": null,
+            "Abbr": "bc bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31210"
+        },
+        {
+            "MaPhuongXa": "33419",
+            "TenPhuongXa": "Trì Quang",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tq",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tri quang bao thang lao cai",
+            "Point": null,
+            "Abbr": "tq bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31220"
+        },
+        {
+            "MaPhuongXa": "33452",
+            "TenPhuongXa": "Phong Niên",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong nien bao thang lao cai",
+            "Point": null,
+            "Abbr": "pn bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31208"
+        },
+        {
+            "MaPhuongXa": "33422",
+            "TenPhuongXa": "Thái Niên",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai nien bao thang lao cai",
+            "Point": null,
+            "Abbr": "tn bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31212"
+        },
+        {
+            "MaPhuongXa": "33426",
+            "TenPhuongXa": "Phú Nhuận",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu nhuan bao thang lao cai",
+            "Point": null,
+            "Abbr": "pn bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31217"
+        },
+        {
+            "MaPhuongXa": "33442",
+            "TenPhuongXa": "Xuân Giao",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "xg",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan giao bao thang lao cai",
+            "Point": null,
+            "Abbr": "xg bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31215"
+        },
+        {
+            "MaPhuongXa": "33440",
+            "TenPhuongXa": "Sơn Hải",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "sh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son hai bao thang lao cai",
+            "Point": null,
+            "Abbr": "sh bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31214"
+        },
+        {
+            "MaPhuongXa": "33446",
+            "TenPhuongXa": "Gia Phú",
+            "MaQuanHuyen": "3341",
+            "TenQuanHuyen": "Bảo Thắng",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "gp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia phu bao thang lao cai",
+            "Point": null,
+            "Abbr": "gp bt lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31213"
+        }
+    ],
+    "3319": [
+        {
+            "MaPhuongXa": "33230",
+            "TenPhuongXa": "Bản Xen",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bx",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban xen muong khuong lao cai",
+            "Point": null,
+            "Abbr": "bx mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31514"
+        },
+        {
+            "MaPhuongXa": "33214",
+            "TenPhuongXa": "Tả Gia Khâu",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tgk",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta gia khau muong khuong lao cai",
+            "Point": null,
+            "Abbr": "tgk mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31521"
+        },
+        {
+            "MaPhuongXa": "33216",
+            "TenPhuongXa": "Cao Sơn",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao son muong khuong lao cai",
+            "Point": null,
+            "Abbr": "cs mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31517"
+        },
+        {
+            "MaPhuongXa": "33210",
+            "TenPhuongXa": "Dìn Chin",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "din chin muong khuong lao cai",
+            "Point": null,
+            "Abbr": "dc mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31520"
+        },
+        {
+            "MaPhuongXa": "33212",
+            "TenPhuongXa": "Tả Ngải Chồ",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tnc",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta ngai cho muong khuong lao cai",
+            "Point": null,
+            "Abbr": "tnc mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31508"
+        },
+        {
+            "MaPhuongXa": "33218",
+            "TenPhuongXa": "La Pán Thẩn",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "lpt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "la pan than muong khuong lao cai",
+            "Point": null,
+            "Abbr": "lpt mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31515"
+        },
+        {
+            "MaPhuongXa": "33226",
+            "TenPhuongXa": "Bản Lầu",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban lau muong khuong lao cai",
+            "Point": null,
+            "Abbr": "bl mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31513"
+        },
+        {
+            "MaPhuongXa": "33220",
+            "TenPhuongXa": "Tả Thàng",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta thang muong khuong lao cai",
+            "Point": null,
+            "Abbr": "tt mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31516"
+        },
+        {
+            "MaPhuongXa": "33222",
+            "TenPhuongXa": "Mường Khương",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "mk",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong khuong muong khuong lao cai",
+            "Point": null,
+            "Abbr": "mk mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31506"
+        },
+        {
+            "MaPhuongXa": "33197",
+            "TenPhuongXa": "Nấm Lư",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam lu muong khuong lao cai",
+            "Point": null,
+            "Abbr": "nl mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31519"
+        },
+        {
+            "MaPhuongXa": "33194",
+            "TenPhuongXa": "Tung Chung Phố",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tcp",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tung chung pho muong khuong lao cai",
+            "Point": null,
+            "Abbr": "tcp mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31507"
+        },
+        {
+            "MaPhuongXa": "33190",
+            "TenPhuongXa": "Lùng Vai",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "lv",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung vai muong khuong lao cai",
+            "Point": null,
+            "Abbr": "lv mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31512"
+        },
+        {
+            "MaPhuongXa": "33205",
+            "TenPhuongXa": "Lùng Khấu Nhin",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "lkn",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung khau nhin muong khuong lao cai",
+            "Point": null,
+            "Abbr": "lkn mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31518"
+        },
+        {
+            "MaPhuongXa": "33207",
+            "TenPhuongXa": "Pha Long",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pha long muong khuong lao cai",
+            "Point": null,
+            "Abbr": "pl mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31509"
+        },
+        {
+            "MaPhuongXa": "33200",
+            "TenPhuongXa": "Thanh Bình",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh binh muong khuong lao cai",
+            "Point": null,
+            "Abbr": "tb mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31511"
+        },
+        {
+            "MaPhuongXa": "33202",
+            "TenPhuongXa": "Nậm Chảy",
+            "MaQuanHuyen": "3319",
+            "TenQuanHuyen": "Mường Khương",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "mk",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam chay muong khuong lao cai",
+            "Point": null,
+            "Abbr": "nc mk lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31510"
+        }
+    ],
+    "3353": [
+        {
+            "MaPhuongXa": "33530",
+            "TenPhuongXa": "Phố Ràng",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "pr",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho rang bao yen lao cai",
+            "Point": null,
+            "Abbr": "pr by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31906"
+        },
+        {
+            "MaPhuongXa": "33536",
+            "TenPhuongXa": "Phúc Khánh",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "pk",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuc khanh bao yen lao cai",
+            "Point": null,
+            "Abbr": "pk by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31921"
+        },
+        {
+            "MaPhuongXa": "33538",
+            "TenPhuongXa": "Long Phúc",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long phuc bao yen lao cai",
+            "Point": null,
+            "Abbr": "lp by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31922"
+        },
+        {
+            "MaPhuongXa": "33573",
+            "TenPhuongXa": "Bảo Hà",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bao ha bao yen lao cai",
+            "Point": null,
+            "Abbr": "bh by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31918"
+        },
+        {
+            "MaPhuongXa": "33571",
+            "TenPhuongXa": "Lương Sơn",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong son bao yen lao cai",
+            "Point": null,
+            "Abbr": "ls by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31920"
+        },
+        {
+            "MaPhuongXa": "33576",
+            "TenPhuongXa": "Kim Sơn",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ks",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim son bao yen lao cai",
+            "Point": null,
+            "Abbr": "ks by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31916"
+        },
+        {
+            "MaPhuongXa": "33557",
+            "TenPhuongXa": "Tân Dương",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan duong bao yen lao cai",
+            "Point": null,
+            "Abbr": "td by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31914"
+        },
+        {
+            "MaPhuongXa": "33554",
+            "TenPhuongXa": "Xuân Thượng",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan thuong bao yen lao cai",
+            "Point": null,
+            "Abbr": "xt by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31907"
+        },
+        {
+            "MaPhuongXa": "33559",
+            "TenPhuongXa": "Điện Quan",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "dq",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien quan bao yen lao cai",
+            "Point": null,
+            "Abbr": "dq by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31912"
+        },
+        {
+            "MaPhuongXa": "33561",
+            "TenPhuongXa": "Thượng Hà",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong ha bao yen lao cai",
+            "Point": null,
+            "Abbr": "th by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31913"
+        },
+        {
+            "MaPhuongXa": "33566",
+            "TenPhuongXa": "Yên Sơn",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ys",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen son bao yen lao cai",
+            "Point": null,
+            "Abbr": "ys by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31919"
+        },
+        {
+            "MaPhuongXa": "33564",
+            "TenPhuongXa": "Minh Tân",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh tan bao yen lao cai",
+            "Point": null,
+            "Abbr": "mt by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31915"
+        },
+        {
+            "MaPhuongXa": "33568",
+            "TenPhuongXa": "Cam Cọn",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam con bao yen lao cai",
+            "Point": null,
+            "Abbr": "cc by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31917"
+        },
+        {
+            "MaPhuongXa": "33542",
+            "TenPhuongXa": "Tân Tiến",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tien bao yen lao cai",
+            "Point": null,
+            "Abbr": "tt by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31911"
+        },
+        {
+            "MaPhuongXa": "33540",
+            "TenPhuongXa": "Việt Tiến",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet tien bao yen lao cai",
+            "Point": null,
+            "Abbr": "vt by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31923"
+        },
+        {
+            "MaPhuongXa": "33546",
+            "TenPhuongXa": "Vĩnh Yên",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "vy",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh yen bao yen lao cai",
+            "Point": null,
+            "Abbr": "vy by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31909"
+        },
+        {
+            "MaPhuongXa": "33544",
+            "TenPhuongXa": "Nghĩa Đô",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia do bao yen lao cai",
+            "Point": null,
+            "Abbr": "nd by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31910"
+        },
+        {
+            "MaPhuongXa": "33549",
+            "TenPhuongXa": "Xuân Hoà",
+            "MaQuanHuyen": "3353",
+            "TenQuanHuyen": "Bảo Yên",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan hoa bao yen lao cai",
+            "Point": null,
+            "Abbr": "xh by lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31908"
+        }
+    ],
+    "3331": [
+        {
+            "MaPhuongXa": "33335",
+            "TenPhuongXa": "Hàm Rồng",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "hr",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ham rong sa pa lao cai",
+            "Point": null,
+            "Abbr": "hr sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "33334",
+            "TenPhuongXa": "Phan Si Păng",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "psp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phan si pang sa pa lao cai",
+            "Point": null,
+            "Abbr": "psp sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "33330",
+            "TenPhuongXa": "Tả Phìn",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta phin sa pa lao cai",
+            "Point": null,
+            "Abbr": "tp sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31709"
+        },
+        {
+            "MaPhuongXa": "33315",
+            "TenPhuongXa": "Mường Bo",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "mb",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong bo sa pa lao cai",
+            "Point": null,
+            "Abbr": "mb sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31719"
+        },
+        {
+            "MaPhuongXa": "33314",
+            "TenPhuongXa": "Bản Hồ",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban ho sa pa lao cai",
+            "Point": null,
+            "Abbr": "bh sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31715"
+        },
+        {
+            "MaPhuongXa": "33317",
+            "TenPhuongXa": "Nậm Sài",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam sai sa pa lao cai",
+            "Point": null,
+            "Abbr": "ns sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31716"
+        },
+        {
+            "MaPhuongXa": "33316",
+            "TenPhuongXa": "Liên Minh",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "lm",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien minh sa pa lao cai",
+            "Point": null,
+            "Abbr": "lm sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31717"
+        },
+        {
+            "MaPhuongXa": "33310",
+            "TenPhuongXa": "Sa Pa",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "sp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sa pa sa pa lao cai",
+            "Point": null,
+            "Abbr": "sp sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31706"
+        },
+        {
+            "MaPhuongXa": "33313",
+            "TenPhuongXa": "Bản Phùng",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban phung sa pa lao cai",
+            "Point": null,
+            "Abbr": "bp sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31720"
+        },
+        {
+            "MaPhuongXa": "33312",
+            "TenPhuongXa": "Thanh Bình",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh binh sa pa lao cai",
+            "Point": null,
+            "Abbr": "tb sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31721"
+        },
+        {
+            "MaPhuongXa": "33319",
+            "TenPhuongXa": "Sa Pả",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "sp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sa pa sa pa lao cai",
+            "Point": null,
+            "Abbr": "sp sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31707"
+        },
+        {
+            "MaPhuongXa": "33318",
+            "TenPhuongXa": "Suối Thầu",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi thau sa pa lao cai",
+            "Point": null,
+            "Abbr": "st sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31718"
+        },
+        {
+            "MaPhuongXa": "33325",
+            "TenPhuongXa": "Ngũ Chỉ Sơn",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ncs",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngu chi son sa pa lao cai",
+            "Point": null,
+            "Abbr": "ncs sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31710"
+        },
+        {
+            "MaPhuongXa": "33327",
+            "TenPhuongXa": "Tả Giàng Phình",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tgp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta giang phinh sa pa lao cai",
+            "Point": null,
+            "Abbr": "tgp sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31711"
+        },
+        {
+            "MaPhuongXa": "33321",
+            "TenPhuongXa": "Mường Hoa",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong hoa sa pa lao cai",
+            "Point": null,
+            "Abbr": "mh sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31723"
+        },
+        {
+            "MaPhuongXa": "33320",
+            "TenPhuongXa": "Tả Van",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta van sa pa lao cai",
+            "Point": null,
+            "Abbr": "tv sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31714"
+        },
+        {
+            "MaPhuongXa": "33323",
+            "TenPhuongXa": "Trung Trải",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung trai sa pa lao cai",
+            "Point": null,
+            "Abbr": "tt sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31708"
+        },
+        {
+            "MaPhuongXa": "33322",
+            "TenPhuongXa": "Sử Pán",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "sp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "su pan sa pa lao cai",
+            "Point": null,
+            "Abbr": "sp sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31722"
+        },
+        {
+            "MaPhuongXa": "33329",
+            "TenPhuongXa": "Ô Quý Hồ",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "oqh",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "o quy ho sa pa lao cai",
+            "Point": null,
+            "Abbr": "oqh sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31712"
+        },
+        {
+            "MaPhuongXa": "33328",
+            "TenPhuongXa": "Cầu Mây",
+            "MaQuanHuyen": "3331",
+            "TenQuanHuyen": "Sa Pa",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "sp",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cau may sa pa lao cai",
+            "Point": null,
+            "Abbr": "cm sp lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31713"
+        }
+    ],
+    "3310": [
+        {
+            "MaPhuongXa": "33137",
+            "TenPhuongXa": "Tà Chải",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta chai bac ha lao cai",
+            "Point": null,
+            "Abbr": "tc bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31307"
+        },
+        {
+            "MaPhuongXa": "33136",
+            "TenPhuongXa": "Bản Phố",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban pho bac ha lao cai",
+            "Point": null,
+            "Abbr": "bp bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31316"
+        },
+        {
+            "MaPhuongXa": "33134",
+            "TenPhuongXa": "Nậm Đét",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam det bac ha lao cai",
+            "Point": null,
+            "Abbr": "nd bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31320"
+        },
+        {
+            "MaPhuongXa": "33132",
+            "TenPhuongXa": "Nậm Khánh",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nk",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam khanh bac ha lao cai",
+            "Point": null,
+            "Abbr": "nk bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31325"
+        },
+        {
+            "MaPhuongXa": "33130",
+            "TenPhuongXa": "Cốc Lầu",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "coc lau bac ha lao cai",
+            "Point": null,
+            "Abbr": "cl bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31322"
+        },
+        {
+            "MaPhuongXa": "33139",
+            "TenPhuongXa": "Bảo Nhai",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bao nhai bac ha lao cai",
+            "Point": null,
+            "Abbr": "bn bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31321"
+        },
+        {
+            "MaPhuongXa": "33116",
+            "TenPhuongXa": "Hoàng Thu Phố",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "htp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang thu pho bac ha lao cai",
+            "Point": null,
+            "Abbr": "htp bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31315"
+        },
+        {
+            "MaPhuongXa": "33114",
+            "TenPhuongXa": "Tả Van Chư",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tvc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta van chu bac ha lao cai",
+            "Point": null,
+            "Abbr": "tvc bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31314"
+        },
+        {
+            "MaPhuongXa": "33112",
+            "TenPhuongXa": "Thải Giàng Phố",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tgp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai giang pho bac ha lao cai",
+            "Point": null,
+            "Abbr": "tgp bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31308"
+        },
+        {
+            "MaPhuongXa": "33111",
+            "TenPhuongXa": "Tả Củ Tỷ",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tct",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta cu ty bac ha lao cai",
+            "Point": null,
+            "Abbr": "tct bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31309"
+        },
+        {
+            "MaPhuongXa": "33118",
+            "TenPhuongXa": "Lầu Thí Ngài",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ltn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lau thi ngai bac ha lao cai",
+            "Point": null,
+            "Abbr": "ltn bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31313"
+        },
+        {
+            "MaPhuongXa": "33126",
+            "TenPhuongXa": "Bản Cái",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban cai bac ha lao cai",
+            "Point": null,
+            "Abbr": "bc bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31324"
+        },
+        {
+            "MaPhuongXa": "33124",
+            "TenPhuongXa": "Cốc Ly",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "coc ly bac ha lao cai",
+            "Point": null,
+            "Abbr": "cl bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31318"
+        },
+        {
+            "MaPhuongXa": "33122",
+            "TenPhuongXa": "Nậm Mòn",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam mon bac ha lao cai",
+            "Point": null,
+            "Abbr": "nm bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31319"
+        },
+        {
+            "MaPhuongXa": "33120",
+            "TenPhuongXa": "Lùng Phình",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung phinh bac ha lao cai",
+            "Point": null,
+            "Abbr": "lp bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31312"
+        },
+        {
+            "MaPhuongXa": "33128",
+            "TenPhuongXa": "Nậm Lúc",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam luc bac ha lao cai",
+            "Point": null,
+            "Abbr": "nl bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31323"
+        },
+        {
+            "MaPhuongXa": "33106",
+            "TenPhuongXa": "Lùng Cải",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung cai bac ha lao cai",
+            "Point": null,
+            "Abbr": "lc bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31311"
+        },
+        {
+            "MaPhuongXa": "33103",
+            "TenPhuongXa": "Na Hối",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na hoi bac ha lao cai",
+            "Point": null,
+            "Abbr": "nh bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31317"
+        },
+        {
+            "MaPhuongXa": "33100",
+            "TenPhuongXa": "Bắc Hà",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac ha bac ha lao cai",
+            "Point": null,
+            "Abbr": "bh bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31306"
+        },
+        {
+            "MaPhuongXa": "33109",
+            "TenPhuongXa": "Bản Liền",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban lien bac ha lao cai",
+            "Point": null,
+            "Abbr": "bl bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31326"
+        },
+        {
+            "MaPhuongXa": "33108",
+            "TenPhuongXa": "Bản Già",
+            "MaQuanHuyen": "3310",
+            "TenQuanHuyen": "Bắc Hà",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bg",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban gia bac ha lao cai",
+            "Point": null,
+            "Abbr": "bg bh lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31310"
+        }
+    ],
+    "3347": [
+        {
+            "MaPhuongXa": "33512",
+            "TenPhuongXa": "Võ Lao",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vo lao van ban lao cai",
+            "Point": null,
+            "Abbr": "vl vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31810"
+        },
+        {
+            "MaPhuongXa": "33510",
+            "TenPhuongXa": "Hoà Mạc",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa mac van ban lao cai",
+            "Point": null,
+            "Abbr": "hm vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31818"
+        },
+        {
+            "MaPhuongXa": "33472",
+            "TenPhuongXa": "Nậm Cháy",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam chay van ban lao cai",
+            "Point": null,
+            "Abbr": "nc vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31815"
+        },
+        {
+            "MaPhuongXa": "33470",
+            "TenPhuongXa": "Khánh Yên",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ky",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh yen van ban lao cai",
+            "Point": null,
+            "Abbr": "ky vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31806"
+        },
+        {
+            "MaPhuongXa": "33477",
+            "TenPhuongXa": "Thẩm Dương",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tham duong van ban lao cai",
+            "Point": null,
+            "Abbr": "td vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31821"
+        },
+        {
+            "MaPhuongXa": "33474",
+            "TenPhuongXa": "Nậm Xé",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nx",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam xe van ban lao cai",
+            "Point": null,
+            "Abbr": "nx vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31816"
+        },
+        {
+            "MaPhuongXa": "33475",
+            "TenPhuongXa": "Minh Lương",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh luong van ban lao cai",
+            "Point": null,
+            "Abbr": "ml vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31817"
+        },
+        {
+            "MaPhuongXa": "33478",
+            "TenPhuongXa": "Dần Thàng",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dan thang van ban lao cai",
+            "Point": null,
+            "Abbr": "dt vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31814"
+        },
+        {
+            "MaPhuongXa": "33479",
+            "TenPhuongXa": "Nậm Xây",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nx",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam xay van ban lao cai",
+            "Point": null,
+            "Abbr": "nx vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31822"
+        },
+        {
+            "MaPhuongXa": "33483",
+            "TenPhuongXa": "Dương Quỳ",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "dq",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duong quy van ban lao cai",
+            "Point": null,
+            "Abbr": "dq vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31820"
+        },
+        {
+            "MaPhuongXa": "33480",
+            "TenPhuongXa": "Nậm Rạng",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nr",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam rang van ban lao cai",
+            "Point": null,
+            "Abbr": "nr vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31813"
+        },
+        {
+            "MaPhuongXa": "33481",
+            "TenPhuongXa": "Làng Ràng",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "lr",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lang rang van ban lao cai",
+            "Point": null,
+            "Abbr": "lr vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31819"
+        },
+        {
+            "MaPhuongXa": "33486",
+            "TenPhuongXa": "Khánh Yên Thượng",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "kyt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh yen thuong van ban lao cai",
+            "Point": null,
+            "Abbr": "kyt vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31807"
+        },
+        {
+            "MaPhuongXa": "33488",
+            "TenPhuongXa": "Sơn Thủy",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son thuy van ban lao cai",
+            "Point": null,
+            "Abbr": "st vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31808"
+        },
+        {
+            "MaPhuongXa": "33493",
+            "TenPhuongXa": "Chiềng Ken",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ck",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng ken van ban lao cai",
+            "Point": null,
+            "Abbr": "ck vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31827"
+        },
+        {
+            "MaPhuongXa": "33491",
+            "TenPhuongXa": "Tân Thượng",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thuong van ban lao cai",
+            "Point": null,
+            "Abbr": "tt vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31809"
+        },
+        {
+            "MaPhuongXa": "33496",
+            "TenPhuongXa": "Liêm Phú",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "liem phu van ban lao cai",
+            "Point": null,
+            "Abbr": "lp vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31825"
+        },
+        {
+            "MaPhuongXa": "33498",
+            "TenPhuongXa": "Tân An",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan an van ban lao cai",
+            "Point": null,
+            "Abbr": "ta vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31828"
+        },
+        {
+            "MaPhuongXa": "33503",
+            "TenPhuongXa": "Văn Sơn",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "vs",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van son van ban lao cai",
+            "Point": null,
+            "Abbr": "vs vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31811"
+        },
+        {
+            "MaPhuongXa": "33502",
+            "TenPhuongXa": "Nậm Mả",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam ma van ban lao cai",
+            "Point": null,
+            "Abbr": "nm vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31812"
+        },
+        {
+            "MaPhuongXa": "33500",
+            "TenPhuongXa": "Nậm Tha",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam tha van ban lao cai",
+            "Point": null,
+            "Abbr": "nt vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31826"
+        },
+        {
+            "MaPhuongXa": "33507",
+            "TenPhuongXa": "Khánh Yên Hạ",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "kyh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh yen ha van ban lao cai",
+            "Point": null,
+            "Abbr": "kyh vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31824"
+        },
+        {
+            "MaPhuongXa": "33505",
+            "TenPhuongXa": "Khánh Yên Trung",
+            "MaQuanHuyen": "3347",
+            "TenQuanHuyen": "Văn Bàn",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "kyt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vb",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh yen trung van ban lao cai",
+            "Point": null,
+            "Abbr": "kyt vb lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31823"
+        }
+    ],
+    "3325": [
+        {
+            "MaPhuongXa": "33274",
+            "TenPhuongXa": "Cốc Mỳ",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "coc my bat xat lao cai",
+            "Point": null,
+            "Abbr": "cm bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31609"
+        },
+        {
+            "MaPhuongXa": "33277",
+            "TenPhuongXa": "Trịnh Tường",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trinh tuong bat xat lao cai",
+            "Point": null,
+            "Abbr": "tt bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31610"
+        },
+        {
+            "MaPhuongXa": "33270",
+            "TenPhuongXa": "Ngải Thầu",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngai thau bat xat lao cai",
+            "Point": null,
+            "Abbr": "nt bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31614"
+        },
+        {
+            "MaPhuongXa": "33271",
+            "TenPhuongXa": "Y Tý",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "y ty bat xat lao cai",
+            "Point": null,
+            "Abbr": "yt bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31615"
+        },
+        {
+            "MaPhuongXa": "33255",
+            "TenPhuongXa": "Nậm Trạc",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam trac bat xat lao cai",
+            "Point": null,
+            "Abbr": "nt bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31611"
+        },
+        {
+            "MaPhuongXa": "33257",
+            "TenPhuongXa": "Tòng Sành",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tong sanh bat xat lao cai",
+            "Point": null,
+            "Abbr": "ts bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31627"
+        },
+        {
+            "MaPhuongXa": "33250",
+            "TenPhuongXa": "Bát Xát",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bx",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bat xat bat xat lao cai",
+            "Point": null,
+            "Abbr": "bx bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31606"
+        },
+        {
+            "MaPhuongXa": "33253",
+            "TenPhuongXa": "Phìn Ngan",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phin ngan bat xat lao cai",
+            "Point": null,
+            "Abbr": "pn bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31626"
+        },
+        {
+            "MaPhuongXa": "33258",
+            "TenPhuongXa": "A Mú Sung",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ams",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "a mu sung bat xat lao cai",
+            "Point": null,
+            "Abbr": "ams bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31612"
+        },
+        {
+            "MaPhuongXa": "33286",
+            "TenPhuongXa": "Quang Kim",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "qk",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang kim bat xat lao cai",
+            "Point": null,
+            "Abbr": "qk bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31625"
+        },
+        {
+            "MaPhuongXa": "33281",
+            "TenPhuongXa": "Bản Xèo",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bx",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban xeo bat xat lao cai",
+            "Point": null,
+            "Abbr": "bx bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31622"
+        },
+        {
+            "MaPhuongXa": "33283",
+            "TenPhuongXa": "Mường Hum",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong hum bat xat lao cai",
+            "Point": null,
+            "Abbr": "mh bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31619"
+        },
+        {
+            "MaPhuongXa": "33289",
+            "TenPhuongXa": "Mường Vi",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "mv",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong vi bat xat lao cai",
+            "Point": null,
+            "Abbr": "mv bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31623"
+        },
+        {
+            "MaPhuongXa": "33291",
+            "TenPhuongXa": "Bản Vược",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bv",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban vuoc bat xat lao cai",
+            "Point": null,
+            "Abbr": "bv bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31608"
+        },
+        {
+            "MaPhuongXa": "33293",
+            "TenPhuongXa": "Bản Qua",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bq",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban qua bat xat lao cai",
+            "Point": null,
+            "Abbr": "bq bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31607"
+        },
+        {
+            "MaPhuongXa": "33264",
+            "TenPhuongXa": "Dền Thàng",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "den thang bat xat lao cai",
+            "Point": null,
+            "Abbr": "dt bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31618"
+        },
+        {
+            "MaPhuongXa": "33266",
+            "TenPhuongXa": "Trung Lèng Hồ",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tlh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung leng ho bat xat lao cai",
+            "Point": null,
+            "Abbr": "tlh bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31620"
+        },
+        {
+            "MaPhuongXa": "33267",
+            "TenPhuongXa": "Sàng Ma Sáo",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "sms",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sang ma sao bat xat lao cai",
+            "Point": null,
+            "Abbr": "sms bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31617"
+        },
+        {
+            "MaPhuongXa": "33260",
+            "TenPhuongXa": "A Lù",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "al",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "a lu bat xat lao cai",
+            "Point": null,
+            "Abbr": "al bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31613"
+        },
+        {
+            "MaPhuongXa": "33262",
+            "TenPhuongXa": "Pa Cheo",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pa cheo bat xat lao cai",
+            "Point": null,
+            "Abbr": "pc bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31624"
+        },
+        {
+            "MaPhuongXa": "33263",
+            "TenPhuongXa": "Nậm Pung",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam pung bat xat lao cai",
+            "Point": null,
+            "Abbr": "np bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31621"
+        },
+        {
+            "MaPhuongXa": "33269",
+            "TenPhuongXa": "Dền Sáng",
+            "MaQuanHuyen": "3325",
+            "TenQuanHuyen": "Bát Xát",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "den sang bat xat lao cai",
+            "Point": null,
+            "Abbr": "ds bx lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31616"
+        }
+    ],
+    "3334": [
+        {
+            "MaPhuongXa": "33374",
+            "TenPhuongXa": "Thống Nhất",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thong nhat lao cai lao cai",
+            "Point": null,
+            "Abbr": "tn lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31117"
+        },
+        {
+            "MaPhuongXa": "33377",
+            "TenPhuongXa": "Xuân Tăng",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan tang lao cai lao cai",
+            "Point": null,
+            "Abbr": "xt lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31118"
+        },
+        {
+            "MaPhuongXa": "33357",
+            "TenPhuongXa": "Kim Tân",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim tan lao cai lao cai",
+            "Point": null,
+            "Abbr": "kt lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31106"
+        },
+        {
+            "MaPhuongXa": "33284",
+            "TenPhuongXa": "Cốc San",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "coc san lao cai lao cai",
+            "Point": null,
+            "Abbr": "cs lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "33384",
+            "TenPhuongXa": "Phố Mới",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho moi lao cai lao cai",
+            "Point": null,
+            "Abbr": "pm lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31108"
+        },
+        {
+            "MaPhuongXa": "33380",
+            "TenPhuongXa": "Bắc Lệnh",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac lenh lao cai lao cai",
+            "Point": null,
+            "Abbr": "bl lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31121"
+        },
+        {
+            "MaPhuongXa": "33389",
+            "TenPhuongXa": "Vạn Hoà",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van hoa lao cai lao cai",
+            "Point": null,
+            "Abbr": "vh lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31107"
+        },
+        {
+            "MaPhuongXa": "33395",
+            "TenPhuongXa": "Tả Phời",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta phoi lao cai lao cai",
+            "Point": null,
+            "Abbr": "tp lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31114"
+        },
+        {
+            "MaPhuongXa": "33394",
+            "TenPhuongXa": "Nam Cường",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam cuong lao cai lao cai",
+            "Point": null,
+            "Abbr": "nc lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31122"
+        },
+        {
+            "MaPhuongXa": "33391",
+            "TenPhuongXa": "Đồng Tuyển",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tuyen lao cai lao cai",
+            "Point": null,
+            "Abbr": "dt lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31112"
+        },
+        {
+            "MaPhuongXa": "33390",
+            "TenPhuongXa": "Bắc Cường",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac cuong lao cai lao cai",
+            "Point": null,
+            "Abbr": "bc lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31113"
+        },
+        {
+            "MaPhuongXa": "33393",
+            "TenPhuongXa": "Bình Minh",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bm",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh minh lao cai lao cai",
+            "Point": null,
+            "Abbr": "bm lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31119"
+        },
+        {
+            "MaPhuongXa": "33392",
+            "TenPhuongXa": "Hợp Thành",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop thanh lao cai lao cai",
+            "Point": null,
+            "Abbr": "ht lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31115"
+        },
+        {
+            "MaPhuongXa": "33604",
+            "TenPhuongXa": "Cam Đường",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam duong lao cai lao cai",
+            "Point": null,
+            "Abbr": "cd lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31116"
+        },
+        {
+            "MaPhuongXa": "33368",
+            "TenPhuongXa": "Pom Hán",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pom han lao cai lao cai",
+            "Point": null,
+            "Abbr": "ph lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31120"
+        },
+        {
+            "MaPhuongXa": "33347",
+            "TenPhuongXa": "Cốc Lếu",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "coc leu lao cai lao cai",
+            "Point": null,
+            "Abbr": "cl lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31111"
+        },
+        {
+            "MaPhuongXa": "33340",
+            "TenPhuongXa": "Lào Cai",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lao cai lao cai lao cai",
+            "Point": null,
+            "Abbr": "lc lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31109"
+        },
+        {
+            "MaPhuongXa": "33342",
+            "TenPhuongXa": "Duyên Hải",
+            "MaQuanHuyen": "3334",
+            "TenQuanHuyen": "Lào Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duyen hai lao cai lao cai",
+            "Point": null,
+            "Abbr": "dh lc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31110"
+        }
+    ],
+    "3316": [
+        {
+            "MaPhuongXa": "33177",
+            "TenPhuongXa": "Si Ma Cai",
+            "MaQuanHuyen": "3316",
+            "TenQuanHuyen": "Si Ma Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "smc",
+                    "Point": 5
+                },
+                {
+                    "Key": "smc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "si ma cai si ma cai lao cai",
+            "Point": null,
+            "Abbr": "smc smc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31406"
+        },
+        {
+            "MaPhuongXa": "33175",
+            "TenPhuongXa": "Nàn Sán",
+            "MaQuanHuyen": "3316",
+            "TenQuanHuyen": "Si Ma Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "smc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nan san si ma cai lao cai",
+            "Point": null,
+            "Abbr": "ns smc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31407"
+        },
+        {
+            "MaPhuongXa": "33173",
+            "TenPhuongXa": "Nàn Sín",
+            "MaQuanHuyen": "3316",
+            "TenQuanHuyen": "Si Ma Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "smc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nan sin si ma cai lao cai",
+            "Point": null,
+            "Abbr": "ns smc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31413"
+        },
+        {
+            "MaPhuongXa": "33172",
+            "TenPhuongXa": "Cán Cấu",
+            "MaQuanHuyen": "3316",
+            "TenQuanHuyen": "Si Ma Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "smc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "can cau si ma cai lao cai",
+            "Point": null,
+            "Abbr": "cc smc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31415"
+        },
+        {
+            "MaPhuongXa": "33171",
+            "TenPhuongXa": "Quan Thần Sán",
+            "MaQuanHuyen": "3316",
+            "TenQuanHuyen": "Si Ma Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "qts",
+                    "Point": 5
+                },
+                {
+                    "Key": "smc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quan than san si ma cai lao cai",
+            "Point": null,
+            "Abbr": "qts smc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31414"
+        },
+        {
+            "MaPhuongXa": "33170",
+            "TenPhuongXa": "Lùng Thẩn",
+            "MaQuanHuyen": "3316",
+            "TenQuanHuyen": "Si Ma Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "smc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung than si ma cai lao cai",
+            "Point": null,
+            "Abbr": "lt smc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31416"
+        },
+        {
+            "MaPhuongXa": "33167",
+            "TenPhuongXa": "Quan Hồ Thẩn",
+            "MaQuanHuyen": "3316",
+            "TenQuanHuyen": "Si Ma Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "qht",
+                    "Point": 5
+                },
+                {
+                    "Key": "smc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quan ho than si ma cai lao cai",
+            "Point": null,
+            "Abbr": "qht smc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31411"
+        },
+        {
+            "MaPhuongXa": "33165",
+            "TenPhuongXa": "Lùng Sui",
+            "MaQuanHuyen": "3316",
+            "TenQuanHuyen": "Si Ma Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "smc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung sui si ma cai lao cai",
+            "Point": null,
+            "Abbr": "ls smc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31417"
+        },
+        {
+            "MaPhuongXa": "33163",
+            "TenPhuongXa": "Sán Chải",
+            "MaQuanHuyen": "3316",
+            "TenQuanHuyen": "Si Ma Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "sc",
+                    "Point": 5
+                },
+                {
+                    "Key": "smc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "san chai si ma cai lao cai",
+            "Point": null,
+            "Abbr": "sc smc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31418"
+        },
+        {
+            "MaPhuongXa": "33161",
+            "TenPhuongXa": "Bản Mế",
+            "MaQuanHuyen": "3316",
+            "TenQuanHuyen": "Si Ma Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "bm",
+                    "Point": 5
+                },
+                {
+                    "Key": "smc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban me si ma cai lao cai",
+            "Point": null,
+            "Abbr": "bm smc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31408"
+        },
+        {
+            "MaPhuongXa": "33160",
+            "TenPhuongXa": "Thào Chư Phìn",
+            "MaQuanHuyen": "3316",
+            "TenQuanHuyen": "Si Ma Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "tcp",
+                    "Point": 5
+                },
+                {
+                    "Key": "smc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thao chu phin si ma cai lao cai",
+            "Point": null,
+            "Abbr": "tcp smc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31409"
+        },
+        {
+            "MaPhuongXa": "33169",
+            "TenPhuongXa": "Sín Chéng",
+            "MaQuanHuyen": "3316",
+            "TenQuanHuyen": "Si Ma Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "sc",
+                    "Point": 5
+                },
+                {
+                    "Key": "smc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sin cheng si ma cai lao cai",
+            "Point": null,
+            "Abbr": "sc smc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31410"
+        },
+        {
+            "MaPhuongXa": "33168",
+            "TenPhuongXa": "Cán Hồ",
+            "MaQuanHuyen": "3316",
+            "TenQuanHuyen": "Si Ma Cai",
+            "MaTinhThanh": "33",
+            "TenTinhThanh": "Lào Cai",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "smc",
+                    "Point": 2
+                },
+                {
+                    "Key": "lc",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "can ho si ma cai lao cai",
+            "Point": null,
+            "Abbr": "ch smc lc",
+            "TrangThai": null,
+            "MaBuuChinh": "31412"
+        }
+    ]
+}

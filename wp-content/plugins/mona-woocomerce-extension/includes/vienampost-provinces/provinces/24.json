@@ -1,0 +1,6126 @@
+{
+    "2461": [
+        {
+            "MaPhuongXa": "24620",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh huu lung lang son",
+            "Point": null,
+            "Abbr": "tt hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25629"
+        },
+        {
+            "MaPhuongXa": "24622",
+            "TenPhuongXa": "Hoà Sơn",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa son huu lung lang son",
+            "Point": null,
+            "Abbr": "hs hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25630"
+        },
+        {
+            "MaPhuongXa": "24625",
+            "TenPhuongXa": "Cai Kinh",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ck",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cai kinh huu lung lang son",
+            "Point": null,
+            "Abbr": "ck hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25608"
+        },
+        {
+            "MaPhuongXa": "24624",
+            "TenPhuongXa": "Hoà Lạc",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa lac huu lung lang son",
+            "Point": null,
+            "Abbr": "hl hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25631"
+        },
+        {
+            "MaPhuongXa": "24627",
+            "TenPhuongXa": "Yên Sơn",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ys",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen son huu lung lang son",
+            "Point": null,
+            "Abbr": "ys hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25609"
+        },
+        {
+            "MaPhuongXa": "24629",
+            "TenPhuongXa": "Yên Vượng",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "yv",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen vuong huu lung lang son",
+            "Point": null,
+            "Abbr": "yv hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25622"
+        },
+        {
+            "MaPhuongXa": "24640",
+            "TenPhuongXa": "Nhật Tiến",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhat tien huu lung lang son",
+            "Point": null,
+            "Abbr": "nt hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25623"
+        },
+        {
+            "MaPhuongXa": "24642",
+            "TenPhuongXa": "Minh Tiến",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh tien huu lung lang son",
+            "Point": null,
+            "Abbr": "mt hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25621"
+        },
+        {
+            "MaPhuongXa": "24645",
+            "TenPhuongXa": "Thanh Sơn",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh son huu lung lang son",
+            "Point": null,
+            "Abbr": "ts hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25617"
+        },
+        {
+            "MaPhuongXa": "24644",
+            "TenPhuongXa": "Tân Lập",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap huu lung lang son",
+            "Point": null,
+            "Abbr": "tl hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25616"
+        },
+        {
+            "MaPhuongXa": "24647",
+            "TenPhuongXa": "Thiện Tân",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thien tan huu lung lang son",
+            "Point": null,
+            "Abbr": "tt hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25615"
+        },
+        {
+            "MaPhuongXa": "24649",
+            "TenPhuongXa": "Vân Nham",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vn",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van nham huu lung lang son",
+            "Point": null,
+            "Abbr": "vn hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25619"
+        },
+        {
+            "MaPhuongXa": "24650",
+            "TenPhuongXa": "Đồng Tiến",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tien huu lung lang son",
+            "Point": null,
+            "Abbr": "dt hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25618"
+        },
+        {
+            "MaPhuongXa": "24652",
+            "TenPhuongXa": "Đô Lương",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "do luong huu lung lang son",
+            "Point": null,
+            "Abbr": "dl hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25620"
+        },
+        {
+            "MaPhuongXa": "24654",
+            "TenPhuongXa": "Minh Sơn",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ms",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh son huu lung lang son",
+            "Point": null,
+            "Abbr": "ms hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25624"
+        },
+        {
+            "MaPhuongXa": "24657",
+            "TenPhuongXa": "Minh Hoà",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh hoa huu lung lang son",
+            "Point": null,
+            "Abbr": "mh hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25626"
+        },
+        {
+            "MaPhuongXa": "24656",
+            "TenPhuongXa": "Sơn Hà",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "sh",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son ha huu lung lang son",
+            "Point": null,
+            "Abbr": "sh hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25625"
+        },
+        {
+            "MaPhuongXa": "24659",
+            "TenPhuongXa": "Hoà Thắng",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa thang huu lung lang son",
+            "Point": null,
+            "Abbr": "ht hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25628"
+        },
+        {
+            "MaPhuongXa": "24610",
+            "TenPhuongXa": "Hữu Lũng",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu lung huu lung lang son",
+            "Point": null,
+            "Abbr": "hl hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25606"
+        },
+        {
+            "MaPhuongXa": "24616",
+            "TenPhuongXa": "Đồng Tân",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tan huu lung lang son",
+            "Point": null,
+            "Abbr": "dt hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25607"
+        },
+        {
+            "MaPhuongXa": "24618",
+            "TenPhuongXa": "Hồ Sơn",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ho son huu lung lang son",
+            "Point": null,
+            "Abbr": "hs hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25627"
+        },
+        {
+            "MaPhuongXa": "24631",
+            "TenPhuongXa": "Yên Thịnh",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen thinh huu lung lang son",
+            "Point": null,
+            "Abbr": "yt hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25611"
+        },
+        {
+            "MaPhuongXa": "24633",
+            "TenPhuongXa": "Hữu Liên",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu lien huu lung lang son",
+            "Point": null,
+            "Abbr": "hl hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25610"
+        },
+        {
+            "MaPhuongXa": "24635",
+            "TenPhuongXa": "Hoà Bình",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh huu lung lang son",
+            "Point": null,
+            "Abbr": "hb hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25612"
+        },
+        {
+            "MaPhuongXa": "24636",
+            "TenPhuongXa": "Yên Bình",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "yb",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen binh huu lung lang son",
+            "Point": null,
+            "Abbr": "yb hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25613"
+        },
+        {
+            "MaPhuongXa": "24638",
+            "TenPhuongXa": "Quyết Thắng",
+            "MaQuanHuyen": "2461",
+            "TenQuanHuyen": "Hữu Lũng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quyet thang huu lung lang son",
+            "Point": null,
+            "Abbr": "qt hl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25614"
+        }
+    ],
+    "2468": [
+        {
+            "MaPhuongXa": "24720",
+            "TenPhuongXa": "Nam Quan",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "nq",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam quan loc binh lang son",
+            "Point": null,
+            "Abbr": "nq lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25823"
+        },
+        {
+            "MaPhuongXa": "24722",
+            "TenPhuongXa": "Xuân Dương",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "xd",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan duong loc binh lang son",
+            "Point": null,
+            "Abbr": "xd lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25821"
+        },
+        {
+            "MaPhuongXa": "24724",
+            "TenPhuongXa": "Ái Quốc",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "aq",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ai quoc loc binh lang son",
+            "Point": null,
+            "Abbr": "aq lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25822"
+        },
+        {
+            "MaPhuongXa": "24727",
+            "TenPhuongXa": "Na Dương",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na duong loc binh lang son",
+            "Point": null,
+            "Abbr": "nd lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25827"
+        },
+        {
+            "MaPhuongXa": "24700",
+            "TenPhuongXa": "Xuân Mãn",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "xm",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan man loc binh lang son",
+            "Point": null,
+            "Abbr": "xm lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25812"
+        },
+        {
+            "MaPhuongXa": "24701",
+            "TenPhuongXa": "Bằng Khánh",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bk",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bang khanh loc binh lang son",
+            "Point": null,
+            "Abbr": "bk lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25811"
+        },
+        {
+            "MaPhuongXa": "24702",
+            "TenPhuongXa": "Khánh Xuân",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "kx",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh xuan loc binh lang son",
+            "Point": null,
+            "Abbr": "kx lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25810"
+        },
+        {
+            "MaPhuongXa": "24703",
+            "TenPhuongXa": "Lục Thôn",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luc thon loc binh lang son",
+            "Point": null,
+            "Abbr": "lt lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25814"
+        },
+        {
+            "MaPhuongXa": "24705",
+            "TenPhuongXa": "Thống Nhất",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thong nhat loc binh lang son",
+            "Point": null,
+            "Abbr": "tn lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25815"
+        },
+        {
+            "MaPhuongXa": "24707",
+            "TenPhuongXa": "Vân Mộng",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vm",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van mong loc binh lang son",
+            "Point": null,
+            "Abbr": "vm lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25816"
+        },
+        {
+            "MaPhuongXa": "24709",
+            "TenPhuongXa": "Xuân Tình",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan tinh loc binh lang son",
+            "Point": null,
+            "Abbr": "xt lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25817"
+        },
+        {
+            "MaPhuongXa": "24691",
+            "TenPhuongXa": "Tam Gia",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tg",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam gia loc binh lang son",
+            "Point": null,
+            "Abbr": "tg lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25833"
+        },
+        {
+            "MaPhuongXa": "24693",
+            "TenPhuongXa": "Tú Mịch",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu mich loc binh lang son",
+            "Point": null,
+            "Abbr": "tm lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25834"
+        },
+        {
+            "MaPhuongXa": "24694",
+            "TenPhuongXa": "Yên Khoái",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "yk",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen khoai loc binh lang son",
+            "Point": null,
+            "Abbr": "yk lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25808"
+        },
+        {
+            "MaPhuongXa": "24696",
+            "TenPhuongXa": "Mẫu Sơn",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ms",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mau son loc binh lang son",
+            "Point": null,
+            "Abbr": "ms lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25809"
+        },
+        {
+            "MaPhuongXa": "24698",
+            "TenPhuongXa": "Đồng Bục",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong buc loc binh lang son",
+            "Point": null,
+            "Abbr": "db lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25813"
+        },
+        {
+            "MaPhuongXa": "24710",
+            "TenPhuongXa": "Quan Bản",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "qb",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quan ban loc binh lang son",
+            "Point": null,
+            "Abbr": "qb lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25826"
+        },
+        {
+            "MaPhuongXa": "24712",
+            "TenPhuongXa": "Nhượng Bạn",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "nb",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhuong ban loc binh lang son",
+            "Point": null,
+            "Abbr": "nb lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25825"
+        },
+        {
+            "MaPhuongXa": "24714",
+            "TenPhuongXa": "Minh Hiệp",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh hiep loc binh lang son",
+            "Point": null,
+            "Abbr": "mh lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25818"
+        },
+        {
+            "MaPhuongXa": "24715",
+            "TenPhuongXa": "Minh Phát",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "mp",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh phat loc binh lang son",
+            "Point": null,
+            "Abbr": "mp lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25819"
+        },
+        {
+            "MaPhuongXa": "24717",
+            "TenPhuongXa": "Hữu Lân",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu lan loc binh lang son",
+            "Point": null,
+            "Abbr": "hl lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25820"
+        },
+        {
+            "MaPhuongXa": "24718",
+            "TenPhuongXa": "Đông Quan",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dq",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong quan loc binh lang son",
+            "Point": null,
+            "Abbr": "dq lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25824"
+        },
+        {
+            "MaPhuongXa": "24730",
+            "TenPhuongXa": "Lợi Bác",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loi bac loc binh lang son",
+            "Point": null,
+            "Abbr": "lb lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25828"
+        },
+        {
+            "MaPhuongXa": "24732",
+            "TenPhuongXa": "Sàn Viên",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "sv",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "san vien loc binh lang son",
+            "Point": null,
+            "Abbr": "sv lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25829"
+        },
+        {
+            "MaPhuongXa": "24681",
+            "TenPhuongXa": "Hữu Khánh",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hk",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu khanh loc binh lang son",
+            "Point": null,
+            "Abbr": "hk lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25807"
+        },
+        {
+            "MaPhuongXa": "24680",
+            "TenPhuongXa": "Lộc Bình",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc binh loc binh lang son",
+            "Point": null,
+            "Abbr": "lb lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25806"
+        },
+        {
+            "MaPhuongXa": "24683",
+            "TenPhuongXa": "Tú Đoạn",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu doan loc binh lang son",
+            "Point": null,
+            "Abbr": "td lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25830"
+        },
+        {
+            "MaPhuongXa": "24686",
+            "TenPhuongXa": "Khuất Xá",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "kx",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khuat xa loc binh lang son",
+            "Point": null,
+            "Abbr": "kx lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25831"
+        },
+        {
+            "MaPhuongXa": "24689",
+            "TenPhuongXa": "Tĩnh Bắc",
+            "MaQuanHuyen": "2468",
+            "TenQuanHuyen": "Lộc Bình",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "lb",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tinh bac loc binh lang son",
+            "Point": null,
+            "Abbr": "tb lb ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25832"
+        }
+    ],
+    "2439": [
+        {
+            "MaPhuongXa": "24422",
+            "TenPhuongXa": "Bình Phúc",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh phuc van quan lang son",
+            "Point": null,
+            "Abbr": "bp vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25519"
+        },
+        {
+            "MaPhuongXa": "24421",
+            "TenPhuongXa": "Hữu Lễ",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu le van quan lang son",
+            "Point": null,
+            "Abbr": "hl vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25517"
+        },
+        {
+            "MaPhuongXa": "24426",
+            "TenPhuongXa": "An Sơn",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "as",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an son van quan lang son",
+            "Point": null,
+            "Abbr": "as vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25521"
+        },
+        {
+            "MaPhuongXa": "24424",
+            "TenPhuongXa": "Yên Phúc",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "yp",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen phuc van quan lang son",
+            "Point": null,
+            "Abbr": "yp vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25518"
+        },
+        {
+            "MaPhuongXa": "24428",
+            "TenPhuongXa": "Tân Đoàn",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan doan van quan lang son",
+            "Point": null,
+            "Abbr": "td vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25523"
+        },
+        {
+            "MaPhuongXa": "24402",
+            "TenPhuongXa": "Văn An",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "va",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van an van quan lang son",
+            "Point": null,
+            "Abbr": "va vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25529"
+        },
+        {
+            "MaPhuongXa": "24400",
+            "TenPhuongXa": "Khánh Khê",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "kk",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh khe van quan lang son",
+            "Point": null,
+            "Abbr": "kk vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25526"
+        },
+        {
+            "MaPhuongXa": "24407",
+            "TenPhuongXa": "Vân Mộng",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vm",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van mong van quan lang son",
+            "Point": null,
+            "Abbr": "vm vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25512"
+        },
+        {
+            "MaPhuongXa": "24406",
+            "TenPhuongXa": "Điềm He",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "diem he van quan lang son",
+            "Point": null,
+            "Abbr": "dh vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25508"
+        },
+        {
+            "MaPhuongXa": "24404",
+            "TenPhuongXa": "Vĩnh Lại",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh lai van quan lang son",
+            "Point": null,
+            "Abbr": "vl vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25507"
+        },
+        {
+            "MaPhuongXa": "24409",
+            "TenPhuongXa": "Trấn Ninh",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran ninh van quan lang son",
+            "Point": null,
+            "Abbr": "tn vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25509"
+        },
+        {
+            "MaPhuongXa": "24408",
+            "TenPhuongXa": "Việt Yên",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vy",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet yen van quan lang son",
+            "Point": null,
+            "Abbr": "vy vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25511"
+        },
+        {
+            "MaPhuongXa": "24394",
+            "TenPhuongXa": "Chu Túc",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu tuc van quan lang son",
+            "Point": null,
+            "Abbr": "ct vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25527"
+        },
+        {
+            "MaPhuongXa": "24396",
+            "TenPhuongXa": "Tràng Các",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trang cac van quan lang son",
+            "Point": null,
+            "Abbr": "tc vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25524"
+        },
+        {
+            "MaPhuongXa": "24390",
+            "TenPhuongXa": "Văn Quan",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vq",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van quan van quan lang son",
+            "Point": null,
+            "Abbr": "vq vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25506"
+        },
+        {
+            "MaPhuongXa": "24392",
+            "TenPhuongXa": "Đại An",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "da",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai an van quan lang son",
+            "Point": null,
+            "Abbr": "da vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25528"
+        },
+        {
+            "MaPhuongXa": "24398",
+            "TenPhuongXa": "Đồng Giáp",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dg",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong giap van quan lang son",
+            "Point": null,
+            "Abbr": "dg vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25525"
+        },
+        {
+            "MaPhuongXa": "24413",
+            "TenPhuongXa": "Tú Xuyên",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tx",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu xuyen van quan lang son",
+            "Point": null,
+            "Abbr": "tx vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25514"
+        },
+        {
+            "MaPhuongXa": "24412",
+            "TenPhuongXa": "Hoà Bình",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh van quan lang son",
+            "Point": null,
+            "Abbr": "hb vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25513"
+        },
+        {
+            "MaPhuongXa": "24411",
+            "TenPhuongXa": "Liên Hội",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien hoi van quan lang son",
+            "Point": null,
+            "Abbr": "lh vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25510"
+        },
+        {
+            "MaPhuongXa": "24417",
+            "TenPhuongXa": "Xuân Mai",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "xm",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan mai van quan lang son",
+            "Point": null,
+            "Abbr": "xm vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25520"
+        },
+        {
+            "MaPhuongXa": "24415",
+            "TenPhuongXa": "Lương Năng",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ln",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong nang van quan lang son",
+            "Point": null,
+            "Abbr": "ln vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25515"
+        },
+        {
+            "MaPhuongXa": "24419",
+            "TenPhuongXa": "Tri Lễ",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tri le van quan lang son",
+            "Point": null,
+            "Abbr": "tl vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25516"
+        },
+        {
+            "MaPhuongXa": "24430",
+            "TenPhuongXa": "Tràng Phái",
+            "MaQuanHuyen": "2439",
+            "TenQuanHuyen": "Văn Quan",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "vq",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trang phai van quan lang son",
+            "Point": null,
+            "Abbr": "tp vq ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25522"
+        }
+    ],
+    "2450": [
+        {
+            "MaPhuongXa": "24523",
+            "TenPhuongXa": "Vũ Lễ",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vu le bac son lang son",
+            "Point": null,
+            "Abbr": "vl bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25465"
+        },
+        {
+            "MaPhuongXa": "24521",
+            "TenPhuongXa": "Chiến Thắng",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chien thang bac son lang son",
+            "Point": null,
+            "Abbr": "ct bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25464"
+        },
+        {
+            "MaPhuongXa": "24527",
+            "TenPhuongXa": "Nhất Hoà",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhat hoa bac son lang son",
+            "Point": null,
+            "Abbr": "nh bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25468"
+        },
+        {
+            "MaPhuongXa": "24525",
+            "TenPhuongXa": "Tân Hương",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan huong bac son lang son",
+            "Point": null,
+            "Abbr": "th bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25469"
+        },
+        {
+            "MaPhuongXa": "24529",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh bac son lang son",
+            "Point": null,
+            "Abbr": "tt bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25466"
+        },
+        {
+            "MaPhuongXa": "24540",
+            "TenPhuongXa": "Trấn Yên",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ty",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran yen bac son lang son",
+            "Point": null,
+            "Abbr": "ty bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25475"
+        },
+        {
+            "MaPhuongXa": "24544",
+            "TenPhuongXa": "Hưng Vũ",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung vu bac son lang son",
+            "Point": null,
+            "Abbr": "hv bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25474"
+        },
+        {
+            "MaPhuongXa": "24502",
+            "TenPhuongXa": "Bắc Sơn",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bs",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac son bac son lang son",
+            "Point": null,
+            "Abbr": "bs bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25473"
+        },
+        {
+            "MaPhuongXa": "24500",
+            "TenPhuongXa": "Bắc Sơn",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bs",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac son bac son lang son",
+            "Point": null,
+            "Abbr": "bs bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25456"
+        },
+        {
+            "MaPhuongXa": "24507",
+            "TenPhuongXa": "Long Đống",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long dong bac son lang son",
+            "Point": null,
+            "Abbr": "ld bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25458"
+        },
+        {
+            "MaPhuongXa": "24505",
+            "TenPhuongXa": "Bắc Quỳnh",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bq",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac quynh bac son lang son",
+            "Point": null,
+            "Abbr": "bq bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25457"
+        },
+        {
+            "MaPhuongXa": "24513",
+            "TenPhuongXa": "Vạn Thủy",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van thuy bac son lang son",
+            "Point": null,
+            "Abbr": "vt bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25459"
+        },
+        {
+            "MaPhuongXa": "24510",
+            "TenPhuongXa": "Đồng Ý",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dy",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong y bac son lang son",
+            "Point": null,
+            "Abbr": "dy bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25460"
+        },
+        {
+            "MaPhuongXa": "24516",
+            "TenPhuongXa": "Vũ Sơn",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vs",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vu son bac son lang son",
+            "Point": null,
+            "Abbr": "vs bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25462"
+        },
+        {
+            "MaPhuongXa": "24514",
+            "TenPhuongXa": "Tân Lập",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap bac son lang son",
+            "Point": null,
+            "Abbr": "tl bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25461"
+        },
+        {
+            "MaPhuongXa": "24518",
+            "TenPhuongXa": "Tân Tri",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tri bac son lang son",
+            "Point": null,
+            "Abbr": "tt bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25463"
+        },
+        {
+            "MaPhuongXa": "24533",
+            "TenPhuongXa": "Chiêu Vũ",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "cv",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieu vu bac son lang son",
+            "Point": null,
+            "Abbr": "cv bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25471"
+        },
+        {
+            "MaPhuongXa": "24531",
+            "TenPhuongXa": "Hữu Vĩnh",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu vinh bac son lang son",
+            "Point": null,
+            "Abbr": "hv bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25472"
+        },
+        {
+            "MaPhuongXa": "24535",
+            "TenPhuongXa": "Vũ Lăng",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vu lang bac son lang son",
+            "Point": null,
+            "Abbr": "vl bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25470"
+        },
+        {
+            "MaPhuongXa": "24538",
+            "TenPhuongXa": "Nhất Tiến",
+            "MaQuanHuyen": "2450",
+            "TenQuanHuyen": "Bắc Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bs",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhat tien bac son lang son",
+            "Point": null,
+            "Abbr": "nt bs ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25467"
+        }
+    ],
+    "2418": [
+        {
+            "MaPhuongXa": "24225",
+            "TenPhuongXa": "Yên Trạch",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen trach cao loc lang son",
+            "Point": null,
+            "Abbr": "yt cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25173"
+        },
+        {
+            "MaPhuongXa": "24227",
+            "TenPhuongXa": "Tân Liên",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lien cao loc lang son",
+            "Point": null,
+            "Abbr": "tl cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25174"
+        },
+        {
+            "MaPhuongXa": "24221",
+            "TenPhuongXa": "Xuân Long",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan long cao loc lang son",
+            "Point": null,
+            "Abbr": "xl cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25171"
+        },
+        {
+            "MaPhuongXa": "24223",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh cao loc lang son",
+            "Point": null,
+            "Abbr": "tt cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25172"
+        },
+        {
+            "MaPhuongXa": "24229",
+            "TenPhuongXa": "Gia Cát",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "gc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia cat cao loc lang son",
+            "Point": null,
+            "Abbr": "gc cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25175"
+        },
+        {
+            "MaPhuongXa": "24204",
+            "TenPhuongXa": "Lộc Yên",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ly",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc yen cao loc lang son",
+            "Point": null,
+            "Abbr": "ly cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25161"
+        },
+        {
+            "MaPhuongXa": "24207",
+            "TenPhuongXa": "Thạch Đạn",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thach dan cao loc lang son",
+            "Point": null,
+            "Abbr": "td cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25165"
+        },
+        {
+            "MaPhuongXa": "24206",
+            "TenPhuongXa": "Thanh Loà",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh loa cao loc lang son",
+            "Point": null,
+            "Abbr": "tl cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25162"
+        },
+        {
+            "MaPhuongXa": "24201",
+            "TenPhuongXa": "Xuất Lễ",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuat le cao loc lang son",
+            "Point": null,
+            "Abbr": "xl cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25178"
+        },
+        {
+            "MaPhuongXa": "24208",
+            "TenPhuongXa": "Bảo Lâm",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bao lam cao loc lang son",
+            "Point": null,
+            "Abbr": "bl cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25163"
+        },
+        {
+            "MaPhuongXa": "24197",
+            "TenPhuongXa": "Mẫu Sơn",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ms",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mau son cao loc lang son",
+            "Point": null,
+            "Abbr": "ms cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25177"
+        },
+        {
+            "MaPhuongXa": "24194",
+            "TenPhuongXa": "Công Sơn",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cong son cao loc lang son",
+            "Point": null,
+            "Abbr": "cs cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25176"
+        },
+        {
+            "MaPhuongXa": "24192",
+            "TenPhuongXa": "Hải Yến",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hy",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai yen cao loc lang son",
+            "Point": null,
+            "Abbr": "hy cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25159"
+        },
+        {
+            "MaPhuongXa": "24190",
+            "TenPhuongXa": "Hoà Cư",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa cu cao loc lang son",
+            "Point": null,
+            "Abbr": "hc cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25158"
+        },
+        {
+            "MaPhuongXa": "24199",
+            "TenPhuongXa": "Cao Lâu",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao lau cao loc lang son",
+            "Point": null,
+            "Abbr": "cl cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25160"
+        },
+        {
+            "MaPhuongXa": "24214",
+            "TenPhuongXa": "Phú Xá",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "px",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu xa cao loc lang son",
+            "Point": null,
+            "Abbr": "px cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25167"
+        },
+        {
+            "MaPhuongXa": "24216",
+            "TenPhuongXa": "Hồng Phong",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong phong cao loc lang son",
+            "Point": null,
+            "Abbr": "hp cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25168"
+        },
+        {
+            "MaPhuongXa": "24210",
+            "TenPhuongXa": "Đồng Đăng",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong dang cao loc lang son",
+            "Point": null,
+            "Abbr": "dd cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25164"
+        },
+        {
+            "MaPhuongXa": "24212",
+            "TenPhuongXa": "Thụy Hùng",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy hung cao loc lang son",
+            "Point": null,
+            "Abbr": "th cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25166"
+        },
+        {
+            "MaPhuongXa": "24219",
+            "TenPhuongXa": "Bình Trung",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh trung cao loc lang son",
+            "Point": null,
+            "Abbr": "bt cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25169"
+        },
+        {
+            "MaPhuongXa": "24218",
+            "TenPhuongXa": "Song Giáp",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "sg",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song giap cao loc lang son",
+            "Point": null,
+            "Abbr": "sg cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25170"
+        },
+        {
+            "MaPhuongXa": "24180",
+            "TenPhuongXa": "Cao Lộc",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao loc cao loc lang son",
+            "Point": null,
+            "Abbr": "cl cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25156"
+        },
+        {
+            "MaPhuongXa": "24188",
+            "TenPhuongXa": "Hợp Thành",
+            "MaQuanHuyen": "2418",
+            "TenQuanHuyen": "Cao Lộc",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop thanh cao loc lang son",
+            "Point": null,
+            "Abbr": "ht cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25157"
+        }
+    ],
+    "2431": [
+        {
+            "MaPhuongXa": "24324",
+            "TenPhuongXa": "Đội Cấn",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "doi can trang dinh lang son",
+            "Point": null,
+            "Abbr": "dc td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25308"
+        },
+        {
+            "MaPhuongXa": "24326",
+            "TenPhuongXa": "Quốc Khánh",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "qk",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quoc khanh trang dinh lang son",
+            "Point": null,
+            "Abbr": "qk td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25309"
+        },
+        {
+            "MaPhuongXa": "24322",
+            "TenPhuongXa": "Tân Minh",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan minh trang dinh lang son",
+            "Point": null,
+            "Abbr": "tm td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25328"
+        },
+        {
+            "MaPhuongXa": "24344",
+            "TenPhuongXa": "Đoàn Kết",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "doan ket trang dinh lang son",
+            "Point": null,
+            "Abbr": "dk td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25314"
+        },
+        {
+            "MaPhuongXa": "24346",
+            "TenPhuongXa": "Cao Minh",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao minh trang dinh lang son",
+            "Point": null,
+            "Abbr": "cm td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25315"
+        },
+        {
+            "MaPhuongXa": "24340",
+            "TenPhuongXa": "Vĩnh Tiến",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh tien trang dinh lang son",
+            "Point": null,
+            "Abbr": "vt td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25312"
+        },
+        {
+            "MaPhuongXa": "24342",
+            "TenPhuongXa": "Khánh Long",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "kl",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh long trang dinh lang son",
+            "Point": null,
+            "Abbr": "kl td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25313"
+        },
+        {
+            "MaPhuongXa": "24348",
+            "TenPhuongXa": "Tân Tiến",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tien trang dinh lang son",
+            "Point": null,
+            "Abbr": "tt td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25317"
+        },
+        {
+            "MaPhuongXa": "24354",
+            "TenPhuongXa": "Bắc Ái",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ba",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac ai trang dinh lang son",
+            "Point": null,
+            "Abbr": "ba td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25321"
+        },
+        {
+            "MaPhuongXa": "24356",
+            "TenPhuongXa": "Tân Yên",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ty",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan yen trang dinh lang son",
+            "Point": null,
+            "Abbr": "ty td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25316"
+        },
+        {
+            "MaPhuongXa": "24351",
+            "TenPhuongXa": "Kim Đồng",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "kd",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim dong trang dinh lang son",
+            "Point": null,
+            "Abbr": "kd td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25318"
+        },
+        {
+            "MaPhuongXa": "24358",
+            "TenPhuongXa": "Đề Thám",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "de tham trang dinh lang son",
+            "Point": null,
+            "Abbr": "dt td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25320"
+        },
+        {
+            "MaPhuongXa": "24315",
+            "TenPhuongXa": "Trung Thành",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung thanh trang dinh lang son",
+            "Point": null,
+            "Abbr": "tt td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25327"
+        },
+        {
+            "MaPhuongXa": "24310",
+            "TenPhuongXa": "Thất Khê",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tk",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "that khe trang dinh lang son",
+            "Point": null,
+            "Abbr": "tk td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25306"
+        },
+        {
+            "MaPhuongXa": "24311",
+            "TenPhuongXa": "Đại Đồng",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai dong trang dinh lang son",
+            "Point": null,
+            "Abbr": "dd td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25307"
+        },
+        {
+            "MaPhuongXa": "24318",
+            "TenPhuongXa": "Đào Viên",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dv",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dao vien trang dinh lang son",
+            "Point": null,
+            "Abbr": "dv td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25326"
+        },
+        {
+            "MaPhuongXa": "24335",
+            "TenPhuongXa": "Chi Lăng",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi lang trang dinh lang son",
+            "Point": null,
+            "Abbr": "cl td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25319"
+        },
+        {
+            "MaPhuongXa": "24331",
+            "TenPhuongXa": "Tri Phương",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tri phuong trang dinh lang son",
+            "Point": null,
+            "Abbr": "tp td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25310"
+        },
+        {
+            "MaPhuongXa": "24338",
+            "TenPhuongXa": "Chí Minh",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi minh trang dinh lang son",
+            "Point": null,
+            "Abbr": "cm td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25311"
+        },
+        {
+            "MaPhuongXa": "24364",
+            "TenPhuongXa": "Hùng Việt",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung viet trang dinh lang son",
+            "Point": null,
+            "Abbr": "hv td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25324"
+        },
+        {
+            "MaPhuongXa": "24366",
+            "TenPhuongXa": "Kháng Chiến",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "kc",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khang chien trang dinh lang son",
+            "Point": null,
+            "Abbr": "kc td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25323"
+        },
+        {
+            "MaPhuongXa": "24361",
+            "TenPhuongXa": "Hùng Sơn",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung son trang dinh lang son",
+            "Point": null,
+            "Abbr": "hs td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25322"
+        },
+        {
+            "MaPhuongXa": "24369",
+            "TenPhuongXa": "Quốc Việt",
+            "MaQuanHuyen": "2431",
+            "TenQuanHuyen": "Tràng Định",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "qv",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quoc viet trang dinh lang son",
+            "Point": null,
+            "Abbr": "qv td ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25325"
+        }
+    ],
+    "2410": [
+        {
+            "MaPhuongXa": "24126",
+            "TenPhuongXa": "Mai Pha",
+            "MaQuanHuyen": "2410",
+            "TenQuanHuyen": "Lạng Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "mp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mai pha lang son lang son",
+            "Point": null,
+            "Abbr": "mp ls ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25113"
+        },
+        {
+            "MaPhuongXa": "24129",
+            "TenPhuongXa": "Vĩnh Trại",
+            "MaQuanHuyen": "2410",
+            "TenQuanHuyen": "Lạng Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh trai lang son lang son",
+            "Point": null,
+            "Abbr": "vt ls ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25106"
+        },
+        {
+            "MaPhuongXa": "24143",
+            "TenPhuongXa": "Tam Thanh",
+            "MaQuanHuyen": "2410",
+            "TenQuanHuyen": "Lạng Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam thanh lang son lang son",
+            "Point": null,
+            "Abbr": "tt ls ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25110"
+        },
+        {
+            "MaPhuongXa": "24100",
+            "TenPhuongXa": "Chi Lăng",
+            "MaQuanHuyen": "2410",
+            "TenQuanHuyen": "Lạng Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi lang lang son lang son",
+            "Point": null,
+            "Abbr": "cl ls ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25111"
+        },
+        {
+            "MaPhuongXa": "24155",
+            "TenPhuongXa": "Quảng Lạc",
+            "MaQuanHuyen": "2410",
+            "TenQuanHuyen": "Lạng Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ql",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang lac lang son lang son",
+            "Point": null,
+            "Abbr": "ql ls ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25112"
+        },
+        {
+            "MaPhuongXa": "24152",
+            "TenPhuongXa": "Hoàng Đồng",
+            "MaQuanHuyen": "2410",
+            "TenQuanHuyen": "Lạng Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang dong lang son lang son",
+            "Point": null,
+            "Abbr": "hd ls ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25109"
+        },
+        {
+            "MaPhuongXa": "24111",
+            "TenPhuongXa": "Đông Kinh",
+            "MaQuanHuyen": "2410",
+            "TenQuanHuyen": "Lạng Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong kinh lang son lang son",
+            "Point": null,
+            "Abbr": "dk ls ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25107"
+        },
+        {
+            "MaPhuongXa": "24135",
+            "TenPhuongXa": "Hoàng Văn Thụ",
+            "MaQuanHuyen": "2410",
+            "TenQuanHuyen": "Lạng Sơn",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hvt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang van thu lang son lang son",
+            "Point": null,
+            "Abbr": "hvt ls ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25108"
+        }
+    ],
+    "2475": [
+        {
+            "MaPhuongXa": "24771",
+            "TenPhuongXa": "Đồng Thắng",
+            "MaQuanHuyen": "2475",
+            "TenQuanHuyen": "Đình Lập",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong thang dinh lap lang son",
+            "Point": null,
+            "Abbr": "dt dl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25915"
+        },
+        {
+            "MaPhuongXa": "24772",
+            "TenPhuongXa": "Châu Sơn",
+            "MaQuanHuyen": "2475",
+            "TenQuanHuyen": "Đình Lập",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau son dinh lap lang son",
+            "Point": null,
+            "Abbr": "cs dl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25917"
+        },
+        {
+            "MaPhuongXa": "24774",
+            "TenPhuongXa": "Bắc Lãng",
+            "MaQuanHuyen": "2475",
+            "TenQuanHuyen": "Đình Lập",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac lang dinh lap lang son",
+            "Point": null,
+            "Abbr": "bl dl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25916"
+        },
+        {
+            "MaPhuongXa": "24750",
+            "TenPhuongXa": "Đình Lập",
+            "MaQuanHuyen": "2475",
+            "TenQuanHuyen": "Đình Lập",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh lap dinh lap lang son",
+            "Point": null,
+            "Abbr": "dl dl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25906"
+        },
+        {
+            "MaPhuongXa": "24752",
+            "TenPhuongXa": "Kiên Mộc",
+            "MaQuanHuyen": "2475",
+            "TenQuanHuyen": "Đình Lập",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "km",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kien moc dinh lap lang son",
+            "Point": null,
+            "Abbr": "km dl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25907"
+        },
+        {
+            "MaPhuongXa": "24755",
+            "TenPhuongXa": "Bắc Xa",
+            "MaQuanHuyen": "2475",
+            "TenQuanHuyen": "Đình Lập",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bx",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac xa dinh lap lang son",
+            "Point": null,
+            "Abbr": "bx dl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25908"
+        },
+        {
+            "MaPhuongXa": "24757",
+            "TenPhuongXa": "Bính Xá",
+            "MaQuanHuyen": "2475",
+            "TenQuanHuyen": "Đình Lập",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bx",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh xa dinh lap lang son",
+            "Point": null,
+            "Abbr": "bx dl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25909"
+        },
+        {
+            "MaPhuongXa": "24760",
+            "TenPhuongXa": "Đình Lập",
+            "MaQuanHuyen": "2475",
+            "TenQuanHuyen": "Đình Lập",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh lap dinh lap lang son",
+            "Point": null,
+            "Abbr": "dl dl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25910"
+        },
+        {
+            "MaPhuongXa": "24763",
+            "TenPhuongXa": "Thái Bình",
+            "MaQuanHuyen": "2475",
+            "TenQuanHuyen": "Đình Lập",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai binh dinh lap lang son",
+            "Point": null,
+            "Abbr": "tb dl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25911"
+        },
+        {
+            "MaPhuongXa": "24765",
+            "TenPhuongXa": "Nông Trường Thái Bình",
+            "MaQuanHuyen": "2475",
+            "TenQuanHuyen": "Đình Lập",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "nttb",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nong truong thai binh dinh lap lang son",
+            "Point": null,
+            "Abbr": "nttb dl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25912"
+        },
+        {
+            "MaPhuongXa": "24766",
+            "TenPhuongXa": "Cường Lợi",
+            "MaQuanHuyen": "2475",
+            "TenQuanHuyen": "Đình Lập",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cuong loi dinh lap lang son",
+            "Point": null,
+            "Abbr": "cl dl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25913"
+        },
+        {
+            "MaPhuongXa": "24767",
+            "TenPhuongXa": "Lâm Ca",
+            "MaQuanHuyen": "2475",
+            "TenQuanHuyen": "Đình Lập",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lam ca dinh lap lang son",
+            "Point": null,
+            "Abbr": "lc dl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25914"
+        }
+    ],
+    "2445": [
+        {
+            "MaPhuongXa": "24473",
+            "TenPhuongXa": "Yên Lỗ",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "yl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen lo binh gia lang son",
+            "Point": null,
+            "Abbr": "yl bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25414"
+        },
+        {
+            "MaPhuongXa": "24470",
+            "TenPhuongXa": "Thiện Thuật",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thien thuat binh gia lang son",
+            "Point": null,
+            "Abbr": "tt bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25416"
+        },
+        {
+            "MaPhuongXa": "24477",
+            "TenPhuongXa": "Hưng Đạo",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung dao binh gia lang son",
+            "Point": null,
+            "Abbr": "hd bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25411"
+        },
+        {
+            "MaPhuongXa": "24476",
+            "TenPhuongXa": "Vĩnh Yên",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vy",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh yen binh gia lang son",
+            "Point": null,
+            "Abbr": "vy bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25412"
+        },
+        {
+            "MaPhuongXa": "24475",
+            "TenPhuongXa": "Quý Hoà",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "qh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quy hoa binh gia lang son",
+            "Point": null,
+            "Abbr": "qh bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25413"
+        },
+        {
+            "MaPhuongXa": "24478",
+            "TenPhuongXa": "Thiện Hoà",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thien hoa binh gia lang son",
+            "Point": null,
+            "Abbr": "th bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25417"
+        },
+        {
+            "MaPhuongXa": "24452",
+            "TenPhuongXa": "Tô Hiệu",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "to hieu binh gia lang son",
+            "Point": null,
+            "Abbr": "th bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25407"
+        },
+        {
+            "MaPhuongXa": "24450",
+            "TenPhuongXa": "Bình Gia",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bg",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh gia binh gia lang son",
+            "Point": null,
+            "Abbr": "bg bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25406"
+        },
+        {
+            "MaPhuongXa": "24457",
+            "TenPhuongXa": "Hồng Thái",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong thai binh gia lang son",
+            "Point": null,
+            "Abbr": "ht bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25424"
+        },
+        {
+            "MaPhuongXa": "24455",
+            "TenPhuongXa": "Tân Văn",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan van binh gia lang son",
+            "Point": null,
+            "Abbr": "tv bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25423"
+        },
+        {
+            "MaPhuongXa": "24459",
+            "TenPhuongXa": "Bình La",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh la binh gia lang son",
+            "Point": null,
+            "Abbr": "bl bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25425"
+        },
+        {
+            "MaPhuongXa": "24462",
+            "TenPhuongXa": "Minh Khai",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "mk",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh khai binh gia lang son",
+            "Point": null,
+            "Abbr": "mk bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25408"
+        },
+        {
+            "MaPhuongXa": "24460",
+            "TenPhuongXa": "Hoàng Văn Thụ",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hvt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang van thu binh gia lang son",
+            "Point": null,
+            "Abbr": "hvt bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25422"
+        },
+        {
+            "MaPhuongXa": "24466",
+            "TenPhuongXa": "Quang Trung",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang trung binh gia lang son",
+            "Point": null,
+            "Abbr": "qt bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25415"
+        },
+        {
+            "MaPhuongXa": "24464",
+            "TenPhuongXa": "Hồng Phong",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong phong binh gia lang son",
+            "Point": null,
+            "Abbr": "hp bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25409"
+        },
+        {
+            "MaPhuongXa": "24468",
+            "TenPhuongXa": "Hoa Thám",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa tham binh gia lang son",
+            "Point": null,
+            "Abbr": "ht bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25410"
+        },
+        {
+            "MaPhuongXa": "24483",
+            "TenPhuongXa": "Thiện Long",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thien long binh gia lang son",
+            "Point": null,
+            "Abbr": "tl bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25418"
+        },
+        {
+            "MaPhuongXa": "24482",
+            "TenPhuongXa": "Hoà Bình",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh binh gia lang son",
+            "Point": null,
+            "Abbr": "hb bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25420"
+        },
+        {
+            "MaPhuongXa": "24480",
+            "TenPhuongXa": "Mông Ân",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ma",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mong an binh gia lang son",
+            "Point": null,
+            "Abbr": "ma bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25421"
+        },
+        {
+            "MaPhuongXa": "24485",
+            "TenPhuongXa": "Tân Hoà",
+            "MaQuanHuyen": "2445",
+            "TenQuanHuyen": "Bình Gia",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bg",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoa binh gia lang son",
+            "Point": null,
+            "Abbr": "th bg ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25419"
+        }
+    ],
+    "2456": [
+        {
+            "MaPhuongXa": "24572",
+            "TenPhuongXa": "Vân An",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "va",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van an chi lang lang son",
+            "Point": null,
+            "Abbr": "va cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25726"
+        },
+        {
+            "MaPhuongXa": "24570",
+            "TenPhuongXa": "Chiến Thắng",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chien thang chi lang lang son",
+            "Point": null,
+            "Abbr": "ct cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25725"
+        },
+        {
+            "MaPhuongXa": "24576",
+            "TenPhuongXa": "Mai Sao",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ms",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mai sao chi lang lang son",
+            "Point": null,
+            "Abbr": "ms cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25707"
+        },
+        {
+            "MaPhuongXa": "24574",
+            "TenPhuongXa": "Thượng Cường",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong cuong chi lang lang son",
+            "Point": null,
+            "Abbr": "tc cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25708"
+        },
+        {
+            "MaPhuongXa": "24578",
+            "TenPhuongXa": "Gia Lộc",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "gl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia loc chi lang lang son",
+            "Point": null,
+            "Abbr": "gl cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25709"
+        },
+        {
+            "MaPhuongXa": "24592",
+            "TenPhuongXa": "Chi Lăng",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi lang chi lang lang son",
+            "Point": null,
+            "Abbr": "cl cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25714"
+        },
+        {
+            "MaPhuongXa": "24590",
+            "TenPhuongXa": "Quang Lang",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ql",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang lang chi lang lang son",
+            "Point": null,
+            "Abbr": "ql cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25717"
+        },
+        {
+            "MaPhuongXa": "24596",
+            "TenPhuongXa": "Quan Sơn",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "qs",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quan son chi lang lang son",
+            "Point": null,
+            "Abbr": "qs cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25718"
+        },
+        {
+            "MaPhuongXa": "24594",
+            "TenPhuongXa": "Chi Lăng",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi lang chi lang lang son",
+            "Point": null,
+            "Abbr": "cl cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25715"
+        },
+        {
+            "MaPhuongXa": "24598",
+            "TenPhuongXa": "Hữu Kiên",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hk",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu kien chi lang lang son",
+            "Point": null,
+            "Abbr": "hk cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25721"
+        },
+        {
+            "MaPhuongXa": "24560",
+            "TenPhuongXa": "Đồng Mỏ",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong mo chi lang lang son",
+            "Point": null,
+            "Abbr": "dm cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25706"
+        },
+        {
+            "MaPhuongXa": "24566",
+            "TenPhuongXa": "Nhân Lý",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhan ly chi lang lang son",
+            "Point": null,
+            "Abbr": "nl cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25719"
+        },
+        {
+            "MaPhuongXa": "24564",
+            "TenPhuongXa": "Lâm Sơn",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lam son chi lang lang son",
+            "Point": null,
+            "Abbr": "ls cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25720"
+        },
+        {
+            "MaPhuongXa": "24565",
+            "TenPhuongXa": "Liên Sơn",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien son chi lang lang son",
+            "Point": null,
+            "Abbr": "ls cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25722"
+        },
+        {
+            "MaPhuongXa": "24568",
+            "TenPhuongXa": "Bắc Thủy",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac thuy chi lang lang son",
+            "Point": null,
+            "Abbr": "bt cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25723"
+        },
+        {
+            "MaPhuongXa": "24569",
+            "TenPhuongXa": "Vân Thủy",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van thuy chi lang lang son",
+            "Point": null,
+            "Abbr": "vt cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25724"
+        },
+        {
+            "MaPhuongXa": "24582",
+            "TenPhuongXa": "Bằng Mạc",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bm",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bang mac chi lang lang son",
+            "Point": null,
+            "Abbr": "bm cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25711"
+        },
+        {
+            "MaPhuongXa": "24580",
+            "TenPhuongXa": "Hoà Bình",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh chi lang lang son",
+            "Point": null,
+            "Abbr": "hb cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25716"
+        },
+        {
+            "MaPhuongXa": "24586",
+            "TenPhuongXa": "Vạn Linh",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van linh chi lang lang son",
+            "Point": null,
+            "Abbr": "vl cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25712"
+        },
+        {
+            "MaPhuongXa": "24584",
+            "TenPhuongXa": "Bằng Hữu",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bang huu chi lang lang son",
+            "Point": null,
+            "Abbr": "bh cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25710"
+        },
+        {
+            "MaPhuongXa": "24589",
+            "TenPhuongXa": "Y Tịch",
+            "MaQuanHuyen": "2456",
+            "TenQuanHuyen": "Chi Lăng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "y tich chi lang lang son",
+            "Point": null,
+            "Abbr": "yt cl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25713"
+        }
+    ],
+    "2425": [
+        {
+            "MaPhuongXa": "24275",
+            "TenPhuongXa": "Hội Hoan",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoi hoan van lang lang son",
+            "Point": null,
+            "Abbr": "hh vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25214"
+        },
+        {
+            "MaPhuongXa": "24274",
+            "TenPhuongXa": "Tân Tác",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tac van lang lang son",
+            "Point": null,
+            "Abbr": "tt vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25217"
+        },
+        {
+            "MaPhuongXa": "24277",
+            "TenPhuongXa": "Thành Hoà",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh hoa van lang lang son",
+            "Point": null,
+            "Abbr": "th vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25219"
+        },
+        {
+            "MaPhuongXa": "24270",
+            "TenPhuongXa": "Bắc La",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac la van lang lang son",
+            "Point": null,
+            "Abbr": "bl vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25213"
+        },
+        {
+            "MaPhuongXa": "24272",
+            "TenPhuongXa": "Tân Lang",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lang van lang lang son",
+            "Point": null,
+            "Abbr": "tl vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25218"
+        },
+        {
+            "MaPhuongXa": "24279",
+            "TenPhuongXa": "Gia Miễn",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "gm",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia mien van lang lang son",
+            "Point": null,
+            "Abbr": "gm vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25216"
+        },
+        {
+            "MaPhuongXa": "24291",
+            "TenPhuongXa": "Tân Thanh",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh van lang lang son",
+            "Point": null,
+            "Abbr": "tt vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25225"
+        },
+        {
+            "MaPhuongXa": "24293",
+            "TenPhuongXa": "Tân Mỹ",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan my van lang lang son",
+            "Point": null,
+            "Abbr": "tm vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25224"
+        },
+        {
+            "MaPhuongXa": "24255",
+            "TenPhuongXa": "Bắc Hùng",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac hung van lang lang son",
+            "Point": null,
+            "Abbr": "bh vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25207"
+        },
+        {
+            "MaPhuongXa": "24257",
+            "TenPhuongXa": "Thanh Long",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh long van lang lang son",
+            "Point": null,
+            "Abbr": "tl vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25208"
+        },
+        {
+            "MaPhuongXa": "24250",
+            "TenPhuongXa": "Na Sầm",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na sam van lang lang son",
+            "Point": null,
+            "Abbr": "ns vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25206"
+        },
+        {
+            "MaPhuongXa": "24265",
+            "TenPhuongXa": "Trùng Quán",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tq",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung quan van lang lang son",
+            "Point": null,
+            "Abbr": "tq vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25212"
+        },
+        {
+            "MaPhuongXa": "24260",
+            "TenPhuongXa": "Thụy Hùng",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy hung van lang lang son",
+            "Point": null,
+            "Abbr": "th vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25209"
+        },
+        {
+            "MaPhuongXa": "24263",
+            "TenPhuongXa": "Trùng Khánh",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "tk",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung khanh van lang lang son",
+            "Point": null,
+            "Abbr": "tk vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25210"
+        },
+        {
+            "MaPhuongXa": "24268",
+            "TenPhuongXa": "Bắc Việt",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "bv",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac viet van lang lang son",
+            "Point": null,
+            "Abbr": "bv vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25211"
+        },
+        {
+            "MaPhuongXa": "24287",
+            "TenPhuongXa": "Hoàng Văn Thụ",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hvt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang van thu van lang lang son",
+            "Point": null,
+            "Abbr": "hvt vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25223"
+        },
+        {
+            "MaPhuongXa": "24286",
+            "TenPhuongXa": "Hồng Thái",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong thai van lang lang son",
+            "Point": null,
+            "Abbr": "ht vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25221"
+        },
+        {
+            "MaPhuongXa": "24281",
+            "TenPhuongXa": "Nam La",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam la van lang lang son",
+            "Point": null,
+            "Abbr": "nl vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25215"
+        },
+        {
+            "MaPhuongXa": "24282",
+            "TenPhuongXa": "Hoàng Việt",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang viet van lang lang son",
+            "Point": null,
+            "Abbr": "hv vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25220"
+        },
+        {
+            "MaPhuongXa": "24289",
+            "TenPhuongXa": "Nhạc Kỳ",
+            "MaQuanHuyen": "2425",
+            "TenQuanHuyen": "Văn Lãng",
+            "MaTinhThanh": "24",
+            "TenTinhThanh": "Lạng Sơn",
+            "LstSearchTag": [
+                {
+                    "Key": "nk",
+                    "Point": 5
+                },
+                {
+                    "Key": "vl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ls",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhac ky van lang lang son",
+            "Point": null,
+            "Abbr": "nk vl ls",
+            "TrangThai": null,
+            "MaBuuChinh": "25222"
+        }
+    ]
+}

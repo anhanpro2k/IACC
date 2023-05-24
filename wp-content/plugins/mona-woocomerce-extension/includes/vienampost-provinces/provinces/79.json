@@ -1,0 +1,2263 @@
+{
+    "7910": [
+        {
+            "MaPhuongXa": "79319",
+            "TenPhuongXa": "Long Sơn",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long son vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "ls vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78222"
+        },
+        {
+            "MaPhuongXa": "79353",
+            "TenPhuongXa": "Số 1",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "s1",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 1 vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "s1 vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78206"
+        },
+        {
+            "MaPhuongXa": "79154",
+            "TenPhuongXa": "Số 8",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "s8",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 8 vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "s8 vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78211"
+        },
+        {
+            "MaPhuongXa": "79371",
+            "TenPhuongXa": "Thắng Tam",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thang tam vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "tt vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78210"
+        },
+        {
+            "MaPhuongXa": "79373",
+            "TenPhuongXa": "Rạch Dừa",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "rd",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "rach dua vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "rd vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78219"
+        },
+        {
+            "MaPhuongXa": "79372",
+            "TenPhuongXa": "Nguyễn An Ninh",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "nan",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyen an ninh vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "nan vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78216"
+        },
+        {
+            "MaPhuongXa": "79298",
+            "TenPhuongXa": "Số 10",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "s10",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 10 vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "s10 vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78217"
+        },
+        {
+            "MaPhuongXa": "79200",
+            "TenPhuongXa": "Số 7",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "s7",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 7 vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "s7 vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78212"
+        },
+        {
+            "MaPhuongXa": "79100",
+            "TenPhuongXa": "Số 2",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "s2",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 2 vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "s2 vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78207"
+        },
+        {
+            "MaPhuongXa": "79321",
+            "TenPhuongXa": "Số 4",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "s4",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 4 vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "s4 vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78209"
+        },
+        {
+            "MaPhuongXa": "79342",
+            "TenPhuongXa": "Số 5",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "s5",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 5 vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "s5 vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78214"
+        },
+        {
+            "MaPhuongXa": "79261",
+            "TenPhuongXa": "Số 9",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "s9",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 9 vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "s9 vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78215"
+        },
+        {
+            "MaPhuongXa": "79281",
+            "TenPhuongXa": "Thắng Nhất",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thang nhat vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "tn vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78218"
+        },
+        {
+            "MaPhuongXa": "79181",
+            "TenPhuongXa": "Số 11",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "s11",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 11 vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "s11 vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78220"
+        },
+        {
+            "MaPhuongXa": "79187",
+            "TenPhuongXa": "Số 12",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "s12",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 12 vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "s12 vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78221"
+        },
+        {
+            "MaPhuongXa": "79237",
+            "TenPhuongXa": "Thắng Nhì",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thang nhi vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "tn vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78213"
+        },
+        {
+            "MaPhuongXa": "79130",
+            "TenPhuongXa": "Số 3",
+            "MaQuanHuyen": "7910",
+            "TenQuanHuyen": "Vũng Tàu",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "s3",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 3 vung tau ba ria vung tau",
+            "Point": null,
+            "Abbr": "s3 vt brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78208"
+        }
+    ],
+    "7951": [
+        {
+            "MaPhuongXa": "79610",
+            "TenPhuongXa": "Long Tâm",
+            "MaQuanHuyen": "7951",
+            "TenQuanHuyen": "Bà Rịa",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "br",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long tam ba ria ba ria vung tau",
+            "Point": null,
+            "Abbr": "lt br brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78110"
+        },
+        {
+            "MaPhuongXa": "79611",
+            "TenPhuongXa": "Tân Hưng",
+            "MaQuanHuyen": "7951",
+            "TenQuanHuyen": "Bà Rịa",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "br",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hung ba ria ba ria vung tau",
+            "Point": null,
+            "Abbr": "th br brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78113"
+        },
+        {
+            "MaPhuongXa": "79517",
+            "TenPhuongXa": "Hoà Long",
+            "MaQuanHuyen": "7951",
+            "TenQuanHuyen": "Bà Rịa",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "br",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa long ba ria ba ria vung tau",
+            "Point": null,
+            "Abbr": "hl br brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78112"
+        },
+        {
+            "MaPhuongXa": "79515",
+            "TenPhuongXa": "Phước Hưng",
+            "MaQuanHuyen": "7951",
+            "TenQuanHuyen": "Bà Rịa",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "br",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc hung ba ria ba ria vung tau",
+            "Point": null,
+            "Abbr": "ph br brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78114"
+        },
+        {
+            "MaPhuongXa": "79512",
+            "TenPhuongXa": "Long Toàn",
+            "MaQuanHuyen": "7951",
+            "TenQuanHuyen": "Bà Rịa",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "br",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long toan ba ria ba ria vung tau",
+            "Point": null,
+            "Abbr": "lt br brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78109"
+        },
+        {
+            "MaPhuongXa": "79510",
+            "TenPhuongXa": "Phước Nguyên",
+            "MaQuanHuyen": "7951",
+            "TenQuanHuyen": "Bà Rịa",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "br",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc nguyen ba ria ba ria vung tau",
+            "Point": null,
+            "Abbr": "pn br brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78108"
+        },
+        {
+            "MaPhuongXa": "79519",
+            "TenPhuongXa": "Long Hương",
+            "MaQuanHuyen": "7951",
+            "TenQuanHuyen": "Bà Rịa",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "br",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long huong ba ria ba ria vung tau",
+            "Point": null,
+            "Abbr": "lh br brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78116"
+        },
+        {
+            "MaPhuongXa": "79518",
+            "TenPhuongXa": "Long Phước",
+            "MaQuanHuyen": "7951",
+            "TenQuanHuyen": "Bà Rịa",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "br",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long phuoc ba ria ba ria vung tau",
+            "Point": null,
+            "Abbr": "lp br brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78111"
+        },
+        {
+            "MaPhuongXa": "79524",
+            "TenPhuongXa": "Phước Trung",
+            "MaQuanHuyen": "7951",
+            "TenQuanHuyen": "Bà Rịa",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "br",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc trung ba ria ba ria vung tau",
+            "Point": null,
+            "Abbr": "pt br brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78107"
+        },
+        {
+            "MaPhuongXa": "79522",
+            "TenPhuongXa": "Phước Hiệp",
+            "MaQuanHuyen": "7951",
+            "TenQuanHuyen": "Bà Rịa",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "br",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc hiep ba ria ba ria vung tau",
+            "Point": null,
+            "Abbr": "ph br brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78106"
+        },
+        {
+            "MaPhuongXa": "79521",
+            "TenPhuongXa": "Kim Dinh",
+            "MaQuanHuyen": "7951",
+            "TenQuanHuyen": "Bà Rịa",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "kd",
+                    "Point": 5
+                },
+                {
+                    "Key": "br",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim dinh ba ria ba ria vung tau",
+            "Point": null,
+            "Abbr": "kd br brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78115"
+        }
+    ],
+    "7944": [
+        {
+            "MaPhuongXa": "79451",
+            "TenPhuongXa": "Phước Tỉnh",
+            "MaQuanHuyen": "7944",
+            "TenQuanHuyen": "Long Điền",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc tinh long dien ba ria vung tau",
+            "Point": null,
+            "Abbr": "pt ld brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78411"
+        },
+        {
+            "MaPhuongXa": "79446",
+            "TenPhuongXa": "An Nhứt",
+            "MaQuanHuyen": "7944",
+            "TenQuanHuyen": "Long Điền",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "an",
+                    "Point": 5
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an nhut long dien ba ria vung tau",
+            "Point": null,
+            "Abbr": "an ld brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78407"
+        },
+        {
+            "MaPhuongXa": "79447",
+            "TenPhuongXa": "Phước Hưng",
+            "MaQuanHuyen": "7944",
+            "TenQuanHuyen": "Long Điền",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc hung long dien ba ria vung tau",
+            "Point": null,
+            "Abbr": "ph ld brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78410"
+        },
+        {
+            "MaPhuongXa": "79444",
+            "TenPhuongXa": "An Ngãi",
+            "MaQuanHuyen": "7944",
+            "TenQuanHuyen": "Long Điền",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "an",
+                    "Point": 5
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an ngai long dien ba ria vung tau",
+            "Point": null,
+            "Abbr": "an ld brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78408"
+        },
+        {
+            "MaPhuongXa": "79445",
+            "TenPhuongXa": "Tam Phước",
+            "MaQuanHuyen": "7944",
+            "TenQuanHuyen": "Long Điền",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam phuoc long dien ba ria vung tau",
+            "Point": null,
+            "Abbr": "tp ld brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78409"
+        },
+        {
+            "MaPhuongXa": "79440",
+            "TenPhuongXa": "Long Điền",
+            "MaQuanHuyen": "7944",
+            "TenQuanHuyen": "Long Điền",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long dien long dien ba ria vung tau",
+            "Point": null,
+            "Abbr": "ld ld brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78406"
+        },
+        {
+            "MaPhuongXa": "79449",
+            "TenPhuongXa": "Long Hải",
+            "MaQuanHuyen": "7944",
+            "TenQuanHuyen": "Long Điền",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long hai long dien ba ria vung tau",
+            "Point": null,
+            "Abbr": "lh ld brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78412"
+        }
+    ],
+    "7953": [
+        {
+            "MaPhuongXa": "79553",
+            "TenPhuongXa": "Bàu Chinh",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bau chinh chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "bc cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78613"
+        },
+        {
+            "MaPhuongXa": "79552",
+            "TenPhuongXa": "Cù Bị",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cu bi chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "cb cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78612"
+        },
+        {
+            "MaPhuongXa": "79551",
+            "TenPhuongXa": "Láng Lớn",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "ll",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lang lon chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "ll cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78614"
+        },
+        {
+            "MaPhuongXa": "79547",
+            "TenPhuongXa": "Quảng Thành",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang thanh chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "qt cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78609"
+        },
+        {
+            "MaPhuongXa": "79545",
+            "TenPhuongXa": "Kim Long",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "kl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim long chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "kl cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78611"
+        },
+        {
+            "MaPhuongXa": "79543",
+            "TenPhuongXa": "Đá Bạc",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da bac chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "db cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78618"
+        },
+        {
+            "MaPhuongXa": "79542",
+            "TenPhuongXa": "Nghĩa Thành",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia thanh chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "nt cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78617"
+        },
+        {
+            "MaPhuongXa": "79540",
+            "TenPhuongXa": "Suối Nghệ",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "sn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi nghe chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "sn cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78616"
+        },
+        {
+            "MaPhuongXa": "79549",
+            "TenPhuongXa": "Xà Bang",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "xb",
+                    "Point": 5
+                },
+                {
+                    "Key": "b",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xa bang chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "b cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78610"
+        },
+        {
+            "MaPhuongXa": "79536",
+            "TenPhuongXa": "Sơn Bình",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "sb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son binh chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "sb cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78620"
+        },
+        {
+            "MaPhuongXa": "79535",
+            "TenPhuongXa": "Xuân Sơn",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "xs",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan son chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "xs cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78619"
+        },
+        {
+            "MaPhuongXa": "79534",
+            "TenPhuongXa": "Bình Trung",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh trung chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "bt cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78608"
+        },
+        {
+            "MaPhuongXa": "79532",
+            "TenPhuongXa": "Bình Giã",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "bg",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh gia chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "bg cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78607"
+        },
+        {
+            "MaPhuongXa": "79530",
+            "TenPhuongXa": "Ngãi Giao",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "ng",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngai giao chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "ng cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78606"
+        },
+        {
+            "MaPhuongXa": "79539",
+            "TenPhuongXa": "Bình Ba",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "bb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh ba chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "bb cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78615"
+        },
+        {
+            "MaPhuongXa": "79538",
+            "TenPhuongXa": "Suối Rao",
+            "MaQuanHuyen": "7953",
+            "TenQuanHuyen": "Châu Đức",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "sr",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi rao chau duc ba ria vung tau",
+            "Point": null,
+            "Abbr": "sr cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78621"
+        }
+    ],
+    "7956": [
+        {
+            "MaPhuongXa": "79576",
+            "TenPhuongXa": "Tân Hải",
+            "MaQuanHuyen": "7956",
+            "TenQuanHuyen": "Phú Mỹ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "pm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hai phu my ba ria vung tau",
+            "Point": null,
+            "Abbr": "th pm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78714"
+        },
+        {
+            "MaPhuongXa": "79575",
+            "TenPhuongXa": "Tân Hòa",
+            "MaQuanHuyen": "7956",
+            "TenQuanHuyen": "Phú Mỹ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "pm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoa phu my ba ria vung tau",
+            "Point": null,
+            "Abbr": "th pm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78713"
+        },
+        {
+            "MaPhuongXa": "79574",
+            "TenPhuongXa": "Phước Hoà",
+            "MaQuanHuyen": "7956",
+            "TenQuanHuyen": "Phú Mỹ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "pm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc hoa phu my ba ria vung tau",
+            "Point": null,
+            "Abbr": "ph pm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78715"
+        },
+        {
+            "MaPhuongXa": "79572",
+            "TenPhuongXa": "Tân Phước",
+            "MaQuanHuyen": "7956",
+            "TenQuanHuyen": "Phú Mỹ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "pm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phuoc phu my ba ria vung tau",
+            "Point": null,
+            "Abbr": "tp pm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78711"
+        },
+        {
+            "MaPhuongXa": "79570",
+            "TenPhuongXa": "Châu Pha",
+            "MaQuanHuyen": "7956",
+            "TenQuanHuyen": "Phú Mỹ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "pm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau pha phu my ba ria vung tau",
+            "Point": null,
+            "Abbr": "cp pm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78712"
+        },
+        {
+            "MaPhuongXa": "79566",
+            "TenPhuongXa": "Hắc Dịch",
+            "MaQuanHuyen": "7956",
+            "TenQuanHuyen": "Phú Mỹ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "pm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hac dich phu my ba ria vung tau",
+            "Point": null,
+            "Abbr": "hd pm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78708"
+        },
+        {
+            "MaPhuongXa": "79563",
+            "TenPhuongXa": "Mỹ Xuân",
+            "MaQuanHuyen": "7956",
+            "TenQuanHuyen": "Phú Mỹ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "mx",
+                    "Point": 5
+                },
+                {
+                    "Key": "pm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my xuan phu my ba ria vung tau",
+            "Point": null,
+            "Abbr": "mx pm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78707"
+        },
+        {
+            "MaPhuongXa": "79560",
+            "TenPhuongXa": "Phú Mỹ",
+            "MaQuanHuyen": "7956",
+            "TenQuanHuyen": "Phú Mỹ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "pm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu my phu my ba ria vung tau",
+            "Point": null,
+            "Abbr": "pm pm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78706"
+        },
+        {
+            "MaPhuongXa": "79569",
+            "TenPhuongXa": "Tóc Tiên",
+            "MaQuanHuyen": "7956",
+            "TenQuanHuyen": "Phú Mỹ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "toc tien phu my ba ria vung tau",
+            "Point": null,
+            "Abbr": "tt pm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78710"
+        },
+        {
+            "MaPhuongXa": "79568",
+            "TenPhuongXa": "Sông Xoài",
+            "MaQuanHuyen": "7956",
+            "TenQuanHuyen": "Phú Mỹ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "sx",
+                    "Point": 5
+                },
+                {
+                    "Key": "pm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song xoai phu my ba ria vung tau",
+            "Point": null,
+            "Abbr": "sx pm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78709"
+        }
+    ],
+    "7948": [
+        {
+            "MaPhuongXa": "79496",
+            "TenPhuongXa": "Tân Lâm",
+            "MaQuanHuyen": "7948",
+            "TenQuanHuyen": "Xuyên Mộc",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lam xuyen moc ba ria vung tau",
+            "Point": null,
+            "Abbr": "tl xm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78513"
+        },
+        {
+            "MaPhuongXa": "79497",
+            "TenPhuongXa": "Phước Thuận",
+            "MaQuanHuyen": "7948",
+            "TenQuanHuyen": "Xuyên Mộc",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc thuan xuyen moc ba ria vung tau",
+            "Point": null,
+            "Abbr": "pt xm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78507"
+        },
+        {
+            "MaPhuongXa": "79494",
+            "TenPhuongXa": "Bàu Lâm",
+            "MaQuanHuyen": "7948",
+            "TenQuanHuyen": "Xuyên Mộc",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bau lam xuyen moc ba ria vung tau",
+            "Point": null,
+            "Abbr": "bl xm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78514"
+        },
+        {
+            "MaPhuongXa": "79493",
+            "TenPhuongXa": "Hoà Hưng",
+            "MaQuanHuyen": "7948",
+            "TenQuanHuyen": "Xuyên Mộc",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa hung xuyen moc ba ria vung tau",
+            "Point": null,
+            "Abbr": "hh xm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78515"
+        },
+        {
+            "MaPhuongXa": "79491",
+            "TenPhuongXa": "Hoà Bình",
+            "MaQuanHuyen": "7948",
+            "TenQuanHuyen": "Xuyên Mộc",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh xuyen moc ba ria vung tau",
+            "Point": null,
+            "Abbr": "hb xm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78516"
+        },
+        {
+            "MaPhuongXa": "79499",
+            "TenPhuongXa": "Bông Trang",
+            "MaQuanHuyen": "7948",
+            "TenQuanHuyen": "Xuyên Mộc",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bong trang xuyen moc ba ria vung tau",
+            "Point": null,
+            "Abbr": "bt xm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78508"
+        },
+        {
+            "MaPhuongXa": "79501",
+            "TenPhuongXa": "Bình Châu",
+            "MaQuanHuyen": "7948",
+            "TenQuanHuyen": "Xuyên Mộc",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh chau xuyen moc ba ria vung tau",
+            "Point": null,
+            "Abbr": "bc xm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78510"
+        },
+        {
+            "MaPhuongXa": "79500",
+            "TenPhuongXa": "Bưng Riềng",
+            "MaQuanHuyen": "7948",
+            "TenQuanHuyen": "Xuyên Mộc",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "br",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bung rieng xuyen moc ba ria vung tau",
+            "Point": null,
+            "Abbr": "br xm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78509"
+        },
+        {
+            "MaPhuongXa": "79487",
+            "TenPhuongXa": "Hoà Hiệp",
+            "MaQuanHuyen": "7948",
+            "TenQuanHuyen": "Xuyên Mộc",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa hiep xuyen moc ba ria vung tau",
+            "Point": null,
+            "Abbr": "hh xm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78512"
+        },
+        {
+            "MaPhuongXa": "79485",
+            "TenPhuongXa": "Hoà Hội",
+            "MaQuanHuyen": "7948",
+            "TenQuanHuyen": "Xuyên Mộc",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa hoi xuyen moc ba ria vung tau",
+            "Point": null,
+            "Abbr": "hh xm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78511"
+        },
+        {
+            "MaPhuongXa": "79483",
+            "TenPhuongXa": "Xuyên Mộc",
+            "MaQuanHuyen": "7948",
+            "TenQuanHuyen": "Xuyên Mộc",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "xm",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuyen moc xuyen moc ba ria vung tau",
+            "Point": null,
+            "Abbr": "xm xm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78518"
+        },
+        {
+            "MaPhuongXa": "79480",
+            "TenPhuongXa": "Phước Bửu",
+            "MaQuanHuyen": "7948",
+            "TenQuanHuyen": "Xuyên Mộc",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "pb",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc buu xuyen moc ba ria vung tau",
+            "Point": null,
+            "Abbr": "pb xm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78506"
+        },
+        {
+            "MaPhuongXa": "79489",
+            "TenPhuongXa": "Phước Tân",
+            "MaQuanHuyen": "7948",
+            "TenQuanHuyen": "Xuyên Mộc",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc tan xuyen moc ba ria vung tau",
+            "Point": null,
+            "Abbr": "pt xm brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78517"
+        }
+    ],
+    "7946": [
+        {
+            "MaPhuongXa": "79467",
+            "TenPhuongXa": "Lộc An",
+            "MaQuanHuyen": "7946",
+            "TenQuanHuyen": "Đất Đỏ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "la",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc an dat do ba ria vung tau",
+            "Point": null,
+            "Abbr": "la dd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78310"
+        },
+        {
+            "MaPhuongXa": "79464",
+            "TenPhuongXa": "Long Mỹ",
+            "MaQuanHuyen": "7946",
+            "TenQuanHuyen": "Đất Đỏ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "lm",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long my dat do ba ria vung tau",
+            "Point": null,
+            "Abbr": "lm dd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78312"
+        },
+        {
+            "MaPhuongXa": "79465",
+            "TenPhuongXa": "Phước Hải",
+            "MaQuanHuyen": "7946",
+            "TenQuanHuyen": "Đất Đỏ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc hai dat do ba ria vung tau",
+            "Point": null,
+            "Abbr": "ph dd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78313"
+        },
+        {
+            "MaPhuongXa": "79463",
+            "TenPhuongXa": "Phước Hội",
+            "MaQuanHuyen": "7946",
+            "TenQuanHuyen": "Đất Đỏ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc hoi dat do ba ria vung tau",
+            "Point": null,
+            "Abbr": "ph dd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78311"
+        },
+        {
+            "MaPhuongXa": "79460",
+            "TenPhuongXa": "Đất Đỏ",
+            "MaQuanHuyen": "7946",
+            "TenQuanHuyen": "Đất Đỏ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dat do dat do ba ria vung tau",
+            "Point": null,
+            "Abbr": "dd dd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78306"
+        },
+        {
+            "MaPhuongXa": "79461",
+            "TenPhuongXa": "Phước Long Thọ",
+            "MaQuanHuyen": "7946",
+            "TenQuanHuyen": "Đất Đỏ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "plt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc long tho dat do ba ria vung tau",
+            "Point": null,
+            "Abbr": "plt dd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78307"
+        },
+        {
+            "MaPhuongXa": "79468",
+            "TenPhuongXa": "Láng Dài",
+            "MaQuanHuyen": "7946",
+            "TenQuanHuyen": "Đất Đỏ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lang dai dat do ba ria vung tau",
+            "Point": null,
+            "Abbr": "ld dd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78309"
+        },
+        {
+            "MaPhuongXa": "79469",
+            "TenPhuongXa": "Long Tân",
+            "MaQuanHuyen": "7946",
+            "TenQuanHuyen": "Đất Đỏ",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long tan dat do ba ria vung tau",
+            "Point": null,
+            "Abbr": "lt dd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": "78308"
+        }
+    ],
+    "7943": [
+        {
+            "MaPhuongXa": "79430",
+            "TenPhuongXa": "Côn Sơn",
+            "MaQuanHuyen": "7943",
+            "TenQuanHuyen": "Côn Đảo",
+            "MaTinhThanh": "79",
+            "TenTinhThanh": "Bà Rịa Vũng Tàu",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "brvt",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "con son con dao ba ria vung tau",
+            "Point": null,
+            "Abbr": "cs cd brvt",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        }
+    ]
+}

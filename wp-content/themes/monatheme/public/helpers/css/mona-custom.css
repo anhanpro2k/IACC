@@ -1,0 +1,327 @@
+/*** Import *****/
+
+@import url('404.css');
+@import url('loading-btn.css');
+@import url('loading-group.css');
+@import url('alert.css');
+
+/*** End ****/
+
+/* hidden text */
+.hidden-text {
+    position: fixed;
+    left: 0;
+    top: 0;
+    transform: translateX(-100%);
+}
+
+/* header - sidebar mobile */
+.header-addr.mb .tit {
+    padding: 0.5rem 0 0;
+    align-items: flex-start;
+}
+
+.header-addr.mb .icon {
+    height: auto;
+    margin-top: 0.3rem;
+}
+
+/* style chung cho contact form */
+.wpcf7-form {
+    position: relative;
+}
+
+.wpcf7-spinner {
+    position: absolute;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%);
+    margin: 0;
+}
+
+.wpcf7-form-control-wrap {
+    display: block;
+}
+
+.wpcf7-not-valid-tip {
+    color: red;
+    position: absolute;
+    right: 0;
+    font-size: 1rem;
+}
+
+.wpcf7 form .wpcf7-response-output {
+    position: absolute;
+    bottom: 0;
+    transform: translateY(100%);
+    margin: 0;
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding: 1.3rem 0;
+    text-align: left;
+    border: none;
+}
+
+.wpcf7 form.invalid .wpcf7-response-output {
+    color: red;
+}
+
+.wpcf7 form.sent .wpcf7-response-output {
+    color: #46b450;
+}
+
+.wpcf7 .btn .btn-inner input {
+    cursor: pointer;
+}
+
+.btn input[type="submit"] {
+    color: inherit;
+    font-size: inherit;
+    padding: 0;
+}
+
+/* form liên hệ */
+.form-lien-he .form-input,
+.form-lien-he .form-text {
+    display: block;
+    width: 100%;
+}
+
+.form-lien-he .wpcf7 form .wpcf7-response-output {
+    width: calc(100% - 11rem);
+    transform: initial;
+    right: 0;
+    padding: 0;
+}
+
+@media only screen and (max-width: 400px) {
+    .form-lien-he .wpcf7 form .wpcf7-response-output {
+        width: calc(100% - 10rem);
+        font-size: 1.1rem;
+    }
+}
+
+/* trang chi tiết tin tức */
+.post-content {
+    color: #2E3237;
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5 {
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+@media only screen and (min-width: 801px) {
+    .post-content h1,
+    .post-content h2,
+    .post-content h3,
+    .post-content h4,
+    .post-content h5 {
+        font-size: 2rem;
+    }
+}
+
+.post-content p {
+    margin-bottom: 2rem;
+}
+
+.post-content figure {
+    margin-bottom: 3rem;
+}
+
+.post-content img {
+    border-radius: 1.2rem;
+}
+
+.post-content blockquote {
+    margin: 3.6rem 0;
+    padding-left: 1.7rem;
+    border-left: 1rem solid #E40000;
+    font-style: italic;
+}
+
+.post-content .wp-block-columns {
+    margin: 3.6rem 0;
+}
+
+.post-content .wp-block-columns figure {
+    margin: 0;
+}
+
+.khuyenmai-ct .post-content .content-share {
+    max-width: initial;
+    margin-top: 3rem;
+    border-top: 0.03rem solid rgba(88, 88, 88, 0.77);
+}
+
+.post-content .content-share .content {
+    max-width: 13.2rem;
+}
+
+/* pagination tin tức */
+.page-numbers .page-numbers.next, .page-numbers .page-numbers.prev {
+    display: none;
+}
+
+/* search form */
+.km-right .km-right-search button.btn-search {
+    font-size: inherit;
+}
+
+/* search page */
+.search-result .search-title {
+    margin-bottom: 4rem;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.search-result .search-title span {
+    color: #e40000;
+}
+
+/* Footer */
+.footer .img-bct:not(:last-child) {
+    margin-bottom: 0.5rem;
+}
+
+.header-cart {
+    display: flex;
+}
+
+.empty-mess .empty-img {
+    width: 6.4rem;
+}
+
+.empty-mess {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.empty-mess .title-large {
+    font-family: "UtmSeagull";
+    font-size: 24px;
+    color: #FCD02F;
+    margin-bottom: 10px;
+}
+
+.empty-mess .title-large {
+    color: #E40000;
+}
+
+.empty-mess .title-large span {
+    color: #E40000;
+}
+
+.breadcrumbs.other {
+    padding-top: 0.8rem;
+}
+
+.detail-product-con.mona-content ul li {
+    margin-left: 2rem;
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color: #2E3237;
+    margin-bottom: 1rem;
+    max-width: 99rem;
+}
+
+
+.detail-product-con.mona-content {
+    color: #2E3237;
+}
+
+.detail-product-con.mona-content ul {
+    list-style: disc;
+}
+
+.detail-product-con.mona-content ul, .detail-product-con.mona-content ol {
+    padding-left: unset;
+    margin-bottom: unset;
+}
+
+.hidden {
+    display: none;
+}
+
+.woocommerce-shipping-totals.shipping {
+    display: none;
+}
+
+.billdlvr-bill-item {
+    display: block;
+}
+
+.woocommerce-privacy-policy-text {
+    display: none;
+}
+
+#add_payment_method #payment div.form-row, .woocommerce-cart #payment div.form-row, .woocommerce-checkout #payment div.form-row {
+    padding: unset;
+}
+
+#customer_details .col-2 {
+    display: none;
+}
+
+#customer_details .col-1 {
+    width: 100%;
+}
+
+.payment_box.payment_method_bacs, .payment_box.payment_method_cod {
+    display: none !important;
+}
+
+.btn-box.d-wrap .center-button {
+    margin: 0 auto;
+}
+
+.woocommerce-notices-wrapper .woocommerce-error {
+    display: none;
+}
+
+/*.detail-product-con.mona-content table {*/
+/*    border-color: transparent !important;*/
+/*    background-color: transparent !important;*/
+/*}*/
+
+
+/*.detail-product-con.mona-content table td {*/
+/*    */
+/*}*/
+
+.price-text {
+    font-size: 1.8rem;
+}
+
+.prodt-note .prodt-textarea {
+    padding: 15px;
+}
+
+.box-list-image .note-product {
+    padding: 1.3rem 2.7rem;
+}
+
+.woocommerce-checkout-review-order {
+    overflow: hidden;
+}
+
+
+.mona-attributes-cart {
+    margin: 1rem 0;
+    font-size: 12px;
+}
+
+.mona-attributes-cart .mona-attribute-cart {
+    display: flex;
+    gap: 1rem;
+}
+
+.mona-attributes-cart .mona-attribute-cart-label {
+    color: #0050b3 !important;
+    font-weight: bold;
+}

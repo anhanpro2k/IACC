@@ -1,0 +1,59 @@
+.star {
+    @include flex;
+    align-content: start;
+    align-items: center;
+    &-list {
+        margin-left: -0.8rem;
+        position: relative;
+        height: 2rem;
+    }
+    &-flex {
+        @include flex;
+        .icon {
+            width: 1.8rem;
+            height: 1.8rem;
+            &:not(:first-child) {
+                margin-left: 0.4rem;
+            }
+        }
+    }
+    &-filter {
+        overflow: hidden;
+        position: absolute;
+        @include posi-vertical;
+        left: 0;
+        height: 100%;
+        width: 0;
+    }
+
+    .num {
+        margin-left: 1rem;
+        margin-top: -0.2rem;
+    }
+}
+
+
+.rating {
+    .star {
+        &-list {
+            margin: 0 -0.5rem;
+        }
+
+        color: #FDD836;
+        padding: 0 0.5rem;
+        @include fz-20;
+
+    }
+
+    &-item {
+        width: 2.4rem;
+        flex-shrink: 0;
+        &:not(:last-child) {
+            margin-right: 0.6rem;
+        }
+
+        @include max(400px)  {
+            width: 1.6rem;
+        }
+    }
+}

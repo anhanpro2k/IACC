@@ -1,0 +1,164 @@
+.pro {
+  &-item {
+    margin-bottom: 3.2rem;
+
+    @include max(800px) {
+      margin-bottom: 1.2rem;
+    }
+
+    @include max(600px) {
+      padding-left: 0.3rem;
+      padding-right: 0.3rem;
+    }
+
+    @include max(340px) {
+      width: 100%;
+    }
+
+    &-wrap {
+      position: relative;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+    }
+
+    &-img {
+      position: relative;
+      overflow: hidden;
+      background: linear-gradient(180deg, #EADEEC 0%, #ADC4ED 100%);
+      border-radius: 0.8rem;
+
+      .img-inner {
+        @include imgPd(1, 1);
+        border-radius: 0.8rem;
+      }
+
+      img {
+        @include imgContain;
+        transition: all 0.4s ease-in-out;
+      }
+    }
+
+    &-name {
+      display: block;
+      margin-bottom: 0.6rem;
+      @include lc(2);
+
+      @include max(600px) {
+        font-size: 1.4rem;
+      }
+    }
+
+    &-price {
+      text-align: center;
+      @include fz-18;
+      line-height: 1.3;
+      text-align: center;
+      color: $color-third;
+      margin-top: auto;
+    }
+
+    &-content {
+      position: relative;
+      padding: 0.8rem 0;
+      font-weight: 500;
+      @include fz-18;
+      line-height: 1.3;
+      text-align: center;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    &-add {
+      position: absolute !important;
+      bottom: 0;
+      right: 0;
+      left: 0;
+      background: $color-third;
+      color: white;
+      @include mid-flex;
+      height: 4.8rem;
+      font-size: 1.4rem;
+      transform: translateY(100%);
+      transition: all 1s, color 0.3s 0.3s, transform 0.3s;
+
+      @include max(1201px) {
+        // position: static;
+        transform: none;
+      }
+
+      @include max(400px) {
+        height: 3.2rem;
+      }
+
+      @include hover {
+        color: white;
+        // box-shadow: 0 8rem 0 0 $color-second inset, 0 -8rem 0 0 $color-second  inset;
+        box-shadow: 300px 0 0 0 $color-second inset, -300px 0 0 0 $color-second inset;
+      }
+
+      &.loading {
+        @include min(1202px) {
+          transform: none;
+        }
+      }
+    }
+
+    @include hover {
+      .pro-item-add {
+        transform: translateY(0);
+      }
+    }
+
+    .pro-tag-list {
+      position: absolute;
+      top: 1.2rem;
+      left: 0;
+      padding: 0 1.2rem;
+      right: 1.2rem;
+      z-index: 10;
+      width: 100%;
+      @include flex;
+      flex-wrap: wrap;
+    }
+
+    .pro-tag {
+      margin-bottom: 0.4rem;
+
+      &:not(:last-child) {
+        margin-right: 0.8rem;
+      }
+    }
+
+  }
+
+  &-box {
+    .call-icon {
+      margin-left: 0.4rem;
+    }
+  }
+
+  &-tag {
+    background: $color-second;
+    border-radius: 12rem;
+    height: 2.8rem;
+    padding: 0 1.2rem;
+    @include mid-flex;
+    width: fit-content;
+    color: white;
+    font-size: 1.4rem;
+    line-height: 1.4;
+
+    @include max(600px) {
+      font-size: 1.2rem;
+      height: 2rem;
+      padding: 0 0.8rem;
+    }
+
+    &.new {
+      background: $color-third;
+    }
+  }
+
+}

@@ -1,0 +1,26 @@
+.dnor {
+    @include flex-st;
+    margin: 0 -15px;
+    flex-wrap: wrap;
+    &-item {
+        padding: 0 15px;
+    }
+}
+
+.dmini {
+    @include flex-st;
+    flex-wrap: wrap;
+    margin: 0 -5px;
+    &-item {
+        padding: 0 5px;
+    }
+}
+
+.dsmall {
+    @include flex-st;
+    flex-wrap: wrap;
+    margin: 0 -1.2rem;
+    &-item {
+        padding: 0 1.2rem;
+    }
+}

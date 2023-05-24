@@ -1,0 +1,3320 @@
+{
+    "2643": [
+        {
+            "MaPhuongXa": "26433",
+            "TenPhuongXa": "Nghiên Loan",
+            "MaQuanHuyen": "2643",
+            "TenQuanHuyen": "Pác Nặm",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "pn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghien loan pac nam bac kan",
+            "Point": null,
+            "Abbr": "nl pn bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23413"
+        },
+        {
+            "MaPhuongXa": "26430",
+            "TenPhuongXa": "Bộc Bố",
+            "MaQuanHuyen": "2643",
+            "TenQuanHuyen": "Pác Nặm",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "bb",
+                    "Point": 5
+                },
+                {
+                    "Key": "pn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "boc bo pac nam bac kan",
+            "Point": null,
+            "Abbr": "bb pn bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23406"
+        },
+        {
+            "MaPhuongXa": "26437",
+            "TenPhuongXa": "Cổ Linh",
+            "MaQuanHuyen": "2643",
+            "TenQuanHuyen": "Pác Nặm",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "pn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "co linh pac nam bac kan",
+            "Point": null,
+            "Abbr": "cl pn bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23411"
+        },
+        {
+            "MaPhuongXa": "26435",
+            "TenPhuongXa": "Cao Tân",
+            "MaQuanHuyen": "2643",
+            "TenQuanHuyen": "Pác Nặm",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "pn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao tan pac nam bac kan",
+            "Point": null,
+            "Abbr": "ct pn bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23412"
+        },
+        {
+            "MaPhuongXa": "26439",
+            "TenPhuongXa": "An Thắng",
+            "MaQuanHuyen": "2643",
+            "TenQuanHuyen": "Pác Nặm",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "pn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thang pac nam bac kan",
+            "Point": null,
+            "Abbr": "at pn bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23415"
+        },
+        {
+            "MaPhuongXa": "26443",
+            "TenPhuongXa": "Công Bằng",
+            "MaQuanHuyen": "2643",
+            "TenQuanHuyen": "Pác Nặm",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "pn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cong bang pac nam bac kan",
+            "Point": null,
+            "Abbr": "cb pn bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23410"
+        },
+        {
+            "MaPhuongXa": "26442",
+            "TenPhuongXa": "Giáo Hiệu",
+            "MaQuanHuyen": "2643",
+            "TenQuanHuyen": "Pác Nặm",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "gh",
+                    "Point": 5
+                },
+                {
+                    "Key": "pn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giao hieu pac nam bac kan",
+            "Point": null,
+            "Abbr": "gh pn bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23409"
+        },
+        {
+            "MaPhuongXa": "26440",
+            "TenPhuongXa": "Xuân La",
+            "MaQuanHuyen": "2643",
+            "TenQuanHuyen": "Pác Nặm",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "pn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan la pac nam bac kan",
+            "Point": null,
+            "Abbr": "xl pn bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23414"
+        },
+        {
+            "MaPhuongXa": "26447",
+            "TenPhuongXa": "Bằng Thành",
+            "MaQuanHuyen": "2643",
+            "TenQuanHuyen": "Pác Nặm",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bang thanh pac nam bac kan",
+            "Point": null,
+            "Abbr": "bt pn bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23407"
+        },
+        {
+            "MaPhuongXa": "26445",
+            "TenPhuongXa": "Nhạn Môn",
+            "MaQuanHuyen": "2643",
+            "TenQuanHuyen": "Pác Nặm",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "pn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhan mon pac nam bac kan",
+            "Point": null,
+            "Abbr": "nm pn bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23408"
+        }
+    ],
+    "2623": [
+        {
+            "MaPhuongXa": "26234",
+            "TenPhuongXa": "Bằng Vân",
+            "MaQuanHuyen": "2623",
+            "TenQuanHuyen": "Ngân Sơn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "bv",
+                    "Point": 5
+                },
+                {
+                    "Key": "ns",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bang van ngan son bac kan",
+            "Point": null,
+            "Abbr": "bv ns bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23308"
+        },
+        {
+            "MaPhuongXa": "26236",
+            "TenPhuongXa": "Thương Ân",
+            "MaQuanHuyen": "2623",
+            "TenQuanHuyen": "Ngân Sơn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "ns",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong an ngan son bac kan",
+            "Point": null,
+            "Abbr": "ta ns bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23309"
+        },
+        {
+            "MaPhuongXa": "26230",
+            "TenPhuongXa": "Vân Tùng",
+            "MaQuanHuyen": "2623",
+            "TenQuanHuyen": "Ngân Sơn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ns",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van tung ngan son bac kan",
+            "Point": null,
+            "Abbr": "vt ns bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23306"
+        },
+        {
+            "MaPhuongXa": "26232",
+            "TenPhuongXa": "Đức Vân",
+            "MaQuanHuyen": "2623",
+            "TenQuanHuyen": "Ngân Sơn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "dv",
+                    "Point": 5
+                },
+                {
+                    "Key": "ns",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc van ngan son bac kan",
+            "Point": null,
+            "Abbr": "dv ns bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23307"
+        },
+        {
+            "MaPhuongXa": "26239",
+            "TenPhuongXa": "Cốc Đán",
+            "MaQuanHuyen": "2623",
+            "TenQuanHuyen": "Ngân Sơn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ns",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "coc dan ngan son bac kan",
+            "Point": null,
+            "Abbr": "cd ns bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23310"
+        },
+        {
+            "MaPhuongXa": "26245",
+            "TenPhuongXa": "Nà Phặc",
+            "MaQuanHuyen": "2623",
+            "TenQuanHuyen": "Ngân Sơn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "ns",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na phac ngan son bac kan",
+            "Point": null,
+            "Abbr": "np ns bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23312"
+        },
+        {
+            "MaPhuongXa": "26243",
+            "TenPhuongXa": "Trung Hoà",
+            "MaQuanHuyen": "2623",
+            "TenQuanHuyen": "Ngân Sơn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ns",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung hoa ngan son bac kan",
+            "Point": null,
+            "Abbr": "th ns bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23311"
+        },
+        {
+            "MaPhuongXa": "26249",
+            "TenPhuongXa": "Thượng Quan",
+            "MaQuanHuyen": "2623",
+            "TenQuanHuyen": "Ngân Sơn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "tq",
+                    "Point": 5
+                },
+                {
+                    "Key": "ns",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong quan ngan son bac kan",
+            "Point": null,
+            "Abbr": "tq ns bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23316"
+        },
+        {
+            "MaPhuongXa": "26256",
+            "TenPhuongXa": "Hiệp Lực",
+            "MaQuanHuyen": "2623",
+            "TenQuanHuyen": "Ngân Sơn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ns",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep luc ngan son bac kan",
+            "Point": null,
+            "Abbr": "hl ns bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23313"
+        },
+        {
+            "MaPhuongXa": "26253",
+            "TenPhuongXa": "Thuần Mang",
+            "MaQuanHuyen": "2623",
+            "TenQuanHuyen": "Ngân Sơn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ns",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuan mang ngan son bac kan",
+            "Point": null,
+            "Abbr": "tm ns bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23315"
+        },
+        {
+            "MaPhuongXa": "26258",
+            "TenPhuongXa": "Hương Nê",
+            "MaQuanHuyen": "2623",
+            "TenQuanHuyen": "Ngân Sơn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ns",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong ne ngan son bac kan",
+            "Point": null,
+            "Abbr": "hn ns bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23314"
+        }
+    ],
+    "2632": [
+        {
+            "MaPhuongXa": "26335",
+            "TenPhuongXa": "Quảng Bạch",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "qb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang bach cho don bac kan",
+            "Point": null,
+            "Abbr": "qb cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23615"
+        },
+        {
+            "MaPhuongXa": "26336",
+            "TenPhuongXa": "Tân Lập",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap cho don bac kan",
+            "Point": null,
+            "Abbr": "tl cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23610"
+        },
+        {
+            "MaPhuongXa": "26331",
+            "TenPhuongXa": "Bằng Phúc",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bang phuc cho don bac kan",
+            "Point": null,
+            "Abbr": "bp cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23609"
+        },
+        {
+            "MaPhuongXa": "26333",
+            "TenPhuongXa": "Ngọc Phái",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc phai cho don bac kan",
+            "Point": null,
+            "Abbr": "np cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23616"
+        },
+        {
+            "MaPhuongXa": "26338",
+            "TenPhuongXa": "Đồng Lạc",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong lac cho don bac kan",
+            "Point": null,
+            "Abbr": "dl cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23611"
+        },
+        {
+            "MaPhuongXa": "26364",
+            "TenPhuongXa": "Bình Trung",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh trung cho don bac kan",
+            "Point": null,
+            "Abbr": "bt cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23621"
+        },
+        {
+            "MaPhuongXa": "26360",
+            "TenPhuongXa": "Nghĩa Tá",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia ta cho don bac kan",
+            "Point": null,
+            "Abbr": "nt cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23620"
+        },
+        {
+            "MaPhuongXa": "26362",
+            "TenPhuongXa": "Yên Nhuận",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "yn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen nhuan cho don bac kan",
+            "Point": null,
+            "Abbr": "yn cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23622"
+        },
+        {
+            "MaPhuongXa": "26344",
+            "TenPhuongXa": "Yên Thượng",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen thuong cho don bac kan",
+            "Point": null,
+            "Abbr": "yt cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23617"
+        },
+        {
+            "MaPhuongXa": "26346",
+            "TenPhuongXa": "Bản Thi",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban thi cho don bac kan",
+            "Point": null,
+            "Abbr": "bt cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23614"
+        },
+        {
+            "MaPhuongXa": "26340",
+            "TenPhuongXa": "Nam Cường",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam cuong cho don bac kan",
+            "Point": null,
+            "Abbr": "nc cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23612"
+        },
+        {
+            "MaPhuongXa": "26342",
+            "TenPhuongXa": "Xuân Lạc",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan lac cho don bac kan",
+            "Point": null,
+            "Abbr": "xl cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23613"
+        },
+        {
+            "MaPhuongXa": "26348",
+            "TenPhuongXa": "Yên Thịnh",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen thinh cho don bac kan",
+            "Point": null,
+            "Abbr": "yt cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23618"
+        },
+        {
+            "MaPhuongXa": "26324",
+            "TenPhuongXa": "Đồng Thắng",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong thang cho don bac kan",
+            "Point": null,
+            "Abbr": "dt cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23627"
+        },
+        {
+            "MaPhuongXa": "26326",
+            "TenPhuongXa": "Rã Bản",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "rb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ra ban cho don bac kan",
+            "Point": null,
+            "Abbr": "rb cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23608"
+        },
+        {
+            "MaPhuongXa": "26320",
+            "TenPhuongXa": "Bằng Lũng",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bang lung cho don bac kan",
+            "Point": null,
+            "Abbr": "bl cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23606"
+        },
+        {
+            "MaPhuongXa": "26328",
+            "TenPhuongXa": "Phương Viên",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "pv",
+                    "Point": 5
+                },
+                {
+                    "Key": "v",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong vien cho don bac kan",
+            "Point": null,
+            "Abbr": "v cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23607"
+        },
+        {
+            "MaPhuongXa": "26354",
+            "TenPhuongXa": "Lương Bằng",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong bang cho don bac kan",
+            "Point": null,
+            "Abbr": "lb cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23619"
+        },
+        {
+            "MaPhuongXa": "26357",
+            "TenPhuongXa": "Yên Phong",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "yp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen phong cho don bac kan",
+            "Point": null,
+            "Abbr": "yp cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23624"
+        },
+        {
+            "MaPhuongXa": "26350",
+            "TenPhuongXa": "Đại Sảo",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai sao cho don bac kan",
+            "Point": null,
+            "Abbr": "ds cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23626"
+        },
+        {
+            "MaPhuongXa": "26352",
+            "TenPhuongXa": "Bằng Lãng",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bang lang cho don bac kan",
+            "Point": null,
+            "Abbr": "bl cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23625"
+        },
+        {
+            "MaPhuongXa": "26358",
+            "TenPhuongXa": "Yên Mỹ",
+            "MaQuanHuyen": "2632",
+            "TenQuanHuyen": "Chợ Đồn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "ym",
+                    "Point": 5
+                },
+                {
+                    "Key": "cd",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen my cho don bac kan",
+            "Point": null,
+            "Abbr": "ym cd bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23623"
+        }
+    ],
+    "2613": [
+        {
+            "MaPhuongXa": "26136",
+            "TenPhuongXa": "Lương Hạ",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong ha na ri bac kan",
+            "Point": null,
+            "Abbr": "lh nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23807"
+        },
+        {
+            "MaPhuongXa": "26135",
+            "TenPhuongXa": "Cường Lợi",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cuong loi na ri bac kan",
+            "Point": null,
+            "Abbr": "cl nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23808"
+        },
+        {
+            "MaPhuongXa": "26133",
+            "TenPhuongXa": "Kim Lư",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "kl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim lu na ri bac kan",
+            "Point": null,
+            "Abbr": "kl nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23827"
+        },
+        {
+            "MaPhuongXa": "26130",
+            "TenPhuongXa": "Yên Lạc",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "yl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen lac na ri bac kan",
+            "Point": null,
+            "Abbr": "yl nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23806"
+        },
+        {
+            "MaPhuongXa": "26138",
+            "TenPhuongXa": "Văn Vũ",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "vv",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van vu na ri bac kan",
+            "Point": null,
+            "Abbr": "vv nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23810"
+        },
+        {
+            "MaPhuongXa": "26165",
+            "TenPhuongXa": "Quang Phong",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "qp",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang phong na ri bac kan",
+            "Point": null,
+            "Abbr": "qp nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23816"
+        },
+        {
+            "MaPhuongXa": "26163",
+            "TenPhuongXa": "Hảo Nghĩa",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hao nghia na ri bac kan",
+            "Point": null,
+            "Abbr": "hn nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23821"
+        },
+        {
+            "MaPhuongXa": "26160",
+            "TenPhuongXa": "Côn Minh",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "con minh na ri bac kan",
+            "Point": null,
+            "Abbr": "cm nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23815"
+        },
+        {
+            "MaPhuongXa": "26168",
+            "TenPhuongXa": "Dương Sơn",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duong son na ri bac kan",
+            "Point": null,
+            "Abbr": "ds nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23820"
+        },
+        {
+            "MaPhuongXa": "26146",
+            "TenPhuongXa": "Kim Hỷ",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "kh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim hy na ri bac kan",
+            "Point": null,
+            "Abbr": "kh nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23813"
+        },
+        {
+            "MaPhuongXa": "26145",
+            "TenPhuongXa": "Lương Thượng",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong thuong na ri bac kan",
+            "Point": null,
+            "Abbr": "lt nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23812"
+        },
+        {
+            "MaPhuongXa": "26143",
+            "TenPhuongXa": "Văn Lang",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van lang na ri bac kan",
+            "Point": null,
+            "Abbr": "vl nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23811"
+        },
+        {
+            "MaPhuongXa": "26140",
+            "TenPhuongXa": "Vũ Loan",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vu loan na ri bac kan",
+            "Point": null,
+            "Abbr": "vl nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23809"
+        },
+        {
+            "MaPhuongXa": "26148",
+            "TenPhuongXa": "Sơn Thành",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son thanh na ri bac kan",
+            "Point": null,
+            "Abbr": "st nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23826"
+        },
+        {
+            "MaPhuongXa": "26155",
+            "TenPhuongXa": "Cư Lễ",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cu le na ri bac kan",
+            "Point": null,
+            "Abbr": "cl nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23823"
+        },
+        {
+            "MaPhuongXa": "26152",
+            "TenPhuongXa": "Ân Tình",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an tinh na ri bac kan",
+            "Point": null,
+            "Abbr": "at nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23814"
+        },
+        {
+            "MaPhuongXa": "26153",
+            "TenPhuongXa": "Văn Minh",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "vm",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van minh na ri bac kan",
+            "Point": null,
+            "Abbr": "vm nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23824"
+        },
+        {
+            "MaPhuongXa": "26150",
+            "TenPhuongXa": "Lương Thành",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong thanh na ri bac kan",
+            "Point": null,
+            "Abbr": "lt nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23825"
+        },
+        {
+            "MaPhuongXa": "26158",
+            "TenPhuongXa": "Trần Phú",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran phu na ri bac kan",
+            "Point": null,
+            "Abbr": "tp nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23822"
+        },
+        {
+            "MaPhuongXa": "26174",
+            "TenPhuongXa": "Liêm Thuỷ",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "liem thuy na ri bac kan",
+            "Point": null,
+            "Abbr": "lt nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23818"
+        },
+        {
+            "MaPhuongXa": "26172",
+            "TenPhuongXa": "Đồng Xá",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "dx",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong xa na ri bac kan",
+            "Point": null,
+            "Abbr": "dx nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23817"
+        },
+        {
+            "MaPhuongXa": "26170",
+            "TenPhuongXa": "Xuân Dương",
+            "MaQuanHuyen": "2613",
+            "TenQuanHuyen": "Na Rì",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "xd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nr",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan duong na ri bac kan",
+            "Point": null,
+            "Abbr": "xd nr bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23819"
+        }
+    ],
+    "2627": [
+        {
+            "MaPhuongXa": "26285",
+            "TenPhuongXa": "Nam Mẫu",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam mau ba be bac kan",
+            "Point": null,
+            "Abbr": "nm bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23511"
+        },
+        {
+            "MaPhuongXa": "26287",
+            "TenPhuongXa": "Địa Linh",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dia linh ba be bac kan",
+            "Point": null,
+            "Abbr": "dl bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23514"
+        },
+        {
+            "MaPhuongXa": "26280",
+            "TenPhuongXa": "Thượng Giáo",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "tg",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong giao ba be bac kan",
+            "Point": null,
+            "Abbr": "tg bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23509"
+        },
+        {
+            "MaPhuongXa": "26282",
+            "TenPhuongXa": "Cao Thượng",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao thuong ba be bac kan",
+            "Point": null,
+            "Abbr": "ct bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23510"
+        },
+        {
+            "MaPhuongXa": "26289",
+            "TenPhuongXa": "Thượng Giáo",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "tg",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong giao ba be bac kan",
+            "Point": null,
+            "Abbr": "tg bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23513"
+        },
+        {
+            "MaPhuongXa": "26304",
+            "TenPhuongXa": "Đồng Phúc",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong phuc ba be bac kan",
+            "Point": null,
+            "Abbr": "dp bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23521"
+        },
+        {
+            "MaPhuongXa": "26306",
+            "TenPhuongXa": "Hoàng Trĩ",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang tri ba be bac kan",
+            "Point": null,
+            "Abbr": "ht bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23520"
+        },
+        {
+            "MaPhuongXa": "26301",
+            "TenPhuongXa": "Mỹ Phương",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "mp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my phuong ba be bac kan",
+            "Point": null,
+            "Abbr": "mp bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23516"
+        },
+        {
+            "MaPhuongXa": "26294",
+            "TenPhuongXa": "Chu Hương",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu huong ba be bac kan",
+            "Point": null,
+            "Abbr": "ch bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23518"
+        },
+        {
+            "MaPhuongXa": "26297",
+            "TenPhuongXa": "Yến Dương",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "yd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen duong ba be bac kan",
+            "Point": null,
+            "Abbr": "yd bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23517"
+        },
+        {
+            "MaPhuongXa": "26292",
+            "TenPhuongXa": "Khang Ninh",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "kn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khang ninh ba be bac kan",
+            "Point": null,
+            "Abbr": "kn bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23512"
+        },
+        {
+            "MaPhuongXa": "26299",
+            "TenPhuongXa": "Quảng Khê",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "qk",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang khe ba be bac kan",
+            "Point": null,
+            "Abbr": "qk bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23515"
+        },
+        {
+            "MaPhuongXa": "26274",
+            "TenPhuongXa": "Phúc Lộc",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuc loc ba be bac kan",
+            "Point": null,
+            "Abbr": "pl bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23508"
+        },
+        {
+            "MaPhuongXa": "26277",
+            "TenPhuongXa": "Hà Hiệu",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha hieu ba be bac kan",
+            "Point": null,
+            "Abbr": "hh bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23519"
+        },
+        {
+            "MaPhuongXa": "26270",
+            "TenPhuongXa": "Chợ Rã",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "cr",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cho ra ba be bac kan",
+            "Point": null,
+            "Abbr": "cr bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23506"
+        },
+        {
+            "MaPhuongXa": "26272",
+            "TenPhuongXa": "Bành Trạch",
+            "MaQuanHuyen": "2627",
+            "TenQuanHuyen": "Ba Bể",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "banh trach ba be bac kan",
+            "Point": null,
+            "Abbr": "bt bb bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23507"
+        }
+    ],
+    "2638": [
+        {
+            "MaPhuongXa": "26384",
+            "TenPhuongXa": "Như Cố",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhu co cho moi bac kan",
+            "Point": null,
+            "Abbr": "nc cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23708"
+        },
+        {
+            "MaPhuongXa": "26386",
+            "TenPhuongXa": "Bình Văn",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "bv",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh van cho moi bac kan",
+            "Point": null,
+            "Abbr": "bv cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23719"
+        },
+        {
+            "MaPhuongXa": "26380",
+            "TenPhuongXa": "Đồng Tâm",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tam cho moi bac kan",
+            "Point": null,
+            "Abbr": "dt cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23706"
+        },
+        {
+            "MaPhuongXa": "26382",
+            "TenPhuongXa": "Yên Đĩnh",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "yd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen dinh cho moi bac kan",
+            "Point": null,
+            "Abbr": "yd cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23707"
+        },
+        {
+            "MaPhuongXa": "26388",
+            "TenPhuongXa": "Yên Hân",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "yh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen han cho moi bac kan",
+            "Point": null,
+            "Abbr": "yh cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23720"
+        },
+        {
+            "MaPhuongXa": "26402",
+            "TenPhuongXa": "Nông Thịnh",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nong thinh cho moi bac kan",
+            "Point": null,
+            "Abbr": "nt cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23716"
+        },
+        {
+            "MaPhuongXa": "26400",
+            "TenPhuongXa": "Tân Sơn",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan son cho moi bac kan",
+            "Point": null,
+            "Abbr": "ts cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23711"
+        },
+        {
+            "MaPhuongXa": "26407",
+            "TenPhuongXa": "Hoà Mục",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa muc cho moi bac kan",
+            "Point": null,
+            "Abbr": "hm cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23712"
+        },
+        {
+            "MaPhuongXa": "26404",
+            "TenPhuongXa": "Thanh Mai",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh mai cho moi bac kan",
+            "Point": null,
+            "Abbr": "tm cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23714"
+        },
+        {
+            "MaPhuongXa": "26409",
+            "TenPhuongXa": "Thanh Vận",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh van cho moi bac kan",
+            "Point": null,
+            "Abbr": "tv cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23713"
+        },
+        {
+            "MaPhuongXa": "26395",
+            "TenPhuongXa": "Nông Hạ",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nong ha cho moi bac kan",
+            "Point": null,
+            "Abbr": "nh cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23709"
+        },
+        {
+            "MaPhuongXa": "26390",
+            "TenPhuongXa": "Yên Cư",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "yc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen cu cho moi bac kan",
+            "Point": null,
+            "Abbr": "yc cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23721"
+        },
+        {
+            "MaPhuongXa": "26393",
+            "TenPhuongXa": "Thanh Thịnh",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh thinh cho moi bac kan",
+            "Point": null,
+            "Abbr": "tt cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23717"
+        },
+        {
+            "MaPhuongXa": "26398",
+            "TenPhuongXa": "Cao Kỳ",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "ck",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao ky cho moi bac kan",
+            "Point": null,
+            "Abbr": "ck cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23710"
+        },
+        {
+            "MaPhuongXa": "26413",
+            "TenPhuongXa": "Quảng Chu",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "qc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang chu cho moi bac kan",
+            "Point": null,
+            "Abbr": "qc cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23718"
+        },
+        {
+            "MaPhuongXa": "26411",
+            "TenPhuongXa": "Mai Lạp",
+            "MaQuanHuyen": "2638",
+            "TenQuanHuyen": "Chợ Mới",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mai lap cho moi bac kan",
+            "Point": null,
+            "Abbr": "ml cm bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23715"
+        }
+    ],
+    "2619": [
+        {
+            "MaPhuongXa": "26205",
+            "TenPhuongXa": "Đôn Phong",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "don phong bach thong bac kan",
+            "Point": null,
+            "Abbr": "dp bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23209"
+        },
+        {
+            "MaPhuongXa": "26207",
+            "TenPhuongXa": "Quân Hà",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "qh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quan ha bach thong bac kan",
+            "Point": null,
+            "Abbr": "qh bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23215"
+        },
+        {
+            "MaPhuongXa": "26201",
+            "TenPhuongXa": "Sĩ Bình",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "sb",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "si binh bach thong bac kan",
+            "Point": null,
+            "Abbr": "sb bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23221"
+        },
+        {
+            "MaPhuongXa": "26203",
+            "TenPhuongXa": "Vũ Muộn",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "vm",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vu muon bach thong bac kan",
+            "Point": null,
+            "Abbr": "vm bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23222"
+        },
+        {
+            "MaPhuongXa": "26208",
+            "TenPhuongXa": "Hà Vị",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha vi bach thong bac kan",
+            "Point": null,
+            "Abbr": "hv bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23216"
+        },
+        {
+            "MaPhuongXa": "26197",
+            "TenPhuongXa": "Lục Bình",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luc binh bach thong bac kan",
+            "Point": null,
+            "Abbr": "lb bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23212"
+        },
+        {
+            "MaPhuongXa": "26195",
+            "TenPhuongXa": "Tân Tú",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tu bach thong bac kan",
+            "Point": null,
+            "Abbr": "tt bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23213"
+        },
+        {
+            "MaPhuongXa": "26193",
+            "TenPhuongXa": "Vi Hương",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vi huong bach thong bac kan",
+            "Point": null,
+            "Abbr": "vh bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23208"
+        },
+        {
+            "MaPhuongXa": "26190",
+            "TenPhuongXa": "Phủ Thông",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thong bach thong bac kan",
+            "Point": null,
+            "Abbr": "pt bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23206"
+        },
+        {
+            "MaPhuongXa": "26191",
+            "TenPhuongXa": "Phương Linh",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "l",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong linh bach thong bac kan",
+            "Point": null,
+            "Abbr": "l bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23207"
+        },
+        {
+            "MaPhuongXa": "26199",
+            "TenPhuongXa": "Tân Tiến",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tien bach thong bac kan",
+            "Point": null,
+            "Abbr": "tt bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23214"
+        },
+        {
+            "MaPhuongXa": "26215",
+            "TenPhuongXa": "Mỹ Thanh",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thanh bach thong bac kan",
+            "Point": null,
+            "Abbr": "mt bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23219"
+        },
+        {
+            "MaPhuongXa": "26214",
+            "TenPhuongXa": "Cao Sơn",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao son bach thong bac kan",
+            "Point": null,
+            "Abbr": "cs bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23220"
+        },
+        {
+            "MaPhuongXa": "26217",
+            "TenPhuongXa": "Quang Thuận",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang thuan bach thong bac kan",
+            "Point": null,
+            "Abbr": "qt bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23211"
+        },
+        {
+            "MaPhuongXa": "26210",
+            "TenPhuongXa": "Cẩm Giàng",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "cg",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam giang bach thong bac kan",
+            "Point": null,
+            "Abbr": "cg bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23217"
+        },
+        {
+            "MaPhuongXa": "26212",
+            "TenPhuongXa": "Nguyên Phúc",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyen phuc bach thong bac kan",
+            "Point": null,
+            "Abbr": "np bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23218"
+        },
+        {
+            "MaPhuongXa": "26219",
+            "TenPhuongXa": "Dương Phong",
+            "MaQuanHuyen": "2619",
+            "TenQuanHuyen": "Bạch Thông",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duong phong bach thong bac kan",
+            "Point": null,
+            "Abbr": "dp bt bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23210"
+        }
+    ],
+    "2610": [
+        {
+            "MaPhuongXa": "26106",
+            "TenPhuongXa": "Huyền Tụng",
+            "MaQuanHuyen": "2610",
+            "TenQuanHuyen": "Bắc Kạn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huyen tung bac kan bac kan",
+            "Point": null,
+            "Abbr": "ht bk bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23111"
+        },
+        {
+            "MaPhuongXa": "26103",
+            "TenPhuongXa": "Nguyễn Thị Minh Khai",
+            "MaQuanHuyen": "2610",
+            "TenQuanHuyen": "Bắc Kạn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "ntmk",
+                    "Point": 5
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyen thi minh khai bac kan bac kan",
+            "Point": null,
+            "Abbr": "ntmk bk bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23108"
+        },
+        {
+            "MaPhuongXa": "26100",
+            "TenPhuongXa": "Đức Xuân",
+            "MaQuanHuyen": "2610",
+            "TenQuanHuyen": "Bắc Kạn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "dx",
+                    "Point": 5
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc xuan bac kan bac kan",
+            "Point": null,
+            "Abbr": "dx bk bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23107"
+        },
+        {
+            "MaPhuongXa": "26109",
+            "TenPhuongXa": "Dương Quang",
+            "MaQuanHuyen": "2610",
+            "TenQuanHuyen": "Bắc Kạn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "dq",
+                    "Point": 5
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duong quang bac kan bac kan",
+            "Point": null,
+            "Abbr": "dq bk bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23112"
+        },
+        {
+            "MaPhuongXa": "26116",
+            "TenPhuongXa": "Nông Thượng",
+            "MaQuanHuyen": "2610",
+            "TenQuanHuyen": "Bắc Kạn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nong thuong bac kan bac kan",
+            "Point": null,
+            "Abbr": "nt bk bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23113"
+        },
+        {
+            "MaPhuongXa": "26114",
+            "TenPhuongXa": "Phùng Chí Kiên",
+            "MaQuanHuyen": "2610",
+            "TenQuanHuyen": "Bắc Kạn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "pck",
+                    "Point": 5
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phung chi kien bac kan bac kan",
+            "Point": null,
+            "Abbr": "pck bk bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23106"
+        },
+        {
+            "MaPhuongXa": "26111",
+            "TenPhuongXa": "Sông Cầu",
+            "MaQuanHuyen": "2610",
+            "TenQuanHuyen": "Bắc Kạn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "sc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song cau bac kan bac kan",
+            "Point": null,
+            "Abbr": "sc bk bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23109"
+        },
+        {
+            "MaPhuongXa": "26119",
+            "TenPhuongXa": "Xuất Hoá",
+            "MaQuanHuyen": "2610",
+            "TenQuanHuyen": "Bắc Kạn",
+            "MaTinhThanh": "26",
+            "TenTinhThanh": "Bắc Kạn",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                },
+                {
+                    "Key": "bk",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuat hoa bac kan bac kan",
+            "Point": null,
+            "Abbr": "xh bk bk",
+            "TrangThai": null,
+            "MaBuuChinh": "23110"
+        }
+    ]
+}

@@ -1,0 +1,3428 @@
+{
+    "2221": [
+        {
+            "MaPhuongXa": "22231",
+            "TenPhuongXa": "Trang Hạ",
+            "MaQuanHuyen": "2221",
+            "TenQuanHuyen": "Từ Sơn",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trang ha tu son bac ninh",
+            "Point": null,
+            "Abbr": "th ts bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16314"
+        },
+        {
+            "MaPhuongXa": "22230",
+            "TenPhuongXa": "Phù Chẩn",
+            "MaQuanHuyen": "2221",
+            "TenQuanHuyen": "Từ Sơn",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu chan tu son bac ninh",
+            "Point": null,
+            "Abbr": "pc ts bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16316"
+        },
+        {
+            "MaPhuongXa": "22214",
+            "TenPhuongXa": "Đồng Nguyên",
+            "MaQuanHuyen": "2221",
+            "TenQuanHuyen": "Từ Sơn",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong nguyen tu son bac ninh",
+            "Point": null,
+            "Abbr": "dn ts bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16307"
+        },
+        {
+            "MaPhuongXa": "22216",
+            "TenPhuongXa": "Tương Giang",
+            "MaQuanHuyen": "2221",
+            "TenQuanHuyen": "Từ Sơn",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "tg",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tuong giang tu son bac ninh",
+            "Point": null,
+            "Abbr": "tg ts bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16308"
+        },
+        {
+            "MaPhuongXa": "22210",
+            "TenPhuongXa": "Đông Ngàn",
+            "MaQuanHuyen": "2221",
+            "TenQuanHuyen": "Từ Sơn",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong ngan tu son bac ninh",
+            "Point": null,
+            "Abbr": "dn ts bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16306"
+        },
+        {
+            "MaPhuongXa": "22213",
+            "TenPhuongXa": "Tân Hồng",
+            "MaQuanHuyen": "2221",
+            "TenQuanHuyen": "Từ Sơn",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hong tu son bac ninh",
+            "Point": null,
+            "Abbr": "th ts bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16317"
+        },
+        {
+            "MaPhuongXa": "22218",
+            "TenPhuongXa": "Tam Sơn",
+            "MaQuanHuyen": "2221",
+            "TenQuanHuyen": "Từ Sơn",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam son tu son bac ninh",
+            "Point": null,
+            "Abbr": "ts ts bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16309"
+        },
+        {
+            "MaPhuongXa": "22224",
+            "TenPhuongXa": "Châu Khê",
+            "MaQuanHuyen": "2221",
+            "TenQuanHuyen": "Từ Sơn",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "ck",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau khe tu son bac ninh",
+            "Point": null,
+            "Abbr": "ck ts bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16313"
+        },
+        {
+            "MaPhuongXa": "22226",
+            "TenPhuongXa": "Đình Bảng",
+            "MaQuanHuyen": "2221",
+            "TenQuanHuyen": "Từ Sơn",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh bang tu son bac ninh",
+            "Point": null,
+            "Abbr": "db ts bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16315"
+        },
+        {
+            "MaPhuongXa": "22221",
+            "TenPhuongXa": "Hương Mạc",
+            "MaQuanHuyen": "2221",
+            "TenQuanHuyen": "Từ Sơn",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong mac tu son bac ninh",
+            "Point": null,
+            "Abbr": "hm ts bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16310"
+        },
+        {
+            "MaPhuongXa": "22220",
+            "TenPhuongXa": "Đồng Kỵ",
+            "MaQuanHuyen": "2221",
+            "TenQuanHuyen": "Từ Sơn",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong ky tu son bac ninh",
+            "Point": null,
+            "Abbr": "dk ts bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16311"
+        },
+        {
+            "MaPhuongXa": "22223",
+            "TenPhuongXa": "Phù Khê",
+            "MaQuanHuyen": "2221",
+            "TenQuanHuyen": "Từ Sơn",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "pk",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu khe tu son bac ninh",
+            "Point": null,
+            "Abbr": "pk ts bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16312"
+        }
+    ],
+    "2232": [
+        {
+            "MaPhuongXa": "22334",
+            "TenPhuongXa": "Giang Sơn",
+            "MaQuanHuyen": "2232",
+            "TenQuanHuyen": "Gia Bình",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "gs",
+                    "Point": 5
+                },
+                {
+                    "Key": "gb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giang son gia binh bac ninh",
+            "Point": null,
+            "Abbr": "gs gb bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16715"
+        },
+        {
+            "MaPhuongXa": "22335",
+            "TenPhuongXa": "Đông Cứu",
+            "MaQuanHuyen": "2232",
+            "TenQuanHuyen": "Gia Bình",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "gb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong cuu gia binh bac ninh",
+            "Point": null,
+            "Abbr": "dc gb bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16717"
+        },
+        {
+            "MaPhuongXa": "22337",
+            "TenPhuongXa": "Lãng Ngâm",
+            "MaQuanHuyen": "2232",
+            "TenQuanHuyen": "Gia Bình",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "ln",
+                    "Point": 5
+                },
+                {
+                    "Key": "gb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lang ngam gia binh bac ninh",
+            "Point": null,
+            "Abbr": "ln gb bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16716"
+        },
+        {
+            "MaPhuongXa": "22330",
+            "TenPhuongXa": "Thái Bảo",
+            "MaQuanHuyen": "2232",
+            "TenQuanHuyen": "Gia Bình",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "gb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai bao gia binh bac ninh",
+            "Point": null,
+            "Abbr": "tb gb bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16712"
+        },
+        {
+            "MaPhuongXa": "22331",
+            "TenPhuongXa": "Vạn Ninh",
+            "MaQuanHuyen": "2232",
+            "TenQuanHuyen": "Gia Bình",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "vn",
+                    "Point": 5
+                },
+                {
+                    "Key": "gb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van ninh gia binh bac ninh",
+            "Point": null,
+            "Abbr": "vn gb bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16711"
+        },
+        {
+            "MaPhuongXa": "22333",
+            "TenPhuongXa": "Song Giang",
+            "MaQuanHuyen": "2232",
+            "TenQuanHuyen": "Gia Bình",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "sg",
+                    "Point": 5
+                },
+                {
+                    "Key": "gb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song giang gia binh bac ninh",
+            "Point": null,
+            "Abbr": "sg gb bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16714"
+        },
+        {
+            "MaPhuongXa": "22338",
+            "TenPhuongXa": "Quỳnh Phú",
+            "MaQuanHuyen": "2232",
+            "TenQuanHuyen": "Gia Bình",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "qp",
+                    "Point": 5
+                },
+                {
+                    "Key": "gb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quynh phu gia binh bac ninh",
+            "Point": null,
+            "Abbr": "qp gb bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16719"
+        },
+        {
+            "MaPhuongXa": "22340",
+            "TenPhuongXa": "Đại Bái",
+            "MaQuanHuyen": "2232",
+            "TenQuanHuyen": "Gia Bình",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "gb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai bai gia binh bac ninh",
+            "Point": null,
+            "Abbr": "db gb bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16718"
+        },
+        {
+            "MaPhuongXa": "22342",
+            "TenPhuongXa": "Gia Bình",
+            "MaQuanHuyen": "2232",
+            "TenQuanHuyen": "Gia Bình",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "gb",
+                    "Point": 5
+                },
+                {
+                    "Key": "gb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia binh gia binh bac ninh",
+            "Point": null,
+            "Abbr": "gb gb bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16706"
+        },
+        {
+            "MaPhuongXa": "22324",
+            "TenPhuongXa": "Bình Dương",
+            "MaQuanHuyen": "2232",
+            "TenQuanHuyen": "Gia Bình",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "gb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh duong gia binh bac ninh",
+            "Point": null,
+            "Abbr": "bd gb bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16709"
+        },
+        {
+            "MaPhuongXa": "22326",
+            "TenPhuongXa": "Cao Đức",
+            "MaQuanHuyen": "2232",
+            "TenQuanHuyen": "Gia Bình",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "gb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao duc gia binh bac ninh",
+            "Point": null,
+            "Abbr": "cd gb bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16710"
+        },
+        {
+            "MaPhuongXa": "22320",
+            "TenPhuongXa": "Xuân Lai",
+            "MaQuanHuyen": "2232",
+            "TenQuanHuyen": "Gia Bình",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "gb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan lai gia binh bac ninh",
+            "Point": null,
+            "Abbr": "xl gb bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16707"
+        },
+        {
+            "MaPhuongXa": "22322",
+            "TenPhuongXa": "Nhân Thắng",
+            "MaQuanHuyen": "2232",
+            "TenQuanHuyen": "Gia Bình",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhan thang gia binh bac ninh",
+            "Point": null,
+            "Abbr": "nt gb bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16708"
+        },
+        {
+            "MaPhuongXa": "22328",
+            "TenPhuongXa": "Đại Lai",
+            "MaQuanHuyen": "2232",
+            "TenQuanHuyen": "Gia Bình",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "gb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai lai gia binh bac ninh",
+            "Point": null,
+            "Abbr": "dl gb bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16713"
+        }
+    ],
+    "2210": [
+        {
+            "MaPhuongXa": "22137",
+            "TenPhuongXa": "Hạp Lĩnh",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hap linh bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "hl bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16120"
+        },
+        {
+            "MaPhuongXa": "22134",
+            "TenPhuongXa": "Phong Khê",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "pk",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong khe bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "pk bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16117"
+        },
+        {
+            "MaPhuongXa": "22135",
+            "TenPhuongXa": "Khắc Niệm",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "kn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khac niem bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "kn bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16119"
+        },
+        {
+            "MaPhuongXa": "22132",
+            "TenPhuongXa": "Vạn An",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "va",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van an bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "va bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16113"
+        },
+        {
+            "MaPhuongXa": "22133",
+            "TenPhuongXa": "Khúc Xuyên",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "kx",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khuc xuyen bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "kx bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16116"
+        },
+        {
+            "MaPhuongXa": "22130",
+            "TenPhuongXa": "Hoà Long",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa long bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "hl bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16112"
+        },
+        {
+            "MaPhuongXa": "22138",
+            "TenPhuongXa": "Kim Chân",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "kc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim chan bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "kc bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16108"
+        },
+        {
+            "MaPhuongXa": "22114",
+            "TenPhuongXa": "Tiền An",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien an bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "ta bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16107"
+        },
+        {
+            "MaPhuongXa": "22112",
+            "TenPhuongXa": "Vệ An",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "va",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ve an bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "va bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16115"
+        },
+        {
+            "MaPhuongXa": "22110",
+            "TenPhuongXa": "Vũ Ninh",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "vn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vu ninh bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "vn bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16111"
+        },
+        {
+            "MaPhuongXa": "22111",
+            "TenPhuongXa": "Kinh Bắc",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "kb",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kinh bac bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "kb bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16114"
+        },
+        {
+            "MaPhuongXa": "22118",
+            "TenPhuongXa": "Đại Phúc",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai phuc bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "dp bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16123"
+        },
+        {
+            "MaPhuongXa": "22402",
+            "TenPhuongXa": "Nam Sơn",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam son bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "ns bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16121"
+        },
+        {
+            "MaPhuongXa": "22400",
+            "TenPhuongXa": "Vân Dương",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "vd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van duong bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "vd bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16122"
+        },
+        {
+            "MaPhuongXa": "22100",
+            "TenPhuongXa": "Thị Cầu",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thi cau bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "tc bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16109"
+        },
+        {
+            "MaPhuongXa": "22108",
+            "TenPhuongXa": "Đáp Cầu",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dap cau bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "dc bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16110"
+        },
+        {
+            "MaPhuongXa": "22124",
+            "TenPhuongXa": "Suối Hoa",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "sh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi hoa bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "sh bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16106"
+        },
+        {
+            "MaPhuongXa": "22122",
+            "TenPhuongXa": "Võ Cường",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "vc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vo cuong bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "vc bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16118"
+        },
+        {
+            "MaPhuongXa": "22120",
+            "TenPhuongXa": "Ninh Xá",
+            "MaQuanHuyen": "2210",
+            "TenQuanHuyen": "Bắc Ninh",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "nx",
+                    "Point": 5
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh xa bac ninh bac ninh",
+            "Point": null,
+            "Abbr": "nx bn bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16124"
+        }
+    ],
+    "2228": [
+        {
+            "MaPhuongXa": "22285",
+            "TenPhuongXa": "Phù Lãng",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu lang que vo bac ninh",
+            "Point": null,
+            "Abbr": "pl qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16826"
+        },
+        {
+            "MaPhuongXa": "22284",
+            "TenPhuongXa": "Phù Lương",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu luong que vo bac ninh",
+            "Point": null,
+            "Abbr": "pl qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16808"
+        },
+        {
+            "MaPhuongXa": "22287",
+            "TenPhuongXa": "Quế Tân",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "que tan que vo bac ninh",
+            "Point": null,
+            "Abbr": "qt qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16809"
+        },
+        {
+            "MaPhuongXa": "22286",
+            "TenPhuongXa": "Bằng An",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "ba",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bang an que vo bac ninh",
+            "Point": null,
+            "Abbr": "ba qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16810"
+        },
+        {
+            "MaPhuongXa": "22280",
+            "TenPhuongXa": "Phố Mới",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho moi que vo bac ninh",
+            "Point": null,
+            "Abbr": "pm qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16806"
+        },
+        {
+            "MaPhuongXa": "22282",
+            "TenPhuongXa": "Việt Hùng",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet hung que vo bac ninh",
+            "Point": null,
+            "Abbr": "vh qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16807"
+        },
+        {
+            "MaPhuongXa": "22289",
+            "TenPhuongXa": "Nhân Hoà",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhan hoa que vo bac ninh",
+            "Point": null,
+            "Abbr": "nh qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16811"
+        },
+        {
+            "MaPhuongXa": "22310",
+            "TenPhuongXa": "Chi Lăng",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi lang que vo bac ninh",
+            "Point": null,
+            "Abbr": "cl qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16819"
+        },
+        {
+            "MaPhuongXa": "22312",
+            "TenPhuongXa": "Hán Quảng",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "hq",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "han quang que vo bac ninh",
+            "Point": null,
+            "Abbr": "hq qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16818"
+        },
+        {
+            "MaPhuongXa": "22304",
+            "TenPhuongXa": "Bồng Lai",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bong lai que vo bac ninh",
+            "Point": null,
+            "Abbr": "bl qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16820"
+        },
+        {
+            "MaPhuongXa": "22305",
+            "TenPhuongXa": "Cách Bi",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cach bi que vo bac ninh",
+            "Point": null,
+            "Abbr": "cb qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16821"
+        },
+        {
+            "MaPhuongXa": "22306",
+            "TenPhuongXa": "Đào Viên",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dv",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dao vien que vo bac ninh",
+            "Point": null,
+            "Abbr": "dv qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16822"
+        },
+        {
+            "MaPhuongXa": "22300",
+            "TenPhuongXa": "Đức Long",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc long que vo bac ninh",
+            "Point": null,
+            "Abbr": "dl qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16825"
+        },
+        {
+            "MaPhuongXa": "22308",
+            "TenPhuongXa": "Mộ Đạo",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mo dao que vo bac ninh",
+            "Point": null,
+            "Abbr": "md qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16816"
+        },
+        {
+            "MaPhuongXa": "22309",
+            "TenPhuongXa": "Yên Giả",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "yg",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen gia que vo bac ninh",
+            "Point": null,
+            "Abbr": "yg qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16817"
+        },
+        {
+            "MaPhuongXa": "22297",
+            "TenPhuongXa": "Phượng Mao",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "m",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong mao que vo bac ninh",
+            "Point": null,
+            "Abbr": "m qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16815"
+        },
+        {
+            "MaPhuongXa": "22291",
+            "TenPhuongXa": "Phương Liễu",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "l",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong lieu que vo bac ninh",
+            "Point": null,
+            "Abbr": "l qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16814"
+        },
+        {
+            "MaPhuongXa": "22290",
+            "TenPhuongXa": "Việt Thống",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet thong que vo bac ninh",
+            "Point": null,
+            "Abbr": "vt qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16812"
+        },
+        {
+            "MaPhuongXa": "22292",
+            "TenPhuongXa": "Đại Xuân",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dx",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai xuan que vo bac ninh",
+            "Point": null,
+            "Abbr": "dx qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16813"
+        },
+        {
+            "MaPhuongXa": "22299",
+            "TenPhuongXa": "Châu Phong",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau phong que vo bac ninh",
+            "Point": null,
+            "Abbr": "cp qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16824"
+        },
+        {
+            "MaPhuongXa": "22298",
+            "TenPhuongXa": "Ngọc Xá",
+            "MaQuanHuyen": "2228",
+            "TenQuanHuyen": "Quế Võ",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "nx",
+                    "Point": 5
+                },
+                {
+                    "Key": "qv",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc xa que vo bac ninh",
+            "Point": null,
+            "Abbr": "nx qv bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16823"
+        }
+    ],
+    "2218": [
+        {
+            "MaPhuongXa": "22187",
+            "TenPhuongXa": "Phú Lâm",
+            "MaQuanHuyen": "2218",
+            "TenQuanHuyen": "Tiên Du",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu lam tien du bac ninh",
+            "Point": null,
+            "Abbr": "pl td bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16407"
+        },
+        {
+            "MaPhuongXa": "22182",
+            "TenPhuongXa": "Liên Bão",
+            "MaQuanHuyen": "2218",
+            "TenQuanHuyen": "Tiên Du",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien bao tien du bac ninh",
+            "Point": null,
+            "Abbr": "lb td bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16419"
+        },
+        {
+            "MaPhuongXa": "22180",
+            "TenPhuongXa": "Lim",
+            "MaQuanHuyen": "2218",
+            "TenQuanHuyen": "Tiên Du",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "l",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lim tien du bac ninh",
+            "Point": null,
+            "Abbr": "l td bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16406"
+        },
+        {
+            "MaPhuongXa": "22189",
+            "TenPhuongXa": "Nội Duệ",
+            "MaQuanHuyen": "2218",
+            "TenQuanHuyen": "Tiên Du",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "noi due tien du bac ninh",
+            "Point": null,
+            "Abbr": "nd td bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16408"
+        },
+        {
+            "MaPhuongXa": "22201",
+            "TenPhuongXa": "Tri Phương",
+            "MaQuanHuyen": "2218",
+            "TenQuanHuyen": "Tiên Du",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tri phuong tien du bac ninh",
+            "Point": null,
+            "Abbr": "tp td bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16411"
+        },
+        {
+            "MaPhuongXa": "22200",
+            "TenPhuongXa": "Cảnh Hưng",
+            "MaQuanHuyen": "2218",
+            "TenQuanHuyen": "Tiên Du",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "canh hung tien du bac ninh",
+            "Point": null,
+            "Abbr": "ch td bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16412"
+        },
+        {
+            "MaPhuongXa": "22196",
+            "TenPhuongXa": "Phật Tích",
+            "MaQuanHuyen": "2218",
+            "TenQuanHuyen": "Tiên Du",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phat tich tien du bac ninh",
+            "Point": null,
+            "Abbr": "pt td bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16413"
+        },
+        {
+            "MaPhuongXa": "22197",
+            "TenPhuongXa": "Minh Đạo",
+            "MaQuanHuyen": "2218",
+            "TenQuanHuyen": "Tiên Du",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh dao tien du bac ninh",
+            "Point": null,
+            "Abbr": "md td bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16414"
+        },
+        {
+            "MaPhuongXa": "22194",
+            "TenPhuongXa": "Hoàn Sơn",
+            "MaQuanHuyen": "2218",
+            "TenQuanHuyen": "Tiên Du",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoan son tien du bac ninh",
+            "Point": null,
+            "Abbr": "hs td bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16409"
+        },
+        {
+            "MaPhuongXa": "22193",
+            "TenPhuongXa": "Việt Đoàn",
+            "MaQuanHuyen": "2218",
+            "TenQuanHuyen": "Tiên Du",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "vd",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet doan tien du bac ninh",
+            "Point": null,
+            "Abbr": "vd td bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16415"
+        },
+        {
+            "MaPhuongXa": "22190",
+            "TenPhuongXa": "Hiên Vân",
+            "MaQuanHuyen": "2218",
+            "TenQuanHuyen": "Tiên Du",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hien van tien du bac ninh",
+            "Point": null,
+            "Abbr": "hv td bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16418"
+        },
+        {
+            "MaPhuongXa": "22191",
+            "TenPhuongXa": "Lạc Vệ",
+            "MaQuanHuyen": "2218",
+            "TenQuanHuyen": "Tiên Du",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "lv",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac ve tien du bac ninh",
+            "Point": null,
+            "Abbr": "lv td bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16417"
+        },
+        {
+            "MaPhuongXa": "22198",
+            "TenPhuongXa": "Tân Chi",
+            "MaQuanHuyen": "2218",
+            "TenQuanHuyen": "Tiên Du",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan chi tien du bac ninh",
+            "Point": null,
+            "Abbr": "tc td bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16416"
+        },
+        {
+            "MaPhuongXa": "22199",
+            "TenPhuongXa": "Đại Đồng",
+            "MaQuanHuyen": "2218",
+            "TenQuanHuyen": "Tiên Du",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai dong tien du bac ninh",
+            "Point": null,
+            "Abbr": "dd td bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16410"
+        }
+    ],
+    "2224": [
+        {
+            "MaPhuongXa": "22272",
+            "TenPhuongXa": "Song Liễu",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song lieu thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "sl tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16514"
+        },
+        {
+            "MaPhuongXa": "22255",
+            "TenPhuongXa": "Trí Quả",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "tq",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tri qua thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "tq tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16510"
+        },
+        {
+            "MaPhuongXa": "22257",
+            "TenPhuongXa": "Trạm Lộ",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tram lo thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "tl tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16520"
+        },
+        {
+            "MaPhuongXa": "22251",
+            "TenPhuongXa": "Đại Đồng Thành",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "ddt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai dong thanh thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "ddt tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16508"
+        },
+        {
+            "MaPhuongXa": "22250",
+            "TenPhuongXa": "Song Hồ",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "sh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song ho thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "sh tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16507"
+        },
+        {
+            "MaPhuongXa": "22253",
+            "TenPhuongXa": "Thanh Khương",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "tk",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh khuong thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "tk tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16511"
+        },
+        {
+            "MaPhuongXa": "22252",
+            "TenPhuongXa": "Đình Tổ",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh to thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "dt tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16509"
+        },
+        {
+            "MaPhuongXa": "22258",
+            "TenPhuongXa": "Gia Đông",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "gd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia dong thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "gd tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16517"
+        },
+        {
+            "MaPhuongXa": "22245",
+            "TenPhuongXa": "Mão Điền",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mao dien thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "md tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16522"
+        },
+        {
+            "MaPhuongXa": "22240",
+            "TenPhuongXa": "Hồ",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "h",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ho thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "h tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16506"
+        },
+        {
+            "MaPhuongXa": "22243",
+            "TenPhuongXa": "An Bình",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "ab",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an binh thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "ab tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16521"
+        },
+        {
+            "MaPhuongXa": "22248",
+            "TenPhuongXa": "Hoài Thượng",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoai thuong thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "ht tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16523"
+        },
+        {
+            "MaPhuongXa": "22265",
+            "TenPhuongXa": "Ninh Xá",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "nx",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh xa thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "nx tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16518"
+        },
+        {
+            "MaPhuongXa": "22267",
+            "TenPhuongXa": "Nguyệt Đức",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyet duc thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "nd tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16516"
+        },
+        {
+            "MaPhuongXa": "22261",
+            "TenPhuongXa": "Xuân Lâm",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan lam thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "xl tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16513"
+        },
+        {
+            "MaPhuongXa": "22260",
+            "TenPhuongXa": "Hà Mãn",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha man thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "hm tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16512"
+        },
+        {
+            "MaPhuongXa": "22263",
+            "TenPhuongXa": "Nghĩa Đạo",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia dao thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "nd tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16519"
+        },
+        {
+            "MaPhuongXa": "22269",
+            "TenPhuongXa": "Ngũ Thái",
+            "MaQuanHuyen": "2224",
+            "TenQuanHuyen": "Thuận Thành",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngu thai thuan thanh bac ninh",
+            "Point": null,
+            "Abbr": "nt tt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16515"
+        }
+    ],
+    "2235": [
+        {
+            "MaPhuongXa": "22374",
+            "TenPhuongXa": "Lâm Thao",
+            "MaQuanHuyen": "2235",
+            "TenQuanHuyen": "Lương Tài",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lam thao luong tai bac ninh",
+            "Point": null,
+            "Abbr": "lt lt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16618"
+        },
+        {
+            "MaPhuongXa": "22370",
+            "TenPhuongXa": "Quảng Phú",
+            "MaQuanHuyen": "2235",
+            "TenQuanHuyen": "Lương Tài",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "qp",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang phu luong tai bac ninh",
+            "Point": null,
+            "Abbr": "qp lt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16616"
+        },
+        {
+            "MaPhuongXa": "22372",
+            "TenPhuongXa": "Bình Định",
+            "MaQuanHuyen": "2235",
+            "TenQuanHuyen": "Lương Tài",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh dinh luong tai bac ninh",
+            "Point": null,
+            "Abbr": "bd lt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16617"
+        },
+        {
+            "MaPhuongXa": "22373",
+            "TenPhuongXa": "Phú Lương",
+            "MaQuanHuyen": "2235",
+            "TenQuanHuyen": "Lương Tài",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu luong luong tai bac ninh",
+            "Point": null,
+            "Abbr": "pl lt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16619"
+        },
+        {
+            "MaPhuongXa": "22356",
+            "TenPhuongXa": "Trừng Xá",
+            "MaQuanHuyen": "2235",
+            "TenQuanHuyen": "Lương Tài",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "tx",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung xa luong tai bac ninh",
+            "Point": null,
+            "Abbr": "tx lt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16608"
+        },
+        {
+            "MaPhuongXa": "22350",
+            "TenPhuongXa": "Thứa",
+            "MaQuanHuyen": "2235",
+            "TenQuanHuyen": "Lương Tài",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "t",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thua luong tai bac ninh",
+            "Point": null,
+            "Abbr": "t lt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16606"
+        },
+        {
+            "MaPhuongXa": "22352",
+            "TenPhuongXa": "Trung Chính",
+            "MaQuanHuyen": "2235",
+            "TenQuanHuyen": "Lương Tài",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung chinh luong tai bac ninh",
+            "Point": null,
+            "Abbr": "tc lt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16607"
+        },
+        {
+            "MaPhuongXa": "22358",
+            "TenPhuongXa": "Minh Tân",
+            "MaQuanHuyen": "2235",
+            "TenQuanHuyen": "Lương Tài",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh tan luong tai bac ninh",
+            "Point": null,
+            "Abbr": "mt lt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16609"
+        },
+        {
+            "MaPhuongXa": "22359",
+            "TenPhuongXa": "Lai Hạ",
+            "MaQuanHuyen": "2235",
+            "TenQuanHuyen": "Lương Tài",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lai ha luong tai bac ninh",
+            "Point": null,
+            "Abbr": "lh lt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16610"
+        },
+        {
+            "MaPhuongXa": "22365",
+            "TenPhuongXa": "Phú Hoà",
+            "MaQuanHuyen": "2235",
+            "TenQuanHuyen": "Lương Tài",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hoa luong tai bac ninh",
+            "Point": null,
+            "Abbr": "ph lt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16614"
+        },
+        {
+            "MaPhuongXa": "22360",
+            "TenPhuongXa": "Mỹ Hương",
+            "MaQuanHuyen": "2235",
+            "TenQuanHuyen": "Lương Tài",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my huong luong tai bac ninh",
+            "Point": null,
+            "Abbr": "mh lt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16613"
+        },
+        {
+            "MaPhuongXa": "22361",
+            "TenPhuongXa": "Trung Kênh",
+            "MaQuanHuyen": "2235",
+            "TenQuanHuyen": "Lương Tài",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "tk",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung kenh luong tai bac ninh",
+            "Point": null,
+            "Abbr": "tk lt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16611"
+        },
+        {
+            "MaPhuongXa": "22363",
+            "TenPhuongXa": "An Thịnh",
+            "MaQuanHuyen": "2235",
+            "TenQuanHuyen": "Lương Tài",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thinh luong tai bac ninh",
+            "Point": null,
+            "Abbr": "at lt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16612"
+        },
+        {
+            "MaPhuongXa": "22368",
+            "TenPhuongXa": "Tân Lãng",
+            "MaQuanHuyen": "2235",
+            "TenQuanHuyen": "Lương Tài",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lang luong tai bac ninh",
+            "Point": null,
+            "Abbr": "tl lt bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16615"
+        }
+    ],
+    "2214": [
+        {
+            "MaPhuongXa": "22156",
+            "TenPhuongXa": "Dũng Liệt",
+            "MaQuanHuyen": "2214",
+            "TenQuanHuyen": "Yên Phong",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "yp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dung liet yen phong bac ninh",
+            "Point": null,
+            "Abbr": "dl yp bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16212"
+        },
+        {
+            "MaPhuongXa": "22157",
+            "TenPhuongXa": "Tam Giang",
+            "MaQuanHuyen": "2214",
+            "TenQuanHuyen": "Yên Phong",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "tg",
+                    "Point": 5
+                },
+                {
+                    "Key": "yp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam giang yen phong bac ninh",
+            "Point": null,
+            "Abbr": "tg yp bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16215"
+        },
+        {
+            "MaPhuongXa": "22155",
+            "TenPhuongXa": "Tam Đa",
+            "MaQuanHuyen": "2214",
+            "TenQuanHuyen": "Yên Phong",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "yp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam da yen phong bac ninh",
+            "Point": null,
+            "Abbr": "td yp bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16211"
+        },
+        {
+            "MaPhuongXa": "22153",
+            "TenPhuongXa": "Thụy Hoà",
+            "MaQuanHuyen": "2214",
+            "TenQuanHuyen": "Yên Phong",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "yp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy hoa yen phong bac ninh",
+            "Point": null,
+            "Abbr": "th yp bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16210"
+        },
+        {
+            "MaPhuongXa": "22150",
+            "TenPhuongXa": "Đông Tiến",
+            "MaQuanHuyen": "2214",
+            "TenQuanHuyen": "Yên Phong",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "yp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tien yen phong bac ninh",
+            "Point": null,
+            "Abbr": "dt yp bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16214"
+        },
+        {
+            "MaPhuongXa": "22151",
+            "TenPhuongXa": "Yên Trung",
+            "MaQuanHuyen": "2214",
+            "TenQuanHuyen": "Yên Phong",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "yp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen trung yen phong bac ninh",
+            "Point": null,
+            "Abbr": "yt yp bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16213"
+        },
+        {
+            "MaPhuongXa": "22158",
+            "TenPhuongXa": "Hoà Tiến",
+            "MaQuanHuyen": "2214",
+            "TenQuanHuyen": "Yên Phong",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "yp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa tien yen phong bac ninh",
+            "Point": null,
+            "Abbr": "ht yp bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16216"
+        },
+        {
+            "MaPhuongXa": "22144",
+            "TenPhuongXa": "Đông Phong",
+            "MaQuanHuyen": "2214",
+            "TenQuanHuyen": "Yên Phong",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "yp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong phong yen phong bac ninh",
+            "Point": null,
+            "Abbr": "dp yp bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16209"
+        },
+        {
+            "MaPhuongXa": "22142",
+            "TenPhuongXa": "Trung Nghĩa",
+            "MaQuanHuyen": "2214",
+            "TenQuanHuyen": "Yên Phong",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "yp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung nghia yen phong bac ninh",
+            "Point": null,
+            "Abbr": "tn yp bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16207"
+        },
+        {
+            "MaPhuongXa": "22143",
+            "TenPhuongXa": "Long Châu",
+            "MaQuanHuyen": "2214",
+            "TenQuanHuyen": "Yên Phong",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "yp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long chau yen phong bac ninh",
+            "Point": null,
+            "Abbr": "lc yp bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16208"
+        },
+        {
+            "MaPhuongXa": "22140",
+            "TenPhuongXa": "Chờ",
+            "MaQuanHuyen": "2214",
+            "TenQuanHuyen": "Yên Phong",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "c",
+                    "Point": 5
+                },
+                {
+                    "Key": "yp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cho yen phong bac ninh",
+            "Point": null,
+            "Abbr": "c yp bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16206"
+        },
+        {
+            "MaPhuongXa": "22164",
+            "TenPhuongXa": "Đông Thọ",
+            "MaQuanHuyen": "2214",
+            "TenQuanHuyen": "Yên Phong",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "yp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tho yen phong bac ninh",
+            "Point": null,
+            "Abbr": "dt yp bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16219"
+        },
+        {
+            "MaPhuongXa": "22162",
+            "TenPhuongXa": "Văn Môn",
+            "MaQuanHuyen": "2214",
+            "TenQuanHuyen": "Yên Phong",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "vm",
+                    "Point": 5
+                },
+                {
+                    "Key": "yp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van mon yen phong bac ninh",
+            "Point": null,
+            "Abbr": "vm yp bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16218"
+        },
+        {
+            "MaPhuongXa": "22160",
+            "TenPhuongXa": "Yên Phụ",
+            "MaQuanHuyen": "2214",
+            "TenQuanHuyen": "Yên Phong",
+            "MaTinhThanh": "22",
+            "TenTinhThanh": "Bắc Ninh",
+            "LstSearchTag": [
+                {
+                    "Key": "yp",
+                    "Point": 5
+                },
+                {
+                    "Key": "yp",
+                    "Point": 2
+                },
+                {
+                    "Key": "bn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen phu yen phong bac ninh",
+            "Point": null,
+            "Abbr": "yp yp bn",
+            "TrangThai": null,
+            "MaBuuChinh": "16217"
+        }
+    ]
+}

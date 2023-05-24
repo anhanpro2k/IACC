@@ -1,0 +1,134 @@
+.alert {
+    background: #fff;
+    padding: 1rem 3rem 1rem 2rem;
+    max-width: 35rem;
+    width: 100%;
+    position: fixed;
+    right: 0;
+    top: 9rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 10px -5px #aaa;
+    overflow: hidden;
+    opacity: 0;
+    pointer-events: none;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem;
+}
+
+.alert.showAlert {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.alert.show {
+    animation: show_slide 1s ease forwards;
+}
+
+@keyframes show_slide {
+    0% {
+        transform: translateX(100%);
+    }
+
+    40% {
+        transform: translateX(-10%);
+    }
+
+    80% {
+        transform: translateX(0%);
+    }
+
+    100% {
+        transform: translateX(-0.8rem);
+    }
+}
+
+.alert.hide {
+    animation: hide_slide 1s ease forwards;
+}
+
+@keyframes hide_slide {
+    0% {
+        transform: translateX(-0.8rem);
+    }
+
+    40% {
+        transform: translateX(0%);
+    }
+
+    80% {
+        transform: translateX(-10%);
+    }
+
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+.alert .m-bold-text {
+    font-weight: 700;
+}
+
+.alert .m-css-icon {
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #ce8500;
+    margin-right: 0.8rem;
+}
+
+.alert .msg {
+    padding: 0 10px;
+}
+
+.alert .close-btn {
+    position: absolute;
+    right: 0px;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 20px 12px;
+    cursor: pointer;
+}
+
+.alert .close-btn .fas {
+    color: #ddd;
+}
+
+/* Success */
+.alert.success .m-css-icon {
+    color: #2cc518;
+}
+
+/* Error */
+.alert.error .m-css-icon {
+    color: #c00a0a;
+}
+
+/* --- */
+.msg-icon {
+    width: 2rem;
+    height: 2rem;
+}
+
+.msg-info .msg {
+    display: flex;
+    flex-direction: column;
+}
+
+.alert .close-btn {
+    background: transparent !important;
+}
+
+@media only screen and (max-width: 1201px) {
+    .alert {
+        top: 6rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .alert {
+        max-width: calc(100% - 1.6rem);
+    }
+}

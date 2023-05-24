@@ -1,0 +1,3808 @@
+{
+    "6535": [
+        {
+            "MaPhuongXa": "65360",
+            "TenPhuongXa": "Vạn Bình",
+            "MaQuanHuyen": "6535",
+            "TenQuanHuyen": "Vạn Ninh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vb",
+                    "Point": 5
+                },
+                {
+                    "Key": "vn",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van binh van ninh khanh hoa",
+            "Point": null,
+            "Abbr": "vb vn kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57211"
+        },
+        {
+            "MaPhuongXa": "65361",
+            "TenPhuongXa": "Vạn Phú",
+            "MaQuanHuyen": "6535",
+            "TenQuanHuyen": "Vạn Ninh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vp",
+                    "Point": 5
+                },
+                {
+                    "Key": "vn",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van phu van ninh khanh hoa",
+            "Point": null,
+            "Abbr": "vp vn kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57210"
+        },
+        {
+            "MaPhuongXa": "65362",
+            "TenPhuongXa": "Vạn Lương",
+            "MaQuanHuyen": "6535",
+            "TenQuanHuyen": "Vạn Ninh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vn",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van luong van ninh khanh hoa",
+            "Point": null,
+            "Abbr": "vl vn kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57209"
+        },
+        {
+            "MaPhuongXa": "65363",
+            "TenPhuongXa": "Xuân Sơn",
+            "MaQuanHuyen": "6535",
+            "TenQuanHuyen": "Vạn Ninh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "xs",
+                    "Point": 5
+                },
+                {
+                    "Key": "vn",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan son van ninh khanh hoa",
+            "Point": null,
+            "Abbr": "xs vn kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57208"
+        },
+        {
+            "MaPhuongXa": "65364",
+            "TenPhuongXa": "Vạn Hưng",
+            "MaQuanHuyen": "6535",
+            "TenQuanHuyen": "Vạn Ninh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vn",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van hung van ninh khanh hoa",
+            "Point": null,
+            "Abbr": "vh vn kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57207"
+        },
+        {
+            "MaPhuongXa": "65350",
+            "TenPhuongXa": "Vạn Giã",
+            "MaQuanHuyen": "6535",
+            "TenQuanHuyen": "Vạn Ninh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vg",
+                    "Point": 5
+                },
+                {
+                    "Key": "vn",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van gia van ninh khanh hoa",
+            "Point": null,
+            "Abbr": "vg vn kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57206"
+        },
+        {
+            "MaPhuongXa": "65353",
+            "TenPhuongXa": "Vạn Thắng",
+            "MaQuanHuyen": "6535",
+            "TenQuanHuyen": "Vạn Ninh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vn",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van thang van ninh khanh hoa",
+            "Point": null,
+            "Abbr": "vt vn kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57212"
+        },
+        {
+            "MaPhuongXa": "65354",
+            "TenPhuongXa": "Vạn Khánh",
+            "MaQuanHuyen": "6535",
+            "TenQuanHuyen": "Vạn Ninh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vk",
+                    "Point": 5
+                },
+                {
+                    "Key": "vn",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van khanh van ninh khanh hoa",
+            "Point": null,
+            "Abbr": "vk vn kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57213"
+        },
+        {
+            "MaPhuongXa": "65355",
+            "TenPhuongXa": "Vạn Long",
+            "MaQuanHuyen": "6535",
+            "TenQuanHuyen": "Vạn Ninh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vn",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van long van ninh khanh hoa",
+            "Point": null,
+            "Abbr": "vl vn kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57214"
+        },
+        {
+            "MaPhuongXa": "65356",
+            "TenPhuongXa": "Vạn Phước",
+            "MaQuanHuyen": "6535",
+            "TenQuanHuyen": "Vạn Ninh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vp",
+                    "Point": 5
+                },
+                {
+                    "Key": "vn",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van phuoc van ninh khanh hoa",
+            "Point": null,
+            "Abbr": "vp vn kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57215"
+        },
+        {
+            "MaPhuongXa": "65357",
+            "TenPhuongXa": "Đại Lãnh",
+            "MaQuanHuyen": "6535",
+            "TenQuanHuyen": "Vạn Ninh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vn",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai lanh van ninh khanh hoa",
+            "Point": null,
+            "Abbr": "dl vn kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57216"
+        },
+        {
+            "MaPhuongXa": "65358",
+            "TenPhuongXa": "Vạn Thọ",
+            "MaQuanHuyen": "6535",
+            "TenQuanHuyen": "Vạn Ninh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vn",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van tho van ninh khanh hoa",
+            "Point": null,
+            "Abbr": "vt vn kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57217"
+        },
+        {
+            "MaPhuongXa": "65359",
+            "TenPhuongXa": "Vạn Thạnh",
+            "MaQuanHuyen": "6535",
+            "TenQuanHuyen": "Vạn Ninh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vn",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van thanh van ninh khanh hoa",
+            "Point": null,
+            "Abbr": "vt vn kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57218"
+        }
+    ],
+    "6510": [
+        {
+            "MaPhuongXa": "65166",
+            "TenPhuongXa": "Phương Sơn",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ps",
+                    "Point": 5
+                },
+                {
+                    "Key": "s",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong son nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "s nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57119"
+        },
+        {
+            "MaPhuongXa": "65207",
+            "TenPhuongXa": "Lộc Thọ",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc tho nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "lt nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57106"
+        },
+        {
+            "MaPhuongXa": "65206",
+            "TenPhuongXa": "Vĩnh Thái",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh thai nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vt nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57123"
+        },
+        {
+            "MaPhuongXa": "65100",
+            "TenPhuongXa": "Xương Huân",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuong huan nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "xh nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57107"
+        },
+        {
+            "MaPhuongXa": "65222",
+            "TenPhuongXa": "Tân Lập",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "tl nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57127"
+        },
+        {
+            "MaPhuongXa": "65228",
+            "TenPhuongXa": "Phước Long",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc long nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "pl nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57131"
+        },
+        {
+            "MaPhuongXa": "65126",
+            "TenPhuongXa": "Vạn Thạnh",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van thanh nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vt nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57116"
+        },
+        {
+            "MaPhuongXa": "65125",
+            "TenPhuongXa": "Vĩnh Lương",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh luong nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vl nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57112"
+        },
+        {
+            "MaPhuongXa": "65194",
+            "TenPhuongXa": "Phước Tiến",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc tien nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "pt nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57126"
+        },
+        {
+            "MaPhuongXa": "65198",
+            "TenPhuongXa": "Phước Hoà",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc hoa nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "ph nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57128"
+        },
+        {
+            "MaPhuongXa": "65251",
+            "TenPhuongXa": "Vĩnh Trường",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh truong nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vt nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57130"
+        },
+        {
+            "MaPhuongXa": "65255",
+            "TenPhuongXa": "Vĩnh Hoà",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hoa nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vh nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57111"
+        },
+        {
+            "MaPhuongXa": "65156",
+            "TenPhuongXa": "Phương Sài",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ps",
+                    "Point": 5
+                },
+                {
+                    "Key": "s",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong sai nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "s nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57118"
+        },
+        {
+            "MaPhuongXa": "65172",
+            "TenPhuongXa": "Vĩnh Hiệp",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hiep nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vh nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57120"
+        },
+        {
+            "MaPhuongXa": "65173",
+            "TenPhuongXa": "Vĩnh Trung",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh trung nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vt nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57122"
+        },
+        {
+            "MaPhuongXa": "65171",
+            "TenPhuongXa": "Vĩnh Thạnh",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh thanh nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vt nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57121"
+        },
+        {
+            "MaPhuongXa": "65174",
+            "TenPhuongXa": "Phước Tân",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc tan nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "pt nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57125"
+        },
+        {
+            "MaPhuongXa": "65179",
+            "TenPhuongXa": "Phước Hải",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc hai nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "ph nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57124"
+        },
+        {
+            "MaPhuongXa": "65113",
+            "TenPhuongXa": "Vĩnh Phước",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vp",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh phuoc nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vp nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57109"
+        },
+        {
+            "MaPhuongXa": "65110",
+            "TenPhuongXa": "Vĩnh Thọ",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh tho nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vt nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57108"
+        },
+        {
+            "MaPhuongXa": "65119",
+            "TenPhuongXa": "Vĩnh Hải",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hai nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vh nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57110"
+        },
+        {
+            "MaPhuongXa": "65138",
+            "TenPhuongXa": "Ngọc Hiệp",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc hiep nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "nh nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57115"
+        },
+        {
+            "MaPhuongXa": "65245",
+            "TenPhuongXa": "Vĩnh Nguyên",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vn",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh nguyen nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vn nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57129"
+        },
+        {
+            "MaPhuongXa": "65244",
+            "TenPhuongXa": "Phước Đồng",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc dong nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "pd nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57132"
+        },
+        {
+            "MaPhuongXa": "65142",
+            "TenPhuongXa": "Vĩnh Ngọc",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vn",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh ngoc nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vn nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57114"
+        },
+        {
+            "MaPhuongXa": "65146",
+            "TenPhuongXa": "Vạn Thắng",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van thang nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vt nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57117"
+        },
+        {
+            "MaPhuongXa": "65144",
+            "TenPhuongXa": "Vĩnh Phương",
+            "MaQuanHuyen": "6510",
+            "TenQuanHuyen": "Nha Trang",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "vp",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh phuong nha trang khanh hoa",
+            "Point": null,
+            "Abbr": "vp nt kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57113"
+        }
+    ],
+    "6544": [
+        {
+            "MaPhuongXa": "65469",
+            "TenPhuongXa": "Cam Thịnh Tây",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ctt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam thinh tay cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "ctt cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57813"
+        },
+        {
+            "MaPhuongXa": "65468",
+            "TenPhuongXa": "Cam Phước Đông",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cpd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam phuoc dong cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "cpd cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57812"
+        },
+        {
+            "MaPhuongXa": "65455",
+            "TenPhuongXa": "Cam Thành Nam",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ctn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam thanh nam cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "ctn cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57818"
+        },
+        {
+            "MaPhuongXa": "65453",
+            "TenPhuongXa": "Cam Nghĩa",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam nghia cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "cn cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57817"
+        },
+        {
+            "MaPhuongXa": "65452",
+            "TenPhuongXa": "Cam Phúc Bắc",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cpb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam phuc bac cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "cpb cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57819"
+        },
+        {
+            "MaPhuongXa": "65451",
+            "TenPhuongXa": "Cam Phúc Nam",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cpn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam phuc nam cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "cpn cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57820"
+        },
+        {
+            "MaPhuongXa": "65472",
+            "TenPhuongXa": "Cam Bình",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam binh cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "cb cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57816"
+        },
+        {
+            "MaPhuongXa": "65471",
+            "TenPhuongXa": "Cam Lập",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam lap cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "cl cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57815"
+        },
+        {
+            "MaPhuongXa": "65470",
+            "TenPhuongXa": "Cam Thịnh Đông",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ctd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam thinh dong cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "ctd cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57814"
+        },
+        {
+            "MaPhuongXa": "65447",
+            "TenPhuongXa": "Cam Lộc",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam loc cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "cl cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57807"
+        },
+        {
+            "MaPhuongXa": "65446",
+            "TenPhuongXa": "Cam Thuận",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam thuan cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "ct cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57808"
+        },
+        {
+            "MaPhuongXa": "65444",
+            "TenPhuongXa": "Cam Linh",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam linh cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "cl cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57809"
+        },
+        {
+            "MaPhuongXa": "65442",
+            "TenPhuongXa": "Cam Lợi",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam loi cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "cl cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57810"
+        },
+        {
+            "MaPhuongXa": "65440",
+            "TenPhuongXa": "Ba Ngòi",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba ngoi cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "bn cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57811"
+        },
+        {
+            "MaPhuongXa": "65449",
+            "TenPhuongXa": "Cam Phú",
+            "MaQuanHuyen": "6544",
+            "TenQuanHuyen": "Cam Ranh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cr",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam phu cam ranh khanh hoa",
+            "Point": null,
+            "Abbr": "cp cr kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57806"
+        }
+    ],
+    "6529": [
+        {
+            "MaPhuongXa": "65300",
+            "TenPhuongXa": "Ninh Thọ",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh tho ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nt nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57326"
+        },
+        {
+            "MaPhuongXa": "65302",
+            "TenPhuongXa": "Ninh Hải",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh hai ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nh nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57327"
+        },
+        {
+            "MaPhuongXa": "65304",
+            "TenPhuongXa": "Ninh Đông",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh dong ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nd nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57324"
+        },
+        {
+            "MaPhuongXa": "65305",
+            "TenPhuongXa": "Ninh An",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "na",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh an ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "na nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57322"
+        },
+        {
+            "MaPhuongXa": "65307",
+            "TenPhuongXa": "Ninh Trung",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh trung ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nt nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57323"
+        },
+        {
+            "MaPhuongXa": "65309",
+            "TenPhuongXa": "Ninh Sơn",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh son ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "ns nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57321"
+        },
+        {
+            "MaPhuongXa": "65320",
+            "TenPhuongXa": "Ninh Bình",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nb",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh binh ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nb nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57310"
+        },
+        {
+            "MaPhuongXa": "65322",
+            "TenPhuongXa": "Ninh Quang",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nq",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh quang ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nq nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57311"
+        },
+        {
+            "MaPhuongXa": "65324",
+            "TenPhuongXa": "Ninh Tân",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh tan ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nt nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57317"
+        },
+        {
+            "MaPhuongXa": "65325",
+            "TenPhuongXa": "Ninh Hưng",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh hung ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nh nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57316"
+        },
+        {
+            "MaPhuongXa": "65326",
+            "TenPhuongXa": "Ninh Lộc",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh loc ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nl nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57314"
+        },
+        {
+            "MaPhuongXa": "65328",
+            "TenPhuongXa": "Ninh Ích",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ni",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh ich ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "ni nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57315"
+        },
+        {
+            "MaPhuongXa": "65290",
+            "TenPhuongXa": "Ninh Hiệp",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh hiep ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nh nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57306"
+        },
+        {
+            "MaPhuongXa": "65295",
+            "TenPhuongXa": "Ninh Đa",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh da ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nd nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57325"
+        },
+        {
+            "MaPhuongXa": "65297",
+            "TenPhuongXa": "Ninh Diêm",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh diem ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nd nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57328"
+        },
+        {
+            "MaPhuongXa": "65298",
+            "TenPhuongXa": "Ninh Thủy",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh thuy ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nt nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57329"
+        },
+        {
+            "MaPhuongXa": "65310",
+            "TenPhuongXa": "Ninh Phụng",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh phung ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "np nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57308"
+        },
+        {
+            "MaPhuongXa": "65312",
+            "TenPhuongXa": "Ninh Thân",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh than ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nt nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57307"
+        },
+        {
+            "MaPhuongXa": "65314",
+            "TenPhuongXa": "Ninh Thượng",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh thuong ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nt nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57320"
+        },
+        {
+            "MaPhuongXa": "65316",
+            "TenPhuongXa": "Ninh Tây",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh tay ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nt nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57319"
+        },
+        {
+            "MaPhuongXa": "65318",
+            "TenPhuongXa": "Ninh Xuân",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nx",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh xuan ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nx nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57309"
+        },
+        {
+            "MaPhuongXa": "65319",
+            "TenPhuongXa": "Ninh Sim",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh sim ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "ns nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57318"
+        },
+        {
+            "MaPhuongXa": "65330",
+            "TenPhuongXa": "Ninh Giang",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ng",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh giang ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "ng nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57312"
+        },
+        {
+            "MaPhuongXa": "65332",
+            "TenPhuongXa": "Ninh Hà",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh ha ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nh nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57313"
+        },
+        {
+            "MaPhuongXa": "65333",
+            "TenPhuongXa": "Ninh Phú",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh phu ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "np nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57330"
+        },
+        {
+            "MaPhuongXa": "65335",
+            "TenPhuongXa": "Ninh Phước",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh phuoc ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "np nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57331"
+        },
+        {
+            "MaPhuongXa": "65336",
+            "TenPhuongXa": "Ninh Vân",
+            "MaQuanHuyen": "6529",
+            "TenQuanHuyen": "Ninh Hòa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "nv",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh van ninh hoa khanh hoa",
+            "Point": null,
+            "Abbr": "nv nh kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57332"
+        }
+    ],
+    "6540": [
+        {
+            "MaPhuongXa": "65407",
+            "TenPhuongXa": "Khánh Thượng",
+            "MaQuanHuyen": "6540",
+            "TenQuanHuyen": "Khánh Vĩnh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kv",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh thuong khanh vinh khanh hoa",
+            "Point": null,
+            "Abbr": "kt kv kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57414"
+        },
+        {
+            "MaPhuongXa": "65406",
+            "TenPhuongXa": "Khánh Hiệp",
+            "MaQuanHuyen": "6540",
+            "TenQuanHuyen": "Khánh Vĩnh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "kh",
+                    "Point": 5
+                },
+                {
+                    "Key": "kv",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh hiep khanh vinh khanh hoa",
+            "Point": null,
+            "Abbr": "kh kv kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57417"
+        },
+        {
+            "MaPhuongXa": "65405",
+            "TenPhuongXa": "Khánh Bình",
+            "MaQuanHuyen": "6540",
+            "TenQuanHuyen": "Khánh Vĩnh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "kb",
+                    "Point": 5
+                },
+                {
+                    "Key": "kv",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh binh khanh vinh khanh hoa",
+            "Point": null,
+            "Abbr": "kb kv kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57418"
+        },
+        {
+            "MaPhuongXa": "65404",
+            "TenPhuongXa": "Khánh Đông",
+            "MaQuanHuyen": "6540",
+            "TenQuanHuyen": "Khánh Vĩnh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "kd",
+                    "Point": 5
+                },
+                {
+                    "Key": "kv",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh dong khanh vinh khanh hoa",
+            "Point": null,
+            "Abbr": "kd kv kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57419"
+        },
+        {
+            "MaPhuongXa": "65403",
+            "TenPhuongXa": "Khánh Trung",
+            "MaQuanHuyen": "6540",
+            "TenQuanHuyen": "Khánh Vĩnh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kv",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh trung khanh vinh khanh hoa",
+            "Point": null,
+            "Abbr": "kt kv kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57416"
+        },
+        {
+            "MaPhuongXa": "65402",
+            "TenPhuongXa": "Khánh Nam",
+            "MaQuanHuyen": "6540",
+            "TenQuanHuyen": "Khánh Vĩnh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "kn",
+                    "Point": 5
+                },
+                {
+                    "Key": "kv",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh nam khanh vinh khanh hoa",
+            "Point": null,
+            "Abbr": "kn kv kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57415"
+        },
+        {
+            "MaPhuongXa": "65400",
+            "TenPhuongXa": "Khánh Vĩnh",
+            "MaQuanHuyen": "6540",
+            "TenQuanHuyen": "Khánh Vĩnh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "kv",
+                    "Point": 5
+                },
+                {
+                    "Key": "kv",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh vinh khanh vinh khanh hoa",
+            "Point": null,
+            "Abbr": "kv kv kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57406"
+        },
+        {
+            "MaPhuongXa": "65409",
+            "TenPhuongXa": "Cầu Bà",
+            "MaQuanHuyen": "6540",
+            "TenQuanHuyen": "Khánh Vĩnh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "kv",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cau ba khanh vinh khanh hoa",
+            "Point": null,
+            "Abbr": "cb kv kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57410"
+        },
+        {
+            "MaPhuongXa": "65408",
+            "TenPhuongXa": "Giang Ly",
+            "MaQuanHuyen": "6540",
+            "TenQuanHuyen": "Khánh Vĩnh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "gl",
+                    "Point": 5
+                },
+                {
+                    "Key": "kv",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giang ly khanh vinh khanh hoa",
+            "Point": null,
+            "Abbr": "gl kv kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57413"
+        },
+        {
+            "MaPhuongXa": "65414",
+            "TenPhuongXa": "Khánh Phú",
+            "MaQuanHuyen": "6540",
+            "TenQuanHuyen": "Khánh Vĩnh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "kp",
+                    "Point": 5
+                },
+                {
+                    "Key": "kv",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh phu khanh vinh khanh hoa",
+            "Point": null,
+            "Abbr": "kp kv kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57408"
+        },
+        {
+            "MaPhuongXa": "65413",
+            "TenPhuongXa": "Sông Cầu",
+            "MaQuanHuyen": "6540",
+            "TenQuanHuyen": "Khánh Vĩnh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "sc",
+                    "Point": 5
+                },
+                {
+                    "Key": "kv",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song cau khanh vinh khanh hoa",
+            "Point": null,
+            "Abbr": "sc kv kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57407"
+        },
+        {
+            "MaPhuongXa": "65412",
+            "TenPhuongXa": "Khánh Thành",
+            "MaQuanHuyen": "6540",
+            "TenQuanHuyen": "Khánh Vĩnh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kv",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh thanh khanh vinh khanh hoa",
+            "Point": null,
+            "Abbr": "kt kv kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57409"
+        },
+        {
+            "MaPhuongXa": "65411",
+            "TenPhuongXa": "Liên Sang",
+            "MaQuanHuyen": "6540",
+            "TenQuanHuyen": "Khánh Vĩnh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "kv",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien sang khanh vinh khanh hoa",
+            "Point": null,
+            "Abbr": "ls kv kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57411"
+        },
+        {
+            "MaPhuongXa": "65410",
+            "TenPhuongXa": "Sơn Thái",
+            "MaQuanHuyen": "6540",
+            "TenQuanHuyen": "Khánh Vĩnh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "kv",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son thai khanh vinh khanh hoa",
+            "Point": null,
+            "Abbr": "st kv kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57412"
+        }
+    ],
+    "6542": [
+        {
+            "MaPhuongXa": "65427",
+            "TenPhuongXa": "Ba Cụm Nam",
+            "MaQuanHuyen": "6542",
+            "TenQuanHuyen": "Khánh Sơn",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "bcn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ks",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba cum nam khanh son khanh hoa",
+            "Point": null,
+            "Abbr": "bcn ks kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57558"
+        },
+        {
+            "MaPhuongXa": "65426",
+            "TenPhuongXa": "Sơn Bình",
+            "MaQuanHuyen": "6542",
+            "TenQuanHuyen": "Khánh Sơn",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "sb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ks",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son binh khanh son khanh hoa",
+            "Point": null,
+            "Abbr": "sb ks kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57559"
+        },
+        {
+            "MaPhuongXa": "65425",
+            "TenPhuongXa": "Thành Sơn",
+            "MaQuanHuyen": "6542",
+            "TenQuanHuyen": "Khánh Sơn",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "ks",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh son khanh son khanh hoa",
+            "Point": null,
+            "Abbr": "ts ks kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57560"
+        },
+        {
+            "MaPhuongXa": "65424",
+            "TenPhuongXa": "Sơn Lâm",
+            "MaQuanHuyen": "6542",
+            "TenQuanHuyen": "Khánh Sơn",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ks",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son lam khanh son khanh hoa",
+            "Point": null,
+            "Abbr": "sl ks kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57561"
+        },
+        {
+            "MaPhuongXa": "65423",
+            "TenPhuongXa": "Sơn Hiệp",
+            "MaQuanHuyen": "6542",
+            "TenQuanHuyen": "Khánh Sơn",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "sh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ks",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son hiep khanh son khanh hoa",
+            "Point": null,
+            "Abbr": "sh ks kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57562"
+        },
+        {
+            "MaPhuongXa": "65422",
+            "TenPhuongXa": "Sơn Trung",
+            "MaQuanHuyen": "6542",
+            "TenQuanHuyen": "Khánh Sơn",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "ks",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son trung khanh son khanh hoa",
+            "Point": null,
+            "Abbr": "st ks kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57563"
+        },
+        {
+            "MaPhuongXa": "65420",
+            "TenPhuongXa": "Tô Hạp",
+            "MaQuanHuyen": "6542",
+            "TenQuanHuyen": "Khánh Sơn",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ks",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "to hap khanh son khanh hoa",
+            "Point": null,
+            "Abbr": "th ks kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57556"
+        },
+        {
+            "MaPhuongXa": "65428",
+            "TenPhuongXa": "Ba Cụm Bắc",
+            "MaQuanHuyen": "6542",
+            "TenQuanHuyen": "Khánh Sơn",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "bcb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ks",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba cum bac khanh son khanh hoa",
+            "Point": null,
+            "Abbr": "bcb ks kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57557"
+        }
+    ],
+    "6552": [
+        {
+            "MaPhuongXa": "65526",
+            "TenPhuongXa": "Cam Hiệp Bắc",
+            "MaQuanHuyen": "6552",
+            "TenQuanHuyen": "Cam Lâm",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "chb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam hiep bac cam lam khanh hoa",
+            "Point": null,
+            "Abbr": "chb cl kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57607"
+        },
+        {
+            "MaPhuongXa": "65527",
+            "TenPhuongXa": "Cam Hiệp Nam",
+            "MaQuanHuyen": "6552",
+            "TenQuanHuyen": "Cam Lâm",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "chn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam hiep nam cam lam khanh hoa",
+            "Point": null,
+            "Abbr": "chn cl kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57608"
+        },
+        {
+            "MaPhuongXa": "65524",
+            "TenPhuongXa": "Cam Hải Đông",
+            "MaQuanHuyen": "6552",
+            "TenQuanHuyen": "Cam Lâm",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "chd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam hai dong cam lam khanh hoa",
+            "Point": null,
+            "Abbr": "chd cl kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57615"
+        },
+        {
+            "MaPhuongXa": "65525",
+            "TenPhuongXa": "Cam Hải Tây",
+            "MaQuanHuyen": "6552",
+            "TenQuanHuyen": "Cam Lâm",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cht",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam hai tay cam lam khanh hoa",
+            "Point": null,
+            "Abbr": "cht cl kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57614"
+        },
+        {
+            "MaPhuongXa": "65522",
+            "TenPhuongXa": "Cam Đức",
+            "MaQuanHuyen": "6552",
+            "TenQuanHuyen": "Cam Lâm",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam duc cam lam khanh hoa",
+            "Point": null,
+            "Abbr": "cd cl kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57606"
+        },
+        {
+            "MaPhuongXa": "65520",
+            "TenPhuongXa": "Cam An Bắc",
+            "MaQuanHuyen": "6552",
+            "TenQuanHuyen": "Cam Lâm",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cab",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam an bac cam lam khanh hoa",
+            "Point": null,
+            "Abbr": "cab cl kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57611"
+        },
+        {
+            "MaPhuongXa": "65521",
+            "TenPhuongXa": "Cam An Nam",
+            "MaQuanHuyen": "6552",
+            "TenQuanHuyen": "Cam Lâm",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "can",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam an nam cam lam khanh hoa",
+            "Point": null,
+            "Abbr": "can cl kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57610"
+        },
+        {
+            "MaPhuongXa": "65528",
+            "TenPhuongXa": "Cam Hoà",
+            "MaQuanHuyen": "6552",
+            "TenQuanHuyen": "Cam Lâm",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam hoa cam lam khanh hoa",
+            "Point": null,
+            "Abbr": "ch cl kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57616"
+        },
+        {
+            "MaPhuongXa": "65529",
+            "TenPhuongXa": "Cam Phước Tây",
+            "MaQuanHuyen": "6552",
+            "TenQuanHuyen": "Cam Lâm",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "cpt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam phuoc tay cam lam khanh hoa",
+            "Point": null,
+            "Abbr": "cpt cl kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57612"
+        },
+        {
+            "MaPhuongXa": "65534",
+            "TenPhuongXa": "Suối Cát",
+            "MaQuanHuyen": "6552",
+            "TenQuanHuyen": "Cam Lâm",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "sc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi cat cam lam khanh hoa",
+            "Point": null,
+            "Abbr": "sc cl kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57619"
+        },
+        {
+            "MaPhuongXa": "65535",
+            "TenPhuongXa": "Suối Tân",
+            "MaQuanHuyen": "6552",
+            "TenQuanHuyen": "Cam Lâm",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi tan cam lam khanh hoa",
+            "Point": null,
+            "Abbr": "st cl kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57618"
+        },
+        {
+            "MaPhuongXa": "65533",
+            "TenPhuongXa": "Sơn Tân",
+            "MaQuanHuyen": "6552",
+            "TenQuanHuyen": "Cam Lâm",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son tan cam lam khanh hoa",
+            "Point": null,
+            "Abbr": "st cl kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57613"
+        },
+        {
+            "MaPhuongXa": "65530",
+            "TenPhuongXa": "Cam Tân",
+            "MaQuanHuyen": "6552",
+            "TenQuanHuyen": "Cam Lâm",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam tan cam lam khanh hoa",
+            "Point": null,
+            "Abbr": "ct cl kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57617"
+        },
+        {
+            "MaPhuongXa": "65531",
+            "TenPhuongXa": "Cam Thành Bắc",
+            "MaQuanHuyen": "6552",
+            "TenQuanHuyen": "Cam Lâm",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ctb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam thanh bac cam lam khanh hoa",
+            "Point": null,
+            "Abbr": "ctb cl kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57609"
+        }
+    ],
+    "6537": [
+        {
+            "MaPhuongXa": "65391",
+            "TenPhuongXa": "Diên Toàn",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien toan dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "dt dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57523"
+        },
+        {
+            "MaPhuongXa": "65392",
+            "TenPhuongXa": "Diên An",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "da",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien an dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "da dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57524"
+        },
+        {
+            "MaPhuongXa": "65370",
+            "TenPhuongXa": "Diên Khánh",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien khanh dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "dk dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57506"
+        },
+        {
+            "MaPhuongXa": "65373",
+            "TenPhuongXa": "Diên Phú",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien phu dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "dp dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57507"
+        },
+        {
+            "MaPhuongXa": "65374",
+            "TenPhuongXa": "Diên Điền",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien dien dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "dd dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57508"
+        },
+        {
+            "MaPhuongXa": "65375",
+            "TenPhuongXa": "Diên Sơn",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien son dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "ds dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57509"
+        },
+        {
+            "MaPhuongXa": "65376",
+            "TenPhuongXa": "Diên Lâm",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien lam dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "dl dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57510"
+        },
+        {
+            "MaPhuongXa": "65377",
+            "TenPhuongXa": "Diên Xuân",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dx",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien xuan dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "dx dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57511"
+        },
+        {
+            "MaPhuongXa": "65378",
+            "TenPhuongXa": "Diên Đồng",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien dong dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "dd dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57512"
+        },
+        {
+            "MaPhuongXa": "65379",
+            "TenPhuongXa": "Diên Lạc",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien lac dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "dl dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57519"
+        },
+        {
+            "MaPhuongXa": "65380",
+            "TenPhuongXa": "Diên Phước",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien phuoc dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "dp dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57518"
+        },
+        {
+            "MaPhuongXa": "65381",
+            "TenPhuongXa": "Diên Thọ",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien tho dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "dt dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57513"
+        },
+        {
+            "MaPhuongXa": "65382",
+            "TenPhuongXa": "Diên Hoà",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien hoa dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "dh dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57517"
+        },
+        {
+            "MaPhuongXa": "65383",
+            "TenPhuongXa": "Diên Lộc",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien loc dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "dl dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57516"
+        },
+        {
+            "MaPhuongXa": "65384",
+            "TenPhuongXa": "Diên Tân",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien tan dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "dt dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57514"
+        },
+        {
+            "MaPhuongXa": "65385",
+            "TenPhuongXa": "Diên Bình",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien binh dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "db dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57521"
+        },
+        {
+            "MaPhuongXa": "65386",
+            "TenPhuongXa": "Suối Tiên",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi tien dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "st dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57515"
+        },
+        {
+            "MaPhuongXa": "65388",
+            "TenPhuongXa": "Diên Thạnh",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien thanh dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "dt dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57520"
+        },
+        {
+            "MaPhuongXa": "65389",
+            "TenPhuongXa": "Suối Hiệp",
+            "MaQuanHuyen": "6537",
+            "TenQuanHuyen": "Diên Khánh",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "sh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dk",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi hiep dien khanh khanh hoa",
+            "Point": null,
+            "Abbr": "sh dk kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57522"
+        }
+    ],
+    "6548": [
+        {
+            "MaPhuongXa": "65482",
+            "TenPhuongXa": "Trường Sa",
+            "MaQuanHuyen": "6548",
+            "TenQuanHuyen": "Trường Sa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truong sa truong sa khanh hoa",
+            "Point": null,
+            "Abbr": "ts ts kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57906"
+        },
+        {
+            "MaPhuongXa": "65481",
+            "TenPhuongXa": "Sinh Tồn",
+            "MaQuanHuyen": "6548",
+            "TenQuanHuyen": "Trường Sa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sinh ton truong sa khanh hoa",
+            "Point": null,
+            "Abbr": "st ts kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57907"
+        },
+        {
+            "MaPhuongXa": "65480",
+            "TenPhuongXa": "Song Tử Tây",
+            "MaQuanHuyen": "6548",
+            "TenQuanHuyen": "Trường Sa",
+            "MaTinhThanh": "65",
+            "TenTinhThanh": "Khánh Hoà",
+            "LstSearchTag": [
+                {
+                    "Key": "stt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ts",
+                    "Point": 2
+                },
+                {
+                    "Key": "kh",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song tu tay truong sa khanh hoa",
+            "Point": null,
+            "Abbr": "stt ts kh",
+            "TrangThai": null,
+            "MaBuuChinh": "57908"
+        }
+    ]
+}

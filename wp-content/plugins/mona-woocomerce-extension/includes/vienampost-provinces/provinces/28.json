@@ -1,0 +1,3723 @@
+{
+    "2823": [
+        {
+            "MaPhuongXa": "28235",
+            "TenPhuongXa": "Vĩnh Sơn",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "vs",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh son vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "vs vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15611"
+        },
+        {
+            "MaPhuongXa": "28237",
+            "TenPhuongXa": "Chấn Hưng",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chan hung vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "ch vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15616"
+        },
+        {
+            "MaPhuongXa": "28236",
+            "TenPhuongXa": "Đại Đồng",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai dong vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "dd vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15613"
+        },
+        {
+            "MaPhuongXa": "28231",
+            "TenPhuongXa": "Vân Xuân",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "vx",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van xuan vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "vx vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15608"
+        },
+        {
+            "MaPhuongXa": "28230",
+            "TenPhuongXa": "Vĩnh Tường",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh tuong vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "vt vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15606"
+        },
+        {
+            "MaPhuongXa": "28233",
+            "TenPhuongXa": "Bình Dương",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh duong vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "bd vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15610"
+        },
+        {
+            "MaPhuongXa": "28232",
+            "TenPhuongXa": "Vũ Di",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "vd",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vu di vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "vd vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15609"
+        },
+        {
+            "MaPhuongXa": "28239",
+            "TenPhuongXa": "Nghĩa Hưng",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia hung vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "nh vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15615"
+        },
+        {
+            "MaPhuongXa": "28238",
+            "TenPhuongXa": "Yên Bình",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "yb",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen binh vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "yb vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15617"
+        },
+        {
+            "MaPhuongXa": "28255",
+            "TenPhuongXa": "Tuân Chính",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tuan chinh vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "tc vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15628"
+        },
+        {
+            "MaPhuongXa": "28254",
+            "TenPhuongXa": "Lý Nhân",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "ln",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ly nhan vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "ln vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15627"
+        },
+        {
+            "MaPhuongXa": "28257",
+            "TenPhuongXa": "An Tường",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an tuong vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "at vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15629"
+        },
+        {
+            "MaPhuongXa": "28251",
+            "TenPhuongXa": "Cao Đại",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao dai vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "cd vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15623"
+        },
+        {
+            "MaPhuongXa": "28250",
+            "TenPhuongXa": "Tân Phú",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phu vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "tp vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15624"
+        },
+        {
+            "MaPhuongXa": "28253",
+            "TenPhuongXa": "Phú Thịnh",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thinh vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "pt vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15626"
+        },
+        {
+            "MaPhuongXa": "28252",
+            "TenPhuongXa": "Bồ Sao",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "bs",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bo sao vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "bs vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15622"
+        },
+        {
+            "MaPhuongXa": "28259",
+            "TenPhuongXa": "Vĩnh Thịnh",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh thinh vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "vt vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15630"
+        },
+        {
+            "MaPhuongXa": "28258",
+            "TenPhuongXa": "Tam Phúc",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam phuc vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "tp vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15634"
+        },
+        {
+            "MaPhuongXa": "28265",
+            "TenPhuongXa": "Phú Đa",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu da vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "pd vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15632"
+        },
+        {
+            "MaPhuongXa": "28267",
+            "TenPhuongXa": "Vĩnh Ninh",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "vn",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh ninh vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "vn vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15631"
+        },
+        {
+            "MaPhuongXa": "28261",
+            "TenPhuongXa": "Tứ Trưng",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu trung vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "tt vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15607"
+        },
+        {
+            "MaPhuongXa": "28263",
+            "TenPhuongXa": "Ngũ Kiên",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "nk",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngu kien vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "nk vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15633"
+        },
+        {
+            "MaPhuongXa": "28245",
+            "TenPhuongXa": "Yên Lập",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "yl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen lap vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "yl vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15619"
+        },
+        {
+            "MaPhuongXa": "28244",
+            "TenPhuongXa": "Tân Tiến",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tien vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "tt vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15614"
+        },
+        {
+            "MaPhuongXa": "28247",
+            "TenPhuongXa": "Việt Xuân",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "vx",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet xuan vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "vx vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15620"
+        },
+        {
+            "MaPhuongXa": "28246",
+            "TenPhuongXa": "Lũng Hòa",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung hoa vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "lh vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15621"
+        },
+        {
+            "MaPhuongXa": "28240",
+            "TenPhuongXa": "Kim Xá",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "kx",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim xa vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "kx vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15618"
+        },
+        {
+            "MaPhuongXa": "28242",
+            "TenPhuongXa": "Thổ Tang",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tho tang vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "tt vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15612"
+        },
+        {
+            "MaPhuongXa": "28248",
+            "TenPhuongXa": "Thượng Trưng",
+            "MaQuanHuyen": "2823",
+            "TenQuanHuyen": "Vĩnh Tường",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong trung vinh tuong vinh phuc",
+            "Point": null,
+            "Abbr": "tt vt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15625"
+        }
+    ],
+    "2831": [
+        {
+            "MaPhuongXa": "28335",
+            "TenPhuongXa": "Quang Yên",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "qy",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang yen song lo vinh phuc",
+            "Point": null,
+            "Abbr": "qy sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15510"
+        },
+        {
+            "MaPhuongXa": "28337",
+            "TenPhuongXa": "Tam Sơn",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam son song lo vinh phuc",
+            "Point": null,
+            "Abbr": "ts sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15506"
+        },
+        {
+            "MaPhuongXa": "28331",
+            "TenPhuongXa": "Như Thụy",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhu thuy song lo vinh phuc",
+            "Point": null,
+            "Abbr": "nt sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15516"
+        },
+        {
+            "MaPhuongXa": "28333",
+            "TenPhuongXa": "Phương Khoan",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "pk",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong khoan song lo vinh phuc",
+            "Point": null,
+            "Abbr": "k sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15515"
+        },
+        {
+            "MaPhuongXa": "28339",
+            "TenPhuongXa": "Tân Lập",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap song lo vinh phuc",
+            "Point": null,
+            "Abbr": "tl sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15522"
+        },
+        {
+            "MaPhuongXa": "28473",
+            "TenPhuongXa": "Yên Thạch",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen thach song lo vinh phuc",
+            "Point": null,
+            "Abbr": "yt sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15521"
+        },
+        {
+            "MaPhuongXa": "28471",
+            "TenPhuongXa": "Tứ Yên",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "ty",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu yen song lo vinh phuc",
+            "Point": null,
+            "Abbr": "ty sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15517"
+        },
+        {
+            "MaPhuongXa": "28315",
+            "TenPhuongXa": "Đồng Quế",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dq",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong que song lo vinh phuc",
+            "Point": null,
+            "Abbr": "dq sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15508"
+        },
+        {
+            "MaPhuongXa": "28317",
+            "TenPhuongXa": "Đồng Thịnh",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong thinh song lo vinh phuc",
+            "Point": null,
+            "Abbr": "dt sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15520"
+        },
+        {
+            "MaPhuongXa": "28310",
+            "TenPhuongXa": "Bạch Lưu",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bach luu song lo vinh phuc",
+            "Point": null,
+            "Abbr": "bl sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15511"
+        },
+        {
+            "MaPhuongXa": "28311",
+            "TenPhuongXa": "Cao Phong",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao phong song lo vinh phuc",
+            "Point": null,
+            "Abbr": "cp sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15519"
+        },
+        {
+            "MaPhuongXa": "28313",
+            "TenPhuongXa": "Đôn Nhân",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "don nhan song lo vinh phuc",
+            "Point": null,
+            "Abbr": "dn sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15514"
+        },
+        {
+            "MaPhuongXa": "28325",
+            "TenPhuongXa": "Lãng Công",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lang cong song lo vinh phuc",
+            "Point": null,
+            "Abbr": "lc sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15509"
+        },
+        {
+            "MaPhuongXa": "28327",
+            "TenPhuongXa": "Nhân Đạo",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhan dao song lo vinh phuc",
+            "Point": null,
+            "Abbr": "nd sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15513"
+        },
+        {
+            "MaPhuongXa": "28320",
+            "TenPhuongXa": "Đức Bác",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc bac song lo vinh phuc",
+            "Point": null,
+            "Abbr": "db sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15518"
+        },
+        {
+            "MaPhuongXa": "28322",
+            "TenPhuongXa": "Hải Lựu",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai luu song lo vinh phuc",
+            "Point": null,
+            "Abbr": "hl sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15512"
+        },
+        {
+            "MaPhuongXa": "28329",
+            "TenPhuongXa": "Nhạo Sơn",
+            "MaQuanHuyen": "2831",
+            "TenQuanHuyen": "Sông Lô",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhao son song lo vinh phuc",
+            "Point": null,
+            "Abbr": "ns sl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15507"
+        }
+    ],
+    "2812": [
+        {
+            "MaPhuongXa": "28137",
+            "TenPhuongXa": "Tân Phong",
+            "MaQuanHuyen": "2812",
+            "TenQuanHuyen": "Bình Xuyên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phong binh xuyen vinh phuc",
+            "Point": null,
+            "Abbr": "tp bx vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15815"
+        },
+        {
+            "MaPhuongXa": "28135",
+            "TenPhuongXa": "Quất Lưu",
+            "MaQuanHuyen": "2812",
+            "TenQuanHuyen": "Bình Xuyên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "ql",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quat luu binh xuyen vinh phuc",
+            "Point": null,
+            "Abbr": "ql bx vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15814"
+        },
+        {
+            "MaPhuongXa": "28133",
+            "TenPhuongXa": "Gia Khánh",
+            "MaQuanHuyen": "2812",
+            "TenQuanHuyen": "Bình Xuyên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "gk",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia khanh binh xuyen vinh phuc",
+            "Point": null,
+            "Abbr": "gk bx vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15811"
+        },
+        {
+            "MaPhuongXa": "28131",
+            "TenPhuongXa": "Hương Sơn",
+            "MaQuanHuyen": "2812",
+            "TenQuanHuyen": "Bình Xuyên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong son binh xuyen vinh phuc",
+            "Point": null,
+            "Abbr": "hs bx vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15812"
+        },
+        {
+            "MaPhuongXa": "28139",
+            "TenPhuongXa": "Thanh Lãng",
+            "MaQuanHuyen": "2812",
+            "TenQuanHuyen": "Bình Xuyên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh lang binh xuyen vinh phuc",
+            "Point": null,
+            "Abbr": "tl bx vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15816"
+        },
+        {
+            "MaPhuongXa": "28126",
+            "TenPhuongXa": "Tam Hợp",
+            "MaQuanHuyen": "2812",
+            "TenQuanHuyen": "Bình Xuyên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam hop binh xuyen vinh phuc",
+            "Point": null,
+            "Abbr": "th bx vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15813"
+        },
+        {
+            "MaPhuongXa": "28125",
+            "TenPhuongXa": "Trung Mỹ",
+            "MaQuanHuyen": "2812",
+            "TenQuanHuyen": "Bình Xuyên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung my binh xuyen vinh phuc",
+            "Point": null,
+            "Abbr": "tm bx vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15809"
+        },
+        {
+            "MaPhuongXa": "28122",
+            "TenPhuongXa": "Bá Hiến",
+            "MaQuanHuyen": "2812",
+            "TenQuanHuyen": "Bình Xuyên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ba hien binh xuyen vinh phuc",
+            "Point": null,
+            "Abbr": "bh bx vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15808"
+        },
+        {
+            "MaPhuongXa": "28120",
+            "TenPhuongXa": "Hương Canh",
+            "MaQuanHuyen": "2812",
+            "TenQuanHuyen": "Bình Xuyên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong canh binh xuyen vinh phuc",
+            "Point": null,
+            "Abbr": "hc bx vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15806"
+        },
+        {
+            "MaPhuongXa": "28121",
+            "TenPhuongXa": "Sơn Lôi",
+            "MaQuanHuyen": "2812",
+            "TenQuanHuyen": "Bình Xuyên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son loi binh xuyen vinh phuc",
+            "Point": null,
+            "Abbr": "sl bx vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15807"
+        },
+        {
+            "MaPhuongXa": "28128",
+            "TenPhuongXa": "Thiện Kế",
+            "MaQuanHuyen": "2812",
+            "TenQuanHuyen": "Bình Xuyên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tk",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thien ke binh xuyen vinh phuc",
+            "Point": null,
+            "Abbr": "tk bx vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15810"
+        },
+        {
+            "MaPhuongXa": "28142",
+            "TenPhuongXa": "Đạo Đức",
+            "MaQuanHuyen": "2812",
+            "TenQuanHuyen": "Bình Xuyên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dao duc binh xuyen vinh phuc",
+            "Point": null,
+            "Abbr": "dd bx vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15818"
+        },
+        {
+            "MaPhuongXa": "28141",
+            "TenPhuongXa": "Phú Xuân",
+            "MaQuanHuyen": "2812",
+            "TenQuanHuyen": "Bình Xuyên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "px",
+                    "Point": 5
+                },
+                {
+                    "Key": "bx",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu xuan binh xuyen vinh phuc",
+            "Point": null,
+            "Abbr": "px bx vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15817"
+        }
+    ],
+    "2828": [
+        {
+            "MaPhuongXa": "28285",
+            "TenPhuongXa": "Đồng Văn",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dv",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong van yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "dv yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15709"
+        },
+        {
+            "MaPhuongXa": "28287",
+            "TenPhuongXa": "Yên Đồng",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "yd",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen dong yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "yd yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15713"
+        },
+        {
+            "MaPhuongXa": "28286",
+            "TenPhuongXa": "Tề Lỗ",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "te lo yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "tl yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15711"
+        },
+        {
+            "MaPhuongXa": "28281",
+            "TenPhuongXa": "Bình Định",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh dinh yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "bd yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15707"
+        },
+        {
+            "MaPhuongXa": "28280",
+            "TenPhuongXa": "Yên Lạc",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "yl",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen lac yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "yl yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15706"
+        },
+        {
+            "MaPhuongXa": "28283",
+            "TenPhuongXa": "Trung Nguyên",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung nguyen yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "tn yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15710"
+        },
+        {
+            "MaPhuongXa": "28282",
+            "TenPhuongXa": "Đồng Cương",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong cuong yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "dc yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15708"
+        },
+        {
+            "MaPhuongXa": "28289",
+            "TenPhuongXa": "Tam Hồng",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam hong yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "th yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15712"
+        },
+        {
+            "MaPhuongXa": "28288",
+            "TenPhuongXa": "Đại Tự",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai tu yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "dt yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15714"
+        },
+        {
+            "MaPhuongXa": "28295",
+            "TenPhuongXa": "Trung Hà",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung ha yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "th yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15717"
+        },
+        {
+            "MaPhuongXa": "28294",
+            "TenPhuongXa": "Hồng Châu",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong chau yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "hc yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15716"
+        },
+        {
+            "MaPhuongXa": "28297",
+            "TenPhuongXa": "Trung Kiên",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tk",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung kien yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "tk yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15718"
+        },
+        {
+            "MaPhuongXa": "28291",
+            "TenPhuongXa": "Liên Châu",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien chau yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "lc yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15715"
+        },
+        {
+            "MaPhuongXa": "28293",
+            "TenPhuongXa": "Hồng Phương",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong phuong yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "hp yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15719"
+        },
+        {
+            "MaPhuongXa": "28292",
+            "TenPhuongXa": "Yên Phương",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "yp",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen phuong yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "yp yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15720"
+        },
+        {
+            "MaPhuongXa": "28299",
+            "TenPhuongXa": "Văn Tiến",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van tien yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "vt yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15721"
+        },
+        {
+            "MaPhuongXa": "28298",
+            "TenPhuongXa": "Nguyệt Đức",
+            "MaQuanHuyen": "2828",
+            "TenQuanHuyen": "Yên Lạc",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "yl",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyet duc yen lac vinh phuc",
+            "Point": null,
+            "Abbr": "nd yl vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15722"
+        }
+    ],
+    "2818": [
+        {
+            "MaPhuongXa": "28186",
+            "TenPhuongXa": "Thái Hòa",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai hoa lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "th lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15412"
+        },
+        {
+            "MaPhuongXa": "28187",
+            "TenPhuongXa": "Xuân Hòa",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan hoa lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "xh lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15418"
+        },
+        {
+            "MaPhuongXa": "28184",
+            "TenPhuongXa": "Liên Hòa",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien hoa lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "lh lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15409"
+        },
+        {
+            "MaPhuongXa": "28185",
+            "TenPhuongXa": "Liễn Sơn",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien son lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "ls lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15411"
+        },
+        {
+            "MaPhuongXa": "28182",
+            "TenPhuongXa": "Tử Du",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu du lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "td lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15407"
+        },
+        {
+            "MaPhuongXa": "28183",
+            "TenPhuongXa": "Bàn Giản",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "bg",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban gian lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "bg lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15408"
+        },
+        {
+            "MaPhuongXa": "28180",
+            "TenPhuongXa": "Lập Thạch",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lap thach lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "lt lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15406"
+        },
+        {
+            "MaPhuongXa": "28188",
+            "TenPhuongXa": "Bắc Bình",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "bb",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac binh lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "bb lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15413"
+        },
+        {
+            "MaPhuongXa": "28189",
+            "TenPhuongXa": "Hợp Lý",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop ly lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "hl lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15414"
+        },
+        {
+            "MaPhuongXa": "28214",
+            "TenPhuongXa": "Văn Quán",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "vq",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van quan lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "vq lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15420"
+        },
+        {
+            "MaPhuongXa": "28217",
+            "TenPhuongXa": "Đình Chu",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh chu lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "dc lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15423"
+        },
+        {
+            "MaPhuongXa": "28216",
+            "TenPhuongXa": "Sơn Đông",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "sd",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son dong lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "sd lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15421"
+        },
+        {
+            "MaPhuongXa": "28213",
+            "TenPhuongXa": "Xuân Lôi",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan loi lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "xl lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15419"
+        },
+        {
+            "MaPhuongXa": "28219",
+            "TenPhuongXa": "Tiên Lữ",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien lu lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "tl lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15424"
+        },
+        {
+            "MaPhuongXa": "28218",
+            "TenPhuongXa": "Triệu Đề",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu de lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "td lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15422"
+        },
+        {
+            "MaPhuongXa": "28192",
+            "TenPhuongXa": "Ngọc Mỹ",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc my lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "nm lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15416"
+        },
+        {
+            "MaPhuongXa": "28193",
+            "TenPhuongXa": "Hoa Sơn",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa son lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "hs lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15410"
+        },
+        {
+            "MaPhuongXa": "28190",
+            "TenPhuongXa": "Quang Sơn",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "qs",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang son lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "qs lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15415"
+        },
+        {
+            "MaPhuongXa": "28191",
+            "TenPhuongXa": "Vân Trực",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van truc lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "vt lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15417"
+        },
+        {
+            "MaPhuongXa": "28220",
+            "TenPhuongXa": "Đồng Ích",
+            "MaQuanHuyen": "2818",
+            "TenQuanHuyen": "Lập Thạch",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "di",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong ich lap thach vinh phuc",
+            "Point": null,
+            "Abbr": "di lt vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15425"
+        }
+    ],
+    "2836": [
+        {
+            "MaPhuongXa": "28374",
+            "TenPhuongXa": "Yên Dương",
+            "MaQuanHuyen": "2836",
+            "TenQuanHuyen": "Tam Đảo",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "yd",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen duong tam dao vinh phuc",
+            "Point": null,
+            "Abbr": "yd td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15310"
+        },
+        {
+            "MaPhuongXa": "28376",
+            "TenPhuongXa": "Minh Quang",
+            "MaQuanHuyen": "2836",
+            "TenQuanHuyen": "Tam Đảo",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "mq",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh quang tam dao vinh phuc",
+            "Point": null,
+            "Abbr": "mq td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15314"
+        },
+        {
+            "MaPhuongXa": "28370",
+            "TenPhuongXa": "Đạo Trù",
+            "MaQuanHuyen": "2836",
+            "TenQuanHuyen": "Tam Đảo",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dao tru tam dao vinh phuc",
+            "Point": null,
+            "Abbr": "dt td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15309"
+        },
+        {
+            "MaPhuongXa": "28372",
+            "TenPhuongXa": "Bồ Lý",
+            "MaQuanHuyen": "2836",
+            "TenQuanHuyen": "Tam Đảo",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bo ly tam dao vinh phuc",
+            "Point": null,
+            "Abbr": "bl td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15311"
+        },
+        {
+            "MaPhuongXa": "28366",
+            "TenPhuongXa": "Tam Quan",
+            "MaQuanHuyen": "2836",
+            "TenQuanHuyen": "Tam Đảo",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tq",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam quan tam dao vinh phuc",
+            "Point": null,
+            "Abbr": "tq td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15312"
+        },
+        {
+            "MaPhuongXa": "28360",
+            "TenPhuongXa": "Tam Đảo",
+            "MaQuanHuyen": "2836",
+            "TenQuanHuyen": "Tam Đảo",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam dao tam dao vinh phuc",
+            "Point": null,
+            "Abbr": "td td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15313"
+        },
+        {
+            "MaPhuongXa": "28361",
+            "TenPhuongXa": "Hợp Châu",
+            "MaQuanHuyen": "2836",
+            "TenQuanHuyen": "Tam Đảo",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop chau tam dao vinh phuc",
+            "Point": null,
+            "Abbr": "hc td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15306"
+        },
+        {
+            "MaPhuongXa": "28363",
+            "TenPhuongXa": "Đại Đình",
+            "MaQuanHuyen": "2836",
+            "TenQuanHuyen": "Tam Đảo",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai dinh tam dao vinh phuc",
+            "Point": null,
+            "Abbr": "dd td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15308"
+        },
+        {
+            "MaPhuongXa": "28368",
+            "TenPhuongXa": "Hồ Sơn",
+            "MaQuanHuyen": "2836",
+            "TenQuanHuyen": "Tam Đảo",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ho son tam dao vinh phuc",
+            "Point": null,
+            "Abbr": "hs td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15307"
+        }
+    ],
+    "2815": [
+        {
+            "MaPhuongXa": "28172",
+            "TenPhuongXa": "Thanh Vân",
+            "MaQuanHuyen": "2815",
+            "TenQuanHuyen": "Tam Dương",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh van tam duong vinh phuc",
+            "Point": null,
+            "Abbr": "tv td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15216"
+        },
+        {
+            "MaPhuongXa": "28170",
+            "TenPhuongXa": "Đạo Tú",
+            "MaQuanHuyen": "2815",
+            "TenQuanHuyen": "Tam Dương",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dao tu tam duong vinh phuc",
+            "Point": null,
+            "Abbr": "dt td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15218"
+        },
+        {
+            "MaPhuongXa": "28156",
+            "TenPhuongXa": "Đồng Tĩnh",
+            "MaQuanHuyen": "2815",
+            "TenQuanHuyen": "Tam Dương",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tinh tam duong vinh phuc",
+            "Point": null,
+            "Abbr": "dt td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15209"
+        },
+        {
+            "MaPhuongXa": "28154",
+            "TenPhuongXa": "Kim Long",
+            "MaQuanHuyen": "2815",
+            "TenQuanHuyen": "Tam Dương",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "kl",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim long tam duong vinh phuc",
+            "Point": null,
+            "Abbr": "kl td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15217"
+        },
+        {
+            "MaPhuongXa": "28153",
+            "TenPhuongXa": "Hướng Đạo",
+            "MaQuanHuyen": "2815",
+            "TenQuanHuyen": "Tam Dương",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong dao tam duong vinh phuc",
+            "Point": null,
+            "Abbr": "hd td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15207"
+        },
+        {
+            "MaPhuongXa": "28150",
+            "TenPhuongXa": "Hợp Hòa",
+            "MaQuanHuyen": "2815",
+            "TenQuanHuyen": "Tam Dương",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop hoa tam duong vinh phuc",
+            "Point": null,
+            "Abbr": "hh td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15206"
+        },
+        {
+            "MaPhuongXa": "28158",
+            "TenPhuongXa": "Hoàng Hoa",
+            "MaQuanHuyen": "2815",
+            "TenQuanHuyen": "Tam Dương",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang hoa tam duong vinh phuc",
+            "Point": null,
+            "Abbr": "hh td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15208"
+        },
+        {
+            "MaPhuongXa": "28166",
+            "TenPhuongXa": "Duy Phiên",
+            "MaQuanHuyen": "2815",
+            "TenQuanHuyen": "Tam Dương",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duy phien tam duong vinh phuc",
+            "Point": null,
+            "Abbr": "dp td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15213"
+        },
+        {
+            "MaPhuongXa": "28164",
+            "TenPhuongXa": "Hoàng Lâu",
+            "MaQuanHuyen": "2815",
+            "TenQuanHuyen": "Tam Dương",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang lau tam duong vinh phuc",
+            "Point": null,
+            "Abbr": "hl td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15212"
+        },
+        {
+            "MaPhuongXa": "28162",
+            "TenPhuongXa": "Hoàng Đan",
+            "MaQuanHuyen": "2815",
+            "TenQuanHuyen": "Tam Dương",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoang dan tam duong vinh phuc",
+            "Point": null,
+            "Abbr": "hd td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15211"
+        },
+        {
+            "MaPhuongXa": "28160",
+            "TenPhuongXa": "An Hòa",
+            "MaQuanHuyen": "2815",
+            "TenQuanHuyen": "Tam Dương",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hoa tam duong vinh phuc",
+            "Point": null,
+            "Abbr": "ah td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15210"
+        },
+        {
+            "MaPhuongXa": "28168",
+            "TenPhuongXa": "Vân Hội",
+            "MaQuanHuyen": "2815",
+            "TenQuanHuyen": "Tam Dương",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van hoi tam duong vinh phuc",
+            "Point": null,
+            "Abbr": "vh td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15214"
+        },
+        {
+            "MaPhuongXa": "28169",
+            "TenPhuongXa": "Hợp Thịnh",
+            "MaQuanHuyen": "2815",
+            "TenQuanHuyen": "Tam Dương",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "td",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hop thinh tam duong vinh phuc",
+            "Point": null,
+            "Abbr": "ht td vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15215"
+        }
+    ],
+    "2810": [
+        {
+            "MaPhuongXa": "28114",
+            "TenPhuongXa": "Thanh Trù",
+            "MaQuanHuyen": "2810",
+            "TenQuanHuyen": "Vĩnh Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vy",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh tru vinh yen vinh phuc",
+            "Point": null,
+            "Abbr": "tt vy vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15114"
+        },
+        {
+            "MaPhuongXa": "28112",
+            "TenPhuongXa": "Đống Đa",
+            "MaQuanHuyen": "2810",
+            "TenQuanHuyen": "Vĩnh Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "vy",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong da vinh yen vinh phuc",
+            "Point": null,
+            "Abbr": "dd vy vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15107"
+        },
+        {
+            "MaPhuongXa": "28110",
+            "TenPhuongXa": "Hội Hợp",
+            "MaQuanHuyen": "2810",
+            "TenQuanHuyen": "Vĩnh Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vy",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoi hop vinh yen vinh phuc",
+            "Point": null,
+            "Abbr": "hh vy vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15113"
+        },
+        {
+            "MaPhuongXa": "28106",
+            "TenPhuongXa": "Ngô Quyền",
+            "MaQuanHuyen": "2810",
+            "TenQuanHuyen": "Vĩnh Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "nq",
+                    "Point": 5
+                },
+                {
+                    "Key": "vy",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngo quyen vinh yen vinh phuc",
+            "Point": null,
+            "Abbr": "nq vy vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15108"
+        },
+        {
+            "MaPhuongXa": "28104",
+            "TenPhuongXa": "Định Trung",
+            "MaQuanHuyen": "2810",
+            "TenQuanHuyen": "Vĩnh Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vy",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh trung vinh yen vinh phuc",
+            "Point": null,
+            "Abbr": "dt vy vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15111"
+        },
+        {
+            "MaPhuongXa": "28102",
+            "TenPhuongXa": "Khai Quang",
+            "MaQuanHuyen": "2810",
+            "TenQuanHuyen": "Vĩnh Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "kq",
+                    "Point": 5
+                },
+                {
+                    "Key": "vy",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khai quang vinh yen vinh phuc",
+            "Point": null,
+            "Abbr": "kq vy vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15109"
+        },
+        {
+            "MaPhuongXa": "28100",
+            "TenPhuongXa": "Liên Bảo",
+            "MaQuanHuyen": "2810",
+            "TenQuanHuyen": "Vĩnh Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "vy",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien bao vinh yen vinh phuc",
+            "Point": null,
+            "Abbr": "lb vy vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15110"
+        },
+        {
+            "MaPhuongXa": "28108",
+            "TenPhuongXa": "Tích Sơn",
+            "MaQuanHuyen": "2810",
+            "TenQuanHuyen": "Vĩnh Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "vy",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tich son vinh yen vinh phuc",
+            "Point": null,
+            "Abbr": "ts vy vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15106"
+        },
+        {
+            "MaPhuongXa": "28109",
+            "TenPhuongXa": "Đồng Tâm",
+            "MaQuanHuyen": "2810",
+            "TenQuanHuyen": "Vĩnh Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vy",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tam vinh yen vinh phuc",
+            "Point": null,
+            "Abbr": "dt vy vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15112"
+        }
+    ],
+    "2834": [
+        {
+            "MaPhuongXa": "28355",
+            "TenPhuongXa": "Đồng Xuân",
+            "MaQuanHuyen": "2834",
+            "TenQuanHuyen": "Phúc Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "dx",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong xuan phuc yen vinh phuc",
+            "Point": null,
+            "Abbr": "dx py vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15911"
+        },
+        {
+            "MaPhuongXa": "28350",
+            "TenPhuongXa": "Cao Minh",
+            "MaQuanHuyen": "2834",
+            "TenQuanHuyen": "Phúc Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao minh phuc yen vinh phuc",
+            "Point": null,
+            "Abbr": "cm py vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15913"
+        },
+        {
+            "MaPhuongXa": "28352",
+            "TenPhuongXa": "Nam Viêm",
+            "MaQuanHuyen": "2834",
+            "TenQuanHuyen": "Phúc Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "nv",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam viem phuc yen vinh phuc",
+            "Point": null,
+            "Abbr": "nv py vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15909"
+        },
+        {
+            "MaPhuongXa": "28353",
+            "TenPhuongXa": "Ngọc Thanh",
+            "MaQuanHuyen": "2834",
+            "TenQuanHuyen": "Phúc Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc thanh phuc yen vinh phuc",
+            "Point": null,
+            "Abbr": "nt py vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15912"
+        },
+        {
+            "MaPhuongXa": "28344",
+            "TenPhuongXa": "Phúc Thắng",
+            "MaQuanHuyen": "2834",
+            "TenQuanHuyen": "Phúc Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuc thang phuc yen vinh phuc",
+            "Point": null,
+            "Abbr": "pt py vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15908"
+        },
+        {
+            "MaPhuongXa": "28346",
+            "TenPhuongXa": "Xuân Hòa",
+            "MaQuanHuyen": "2834",
+            "TenQuanHuyen": "Phúc Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan hoa phuc yen vinh phuc",
+            "Point": null,
+            "Abbr": "xh py vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15910"
+        },
+        {
+            "MaPhuongXa": "28340",
+            "TenPhuongXa": "Trưng Trắc",
+            "MaQuanHuyen": "2834",
+            "TenQuanHuyen": "Phúc Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung trac phuc yen vinh phuc",
+            "Point": null,
+            "Abbr": "tt py vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15906"
+        },
+        {
+            "MaPhuongXa": "28341",
+            "TenPhuongXa": "Trưng Nhị",
+            "MaQuanHuyen": "2834",
+            "TenQuanHuyen": "Phúc Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung nhi phuc yen vinh phuc",
+            "Point": null,
+            "Abbr": "tn py vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15907"
+        },
+        {
+            "MaPhuongXa": "28342",
+            "TenPhuongXa": "Hùng Vương",
+            "MaQuanHuyen": "2834",
+            "TenQuanHuyen": "Phúc Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung vuong phuc yen vinh phuc",
+            "Point": null,
+            "Abbr": "hv py vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15915"
+        },
+        {
+            "MaPhuongXa": "28348",
+            "TenPhuongXa": "Tiền Châu",
+            "MaQuanHuyen": "2834",
+            "TenQuanHuyen": "Phúc Yên",
+            "MaTinhThanh": "28",
+            "TenTinhThanh": "Vĩnh Phúc",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "vp",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien chau phuc yen vinh phuc",
+            "Point": null,
+            "Abbr": "tc py vp",
+            "TrangThai": null,
+            "MaBuuChinh": "15914"
+        }
+    ]
+}

@@ -1,0 +1,4641 @@
+{
+    "8142": [
+        {
+            "MaPhuongXa": "81439",
+            "TenPhuongXa": "La Ngà",
+            "MaQuanHuyen": "8142",
+            "TenQuanHuyen": "Định Quán",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ln",
+                    "Point": 5
+                },
+                {
+                    "Key": "dq",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "la nga dinh quan dong nai",
+            "Point": null,
+            "Abbr": "ln dq dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76714"
+        },
+        {
+            "MaPhuongXa": "81430",
+            "TenPhuongXa": "Ngọc Định",
+            "MaQuanHuyen": "8142",
+            "TenQuanHuyen": "Định Quán",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dq",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc dinh dinh quan dong nai",
+            "Point": null,
+            "Abbr": "nd dq dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76712"
+        },
+        {
+            "MaPhuongXa": "81432",
+            "TenPhuongXa": "Thanh Sơn",
+            "MaQuanHuyen": "8142",
+            "TenQuanHuyen": "Định Quán",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "dq",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh son dinh quan dong nai",
+            "Point": null,
+            "Abbr": "ts dq dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76711"
+        },
+        {
+            "MaPhuongXa": "81434",
+            "TenPhuongXa": "Phú Ngọc",
+            "MaQuanHuyen": "8142",
+            "TenQuanHuyen": "Định Quán",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dq",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu ngoc dinh quan dong nai",
+            "Point": null,
+            "Abbr": "pn dq dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76713"
+        },
+        {
+            "MaPhuongXa": "81436",
+            "TenPhuongXa": "Gia Canh",
+            "MaQuanHuyen": "8142",
+            "TenQuanHuyen": "Định Quán",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "gc",
+                    "Point": 5
+                },
+                {
+                    "Key": "dq",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia canh dinh quan dong nai",
+            "Point": null,
+            "Abbr": "gc dq dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76719"
+        },
+        {
+            "MaPhuongXa": "81428",
+            "TenPhuongXa": "Phú Tân",
+            "MaQuanHuyen": "8142",
+            "TenQuanHuyen": "Định Quán",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dq",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu tan dinh quan dong nai",
+            "Point": null,
+            "Abbr": "pt dq dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76710"
+        },
+        {
+            "MaPhuongXa": "81420",
+            "TenPhuongXa": "Định Quán",
+            "MaQuanHuyen": "8142",
+            "TenQuanHuyen": "Định Quán",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "dq",
+                    "Point": 5
+                },
+                {
+                    "Key": "dq",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh quan dinh quan dong nai",
+            "Point": null,
+            "Abbr": "dq dq dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76706"
+        },
+        {
+            "MaPhuongXa": "81423",
+            "TenPhuongXa": "Phú Lợi",
+            "MaQuanHuyen": "8142",
+            "TenQuanHuyen": "Định Quán",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dq",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu loi dinh quan dong nai",
+            "Point": null,
+            "Abbr": "pl dq dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76708"
+        },
+        {
+            "MaPhuongXa": "81425",
+            "TenPhuongXa": "Phú Hoà",
+            "MaQuanHuyen": "8142",
+            "TenQuanHuyen": "Định Quán",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "dq",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hoa dinh quan dong nai",
+            "Point": null,
+            "Abbr": "ph dq dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76707"
+        },
+        {
+            "MaPhuongXa": "81426",
+            "TenPhuongXa": "Phú Vinh",
+            "MaQuanHuyen": "8142",
+            "TenQuanHuyen": "Định Quán",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pv",
+                    "Point": 5
+                },
+                {
+                    "Key": "dq",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu vinh dinh quan dong nai",
+            "Point": null,
+            "Abbr": "pv dq dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76709"
+        },
+        {
+            "MaPhuongXa": "81441",
+            "TenPhuongXa": "Túc Trưng",
+            "MaQuanHuyen": "8142",
+            "TenQuanHuyen": "Định Quán",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dq",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tuc trung dinh quan dong nai",
+            "Point": null,
+            "Abbr": "tt dq dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76716"
+        },
+        {
+            "MaPhuongXa": "81443",
+            "TenPhuongXa": "Phú Túc",
+            "MaQuanHuyen": "8142",
+            "TenQuanHuyen": "Định Quán",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dq",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu tuc dinh quan dong nai",
+            "Point": null,
+            "Abbr": "pt dq dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76717"
+        },
+        {
+            "MaPhuongXa": "81445",
+            "TenPhuongXa": "Suối Nho",
+            "MaQuanHuyen": "8142",
+            "TenQuanHuyen": "Định Quán",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "sn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dq",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi nho dinh quan dong nai",
+            "Point": null,
+            "Abbr": "sn dq dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76718"
+        },
+        {
+            "MaPhuongXa": "81447",
+            "TenPhuongXa": "Phú Cường",
+            "MaQuanHuyen": "8142",
+            "TenQuanHuyen": "Định Quán",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "dq",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu cuong dinh quan dong nai",
+            "Point": null,
+            "Abbr": "pc dq dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76715"
+        }
+    ],
+    "8153": [
+        {
+            "MaPhuongXa": "81538",
+            "TenPhuongXa": "Bình Sơn",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bs",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh son long thanh dong nai",
+            "Point": null,
+            "Abbr": "bs lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76220"
+        },
+        {
+            "MaPhuongXa": "81530",
+            "TenPhuongXa": "Long Thành",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long thanh long thanh dong nai",
+            "Point": null,
+            "Abbr": "lt lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76206"
+        },
+        {
+            "MaPhuongXa": "81534",
+            "TenPhuongXa": "Long An",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "la",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long an long thanh dong nai",
+            "Point": null,
+            "Abbr": "la lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76212"
+        },
+        {
+            "MaPhuongXa": "81536",
+            "TenPhuongXa": "Suối Trầu",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi trau long thanh dong nai",
+            "Point": null,
+            "Abbr": "st lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76218"
+        },
+        {
+            "MaPhuongXa": "81537",
+            "TenPhuongXa": "Cẩm Đường",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam duong long thanh dong nai",
+            "Point": null,
+            "Abbr": "cd lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76219"
+        },
+        {
+            "MaPhuongXa": "81559",
+            "TenPhuongXa": "Long Phước",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long phuoc long thanh dong nai",
+            "Point": null,
+            "Abbr": "lp lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76213"
+        },
+        {
+            "MaPhuongXa": "81551",
+            "TenPhuongXa": "Tam An",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam an long thanh dong nai",
+            "Point": null,
+            "Abbr": "ta lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76211"
+        },
+        {
+            "MaPhuongXa": "81568",
+            "TenPhuongXa": "Phước Bình",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pb",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc binh long thanh dong nai",
+            "Point": null,
+            "Abbr": "pb lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76216"
+        },
+        {
+            "MaPhuongXa": "81561",
+            "TenPhuongXa": "Bàu Cạn",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bau can long thanh dong nai",
+            "Point": null,
+            "Abbr": "bc lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76217"
+        },
+        {
+            "MaPhuongXa": "81563",
+            "TenPhuongXa": "Tân Hiệp",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hiep long thanh dong nai",
+            "Point": null,
+            "Abbr": "th lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76215"
+        },
+        {
+            "MaPhuongXa": "81565",
+            "TenPhuongXa": "Phước Thái",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc thai long thanh dong nai",
+            "Point": null,
+            "Abbr": "pt lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76214"
+        },
+        {
+            "MaPhuongXa": "81540",
+            "TenPhuongXa": "Bình An",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ba",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh an long thanh dong nai",
+            "Point": null,
+            "Abbr": "ba lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76208"
+        },
+        {
+            "MaPhuongXa": "81541",
+            "TenPhuongXa": "Lộc An",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "la",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc an long thanh dong nai",
+            "Point": null,
+            "Abbr": "la lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76207"
+        },
+        {
+            "MaPhuongXa": "81542",
+            "TenPhuongXa": "Long Đức",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long duc long thanh dong nai",
+            "Point": null,
+            "Abbr": "ld lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76209"
+        },
+        {
+            "MaPhuongXa": "81543",
+            "TenPhuongXa": "An Phước",
+            "MaQuanHuyen": "8153",
+            "TenQuanHuyen": "Long Thành",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ap",
+                    "Point": 5
+                },
+                {
+                    "Key": "lt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an phuoc long thanh dong nai",
+            "Point": null,
+            "Abbr": "ap lt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76210"
+        }
+    ],
+    "8110": [
+        {
+            "MaPhuongXa": "81238",
+            "TenPhuongXa": "Bửu Long",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "buu long bien hoa dong nai",
+            "Point": null,
+            "Abbr": "bl bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76120"
+        },
+        {
+            "MaPhuongXa": "81171",
+            "TenPhuongXa": "Tân Hiệp",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hiep bien hoa dong nai",
+            "Point": null,
+            "Abbr": "th bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76111"
+        },
+        {
+            "MaPhuongXa": "81276",
+            "TenPhuongXa": "Long Bình Tân",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "lbt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long binh tan bien hoa dong nai",
+            "Point": null,
+            "Abbr": "lbt bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76129"
+        },
+        {
+            "MaPhuongXa": "81159",
+            "TenPhuongXa": "Tam Hoà",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam hoa bien hoa dong nai",
+            "Point": null,
+            "Abbr": "th bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76110"
+        },
+        {
+            "MaPhuongXa": "81257",
+            "TenPhuongXa": "Long Bình",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long binh bien hoa dong nai",
+            "Point": null,
+            "Abbr": "lb bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76134"
+        },
+        {
+            "MaPhuongXa": "81188",
+            "TenPhuongXa": "Tân Tiến",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tien bien hoa dong nai",
+            "Point": null,
+            "Abbr": "tt bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76115"
+        },
+        {
+            "MaPhuongXa": "81185",
+            "TenPhuongXa": "Tân Hoà",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoa bien hoa dong nai",
+            "Point": null,
+            "Abbr": "th bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76113"
+        },
+        {
+            "MaPhuongXa": "81182",
+            "TenPhuongXa": "Tân Biên",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan bien bien hoa dong nai",
+            "Point": null,
+            "Abbr": "tb bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76112"
+        },
+        {
+            "MaPhuongXa": "81286",
+            "TenPhuongXa": "Tam Phước",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam phuoc bien hoa dong nai",
+            "Point": null,
+            "Abbr": "tp bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76133"
+        },
+        {
+            "MaPhuongXa": "81283",
+            "TenPhuongXa": "Phước Tân",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc tan bien hoa dong nai",
+            "Point": null,
+            "Abbr": "pt bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76132"
+        },
+        {
+            "MaPhuongXa": "81282",
+            "TenPhuongXa": "Long Hưng",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long hung bien hoa dong nai",
+            "Point": null,
+            "Abbr": "lh bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76131"
+        },
+        {
+            "MaPhuongXa": "81280",
+            "TenPhuongXa": "An Hoà",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hoa bien hoa dong nai",
+            "Point": null,
+            "Abbr": "ah bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76130"
+        },
+        {
+            "MaPhuongXa": "81128",
+            "TenPhuongXa": "Tân Mai",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan mai bien hoa dong nai",
+            "Point": null,
+            "Abbr": "tm bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76135"
+        },
+        {
+            "MaPhuongXa": "81228",
+            "TenPhuongXa": "Tân Phong",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phong bien hoa dong nai",
+            "Point": null,
+            "Abbr": "tp bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76117"
+        },
+        {
+            "MaPhuongXa": "81220",
+            "TenPhuongXa": "Quang Vinh",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "qv",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang vinh bien hoa dong nai",
+            "Point": null,
+            "Abbr": "qv bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76119"
+        },
+        {
+            "MaPhuongXa": "81269",
+            "TenPhuongXa": "An Bình",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ab",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an binh bien hoa dong nai",
+            "Point": null,
+            "Abbr": "ab bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76128"
+        },
+        {
+            "MaPhuongXa": "81268",
+            "TenPhuongXa": "Hiệp Hoà",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep hoa bien hoa dong nai",
+            "Point": null,
+            "Abbr": "hh bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76126"
+        },
+        {
+            "MaPhuongXa": "81267",
+            "TenPhuongXa": "Tân Hạnh",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hanh bien hoa dong nai",
+            "Point": null,
+            "Abbr": "th bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76121"
+        },
+        {
+            "MaPhuongXa": "81266",
+            "TenPhuongXa": "Tân Vạn",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan van bien hoa dong nai",
+            "Point": null,
+            "Abbr": "tv bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76124"
+        },
+        {
+            "MaPhuongXa": "81263",
+            "TenPhuongXa": "Hoá An",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ha",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa an bien hoa dong nai",
+            "Point": null,
+            "Abbr": "ha bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76123"
+        },
+        {
+            "MaPhuongXa": "81261",
+            "TenPhuongXa": "Bửu Hoà",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "buu hoa bien hoa dong nai",
+            "Point": null,
+            "Abbr": "bh bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76125"
+        },
+        {
+            "MaPhuongXa": "81198",
+            "TenPhuongXa": "Trảng Dài",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trang dai bien hoa dong nai",
+            "Point": null,
+            "Abbr": "td bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76116"
+        },
+        {
+            "MaPhuongXa": "81196",
+            "TenPhuongXa": "Hố Nai",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ho nai bien hoa dong nai",
+            "Point": null,
+            "Abbr": "hn bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76114"
+        },
+        {
+            "MaPhuongXa": "81108",
+            "TenPhuongXa": "Quyết Thắng",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quyet thang bien hoa dong nai",
+            "Point": null,
+            "Abbr": "qt bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76107"
+        },
+        {
+            "MaPhuongXa": "81100",
+            "TenPhuongXa": "Thanh Bình",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh binh bien hoa dong nai",
+            "Point": null,
+            "Abbr": "tb bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76106"
+        },
+        {
+            "MaPhuongXa": "81207",
+            "TenPhuongXa": "Trung Dũng",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung dung bien hoa dong nai",
+            "Point": null,
+            "Abbr": "td bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76118"
+        },
+        {
+            "MaPhuongXa": "81143",
+            "TenPhuongXa": "Tam Hiệp",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam hiep bien hoa dong nai",
+            "Point": null,
+            "Abbr": "th bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76109"
+        },
+        {
+            "MaPhuongXa": "81247",
+            "TenPhuongXa": "Bình Đa",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh da bien hoa dong nai",
+            "Point": null,
+            "Abbr": "bd bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76127"
+        },
+        {
+            "MaPhuongXa": "81245",
+            "TenPhuongXa": "Hoà Bình",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh bien hoa dong nai",
+            "Point": null,
+            "Abbr": "hb bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76122"
+        },
+        {
+            "MaPhuongXa": "81114",
+            "TenPhuongXa": "Thống Nhất",
+            "MaQuanHuyen": "8110",
+            "TenQuanHuyen": "Biên Hoà",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bh",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thong nhat bien hoa dong nai",
+            "Point": null,
+            "Abbr": "tn bh dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76108"
+        }
+    ],
+    "8132": [
+        {
+            "MaPhuongXa": "81338",
+            "TenPhuongXa": "Xuân Bình",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xb",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan binh long khanh dong nai",
+            "Point": null,
+            "Abbr": "xb lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76464"
+        },
+        {
+            "MaPhuongXa": "81330",
+            "TenPhuongXa": "Xuân An",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xa",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan an long khanh dong nai",
+            "Point": null,
+            "Abbr": "xa lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76456"
+        },
+        {
+            "MaPhuongXa": "81356",
+            "TenPhuongXa": "Xuân Tân",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan tan long khanh dong nai",
+            "Point": null,
+            "Abbr": "xt lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76469"
+        },
+        {
+            "MaPhuongXa": "81357",
+            "TenPhuongXa": "Bảo Quang",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bq",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bao quang long khanh dong nai",
+            "Point": null,
+            "Abbr": "bq lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76460"
+        },
+        {
+            "MaPhuongXa": "81354",
+            "TenPhuongXa": "Bảo Vinh",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bv",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bao vinh long khanh dong nai",
+            "Point": null,
+            "Abbr": "bv lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76459"
+        },
+        {
+            "MaPhuongXa": "81352",
+            "TenPhuongXa": "Suối Tre",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi tre long khanh dong nai",
+            "Point": null,
+            "Abbr": "st lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76462"
+        },
+        {
+            "MaPhuongXa": "81353",
+            "TenPhuongXa": "Bình Lộc",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh loc long khanh dong nai",
+            "Point": null,
+            "Abbr": "bl lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76461"
+        },
+        {
+            "MaPhuongXa": "81350",
+            "TenPhuongXa": "Xuân Lập",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan lap long khanh dong nai",
+            "Point": null,
+            "Abbr": "xl lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76468"
+        },
+        {
+            "MaPhuongXa": "81351",
+            "TenPhuongXa": "Bàu Sen",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bs",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bau sen long khanh dong nai",
+            "Point": null,
+            "Abbr": "bs lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76467"
+        },
+        {
+            "MaPhuongXa": "81325",
+            "TenPhuongXa": "Xuân Thanh",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan thanh long khanh dong nai",
+            "Point": null,
+            "Abbr": "xt lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76457"
+        },
+        {
+            "MaPhuongXa": "81320",
+            "TenPhuongXa": "Xuân Trung",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan trung long khanh dong nai",
+            "Point": null,
+            "Abbr": "xt lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76463"
+        },
+        {
+            "MaPhuongXa": "81348",
+            "TenPhuongXa": "Bàu Trâm",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bau tram long khanh dong nai",
+            "Point": null,
+            "Abbr": "bt lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76458"
+        },
+        {
+            "MaPhuongXa": "81349",
+            "TenPhuongXa": "Hàng Gòn",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "hg",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hang gon long khanh dong nai",
+            "Point": null,
+            "Abbr": "hg lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76470"
+        },
+        {
+            "MaPhuongXa": "81347",
+            "TenPhuongXa": "Phú Bình",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pb",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu binh long khanh dong nai",
+            "Point": null,
+            "Abbr": "pb lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76466"
+        },
+        {
+            "MaPhuongXa": "81343",
+            "TenPhuongXa": "Xuân Hoà",
+            "MaQuanHuyen": "8132",
+            "TenQuanHuyen": "Long Khánh",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lk",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan hoa long khanh dong nai",
+            "Point": null,
+            "Abbr": "xh lk dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76465"
+        }
+    ],
+    "8146": [
+        {
+            "MaPhuongXa": "81479",
+            "TenPhuongXa": "Phú Lập",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu lap tan phu dong nai",
+            "Point": null,
+            "Abbr": "pl tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76816"
+        },
+        {
+            "MaPhuongXa": "81471",
+            "TenPhuongXa": "Nam Cát Tiên",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "nct",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam cat tien tan phu dong nai",
+            "Point": null,
+            "Abbr": "nct tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76813"
+        },
+        {
+            "MaPhuongXa": "81473",
+            "TenPhuongXa": "Phú Lộc",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu loc tan phu dong nai",
+            "Point": null,
+            "Abbr": "pl tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76807"
+        },
+        {
+            "MaPhuongXa": "81475",
+            "TenPhuongXa": "Núi Tượng",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nui tuong tan phu dong nai",
+            "Point": null,
+            "Abbr": "nt tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76815"
+        },
+        {
+            "MaPhuongXa": "81477",
+            "TenPhuongXa": "Phú Thịnh",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thinh tan phu dong nai",
+            "Point": null,
+            "Abbr": "pt tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76818"
+        },
+        {
+            "MaPhuongXa": "81489",
+            "TenPhuongXa": "Trà Cổ",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra co tan phu dong nai",
+            "Point": null,
+            "Abbr": "tc tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76819"
+        },
+        {
+            "MaPhuongXa": "81481",
+            "TenPhuongXa": "Tà Lài",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta lai tan phu dong nai",
+            "Point": null,
+            "Abbr": "tl tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76817"
+        },
+        {
+            "MaPhuongXa": "81483",
+            "TenPhuongXa": "Phú Lâm",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu lam tan phu dong nai",
+            "Point": null,
+            "Abbr": "pl tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76821"
+        },
+        {
+            "MaPhuongXa": "81485",
+            "TenPhuongXa": "Phú Bình",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu binh tan phu dong nai",
+            "Point": null,
+            "Abbr": "pb tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76822"
+        },
+        {
+            "MaPhuongXa": "81487",
+            "TenPhuongXa": "Phú Thanh",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thanh tan phu dong nai",
+            "Point": null,
+            "Abbr": "pt tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76820"
+        },
+        {
+            "MaPhuongXa": "81469",
+            "TenPhuongXa": "Phú An",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pa",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu an tan phu dong nai",
+            "Point": null,
+            "Abbr": "pa tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76812"
+        },
+        {
+            "MaPhuongXa": "81468",
+            "TenPhuongXa": "Phú Sơn",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ps",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu son tan phu dong nai",
+            "Point": null,
+            "Abbr": "ps tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76811"
+        },
+        {
+            "MaPhuongXa": "81460",
+            "TenPhuongXa": "Tân Phú",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phu tan phu dong nai",
+            "Point": null,
+            "Abbr": "tp tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76806"
+        },
+        {
+            "MaPhuongXa": "81463",
+            "TenPhuongXa": "Phú Xuân",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "px",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu xuan tan phu dong nai",
+            "Point": null,
+            "Abbr": "px tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76808"
+        },
+        {
+            "MaPhuongXa": "81465",
+            "TenPhuongXa": "Thanh Sơn",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh son tan phu dong nai",
+            "Point": null,
+            "Abbr": "ts tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76809"
+        },
+        {
+            "MaPhuongXa": "81467",
+            "TenPhuongXa": "Phú Trung",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu trung tan phu dong nai",
+            "Point": null,
+            "Abbr": "pt tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76810"
+        },
+        {
+            "MaPhuongXa": "81491",
+            "TenPhuongXa": "Đắc Lua",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dac lua tan phu dong nai",
+            "Point": null,
+            "Abbr": "dl tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76814"
+        },
+        {
+            "MaPhuongXa": "81490",
+            "TenPhuongXa": "Phú Điền",
+            "MaQuanHuyen": "8146",
+            "TenQuanHuyen": "Tân phú",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu dien tan phu dong nai",
+            "Point": null,
+            "Abbr": "pd tp dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76823"
+        }
+    ],
+    "8137": [
+        {
+            "MaPhuongXa": "81378",
+            "TenPhuongXa": "Gia Tân 1",
+            "MaQuanHuyen": "8137",
+            "TenQuanHuyen": "Thống Nhất",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "gt1",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia tan 1 thong nhat dong nai",
+            "Point": null,
+            "Abbr": "gt1 tn dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76411"
+        },
+        {
+            "MaPhuongXa": "81379",
+            "TenPhuongXa": "Hưng Lộc",
+            "MaQuanHuyen": "8137",
+            "TenQuanHuyen": "Thống Nhất",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung loc thong nhat dong nai",
+            "Point": null,
+            "Abbr": "hl tn dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76413"
+        },
+        {
+            "MaPhuongXa": "81376",
+            "TenPhuongXa": "Gia Tân 3",
+            "MaQuanHuyen": "8137",
+            "TenQuanHuyen": "Thống Nhất",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "gt3",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia tan 3 thong nhat dong nai",
+            "Point": null,
+            "Abbr": "gt3 tn dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76409"
+        },
+        {
+            "MaPhuongXa": "81377",
+            "TenPhuongXa": "Gia Tân 2",
+            "MaQuanHuyen": "8137",
+            "TenQuanHuyen": "Thống Nhất",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "gt2",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia tan 2 thong nhat dong nai",
+            "Point": null,
+            "Abbr": "gt2 tn dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76410"
+        },
+        {
+            "MaPhuongXa": "81374",
+            "TenPhuongXa": "Gia Kiệm",
+            "MaQuanHuyen": "8137",
+            "TenQuanHuyen": "Thống Nhất",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "gk",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia kiem thong nhat dong nai",
+            "Point": null,
+            "Abbr": "gk tn dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76412"
+        },
+        {
+            "MaPhuongXa": "81372",
+            "TenPhuongXa": "Quang Trung",
+            "MaQuanHuyen": "8137",
+            "TenQuanHuyen": "Thống Nhất",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang trung thong nhat dong nai",
+            "Point": null,
+            "Abbr": "qt tn dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76407"
+        },
+        {
+            "MaPhuongXa": "81370",
+            "TenPhuongXa": "Bàu Hàm 2",
+            "MaQuanHuyen": "8137",
+            "TenQuanHuyen": "Thống Nhất",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bh2",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bau ham 2 thong nhat dong nai",
+            "Point": null,
+            "Abbr": "bh2 tn dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76414"
+        },
+        {
+            "MaPhuongXa": "81384",
+            "TenPhuongXa": "Dầu Giây",
+            "MaQuanHuyen": "8137",
+            "TenQuanHuyen": "Thống Nhất",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "dg",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dau giay thong nhat dong nai",
+            "Point": null,
+            "Abbr": "dg tn dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76406"
+        },
+        {
+            "MaPhuongXa": "81383",
+            "TenPhuongXa": "Xuân Thiện",
+            "MaQuanHuyen": "8137",
+            "TenQuanHuyen": "Thống Nhất",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan thien thong nhat dong nai",
+            "Point": null,
+            "Abbr": "xt tn dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76408"
+        },
+        {
+            "MaPhuongXa": "81381",
+            "TenPhuongXa": "Lộ 25",
+            "MaQuanHuyen": "8137",
+            "TenQuanHuyen": "Thống Nhất",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "l25",
+                    "Point": 5
+                },
+                {
+                    "Key": "tn",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lo 25 thong nhat dong nai",
+            "Point": null,
+            "Abbr": "l25 tn dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76415"
+        }
+    ],
+    "8164": [
+        {
+            "MaPhuongXa": "81659",
+            "TenPhuongXa": "Đồi 61",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "d61",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "doi 61 trang bom dong nai",
+            "Point": null,
+            "Abbr": "d61 tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76318"
+        },
+        {
+            "MaPhuongXa": "81658",
+            "TenPhuongXa": "An Viễn",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "av",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an vien trang bom dong nai",
+            "Point": null,
+            "Abbr": "av tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76320"
+        },
+        {
+            "MaPhuongXa": "81653",
+            "TenPhuongXa": "Đông Hoà",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong hoa trang bom dong nai",
+            "Point": null,
+            "Abbr": "dh tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76321"
+        },
+        {
+            "MaPhuongXa": "81652",
+            "TenPhuongXa": "Trung Hoà",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung hoa trang bom dong nai",
+            "Point": null,
+            "Abbr": "th tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76319"
+        },
+        {
+            "MaPhuongXa": "81651",
+            "TenPhuongXa": "Tây Hoà",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tay hoa trang bom dong nai",
+            "Point": null,
+            "Abbr": "th tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76307"
+        },
+        {
+            "MaPhuongXa": "81657",
+            "TenPhuongXa": "Giang Điền",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "gd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giang dien trang bom dong nai",
+            "Point": null,
+            "Abbr": "gd tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76317"
+        },
+        {
+            "MaPhuongXa": "81656",
+            "TenPhuongXa": "Bàu Hàm",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bau ham trang bom dong nai",
+            "Point": null,
+            "Abbr": "bh tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76309"
+        },
+        {
+            "MaPhuongXa": "81655",
+            "TenPhuongXa": "Sông Thao",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song thao trang bom dong nai",
+            "Point": null,
+            "Abbr": "st tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76308"
+        },
+        {
+            "MaPhuongXa": "81654",
+            "TenPhuongXa": "Hưng Thịnh",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung thinh trang bom dong nai",
+            "Point": null,
+            "Abbr": "ht tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76322"
+        },
+        {
+            "MaPhuongXa": "81662",
+            "TenPhuongXa": "Trảng Bom",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trang bom trang bom dong nai",
+            "Point": null,
+            "Abbr": "tb tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76306"
+        },
+        {
+            "MaPhuongXa": "81661",
+            "TenPhuongXa": "Thanh Bình",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh binh trang bom dong nai",
+            "Point": null,
+            "Abbr": "tb tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76310"
+        },
+        {
+            "MaPhuongXa": "81660",
+            "TenPhuongXa": "Cây Gáo",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "cg",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cay gao trang bom dong nai",
+            "Point": null,
+            "Abbr": "cg tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76311"
+        },
+        {
+            "MaPhuongXa": "81649",
+            "TenPhuongXa": "Sông Trầu",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song trau trang bom dong nai",
+            "Point": null,
+            "Abbr": "st tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76312"
+        },
+        {
+            "MaPhuongXa": "81643",
+            "TenPhuongXa": "Bắc Sơn",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bs",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac son trang bom dong nai",
+            "Point": null,
+            "Abbr": "bs tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76313"
+        },
+        {
+            "MaPhuongXa": "81640",
+            "TenPhuongXa": "Hố Nai 3",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "hn3",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ho nai 3 trang bom dong nai",
+            "Point": null,
+            "Abbr": "hn3 tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76314"
+        },
+        {
+            "MaPhuongXa": "81647",
+            "TenPhuongXa": "Quảng Tiến",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang tien trang bom dong nai",
+            "Point": null,
+            "Abbr": "qt tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76316"
+        },
+        {
+            "MaPhuongXa": "81646",
+            "TenPhuongXa": "Bình Minh",
+            "MaQuanHuyen": "8164",
+            "TenQuanHuyen": "Trảng Bom",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh minh trang bom dong nai",
+            "Point": null,
+            "Abbr": "bm tb dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76315"
+        }
+    ],
+    "8158": [
+        {
+            "MaPhuongXa": "81588",
+            "TenPhuongXa": "Phú Đông",
+            "MaQuanHuyen": "8158",
+            "TenQuanHuyen": "Nhơn Trạch",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu dong nhon trach dong nai",
+            "Point": null,
+            "Abbr": "pd nt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76261"
+        },
+        {
+            "MaPhuongXa": "81580",
+            "TenPhuongXa": "Phước Thiền",
+            "MaQuanHuyen": "8158",
+            "TenQuanHuyen": "Nhơn Trạch",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc thien nhon trach dong nai",
+            "Point": null,
+            "Abbr": "pt nt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76257"
+        },
+        {
+            "MaPhuongXa": "81583",
+            "TenPhuongXa": "Phú Hội",
+            "MaQuanHuyen": "8158",
+            "TenQuanHuyen": "Nhơn Trạch",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hoi nhon trach dong nai",
+            "Point": null,
+            "Abbr": "ph nt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76256"
+        },
+        {
+            "MaPhuongXa": "81585",
+            "TenPhuongXa": "Long Tân",
+            "MaQuanHuyen": "8158",
+            "TenQuanHuyen": "Nhơn Trạch",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long tan nhon trach dong nai",
+            "Point": null,
+            "Abbr": "lt nt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76258"
+        },
+        {
+            "MaPhuongXa": "81586",
+            "TenPhuongXa": "Đại Phước",
+            "MaQuanHuyen": "8158",
+            "TenQuanHuyen": "Nhơn Trạch",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai phuoc nhon trach dong nai",
+            "Point": null,
+            "Abbr": "dp nt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76259"
+        },
+        {
+            "MaPhuongXa": "81587",
+            "TenPhuongXa": "Phú Hữu",
+            "MaQuanHuyen": "8158",
+            "TenQuanHuyen": "Nhơn Trạch",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu huu nhon trach dong nai",
+            "Point": null,
+            "Abbr": "ph nt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76260"
+        },
+        {
+            "MaPhuongXa": "81598",
+            "TenPhuongXa": "Vĩnh Thanh",
+            "MaQuanHuyen": "8158",
+            "TenQuanHuyen": "Nhơn Trạch",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh thanh nhon trach dong nai",
+            "Point": null,
+            "Abbr": "vt nt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76264"
+        },
+        {
+            "MaPhuongXa": "81590",
+            "TenPhuongXa": "Phú Thạnh",
+            "MaQuanHuyen": "8158",
+            "TenQuanHuyen": "Nhơn Trạch",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thanh nhon trach dong nai",
+            "Point": null,
+            "Abbr": "pt nt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76262"
+        },
+        {
+            "MaPhuongXa": "81592",
+            "TenPhuongXa": "Hiệp Phước",
+            "MaQuanHuyen": "8158",
+            "TenQuanHuyen": "Nhơn Trạch",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep phuoc nhon trach dong nai",
+            "Point": null,
+            "Abbr": "hp nt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76265"
+        },
+        {
+            "MaPhuongXa": "81596",
+            "TenPhuongXa": "Long Thọ",
+            "MaQuanHuyen": "8158",
+            "TenQuanHuyen": "Nhơn Trạch",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long tho nhon trach dong nai",
+            "Point": null,
+            "Abbr": "lt nt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76266"
+        },
+        {
+            "MaPhuongXa": "81601",
+            "TenPhuongXa": "Phước Khánh",
+            "MaQuanHuyen": "8158",
+            "TenQuanHuyen": "Nhơn Trạch",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pk",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc khanh nhon trach dong nai",
+            "Point": null,
+            "Abbr": "pk nt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76263"
+        },
+        {
+            "MaPhuongXa": "81600",
+            "TenPhuongXa": "Phước An",
+            "MaQuanHuyen": "8158",
+            "TenQuanHuyen": "Nhơn Trạch",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pa",
+                    "Point": 5
+                },
+                {
+                    "Key": "nt",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc an nhon trach dong nai",
+            "Point": null,
+            "Abbr": "pa nt dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76267"
+        }
+    ],
+    "8161": [
+        {
+            "MaPhuongXa": "81629",
+            "TenPhuongXa": "Xuân  Mỹ",
+            "MaQuanHuyen": "8161",
+            "TenQuanHuyen": "Cẩm Mỹ",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xm",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan  my cam my dong nai",
+            "Point": null,
+            "Abbr": "xm cm dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76508"
+        },
+        {
+            "MaPhuongXa": "81628",
+            "TenPhuongXa": "Long Giao",
+            "MaQuanHuyen": "8161",
+            "TenQuanHuyen": "Cẩm Mỹ",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "lg",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long giao cam my dong nai",
+            "Point": null,
+            "Abbr": "lg cm dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76506"
+        },
+        {
+            "MaPhuongXa": "81622",
+            "TenPhuongXa": "Sông Nhạn",
+            "MaQuanHuyen": "8161",
+            "TenQuanHuyen": "Cẩm Mỹ",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "sn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song nhan cam my dong nai",
+            "Point": null,
+            "Abbr": "sn cm dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76517"
+        },
+        {
+            "MaPhuongXa": "81621",
+            "TenPhuongXa": "Xuân Quế",
+            "MaQuanHuyen": "8161",
+            "TenQuanHuyen": "Cẩm Mỹ",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xq",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan que cam my dong nai",
+            "Point": null,
+            "Abbr": "xq cm dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76507"
+        },
+        {
+            "MaPhuongXa": "81626",
+            "TenPhuongXa": "Nhân Nghĩa",
+            "MaQuanHuyen": "8161",
+            "TenQuanHuyen": "Cẩm Mỹ",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "nn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhan nghia cam my dong nai",
+            "Point": null,
+            "Abbr": "nn cm dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76515"
+        },
+        {
+            "MaPhuongXa": "81625",
+            "TenPhuongXa": "Thừa Đức",
+            "MaQuanHuyen": "8161",
+            "TenQuanHuyen": "Cẩm Mỹ",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thua duc cam my dong nai",
+            "Point": null,
+            "Abbr": "td cm dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76518"
+        },
+        {
+            "MaPhuongXa": "81624",
+            "TenPhuongXa": "Xuân Đường",
+            "MaQuanHuyen": "8161",
+            "TenQuanHuyen": "Cẩm Mỹ",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan duong cam my dong nai",
+            "Point": null,
+            "Abbr": "xd cm dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76516"
+        },
+        {
+            "MaPhuongXa": "81619",
+            "TenPhuongXa": "Lâm San",
+            "MaQuanHuyen": "8161",
+            "TenQuanHuyen": "Cẩm Mỹ",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lam san cam my dong nai",
+            "Point": null,
+            "Abbr": "ls cm dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76510"
+        },
+        {
+            "MaPhuongXa": "81613",
+            "TenPhuongXa": "Xuân Đông",
+            "MaQuanHuyen": "8161",
+            "TenQuanHuyen": "Cẩm Mỹ",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan dong cam my dong nai",
+            "Point": null,
+            "Abbr": "xd cm dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76513"
+        },
+        {
+            "MaPhuongXa": "81611",
+            "TenPhuongXa": "Bảo Bình",
+            "MaQuanHuyen": "8161",
+            "TenQuanHuyen": "Cẩm Mỹ",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bao binh cam my dong nai",
+            "Point": null,
+            "Abbr": "bb cm dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76511"
+        },
+        {
+            "MaPhuongXa": "81610",
+            "TenPhuongXa": "Xuân Bảo",
+            "MaQuanHuyen": "8161",
+            "TenQuanHuyen": "Cẩm Mỹ",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan bao cam my dong nai",
+            "Point": null,
+            "Abbr": "xb cm dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76514"
+        },
+        {
+            "MaPhuongXa": "81617",
+            "TenPhuongXa": "Sông Ray",
+            "MaQuanHuyen": "8161",
+            "TenQuanHuyen": "Cẩm Mỹ",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "sr",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song ray cam my dong nai",
+            "Point": null,
+            "Abbr": "sr cm dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76509"
+        },
+        {
+            "MaPhuongXa": "81615",
+            "TenPhuongXa": "Xuân Tây",
+            "MaQuanHuyen": "8161",
+            "TenQuanHuyen": "Cẩm Mỹ",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan tay cam my dong nai",
+            "Point": null,
+            "Abbr": "xt cm dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76512"
+        }
+    ],
+    "8139": [
+        {
+            "MaPhuongXa": "81399",
+            "TenPhuongXa": "Xuân Thành",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan thanh xuan loc dong nai",
+            "Point": null,
+            "Abbr": "xt xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76608"
+        },
+        {
+            "MaPhuongXa": "81396",
+            "TenPhuongXa": "Xuân Hoà",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan hoa xuan loc dong nai",
+            "Point": null,
+            "Abbr": "xh xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76619"
+        },
+        {
+            "MaPhuongXa": "81397",
+            "TenPhuongXa": "Xuân Trường",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan truong xuan loc dong nai",
+            "Point": null,
+            "Abbr": "xt xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76607"
+        },
+        {
+            "MaPhuongXa": "81394",
+            "TenPhuongXa": "Xuân Hưng",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan hung xuan loc dong nai",
+            "Point": null,
+            "Abbr": "xh xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76618"
+        },
+        {
+            "MaPhuongXa": "81392",
+            "TenPhuongXa": "Xuân Tâm",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan tam xuan loc dong nai",
+            "Point": null,
+            "Abbr": "xt xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76620"
+        },
+        {
+            "MaPhuongXa": "81390",
+            "TenPhuongXa": "Gia Ray",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "gr",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia ray xuan loc dong nai",
+            "Point": null,
+            "Abbr": "gr xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76606"
+        },
+        {
+            "MaPhuongXa": "81409",
+            "TenPhuongXa": "Xuân Định",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xd",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan dinh xuan loc dong nai",
+            "Point": null,
+            "Abbr": "xd xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76614"
+        },
+        {
+            "MaPhuongXa": "81408",
+            "TenPhuongXa": "Bảo Hoà",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bao hoa xuan loc dong nai",
+            "Point": null,
+            "Abbr": "bh xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76616"
+        },
+        {
+            "MaPhuongXa": "81401",
+            "TenPhuongXa": "Suối Cát",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "sc",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi cat xuan loc dong nai",
+            "Point": null,
+            "Abbr": "sc xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76612"
+        },
+        {
+            "MaPhuongXa": "81400",
+            "TenPhuongXa": "Suối Cao",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "sc",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi cao xuan loc dong nai",
+            "Point": null,
+            "Abbr": "sc xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76609"
+        },
+        {
+            "MaPhuongXa": "81402",
+            "TenPhuongXa": "Xuân Thọ",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan tho xuan loc dong nai",
+            "Point": null,
+            "Abbr": "xt xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76611"
+        },
+        {
+            "MaPhuongXa": "81404",
+            "TenPhuongXa": "Xuân Bắc",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xb",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan bac xuan loc dong nai",
+            "Point": null,
+            "Abbr": "xb xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76610"
+        },
+        {
+            "MaPhuongXa": "81407",
+            "TenPhuongXa": "Xuân Phú",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xp",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan phu xuan loc dong nai",
+            "Point": null,
+            "Abbr": "xp xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76615"
+        },
+        {
+            "MaPhuongXa": "81406",
+            "TenPhuongXa": "Xuân Hiệp",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan hiep xuan loc dong nai",
+            "Point": null,
+            "Abbr": "xh xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76613"
+        },
+        {
+            "MaPhuongXa": "81410",
+            "TenPhuongXa": "Lang Minh",
+            "MaQuanHuyen": "8139",
+            "TenQuanHuyen": "Xuân Lộc",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "lm",
+                    "Point": 5
+                },
+                {
+                    "Key": "xl",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lang minh xuan loc dong nai",
+            "Point": null,
+            "Abbr": "lm xl dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76617"
+        }
+    ],
+    "8150": [
+        {
+            "MaPhuongXa": "81509",
+            "TenPhuongXa": "Thiện Tân",
+            "MaQuanHuyen": "8150",
+            "TenQuanHuyen": "Vĩnh Cửu",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vc",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thien tan vinh cuu dong nai",
+            "Point": null,
+            "Abbr": "tt vc dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76913"
+        },
+        {
+            "MaPhuongXa": "81500",
+            "TenPhuongXa": "Vĩnh An",
+            "MaQuanHuyen": "8150",
+            "TenQuanHuyen": "Vĩnh Cửu",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "va",
+                    "Point": 5
+                },
+                {
+                    "Key": "vc",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh an vinh cuu dong nai",
+            "Point": null,
+            "Abbr": "va vc dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76906"
+        },
+        {
+            "MaPhuongXa": "81502",
+            "TenPhuongXa": "Phú Lý",
+            "MaQuanHuyen": "8150",
+            "TenQuanHuyen": "Vĩnh Cửu",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vc",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu ly vinh cuu dong nai",
+            "Point": null,
+            "Abbr": "pl vc dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76908"
+        },
+        {
+            "MaPhuongXa": "81504",
+            "TenPhuongXa": "Trị An",
+            "MaQuanHuyen": "8150",
+            "TenQuanHuyen": "Vĩnh Cửu",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "vc",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tri an vinh cuu dong nai",
+            "Point": null,
+            "Abbr": "ta vc dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76910"
+        },
+        {
+            "MaPhuongXa": "81505",
+            "TenPhuongXa": "Tân An",
+            "MaQuanHuyen": "8150",
+            "TenQuanHuyen": "Vĩnh Cửu",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "vc",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan an vinh cuu dong nai",
+            "Point": null,
+            "Abbr": "ta vc dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76911"
+        },
+        {
+            "MaPhuongXa": "81507",
+            "TenPhuongXa": "Vĩnh Tân",
+            "MaQuanHuyen": "8150",
+            "TenQuanHuyen": "Vĩnh Cửu",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vc",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh tan vinh cuu dong nai",
+            "Point": null,
+            "Abbr": "vt vc dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76912"
+        },
+        {
+            "MaPhuongXa": "81519",
+            "TenPhuongXa": "Hiếu Liêm",
+            "MaQuanHuyen": "8150",
+            "TenQuanHuyen": "Vĩnh Cửu",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vc",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hieu liem vinh cuu dong nai",
+            "Point": null,
+            "Abbr": "hl vc dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76909"
+        },
+        {
+            "MaPhuongXa": "81511",
+            "TenPhuongXa": "Thạnh Phú",
+            "MaQuanHuyen": "8150",
+            "TenQuanHuyen": "Vĩnh Cửu",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "vc",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh phu vinh cuu dong nai",
+            "Point": null,
+            "Abbr": "tp vc dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76914"
+        },
+        {
+            "MaPhuongXa": "81514",
+            "TenPhuongXa": "Bình Lợi",
+            "MaQuanHuyen": "8150",
+            "TenQuanHuyen": "Vĩnh Cửu",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vc",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh loi vinh cuu dong nai",
+            "Point": null,
+            "Abbr": "bl vc dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76915"
+        },
+        {
+            "MaPhuongXa": "81515",
+            "TenPhuongXa": "Tân Bình",
+            "MaQuanHuyen": "8150",
+            "TenQuanHuyen": "Vĩnh Cửu",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "vc",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan binh vinh cuu dong nai",
+            "Point": null,
+            "Abbr": "tb vc dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76916"
+        },
+        {
+            "MaPhuongXa": "81516",
+            "TenPhuongXa": "Bình Hoà",
+            "MaQuanHuyen": "8150",
+            "TenQuanHuyen": "Vĩnh Cửu",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vc",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh hoa vinh cuu dong nai",
+            "Point": null,
+            "Abbr": "bh vc dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76917"
+        },
+        {
+            "MaPhuongXa": "81517",
+            "TenPhuongXa": "Mã Đà",
+            "MaQuanHuyen": "8150",
+            "TenQuanHuyen": "Vĩnh Cửu",
+            "MaTinhThanh": "81",
+            "TenTinhThanh": "Đồng Nai",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "vc",
+                    "Point": 2
+                },
+                {
+                    "Key": "dn",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ma da vinh cuu dong nai",
+            "Point": null,
+            "Abbr": "md vc dn",
+            "TrangThai": null,
+            "MaBuuChinh": "76907"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+.about {
+    &-image {
+        .logo {
+            @include imgContain;
+            width: auto;
+            height: auto;
+            color: white;
+
+            .text {
+                display: block;
+                margin-bottom: 1rem;
+            }
+        }
+    }
+
+    &-content {
+        &-left {
+            width: calc(100% * 5 / 12);
+
+            .content {
+                p {
+                    margin-bottom: calc(var(--pdGen2));
+                    font-weight: 500;
+                }
+            }
+        }
+
+        &-right {
+            flex: 1;
+        }
+
+        &-box {
+            flex: 1;
+        }
+
+        .txt {
+            font-size: 1.4rem;
+        }
+    }
+}

@@ -1,0 +1,2747 @@
+{
+    "9727": [
+        {
+            "MaPhuongXa": "97278",
+            "TenPhuongXa": "Tân Hưng",
+            "MaQuanHuyen": "9727",
+            "TenQuanHuyen": "Cái Nước",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hung cai nuoc ca mau",
+            "Point": null,
+            "Abbr": "th cn cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98611"
+        },
+        {
+            "MaPhuongXa": "97275",
+            "TenPhuongXa": "Tân Hưng Đông",
+            "MaQuanHuyen": "9727",
+            "TenQuanHuyen": "Cái Nước",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "thd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hung dong cai nuoc ca mau",
+            "Point": null,
+            "Abbr": "thd cn cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98609"
+        },
+        {
+            "MaPhuongXa": "97273",
+            "TenPhuongXa": "Đông Thới",
+            "MaQuanHuyen": "9727",
+            "TenQuanHuyen": "Cái Nước",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong thoi cai nuoc ca mau",
+            "Point": null,
+            "Abbr": "dt cn cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98607"
+        },
+        {
+            "MaPhuongXa": "97270",
+            "TenPhuongXa": "Cái Nước",
+            "MaQuanHuyen": "9727",
+            "TenQuanHuyen": "Cái Nước",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cai nuoc cai nuoc ca mau",
+            "Point": null,
+            "Abbr": "cn cn cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98606"
+        },
+        {
+            "MaPhuongXa": "97288",
+            "TenPhuongXa": "Trần Thới",
+            "MaQuanHuyen": "9727",
+            "TenQuanHuyen": "Cái Nước",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran thoi cai nuoc ca mau",
+            "Point": null,
+            "Abbr": "tt cn cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98610"
+        },
+        {
+            "MaPhuongXa": "97285",
+            "TenPhuongXa": "Hưng Mỹ",
+            "MaQuanHuyen": "9727",
+            "TenQuanHuyen": "Cái Nước",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung my cai nuoc ca mau",
+            "Point": null,
+            "Abbr": "hm cn cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98613"
+        },
+        {
+            "MaPhuongXa": "97283",
+            "TenPhuongXa": "Phú Hưng",
+            "MaQuanHuyen": "9727",
+            "TenQuanHuyen": "Cái Nước",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hung cai nuoc ca mau",
+            "Point": null,
+            "Abbr": "ph cn cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98614"
+        },
+        {
+            "MaPhuongXa": "97280",
+            "TenPhuongXa": "Lương Thế Trân",
+            "MaQuanHuyen": "9727",
+            "TenQuanHuyen": "Cái Nước",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "ltt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong the tran cai nuoc ca mau",
+            "Point": null,
+            "Abbr": "ltt cn cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98616"
+        },
+        {
+            "MaPhuongXa": "97292",
+            "TenPhuongXa": "Đông Hưng",
+            "MaQuanHuyen": "9727",
+            "TenQuanHuyen": "Cái Nước",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong hung cai nuoc ca mau",
+            "Point": null,
+            "Abbr": "dh cn cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98608"
+        },
+        {
+            "MaPhuongXa": "97293",
+            "TenPhuongXa": "Thạnh Phú",
+            "MaQuanHuyen": "9727",
+            "TenQuanHuyen": "Cái Nước",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh phu cai nuoc ca mau",
+            "Point": null,
+            "Abbr": "tp cn cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98615"
+        },
+        {
+            "MaPhuongXa": "97291",
+            "TenPhuongXa": "Hòa Mỹ",
+            "MaQuanHuyen": "9727",
+            "TenQuanHuyen": "Cái Nước",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa my cai nuoc ca mau",
+            "Point": null,
+            "Abbr": "hm cn cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98612"
+        }
+    ],
+    "9710": [
+        {
+            "MaPhuongXa": "97174",
+            "TenPhuongXa": "Tân Xuyên",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tx",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan xuyen ca mau ca mau",
+            "Point": null,
+            "Abbr": "tx cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98107"
+        },
+        {
+            "MaPhuongXa": "97173",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh ca mau ca mau",
+            "Point": null,
+            "Abbr": "tt cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98117"
+        },
+        {
+            "MaPhuongXa": "97135",
+            "TenPhuongXa": "Số 8",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "s8",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 8 ca mau ca mau",
+            "Point": null,
+            "Abbr": "s8 cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98114"
+        },
+        {
+            "MaPhuongXa": "97132",
+            "TenPhuongXa": "Số 1",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "s1",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 1 ca mau ca mau",
+            "Point": null,
+            "Abbr": "s1 cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98108"
+        },
+        {
+            "MaPhuongXa": "97148",
+            "TenPhuongXa": "Số 7",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "s7",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 7 ca mau ca mau",
+            "Point": null,
+            "Abbr": "s7 cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98115"
+        },
+        {
+            "MaPhuongXa": "97147",
+            "TenPhuongXa": "Tắc Vân",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tac van ca mau ca mau",
+            "Point": null,
+            "Abbr": "tv cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98118"
+        },
+        {
+            "MaPhuongXa": "97142",
+            "TenPhuongXa": "Số 6",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "s6",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 6 ca mau ca mau",
+            "Point": null,
+            "Abbr": "s6 cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98116"
+        },
+        {
+            "MaPhuongXa": "97126",
+            "TenPhuongXa": "Số 9",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "s9",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 9 ca mau ca mau",
+            "Point": null,
+            "Abbr": "s9 cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98106"
+        },
+        {
+            "MaPhuongXa": "97106",
+            "TenPhuongXa": "Số 5",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "s5",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 5 ca mau ca mau",
+            "Point": null,
+            "Abbr": "s5 cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98110"
+        },
+        {
+            "MaPhuongXa": "97100",
+            "TenPhuongXa": "Số 2",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "s2",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 2 ca mau ca mau",
+            "Point": null,
+            "Abbr": "s2 cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98109"
+        },
+        {
+            "MaPhuongXa": "97159",
+            "TenPhuongXa": "Hoà Tân",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa tan ca mau ca mau",
+            "Point": null,
+            "Abbr": "ht cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98122"
+        },
+        {
+            "MaPhuongXa": "97155",
+            "TenPhuongXa": "Hoà Thành",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa thanh ca mau ca mau",
+            "Point": null,
+            "Abbr": "ht cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98120"
+        },
+        {
+            "MaPhuongXa": "97157",
+            "TenPhuongXa": "Định Bình",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh binh ca mau ca mau",
+            "Point": null,
+            "Abbr": "db cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98119"
+        },
+        {
+            "MaPhuongXa": "97153",
+            "TenPhuongXa": "Lý Văn Lâm",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "lvl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ly van lam ca mau ca mau",
+            "Point": null,
+            "Abbr": "lvl cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98121"
+        },
+        {
+            "MaPhuongXa": "97119",
+            "TenPhuongXa": "Số 4",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "s4",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 4 ca mau ca mau",
+            "Point": null,
+            "Abbr": "s4 cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98111"
+        },
+        {
+            "MaPhuongXa": "97115",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh ca mau ca mau",
+            "Point": null,
+            "Abbr": "tt cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98112"
+        },
+        {
+            "MaPhuongXa": "97117",
+            "TenPhuongXa": "An Xuyên",
+            "MaQuanHuyen": "9710",
+            "TenQuanHuyen": "Cà Mau",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "ax",
+                    "Point": 5
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an xuyen ca mau ca mau",
+            "Point": null,
+            "Abbr": "ax cm cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98113"
+        }
+    ],
+    "9736": [
+        {
+            "MaPhuongXa": "97377",
+            "TenPhuongXa": "Rạch Chèo",
+            "MaQuanHuyen": "9736",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "rc",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "rach cheo phu tan ca mau",
+            "Point": null,
+            "Abbr": "rc pt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98508"
+        },
+        {
+            "MaPhuongXa": "97375",
+            "TenPhuongXa": "Tân Hải",
+            "MaQuanHuyen": "9736",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hai phu tan ca mau",
+            "Point": null,
+            "Abbr": "th pt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98510"
+        },
+        {
+            "MaPhuongXa": "97373",
+            "TenPhuongXa": "Việt Khái",
+            "MaQuanHuyen": "9736",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "vk",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet khai phu tan ca mau",
+            "Point": null,
+            "Abbr": "vk pt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98506"
+        },
+        {
+            "MaPhuongXa": "97370",
+            "TenPhuongXa": "Tân Hưng Tây",
+            "MaQuanHuyen": "9736",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tht",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hung tay phu tan ca mau",
+            "Point": null,
+            "Abbr": "tht pt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98509"
+        },
+        {
+            "MaPhuongXa": "97368",
+            "TenPhuongXa": "Phú Tân",
+            "MaQuanHuyen": "9736",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu tan phu tan ca mau",
+            "Point": null,
+            "Abbr": "pt pt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98511"
+        },
+        {
+            "MaPhuongXa": "97366",
+            "TenPhuongXa": "Phú Mỹ",
+            "MaQuanHuyen": "9736",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu my phu tan ca mau",
+            "Point": null,
+            "Abbr": "pm pt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98512"
+        },
+        {
+            "MaPhuongXa": "97365",
+            "TenPhuongXa": "Phú Thuận",
+            "MaQuanHuyen": "9736",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thuan phu tan ca mau",
+            "Point": null,
+            "Abbr": "pt pt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98513"
+        },
+        {
+            "MaPhuongXa": "97363",
+            "TenPhuongXa": "Việt Thắng",
+            "MaQuanHuyen": "9736",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet thang phu tan ca mau",
+            "Point": null,
+            "Abbr": "vt pt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98514"
+        },
+        {
+            "MaPhuongXa": "97360",
+            "TenPhuongXa": "Cái Đôi Vàm",
+            "MaQuanHuyen": "9736",
+            "TenQuanHuyen": "Phú Tân",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "cdv",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cai doi vam phu tan ca mau",
+            "Point": null,
+            "Abbr": "cdv pt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98507"
+        }
+    ],
+    "9718": [
+        {
+            "MaPhuongXa": "97189",
+            "TenPhuongXa": "Biển Bạch",
+            "MaQuanHuyen": "9718",
+            "TenQuanHuyen": "Thới Bình",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "bb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bien bach thoi binh ca mau",
+            "Point": null,
+            "Abbr": "bb tb cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98211"
+        },
+        {
+            "MaPhuongXa": "97185",
+            "TenPhuongXa": "Trí Phải",
+            "MaQuanHuyen": "9718",
+            "TenQuanHuyen": "Thới Bình",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tri phai thoi binh ca mau",
+            "Point": null,
+            "Abbr": "tp tb cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98207"
+        },
+        {
+            "MaPhuongXa": "97187",
+            "TenPhuongXa": "Biển Bạch Đông",
+            "MaQuanHuyen": "9718",
+            "TenQuanHuyen": "Thới Bình",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "bbd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bien bach dong thoi binh ca mau",
+            "Point": null,
+            "Abbr": "bbd tb cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98209"
+        },
+        {
+            "MaPhuongXa": "97180",
+            "TenPhuongXa": "Thới Bình",
+            "MaQuanHuyen": "9718",
+            "TenQuanHuyen": "Thới Bình",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thoi binh thoi binh ca mau",
+            "Point": null,
+            "Abbr": "tb tb cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98206"
+        },
+        {
+            "MaPhuongXa": "97183",
+            "TenPhuongXa": "Tân Phú",
+            "MaQuanHuyen": "9718",
+            "TenQuanHuyen": "Thới Bình",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phu thoi binh ca mau",
+            "Point": null,
+            "Abbr": "tp tb cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98213"
+        },
+        {
+            "MaPhuongXa": "97199",
+            "TenPhuongXa": "Hồ Thị Kỷ",
+            "MaQuanHuyen": "9718",
+            "TenQuanHuyen": "Thới Bình",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "htk",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ho thi ky thoi binh ca mau",
+            "Point": null,
+            "Abbr": "htk tb cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98217"
+        },
+        {
+            "MaPhuongXa": "97195",
+            "TenPhuongXa": "Tân Lộc",
+            "MaQuanHuyen": "9718",
+            "TenQuanHuyen": "Thới Bình",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan loc thoi binh ca mau",
+            "Point": null,
+            "Abbr": "tl tb cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98216"
+        },
+        {
+            "MaPhuongXa": "97197",
+            "TenPhuongXa": "Tân Lộc Đông",
+            "MaQuanHuyen": "9718",
+            "TenQuanHuyen": "Thới Bình",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tld",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan loc dong thoi binh ca mau",
+            "Point": null,
+            "Abbr": "tld tb cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98215"
+        },
+        {
+            "MaPhuongXa": "97191",
+            "TenPhuongXa": "Thới Bình",
+            "MaQuanHuyen": "9718",
+            "TenQuanHuyen": "Thới Bình",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thoi binh thoi binh ca mau",
+            "Point": null,
+            "Abbr": "tb tb cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98212"
+        },
+        {
+            "MaPhuongXa": "97193",
+            "TenPhuongXa": "Tân Lộc Bắc",
+            "MaQuanHuyen": "9718",
+            "TenQuanHuyen": "Thới Bình",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tlb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan loc bac thoi binh ca mau",
+            "Point": null,
+            "Abbr": "tlb tb cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98214"
+        },
+        {
+            "MaPhuongXa": "97203",
+            "TenPhuongXa": "Trí Lực",
+            "MaQuanHuyen": "9718",
+            "TenQuanHuyen": "Thới Bình",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tri luc thoi binh ca mau",
+            "Point": null,
+            "Abbr": "tl tb cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98208"
+        },
+        {
+            "MaPhuongXa": "97201",
+            "TenPhuongXa": "Tân Bằng",
+            "MaQuanHuyen": "9718",
+            "TenQuanHuyen": "Thới Bình",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tb",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan bang thoi binh ca mau",
+            "Point": null,
+            "Abbr": "tb tb cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98210"
+        }
+    ],
+    "9723": [
+        {
+            "MaPhuongXa": "97238",
+            "TenPhuongXa": "Khánh Bình",
+            "MaQuanHuyen": "9723",
+            "TenQuanHuyen": "Trần Văn Thời",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "kb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tvt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh binh tran van thoi ca mau",
+            "Point": null,
+            "Abbr": "kb tvt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98413"
+        },
+        {
+            "MaPhuongXa": "97235",
+            "TenPhuongXa": "Khánh Bình Đông",
+            "MaQuanHuyen": "9723",
+            "TenQuanHuyen": "Trần Văn Thời",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "kbd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tvt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh binh dong tran van thoi ca mau",
+            "Point": null,
+            "Abbr": "kbd tvt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98407"
+        },
+        {
+            "MaPhuongXa": "97233",
+            "TenPhuongXa": "Lợi An",
+            "MaQuanHuyen": "9723",
+            "TenQuanHuyen": "Trần Văn Thời",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "la",
+                    "Point": 5
+                },
+                {
+                    "Key": "tvt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loi an tran van thoi ca mau",
+            "Point": null,
+            "Abbr": "la tvt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98412"
+        },
+        {
+            "MaPhuongXa": "97230",
+            "TenPhuongXa": "Trần Văn Thời",
+            "MaQuanHuyen": "9723",
+            "TenQuanHuyen": "Trần Văn Thời",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tvt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tvt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran van thoi tran van thoi ca mau",
+            "Point": null,
+            "Abbr": "tvt tvt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98406"
+        },
+        {
+            "MaPhuongXa": "97249",
+            "TenPhuongXa": "Khánh Hưng",
+            "MaQuanHuyen": "9723",
+            "TenQuanHuyen": "Trần Văn Thời",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "kh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tvt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh hung tran van thoi ca mau",
+            "Point": null,
+            "Abbr": "kh tvt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98409"
+        },
+        {
+            "MaPhuongXa": "97246",
+            "TenPhuongXa": "Khánh Bình Tây",
+            "MaQuanHuyen": "9723",
+            "TenQuanHuyen": "Trần Văn Thời",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "kbt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tvt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh binh tay tran van thoi ca mau",
+            "Point": null,
+            "Abbr": "kbt tvt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98415"
+        },
+        {
+            "MaPhuongXa": "97244",
+            "TenPhuongXa": "Khánh Bình Tây Bắc",
+            "MaQuanHuyen": "9723",
+            "TenQuanHuyen": "Trần Văn Thời",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "kbtb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tvt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh binh tay bac tran van thoi ca mau",
+            "Point": null,
+            "Abbr": "kbtb tvt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98414"
+        },
+        {
+            "MaPhuongXa": "97240",
+            "TenPhuongXa": "Trần Hợi",
+            "MaQuanHuyen": "9723",
+            "TenQuanHuyen": "Trần Văn Thời",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tvt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran hoi tran van thoi ca mau",
+            "Point": null,
+            "Abbr": "th tvt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98408"
+        },
+        {
+            "MaPhuongXa": "97262",
+            "TenPhuongXa": "Phong Điền",
+            "MaQuanHuyen": "9723",
+            "TenQuanHuyen": "Trần Văn Thời",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tvt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong dien tran van thoi ca mau",
+            "Point": null,
+            "Abbr": "pd tvt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98418"
+        },
+        {
+            "MaPhuongXa": "97260",
+            "TenPhuongXa": "Khánh Lộc",
+            "MaQuanHuyen": "9723",
+            "TenQuanHuyen": "Trần Văn Thời",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "kl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tvt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh loc tran van thoi ca mau",
+            "Point": null,
+            "Abbr": "kl tvt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98410"
+        },
+        {
+            "MaPhuongXa": "97257",
+            "TenPhuongXa": "Phong Lạc",
+            "MaQuanHuyen": "9723",
+            "TenQuanHuyen": "Trần Văn Thời",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tvt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong lac tran van thoi ca mau",
+            "Point": null,
+            "Abbr": "pl tvt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98411"
+        },
+        {
+            "MaPhuongXa": "97254",
+            "TenPhuongXa": "Sông Đốc",
+            "MaQuanHuyen": "9723",
+            "TenQuanHuyen": "Trần Văn Thời",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "sd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tvt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song doc tran van thoi ca mau",
+            "Point": null,
+            "Abbr": "sd tvt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98417"
+        },
+        {
+            "MaPhuongXa": "97252",
+            "TenPhuongXa": "Khánh Hải",
+            "MaQuanHuyen": "9723",
+            "TenQuanHuyen": "Trần Văn Thời",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "kh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tvt",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh hai tran van thoi ca mau",
+            "Point": null,
+            "Abbr": "kh tvt cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98416"
+        }
+    ],
+    "9730": [
+        {
+            "MaPhuongXa": "97333",
+            "TenPhuongXa": "Tân Trung",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan trung dam doi ca mau",
+            "Point": null,
+            "Abbr": "tt dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98709"
+        },
+        {
+            "MaPhuongXa": "97331",
+            "TenPhuongXa": "Tân Dân",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan dan dam doi ca mau",
+            "Point": null,
+            "Abbr": "td dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98712"
+        },
+        {
+            "MaPhuongXa": "97329",
+            "TenPhuongXa": "Ngọc Chánh",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc chanh dam doi ca mau",
+            "Point": null,
+            "Abbr": "nc dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98718"
+        },
+        {
+            "MaPhuongXa": "97327",
+            "TenPhuongXa": "Quách Phẩm",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "qp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quach pham dam doi ca mau",
+            "Point": null,
+            "Abbr": "qp dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98716"
+        },
+        {
+            "MaPhuongXa": "97324",
+            "TenPhuongXa": "Nguyễn Huân",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyen huan dam doi ca mau",
+            "Point": null,
+            "Abbr": "nh dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98719"
+        },
+        {
+            "MaPhuongXa": "97322",
+            "TenPhuongXa": "Thanh Tùng",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh tung dam doi ca mau",
+            "Point": null,
+            "Abbr": "tt dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98717"
+        },
+        {
+            "MaPhuongXa": "97320",
+            "TenPhuongXa": "Quách Phẩm Bắc",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "qpb",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quach pham bac dam doi ca mau",
+            "Point": null,
+            "Abbr": "qpb dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98715"
+        },
+        {
+            "MaPhuongXa": "97309",
+            "TenPhuongXa": "Tạ An Khương Đông",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "takd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta an khuong dong dam doi ca mau",
+            "Point": null,
+            "Abbr": "takd dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98714"
+        },
+        {
+            "MaPhuongXa": "97306",
+            "TenPhuongXa": "Tân Thuận",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thuan dam doi ca mau",
+            "Point": null,
+            "Abbr": "tt dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98721"
+        },
+        {
+            "MaPhuongXa": "97304",
+            "TenPhuongXa": "Tân Đức",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan duc dam doi ca mau",
+            "Point": null,
+            "Abbr": "td dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98713"
+        },
+        {
+            "MaPhuongXa": "97302",
+            "TenPhuongXa": "Tạ An Khương Nam",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "takn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta an khuong nam dam doi ca mau",
+            "Point": null,
+            "Abbr": "takn dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98707"
+        },
+        {
+            "MaPhuongXa": "97300",
+            "TenPhuongXa": "Đầm Dơi",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dam doi dam doi ca mau",
+            "Point": null,
+            "Abbr": "dd dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98706"
+        },
+        {
+            "MaPhuongXa": "97318",
+            "TenPhuongXa": "Tân Tiến",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tien dam doi ca mau",
+            "Point": null,
+            "Abbr": "tt dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98720"
+        },
+        {
+            "MaPhuongXa": "97315",
+            "TenPhuongXa": "Tân Duyệt",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan duyet dam doi ca mau",
+            "Point": null,
+            "Abbr": "td dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98711"
+        },
+        {
+            "MaPhuongXa": "97313",
+            "TenPhuongXa": "Trần Phán",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran phan dam doi ca mau",
+            "Point": null,
+            "Abbr": "tp dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98710"
+        },
+        {
+            "MaPhuongXa": "97311",
+            "TenPhuongXa": "Tạ An Khương",
+            "MaQuanHuyen": "9730",
+            "TenQuanHuyen": "Đầm Dơi",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tak",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta an khuong dam doi ca mau",
+            "Point": null,
+            "Abbr": "tak dd cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98708"
+        }
+    ],
+    "9734": [
+        {
+            "MaPhuongXa": "97349",
+            "TenPhuongXa": "Tân Ân",
+            "MaQuanHuyen": "9734",
+            "TenQuanHuyen": "Ngọc Hiển",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan an ngoc hien ca mau",
+            "Point": null,
+            "Abbr": "ta nh cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98907"
+        },
+        {
+            "MaPhuongXa": "97346",
+            "TenPhuongXa": "Viên An Tây",
+            "MaQuanHuyen": "9734",
+            "TenQuanHuyen": "Ngọc Hiển",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "vat",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vien an tay ngoc hien ca mau",
+            "Point": null,
+            "Abbr": "vat nh cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98911"
+        },
+        {
+            "MaPhuongXa": "97344",
+            "TenPhuongXa": "Viên An Đông",
+            "MaQuanHuyen": "9734",
+            "TenQuanHuyen": "Ngọc Hiển",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "vad",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vien an dong ngoc hien ca mau",
+            "Point": null,
+            "Abbr": "vad nh cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98910"
+        },
+        {
+            "MaPhuongXa": "97343",
+            "TenPhuongXa": "Tân Ân Tây",
+            "MaQuanHuyen": "9734",
+            "TenQuanHuyen": "Ngọc Hiển",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tat",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan an tay ngoc hien ca mau",
+            "Point": null,
+            "Abbr": "tat nh cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98909"
+        },
+        {
+            "MaPhuongXa": "97340",
+            "TenPhuongXa": "Tam Giang Tây",
+            "MaQuanHuyen": "9734",
+            "TenQuanHuyen": "Ngọc Hiển",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tgt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam giang tay ngoc hien ca mau",
+            "Point": null,
+            "Abbr": "tgt nh cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98908"
+        },
+        {
+            "MaPhuongXa": "97357",
+            "TenPhuongXa": "Rạch Gốc",
+            "MaQuanHuyen": "9734",
+            "TenQuanHuyen": "Ngọc Hiển",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "rg",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "rach goc ngoc hien ca mau",
+            "Point": null,
+            "Abbr": "rg nh cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98906"
+        },
+        {
+            "MaPhuongXa": "97351",
+            "TenPhuongXa": "Đất Mũi",
+            "MaQuanHuyen": "9734",
+            "TenQuanHuyen": "Ngọc Hiển",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "nh",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dat mui ngoc hien ca mau",
+            "Point": null,
+            "Abbr": "dm nh cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98912"
+        }
+    ],
+    "9721": [
+        {
+            "MaPhuongXa": "97224",
+            "TenPhuongXa": "Khánh Thuận",
+            "MaQuanHuyen": "9721",
+            "TenQuanHuyen": "U Minh",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "um",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh thuan u minh ca mau",
+            "Point": null,
+            "Abbr": "kt um cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98307"
+        },
+        {
+            "MaPhuongXa": "97222",
+            "TenPhuongXa": "Khánh Hội",
+            "MaQuanHuyen": "9721",
+            "TenQuanHuyen": "U Minh",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "kh",
+                    "Point": 5
+                },
+                {
+                    "Key": "um",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh hoi u minh ca mau",
+            "Point": null,
+            "Abbr": "kh um cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98310"
+        },
+        {
+            "MaPhuongXa": "97220",
+            "TenPhuongXa": "Khánh An",
+            "MaQuanHuyen": "9721",
+            "TenQuanHuyen": "U Minh",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "ka",
+                    "Point": 5
+                },
+                {
+                    "Key": "um",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh an u minh ca mau",
+            "Point": null,
+            "Abbr": "ka um cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98313"
+        },
+        {
+            "MaPhuongXa": "97218",
+            "TenPhuongXa": "Khánh Lâm",
+            "MaQuanHuyen": "9721",
+            "TenQuanHuyen": "U Minh",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "kl",
+                    "Point": 5
+                },
+                {
+                    "Key": "um",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh lam u minh ca mau",
+            "Point": null,
+            "Abbr": "kl um cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98311"
+        },
+        {
+            "MaPhuongXa": "97216",
+            "TenPhuongXa": "Nguyễn Phích",
+            "MaQuanHuyen": "9721",
+            "TenQuanHuyen": "U Minh",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "um",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyen phich u minh ca mau",
+            "Point": null,
+            "Abbr": "np um cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98312"
+        },
+        {
+            "MaPhuongXa": "97214",
+            "TenPhuongXa": "Khánh Tiến",
+            "MaQuanHuyen": "9721",
+            "TenQuanHuyen": "U Minh",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "um",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh tien u minh ca mau",
+            "Point": null,
+            "Abbr": "kt um cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98309"
+        },
+        {
+            "MaPhuongXa": "97212",
+            "TenPhuongXa": "Khánh Hoà",
+            "MaQuanHuyen": "9721",
+            "TenQuanHuyen": "U Minh",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "kh",
+                    "Point": 5
+                },
+                {
+                    "Key": "um",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh hoa u minh ca mau",
+            "Point": null,
+            "Abbr": "kh um cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98308"
+        },
+        {
+            "MaPhuongXa": "97210",
+            "TenPhuongXa": "U Minh",
+            "MaQuanHuyen": "9721",
+            "TenQuanHuyen": "U Minh",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "um",
+                    "Point": 5
+                },
+                {
+                    "Key": "um",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "u minh u minh ca mau",
+            "Point": null,
+            "Abbr": "um um cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98306"
+        }
+    ],
+    "9739": [
+        {
+            "MaPhuongXa": "97399",
+            "TenPhuongXa": "Hàng Vịnh",
+            "MaQuanHuyen": "9739",
+            "TenQuanHuyen": "Năm Căn",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "nc",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hang vinh nam can ca mau",
+            "Point": null,
+            "Abbr": "hv nc cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98807"
+        },
+        {
+            "MaPhuongXa": "97395",
+            "TenPhuongXa": "Đất Mới",
+            "MaQuanHuyen": "9739",
+            "TenQuanHuyen": "Năm Căn",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "nc",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dat moi nam can ca mau",
+            "Point": null,
+            "Abbr": "dm nc cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98810"
+        },
+        {
+            "MaPhuongXa": "97393",
+            "TenPhuongXa": "Hàm Rồng",
+            "MaQuanHuyen": "9739",
+            "TenQuanHuyen": "Năm Căn",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "hr",
+                    "Point": 5
+                },
+                {
+                    "Key": "nc",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ham rong nam can ca mau",
+            "Point": null,
+            "Abbr": "hr nc cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98809"
+        },
+        {
+            "MaPhuongXa": "97390",
+            "TenPhuongXa": "Năm Căn",
+            "MaQuanHuyen": "9739",
+            "TenQuanHuyen": "Năm Căn",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "nc",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam can nam can ca mau",
+            "Point": null,
+            "Abbr": "nc nc cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98806"
+        },
+        {
+            "MaPhuongXa": "97400",
+            "TenPhuongXa": "Hiệp Tùng",
+            "MaQuanHuyen": "9739",
+            "TenQuanHuyen": "Năm Căn",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "nc",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep tung nam can ca mau",
+            "Point": null,
+            "Abbr": "ht nc cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98808"
+        },
+        {
+            "MaPhuongXa": "97401",
+            "TenPhuongXa": "Tam Giang Đông",
+            "MaQuanHuyen": "9739",
+            "TenQuanHuyen": "Năm Căn",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tgd",
+                    "Point": 5
+                },
+                {
+                    "Key": "nc",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam giang dong nam can ca mau",
+            "Point": null,
+            "Abbr": "tgd nc cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98813"
+        },
+        {
+            "MaPhuongXa": "97403",
+            "TenPhuongXa": "Tam Giang",
+            "MaQuanHuyen": "9739",
+            "TenQuanHuyen": "Năm Căn",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "tg",
+                    "Point": 5
+                },
+                {
+                    "Key": "nc",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam giang nam can ca mau",
+            "Point": null,
+            "Abbr": "tg nc cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98812"
+        },
+        {
+            "MaPhuongXa": "97405",
+            "TenPhuongXa": "Lâm Hải",
+            "MaQuanHuyen": "9739",
+            "TenQuanHuyen": "Năm Căn",
+            "MaTinhThanh": "97",
+            "TenTinhThanh": "Cà Mau",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nc",
+                    "Point": 2
+                },
+                {
+                    "Key": "cm",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lam hai nam can ca mau",
+            "Point": null,
+            "Abbr": "lh nc cm",
+            "TrangThai": null,
+            "MaBuuChinh": "98811"
+        }
+    ]
+}

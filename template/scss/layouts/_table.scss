@@ -1,0 +1,39 @@
+.tb {
+  &-row {
+    line-height: 1.2;
+    .tb-row {
+      .tb-col {
+        padding-top: 1.5rem;
+        padding-bottom: 1.4rem;
+        &:first-child {
+          width: 19rem;
+          font-weight: 600;
+        }
+
+        &:nth-child(2) {
+          flex: 1;
+        }
+      }
+    }
+  }
+
+  > .tb-row {
+    position: relative;
+
+    > .tb-col {
+      @include max(800px) {
+        width: 100%;
+      }
+    }
+
+    &::before {
+      position: absolute;
+      content: "";
+      width: calc(100% - var(--pdGen) * 2);
+      border-bottom: 0.1rem solid #e0e0e0;
+      left: 50%;
+      transform: translateX(-50%);
+      bottom: 0;
+    }
+  }
+}

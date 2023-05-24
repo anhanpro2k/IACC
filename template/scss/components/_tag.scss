@@ -1,0 +1,6 @@
+.label-p {
+  font-weight: 700;
+  @include fz-24;
+  line-height: 2;
+  color: $color-second;
+}

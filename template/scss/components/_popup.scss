@@ -1,0 +1,142 @@
+.popup {
+  position: fixed;
+  @include full;
+  z-index: 999;
+  visibility: hidden;
+  color: $color-black-3;
+
+  &.open {
+    visibility: visible;
+
+    .popup-overlay {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .popup-main {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .popup-close {
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+
+  &-overlay {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.56);
+    backdrop-filter: blur(2.5rem);
+    @include full;
+    z-index: 1;
+    @include transitionRe;
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  &-main {
+    @include mid;
+    z-index: 2;
+    width: 83rem;
+    max-width: 95%;
+    @include transitionRe;
+    opacity: 0;
+    visibility: hidden;
+
+    @include max(1024px) {
+      width: calc(100% - 1.2rem);
+      max-width: 100%;
+    }
+  }
+
+  &-over {
+    overflow-y: auto;
+    min-height: 40vh;
+    max-height: 95vh;
+  }
+
+  &-wrapper {
+    background: white;
+    width: 100%;
+    min-height: 40vh;
+    position: relative;
+    padding: 3rem 1.5rem 3rem;
+    // border-radius: 6px;
+  }
+
+  &-title {
+    @include fz-24;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 16px;
+  }
+
+  &-close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    cursor: pointer;
+    transition: 0.6s ease-in-out;
+    width: 3rem;
+    height: 3rem;
+    @include mid-flex;
+    z-index: 1201;
+    opacity: 0;
+    visibility: hidden;
+
+    &:hover {
+      .icon {
+        transform: rotate(360deg);
+      }
+    }
+
+    .icon {
+      color: $color-black;
+      font-weight: 300;
+      font-size: 2.4rem;
+      @include transition(0.6s, ease-in-out);
+    }
+  }
+
+  &-getPriceForm {
+    // .form-control
+  }
+}
+
+.noti {
+  
+}
+
+.recruit-popup {
+  .popup-wrapper {
+    border-radius: 1.6rem;
+    padding: 6rem 8.8rem;
+
+    @include max(1024px) {
+      padding: 3rem 4rem;
+    }
+
+    @include max(600px) {
+      padding: 2rem 2.4rem;
+      border-radius: 0.8rem;
+      overflow: hidden;
+    }
+
+    @include max(400px) {
+      padding: 2rem 1.2rem;
+    }
+  }
+
+  .popup-main {
+    width: calc(100% - 3rem);
+    max-width: 117rem;
+  }
+
+  .popup-close {
+    @include max(400px) {
+      top: 0.4rem;
+    }
+  }
+ }

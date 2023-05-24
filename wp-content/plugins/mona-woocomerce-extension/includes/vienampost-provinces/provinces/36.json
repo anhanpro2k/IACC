@@ -1,0 +1,5534 @@
+{
+    "3657": [
+        {
+            "MaPhuongXa": "36630",
+            "TenPhuongXa": "Mường Bám",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong bam thuan chau son la",
+            "Point": null,
+            "Abbr": "mb tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34324"
+        },
+        {
+            "MaPhuongXa": "36634",
+            "TenPhuongXa": "Co Mạ",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "co ma thuan chau son la",
+            "Point": null,
+            "Abbr": "cm tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34325"
+        },
+        {
+            "MaPhuongXa": "36638",
+            "TenPhuongXa": "Co Tòng",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "co tong thuan chau son la",
+            "Point": null,
+            "Abbr": "ct tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34326"
+        },
+        {
+            "MaPhuongXa": "36581",
+            "TenPhuongXa": "Tông Lạ̣nh",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tong lanh thuan chau son la",
+            "Point": null,
+            "Abbr": "tl tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34308"
+        },
+        {
+            "MaPhuongXa": "36586",
+            "TenPhuongXa": "Bon Phặng",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bon phang thuan chau son la",
+            "Point": null,
+            "Abbr": "bp tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34331"
+        },
+        {
+            "MaPhuongXa": "36584",
+            "TenPhuongXa": "Chiềng Pấc",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng pac thuan chau son la",
+            "Point": null,
+            "Abbr": "cp tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34330"
+        },
+        {
+            "MaPhuongXa": "36588",
+            "TenPhuongXa": "Tông Cọ",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tong co thuan chau son la",
+            "Point": null,
+            "Abbr": "tc tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34309"
+        },
+        {
+            "MaPhuongXa": "36640",
+            "TenPhuongXa": "Pá Lông",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pa long thuan chau son la",
+            "Point": null,
+            "Abbr": "pl tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34327"
+        },
+        {
+            "MaPhuongXa": "36642",
+            "TenPhuongXa": "Chiềng Bôm",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng bom thuan chau son la",
+            "Point": null,
+            "Abbr": "cb tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34321"
+        },
+        {
+            "MaPhuongXa": "36647",
+            "TenPhuongXa": "Phổng Lăng",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong lang thuan chau son la",
+            "Point": null,
+            "Abbr": "pl tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34320"
+        },
+        {
+            "MaPhuongXa": "36600",
+            "TenPhuongXa": "Liệp Tè",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "liep te thuan chau son la",
+            "Point": null,
+            "Abbr": "lt tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34312"
+        },
+        {
+            "MaPhuongXa": "36603",
+            "TenPhuongXa": "Chiềng Ngàm",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng ngam thuan chau son la",
+            "Point": null,
+            "Abbr": "cn tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34313"
+        },
+        {
+            "MaPhuongXa": "36605",
+            "TenPhuongXa": "Noong Lay",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "noong lay thuan chau son la",
+            "Point": null,
+            "Abbr": "nl tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34314"
+        },
+        {
+            "MaPhuongXa": "36608",
+            "TenPhuongXa": "Chiềng La",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng la thuan chau son la",
+            "Point": null,
+            "Abbr": "cl tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34307"
+        },
+        {
+            "MaPhuongXa": "36593",
+            "TenPhuongXa": "Bó Mười",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "bm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bo muoi thuan chau son la",
+            "Point": null,
+            "Abbr": "bm tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34310"
+        },
+        {
+            "MaPhuongXa": "36590",
+            "TenPhuongXa": "Muổi Nọi",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muoi noi thuan chau son la",
+            "Point": null,
+            "Abbr": "mn tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34334"
+        },
+        {
+            "MaPhuongXa": "36595",
+            "TenPhuongXa": "Mường Khiêng",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mk",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong khieng thuan chau son la",
+            "Point": null,
+            "Abbr": "mk tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34311"
+        },
+        {
+            "MaPhuongXa": "36621",
+            "TenPhuongXa": "Phỏng Lập",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong lap thuan chau son la",
+            "Point": null,
+            "Abbr": "pl tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34319"
+        },
+        {
+            "MaPhuongXa": "36624",
+            "TenPhuongXa": "É Tòng",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "et",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "e tong thuan chau son la",
+            "Point": null,
+            "Abbr": "et tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34323"
+        },
+        {
+            "MaPhuongXa": "36627",
+            "TenPhuongXa": "Long Hẹ",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long he thuan chau son la",
+            "Point": null,
+            "Abbr": "lh tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34322"
+        },
+        {
+            "MaPhuongXa": "36650",
+            "TenPhuongXa": "Púng Tra",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pung tra thuan chau son la",
+            "Point": null,
+            "Abbr": "pt tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34328"
+        },
+        {
+            "MaPhuongXa": "36653",
+            "TenPhuongXa": "Nậm Lầu",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam lau thuan chau son la",
+            "Point": null,
+            "Abbr": "nl tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34332"
+        },
+        {
+            "MaPhuongXa": "36657",
+            "TenPhuongXa": "Bản Lầm",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban lam thuan chau son la",
+            "Point": null,
+            "Abbr": "bl tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34333"
+        },
+        {
+            "MaPhuongXa": "36610",
+            "TenPhuongXa": "Chiềng Pha",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng pha thuan chau son la",
+            "Point": null,
+            "Abbr": "cp tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34316"
+        },
+        {
+            "MaPhuongXa": "36613",
+            "TenPhuongXa": "Phỏng Lái",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong lai thuan chau son la",
+            "Point": null,
+            "Abbr": "pl tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34317"
+        },
+        {
+            "MaPhuongXa": "36616",
+            "TenPhuongXa": "Mường É",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "me",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong e thuan chau son la",
+            "Point": null,
+            "Abbr": "me tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34318"
+        },
+        {
+            "MaPhuongXa": "36570",
+            "TenPhuongXa": "Thuận Châu",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuan chau thuan chau son la",
+            "Point": null,
+            "Abbr": "tc tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34306"
+        },
+        {
+            "MaPhuongXa": "36574",
+            "TenPhuongXa": "Chiềng Ly",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng ly thuan chau son la",
+            "Point": null,
+            "Abbr": "cl tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34315"
+        },
+        {
+            "MaPhuongXa": "36578",
+            "TenPhuongXa": "Thôm Mòn",
+            "MaQuanHuyen": "3657",
+            "TenQuanHuyen": "Thuận Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thom mon thuan chau son la",
+            "Point": null,
+            "Abbr": "tm tc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34329"
+        }
+    ],
+    "3643": [
+        {
+            "MaPhuongXa": "36432",
+            "TenPhuongXa": "Phiêng Ban",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pb",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phieng ban bac yen son la",
+            "Point": null,
+            "Abbr": "pb by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34621"
+        },
+        {
+            "MaPhuongXa": "36430",
+            "TenPhuongXa": "Bắc Yên",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "by",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac yen bac yen son la",
+            "Point": null,
+            "Abbr": "by by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34606"
+        },
+        {
+            "MaPhuongXa": "36436",
+            "TenPhuongXa": "Tà Xùa",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tx",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta xua bac yen son la",
+            "Point": null,
+            "Abbr": "tx by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34607"
+        },
+        {
+            "MaPhuongXa": "36434",
+            "TenPhuongXa": "Hồng Ngài",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong ngai bac yen son la",
+            "Point": null,
+            "Abbr": "hn by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34620"
+        },
+        {
+            "MaPhuongXa": "36439",
+            "TenPhuongXa": "Làng Chếu",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lang cheu bac yen son la",
+            "Point": null,
+            "Abbr": "lc by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34613"
+        },
+        {
+            "MaPhuongXa": "36460",
+            "TenPhuongXa": "Háng Đồng",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hang dong bac yen son la",
+            "Point": null,
+            "Abbr": "hd by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34608"
+        },
+        {
+            "MaPhuongXa": "36461",
+            "TenPhuongXa": "Hua Nhàn",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hua nhan bac yen son la",
+            "Point": null,
+            "Abbr": "hn by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34615"
+        },
+        {
+            "MaPhuongXa": "36443",
+            "TenPhuongXa": "Hang Chú",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hang chu bac yen son la",
+            "Point": null,
+            "Abbr": "hc by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34610"
+        },
+        {
+            "MaPhuongXa": "36441",
+            "TenPhuongXa": "Xím Vàng",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "xv",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xim vang bac yen son la",
+            "Point": null,
+            "Abbr": "xv by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34609"
+        },
+        {
+            "MaPhuongXa": "36447",
+            "TenPhuongXa": "Chim Vàn",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cv",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chim van bac yen son la",
+            "Point": null,
+            "Abbr": "cv by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34612"
+        },
+        {
+            "MaPhuongXa": "36445",
+            "TenPhuongXa": "Pắc Ngà",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pac nga bac yen son la",
+            "Point": null,
+            "Abbr": "pn by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34611"
+        },
+        {
+            "MaPhuongXa": "36449",
+            "TenPhuongXa": "Mường Khoa",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mk",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong khoa bac yen son la",
+            "Point": null,
+            "Abbr": "mk by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34614"
+        },
+        {
+            "MaPhuongXa": "36452",
+            "TenPhuongXa": "Tạ Khoa",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tk",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta khoa bac yen son la",
+            "Point": null,
+            "Abbr": "tk by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34616"
+        },
+        {
+            "MaPhuongXa": "36456",
+            "TenPhuongXa": "Song Pe",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "sp",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song pe bac yen son la",
+            "Point": null,
+            "Abbr": "sp by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34619"
+        },
+        {
+            "MaPhuongXa": "36455",
+            "TenPhuongXa": "Phiêng Côn",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phieng con bac yen son la",
+            "Point": null,
+            "Abbr": "pc by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34617"
+        },
+        {
+            "MaPhuongXa": "36458",
+            "TenPhuongXa": "Chiềng Sại",
+            "MaQuanHuyen": "3643",
+            "TenQuanHuyen": "Bắc Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "by",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng sai bac yen son la",
+            "Point": null,
+            "Abbr": "cs by sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34618"
+        }
+    ],
+    "3668": [
+        {
+            "MaPhuongXa": "36731",
+            "TenPhuongXa": "Chiềng En",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ce",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng en song ma son la",
+            "Point": null,
+            "Abbr": "ce sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34414"
+        },
+        {
+            "MaPhuongXa": "36734",
+            "TenPhuongXa": "Bó Sinh",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "bs",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bo sinh song ma son la",
+            "Point": null,
+            "Abbr": "bs sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34412"
+        },
+        {
+            "MaPhuongXa": "36737",
+            "TenPhuongXa": "Pú Pẩu",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pu pau song ma son la",
+            "Point": null,
+            "Abbr": "pp sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34413"
+        },
+        {
+            "MaPhuongXa": "36739",
+            "TenPhuongXa": "Đứa Mòn",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dua mon song ma son la",
+            "Point": null,
+            "Abbr": "dm sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34415"
+        },
+        {
+            "MaPhuongXa": "36680",
+            "TenPhuongXa": "Sông Mã",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "sm",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song ma song ma son la",
+            "Point": null,
+            "Abbr": "sm sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34406"
+        },
+        {
+            "MaPhuongXa": "36681",
+            "TenPhuongXa": "Nà Ngựu",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "nn",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na nguu song ma son la",
+            "Point": null,
+            "Abbr": "nn sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34408"
+        },
+        {
+            "MaPhuongXa": "36687",
+            "TenPhuongXa": "Huổi Một",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huoi mot song ma son la",
+            "Point": null,
+            "Abbr": "hm sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34419"
+        },
+        {
+            "MaPhuongXa": "36743",
+            "TenPhuongXa": "Yên Hưng",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "yh",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen hung song ma son la",
+            "Point": null,
+            "Abbr": "yh sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34416"
+        },
+        {
+            "MaPhuongXa": "36747",
+            "TenPhuongXa": "Nậm Mằn",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam man song ma son la",
+            "Point": null,
+            "Abbr": "nm sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34418"
+        },
+        {
+            "MaPhuongXa": "36701",
+            "TenPhuongXa": "Mường Hung",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong hung song ma son la",
+            "Point": null,
+            "Abbr": "mh sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34421"
+        },
+        {
+            "MaPhuongXa": "36706",
+            "TenPhuongXa": "Chiềng Khương",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ck",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng khuong song ma son la",
+            "Point": null,
+            "Abbr": "ck sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34422"
+        },
+        {
+            "MaPhuongXa": "36709",
+            "TenPhuongXa": "Mường Sai",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ms",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong sai song ma son la",
+            "Point": null,
+            "Abbr": "ms sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34423"
+        },
+        {
+            "MaPhuongXa": "36691",
+            "TenPhuongXa": "Mường Cai",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong cai song ma son la",
+            "Point": null,
+            "Abbr": "mc sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34420"
+        },
+        {
+            "MaPhuongXa": "36694",
+            "TenPhuongXa": "Chiềng Khoong",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ck",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng khoong song ma son la",
+            "Point": null,
+            "Abbr": "ck sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34407"
+        },
+        {
+            "MaPhuongXa": "36721",
+            "TenPhuongXa": "Nậm Ty",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam ty song ma son la",
+            "Point": null,
+            "Abbr": "nt sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34409"
+        },
+        {
+            "MaPhuongXa": "36725",
+            "TenPhuongXa": "Chiềng Phung",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng phung song ma son la",
+            "Point": null,
+            "Abbr": "cp sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34410"
+        },
+        {
+            "MaPhuongXa": "36728",
+            "TenPhuongXa": "Mường Lầm",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong lam song ma son la",
+            "Point": null,
+            "Abbr": "ml sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34411"
+        },
+        {
+            "MaPhuongXa": "36712",
+            "TenPhuongXa": "Chiềng Cang",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng cang song ma son la",
+            "Point": null,
+            "Abbr": "cc sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34424"
+        },
+        {
+            "MaPhuongXa": "36717",
+            "TenPhuongXa": "Chiềng Sơ",
+            "MaQuanHuyen": "3668",
+            "TenQuanHuyen": "Sông Mã",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "sm",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng so song ma son la",
+            "Point": null,
+            "Abbr": "cs sm sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34417"
+        }
+    ],
+    "3653": [
+        {
+            "MaPhuongXa": "36533",
+            "TenPhuongXa": "Pá Ma Pha Khinh",
+            "MaQuanHuyen": "3653",
+            "TenQuanHuyen": "Quỳnh Nhai",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pmpk",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pa ma pha khinh quynh nhai son la",
+            "Point": null,
+            "Abbr": "pmpk qn sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34259"
+        },
+        {
+            "MaPhuongXa": "36530",
+            "TenPhuongXa": "Mường Chiên",
+            "MaQuanHuyen": "3653",
+            "TenQuanHuyen": "Quỳnh Nhai",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong chien quynh nhai son la",
+            "Point": null,
+            "Abbr": "mc qn sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34256"
+        },
+        {
+            "MaPhuongXa": "36536",
+            "TenPhuongXa": "Chiềng Ơn",
+            "MaQuanHuyen": "3653",
+            "TenQuanHuyen": "Quỳnh Nhai",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "co",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng on quynh nhai son la",
+            "Point": null,
+            "Abbr": "co qn sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34265"
+        },
+        {
+            "MaPhuongXa": "36538",
+            "TenPhuongXa": "Mường Giàng",
+            "MaQuanHuyen": "3653",
+            "TenQuanHuyen": "Quỳnh Nhai",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mg",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong giang quynh nhai son la",
+            "Point": null,
+            "Abbr": "mg qn sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34260"
+        },
+        {
+            "MaPhuongXa": "36541",
+            "TenPhuongXa": "Chiềng Khoang",
+            "MaQuanHuyen": "3653",
+            "TenQuanHuyen": "Quỳnh Nhai",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ck",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng khoang quynh nhai son la",
+            "Point": null,
+            "Abbr": "ck qn sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34262"
+        },
+        {
+            "MaPhuongXa": "36546",
+            "TenPhuongXa": "Nậm Ét",
+            "MaQuanHuyen": "3653",
+            "TenQuanHuyen": "Quỳnh Nhai",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ne",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam et quynh nhai son la",
+            "Point": null,
+            "Abbr": "ne qn sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34263"
+        },
+        {
+            "MaPhuongXa": "36548",
+            "TenPhuongXa": "Mường Sại",
+            "MaQuanHuyen": "3653",
+            "TenQuanHuyen": "Quỳnh Nhai",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ms",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong sai quynh nhai son la",
+            "Point": null,
+            "Abbr": "ms qn sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34264"
+        },
+        {
+            "MaPhuongXa": "36552",
+            "TenPhuongXa": "Chiềng Bằng",
+            "MaQuanHuyen": "3653",
+            "TenQuanHuyen": "Quỳnh Nhai",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng bang quynh nhai son la",
+            "Point": null,
+            "Abbr": "cb qn sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34261"
+        },
+        {
+            "MaPhuongXa": "36557",
+            "TenPhuongXa": "Chiềng Khay",
+            "MaQuanHuyen": "3653",
+            "TenQuanHuyen": "Quỳnh Nhai",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ck",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng khay quynh nhai son la",
+            "Point": null,
+            "Abbr": "ck qn sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34257"
+        },
+        {
+            "MaPhuongXa": "36554",
+            "TenPhuongXa": "Mường Giôn",
+            "MaQuanHuyen": "3653",
+            "TenQuanHuyen": "Quỳnh Nhai",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mg",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong gion quynh nhai son la",
+            "Point": null,
+            "Abbr": "mg qn sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34266"
+        },
+        {
+            "MaPhuongXa": "36559",
+            "TenPhuongXa": "Cà Nàng",
+            "MaQuanHuyen": "3653",
+            "TenQuanHuyen": "Quỳnh Nhai",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "qn",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ca nang quynh nhai son la",
+            "Point": null,
+            "Abbr": "cn qn sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34258"
+        }
+    ],
+    "3628": [
+        {
+            "MaPhuongXa": "36335",
+            "TenPhuongXa": "Tân Lập",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap moc chau son la",
+            "Point": null,
+            "Abbr": "tl mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34713"
+        },
+        {
+            "MaPhuongXa": "36333",
+            "TenPhuongXa": "Tân Hợp",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hop moc chau son la",
+            "Point": null,
+            "Abbr": "th mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34711"
+        },
+        {
+            "MaPhuongXa": "36339",
+            "TenPhuongXa": "Chiềng Hắc",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng hac moc chau son la",
+            "Point": null,
+            "Abbr": "ch mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34714"
+        },
+        {
+            "MaPhuongXa": "36287",
+            "TenPhuongXa": "Mường Sang",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ms",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong sang moc chau son la",
+            "Point": null,
+            "Abbr": "ms mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34716"
+        },
+        {
+            "MaPhuongXa": "36280",
+            "TenPhuongXa": "Mộc Châu",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "moc chau moc chau son la",
+            "Point": null,
+            "Abbr": "mc mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34706"
+        },
+        {
+            "MaPhuongXa": "36283",
+            "TenPhuongXa": "Nông trường Mộc Châu",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ntmc",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nong truong moc chau moc chau son la",
+            "Point": null,
+            "Abbr": "ntmc mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34707"
+        },
+        {
+            "MaPhuongXa": "36289",
+            "TenPhuongXa": "Đông Sang",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong sang moc chau son la",
+            "Point": null,
+            "Abbr": "ds mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34719"
+        },
+        {
+            "MaPhuongXa": "36341",
+            "TenPhuongXa": "Chiềng Khừa",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ck",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng khua moc chau son la",
+            "Point": null,
+            "Abbr": "ck mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34715"
+        },
+        {
+            "MaPhuongXa": "36343",
+            "TenPhuongXa": "Lóng Sập",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long sap moc chau son la",
+            "Point": null,
+            "Abbr": "ls mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34717"
+        },
+        {
+            "MaPhuongXa": "36291",
+            "TenPhuongXa": "Chiềng Sơn",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng son moc chau son la",
+            "Point": null,
+            "Abbr": "cs mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34718"
+        },
+        {
+            "MaPhuongXa": "36299",
+            "TenPhuongXa": "Phiêng Luông",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phieng luong moc chau son la",
+            "Point": null,
+            "Abbr": "pl mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34720"
+        },
+        {
+            "MaPhuongXa": "36325",
+            "TenPhuongXa": "Quy Hướng",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "qh",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quy huong moc chau son la",
+            "Point": null,
+            "Abbr": "qh mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34710"
+        },
+        {
+            "MaPhuongXa": "36327",
+            "TenPhuongXa": "Nà Mường",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na muong moc chau son la",
+            "Point": null,
+            "Abbr": "nm mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34709"
+        },
+        {
+            "MaPhuongXa": "36322",
+            "TenPhuongXa": "Hua Păng",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hua pang moc chau son la",
+            "Point": null,
+            "Abbr": "hp mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34708"
+        },
+        {
+            "MaPhuongXa": "36329",
+            "TenPhuongXa": "Tà Lại",
+            "MaQuanHuyen": "3628",
+            "TenQuanHuyen": "Mộc Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta lai moc chau son la",
+            "Point": null,
+            "Abbr": "tl mc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34712"
+        }
+    ],
+    "3647": [
+        {
+            "MaPhuongXa": "36483",
+            "TenPhuongXa": "Chiềng Ân",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ca",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng an muong la son la",
+            "Point": null,
+            "Abbr": "ca ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34220"
+        },
+        {
+            "MaPhuongXa": "36480",
+            "TenPhuongXa": "Chiềng Công",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng cong muong la son la",
+            "Point": null,
+            "Abbr": "cc ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34219"
+        },
+        {
+            "MaPhuongXa": "36485",
+            "TenPhuongXa": "Ngọc Chiến",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc chien muong la son la",
+            "Point": null,
+            "Abbr": "nc ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34208"
+        },
+        {
+            "MaPhuongXa": "36488",
+            "TenPhuongXa": "Nậm Păm",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam pam muong la son la",
+            "Point": null,
+            "Abbr": "np ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34207"
+        },
+        {
+            "MaPhuongXa": "36502",
+            "TenPhuongXa": "Nậm Giôn",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ng",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam gion muong la son la",
+            "Point": null,
+            "Abbr": "ng ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34211"
+        },
+        {
+            "MaPhuongXa": "36505",
+            "TenPhuongXa": "Tạ Bú",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta bu muong la son la",
+            "Point": null,
+            "Abbr": "tb ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34214"
+        },
+        {
+            "MaPhuongXa": "36508",
+            "TenPhuongXa": "Mường Bú",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong bu muong la son la",
+            "Point": null,
+            "Abbr": "mb ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34216"
+        },
+        {
+            "MaPhuongXa": "36493",
+            "TenPhuongXa": "Mường Trai",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong trai muong la son la",
+            "Point": null,
+            "Abbr": "mt ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34212"
+        },
+        {
+            "MaPhuongXa": "36490",
+            "TenPhuongXa": "Pi Toong",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pi toong muong la son la",
+            "Point": null,
+            "Abbr": "pt ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34213"
+        },
+        {
+            "MaPhuongXa": "36496",
+            "TenPhuongXa": "Hua Trai",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hua trai muong la son la",
+            "Point": null,
+            "Abbr": "ht ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34209"
+        },
+        {
+            "MaPhuongXa": "36499",
+            "TenPhuongXa": "Chiềng Lao",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng lao muong la son la",
+            "Point": null,
+            "Abbr": "cl ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34210"
+        },
+        {
+            "MaPhuongXa": "36512",
+            "TenPhuongXa": "Mường Chùm",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong chum muong la son la",
+            "Point": null,
+            "Abbr": "mc ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34217"
+        },
+        {
+            "MaPhuongXa": "36470",
+            "TenPhuongXa": "Ít Ong",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "io",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "it ong muong la son la",
+            "Point": null,
+            "Abbr": "io ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34206"
+        },
+        {
+            "MaPhuongXa": "36476",
+            "TenPhuongXa": "Chiềng Hoa",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng hoa muong la son la",
+            "Point": null,
+            "Abbr": "ch ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34218"
+        },
+        {
+            "MaPhuongXa": "36474",
+            "TenPhuongXa": "Chiềng San",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng san muong la son la",
+            "Point": null,
+            "Abbr": "cs ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34215"
+        },
+        {
+            "MaPhuongXa": "36475",
+            "TenPhuongXa": "Chiềng Muôn",
+            "MaQuanHuyen": "3647",
+            "TenQuanHuyen": "Mường La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng muon muong la son la",
+            "Point": null,
+            "Abbr": "cm ml sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34221"
+        }
+    ],
+    "3677": [
+        {
+            "MaPhuongXa": "36780",
+            "TenPhuongXa": "Mường Lạn",
+            "MaQuanHuyen": "3677",
+            "TenQuanHuyen": "Sốp Cộp",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong lan sop cop son la",
+            "Point": null,
+            "Abbr": "ml sc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34463"
+        },
+        {
+            "MaPhuongXa": "36783",
+            "TenPhuongXa": "Púng Pánh",
+            "MaQuanHuyen": "3677",
+            "TenQuanHuyen": "Sốp Cộp",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pung panh sop cop son la",
+            "Point": null,
+            "Abbr": "pp sc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34458"
+        },
+        {
+            "MaPhuongXa": "36786",
+            "TenPhuongXa": "Dồm Cang",
+            "MaQuanHuyen": "3677",
+            "TenQuanHuyen": "Sốp Cộp",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dom cang sop cop son la",
+            "Point": null,
+            "Abbr": "dc sc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34457"
+        },
+        {
+            "MaPhuongXa": "36789",
+            "TenPhuongXa": "Sam Kha",
+            "MaQuanHuyen": "3677",
+            "TenQuanHuyen": "Sốp Cộp",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "sk",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sam kha sop cop son la",
+            "Point": null,
+            "Abbr": "sk sc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34459"
+        },
+        {
+            "MaPhuongXa": "36791",
+            "TenPhuongXa": "Mường Lèo",
+            "MaQuanHuyen": "3677",
+            "TenQuanHuyen": "Sốp Cộp",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong leo sop cop son la",
+            "Point": null,
+            "Abbr": "ml sc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34460"
+        },
+        {
+            "MaPhuongXa": "36770",
+            "TenPhuongXa": "Sốp Cộp",
+            "MaQuanHuyen": "3677",
+            "TenQuanHuyen": "Sốp Cộp",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "sc",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sop cop sop cop son la",
+            "Point": null,
+            "Abbr": "sc sc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34456"
+        },
+        {
+            "MaPhuongXa": "36773",
+            "TenPhuongXa": "Nậm Lạnh",
+            "MaQuanHuyen": "3677",
+            "TenQuanHuyen": "Sốp Cộp",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam lanh sop cop son la",
+            "Point": null,
+            "Abbr": "nl sc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34461"
+        },
+        {
+            "MaPhuongXa": "36776",
+            "TenPhuongXa": "Mường Và",
+            "MaQuanHuyen": "3677",
+            "TenQuanHuyen": "Sốp Cộp",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mv",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong va sop cop son la",
+            "Point": null,
+            "Abbr": "mv sc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34462"
+        }
+    ],
+    "3610": [
+        {
+            "MaPhuongXa": "36134",
+            "TenPhuongXa": "Hua La",
+            "MaQuanHuyen": "3610",
+            "TenQuanHuyen": "Sơn La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hua la son la son la",
+            "Point": null,
+            "Abbr": "hl sl sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34115"
+        },
+        {
+            "MaPhuongXa": "36132",
+            "TenPhuongXa": "Chiềng Cọ",
+            "MaQuanHuyen": "3610",
+            "TenQuanHuyen": "Sơn La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng co son la son la",
+            "Point": null,
+            "Abbr": "cc sl sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34110"
+        },
+        {
+            "MaPhuongXa": "36130",
+            "TenPhuongXa": "Chiềng Đen",
+            "MaQuanHuyen": "3610",
+            "TenQuanHuyen": "Sơn La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng den son la son la",
+            "Point": null,
+            "Abbr": "cd sl sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34109"
+        },
+        {
+            "MaPhuongXa": "36100",
+            "TenPhuongXa": "Tô Hiệu",
+            "MaQuanHuyen": "3610",
+            "TenQuanHuyen": "Sơn La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "to hieu son la son la",
+            "Point": null,
+            "Abbr": "th sl sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34112"
+        },
+        {
+            "MaPhuongXa": "36126",
+            "TenPhuongXa": "Chiềng An",
+            "MaQuanHuyen": "3610",
+            "TenQuanHuyen": "Sơn La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ca",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng an son la son la",
+            "Point": null,
+            "Abbr": "ca sl sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34107"
+        },
+        {
+            "MaPhuongXa": "36123",
+            "TenPhuongXa": "Chiềng Ngần",
+            "MaQuanHuyen": "3610",
+            "TenQuanHuyen": "Sơn La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng ngan son la son la",
+            "Point": null,
+            "Abbr": "cn sl sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34117"
+        },
+        {
+            "MaPhuongXa": "36120",
+            "TenPhuongXa": "Chiềng Sinh",
+            "MaQuanHuyen": "3610",
+            "TenQuanHuyen": "Sơn La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng sinh son la son la",
+            "Point": null,
+            "Abbr": "cs sl sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34116"
+        },
+        {
+            "MaPhuongXa": "36128",
+            "TenPhuongXa": "Chiềng Xôm",
+            "MaQuanHuyen": "3610",
+            "TenQuanHuyen": "Sơn La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cx",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng xom son la son la",
+            "Point": null,
+            "Abbr": "cx sl sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34108"
+        },
+        {
+            "MaPhuongXa": "36116",
+            "TenPhuongXa": "Quyết Tâm",
+            "MaQuanHuyen": "3610",
+            "TenQuanHuyen": "Sơn La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quyet tam son la son la",
+            "Point": null,
+            "Abbr": "qt sl sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34114"
+        },
+        {
+            "MaPhuongXa": "36113",
+            "TenPhuongXa": "Quyết Thắng",
+            "MaQuanHuyen": "3610",
+            "TenQuanHuyen": "Sơn La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quyet thang son la son la",
+            "Point": null,
+            "Abbr": "qt sl sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34113"
+        },
+        {
+            "MaPhuongXa": "36110",
+            "TenPhuongXa": "Chiềng Lề",
+            "MaQuanHuyen": "3610",
+            "TenQuanHuyen": "Sơn La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng le son la son la",
+            "Point": null,
+            "Abbr": "cl sl sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34106"
+        },
+        {
+            "MaPhuongXa": "36118",
+            "TenPhuongXa": "Chiềng Cơi",
+            "MaQuanHuyen": "3610",
+            "TenQuanHuyen": "Sơn La",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng coi son la son la",
+            "Point": null,
+            "Abbr": "cc sl sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34111"
+        }
+    ],
+    "3636": [
+        {
+            "MaPhuongXa": "36384",
+            "TenPhuongXa": "Mường Cơi",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong coi phu yen son la",
+            "Point": null,
+            "Abbr": "mc py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34908"
+        },
+        {
+            "MaPhuongXa": "36381",
+            "TenPhuongXa": "Tân Lang",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lang phu yen son la",
+            "Point": null,
+            "Abbr": "tl py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34926"
+        },
+        {
+            "MaPhuongXa": "36380",
+            "TenPhuongXa": "Mường Lang",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong lang phu yen son la",
+            "Point": null,
+            "Abbr": "ml py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34927"
+        },
+        {
+            "MaPhuongXa": "36388",
+            "TenPhuongXa": "Mường Thải",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong thai phu yen son la",
+            "Point": null,
+            "Abbr": "mt py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34909"
+        },
+        {
+            "MaPhuongXa": "36365",
+            "TenPhuongXa": "Huy Hạ",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huy ha phu yen son la",
+            "Point": null,
+            "Abbr": "hh py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34914"
+        },
+        {
+            "MaPhuongXa": "36360",
+            "TenPhuongXa": "Phù Yên",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "py",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu yen phu yen son la",
+            "Point": null,
+            "Abbr": "py py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34906"
+        },
+        {
+            "MaPhuongXa": "36363",
+            "TenPhuongXa": "Huy Tân",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huy tan phu yen son la",
+            "Point": null,
+            "Abbr": "ht py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34913"
+        },
+        {
+            "MaPhuongXa": "36368",
+            "TenPhuongXa": "Huy Tường",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huy tuong phu yen son la",
+            "Point": null,
+            "Abbr": "ht py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34925"
+        },
+        {
+            "MaPhuongXa": "36402",
+            "TenPhuongXa": "Gia Phù",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "gp",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia phu phu yen son la",
+            "Point": null,
+            "Abbr": "gp py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34916"
+        },
+        {
+            "MaPhuongXa": "36400",
+            "TenPhuongXa": "Tường Phù",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tuong phu phu yen son la",
+            "Point": null,
+            "Abbr": "tp py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34915"
+        },
+        {
+            "MaPhuongXa": "36406",
+            "TenPhuongXa": "Tường Thượng",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tuong thuong phu yen son la",
+            "Point": null,
+            "Abbr": "tt py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34922"
+        },
+        {
+            "MaPhuongXa": "36404",
+            "TenPhuongXa": "Suối Bau",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "sb",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi bau phu yen son la",
+            "Point": null,
+            "Abbr": "sb py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34917"
+        },
+        {
+            "MaPhuongXa": "36408",
+            "TenPhuongXa": "Tường Hạ",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tuong ha phu yen son la",
+            "Point": null,
+            "Abbr": "th py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34923"
+        },
+        {
+            "MaPhuongXa": "36396",
+            "TenPhuongXa": "Huy Thượng",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huy thuong phu yen son la",
+            "Point": null,
+            "Abbr": "ht py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34907"
+        },
+        {
+            "MaPhuongXa": "36390",
+            "TenPhuongXa": "Suối Tọ",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi to phu yen son la",
+            "Point": null,
+            "Abbr": "st py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34910"
+        },
+        {
+            "MaPhuongXa": "36392",
+            "TenPhuongXa": "Quang Huy",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "qh",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang huy phu yen son la",
+            "Point": null,
+            "Abbr": "qh py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34911"
+        },
+        {
+            "MaPhuongXa": "36398",
+            "TenPhuongXa": "Huy Bắc",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huy bac phu yen son la",
+            "Point": null,
+            "Abbr": "hb py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34912"
+        },
+        {
+            "MaPhuongXa": "36412",
+            "TenPhuongXa": "Sập Sa",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ss",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sap sa phu yen son la",
+            "Point": null,
+            "Abbr": "ss py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34918"
+        },
+        {
+            "MaPhuongXa": "36413",
+            "TenPhuongXa": "Đá Đỏ",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da do phu yen son la",
+            "Point": null,
+            "Abbr": "dd py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34919"
+        },
+        {
+            "MaPhuongXa": "36410",
+            "TenPhuongXa": "Kim Bon",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "kb",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim bon phu yen son la",
+            "Point": null,
+            "Abbr": "kb py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34921"
+        },
+        {
+            "MaPhuongXa": "36416",
+            "TenPhuongXa": "Tân Phong",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phong phu yen son la",
+            "Point": null,
+            "Abbr": "tp py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34930"
+        },
+        {
+            "MaPhuongXa": "36415",
+            "TenPhuongXa": "Bắc Phong",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bac phong phu yen son la",
+            "Point": null,
+            "Abbr": "bp py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34920"
+        },
+        {
+            "MaPhuongXa": "36375",
+            "TenPhuongXa": "Mường Bang",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mb",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong bang phu yen son la",
+            "Point": null,
+            "Abbr": "mb py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34932"
+        },
+        {
+            "MaPhuongXa": "36377",
+            "TenPhuongXa": "Mường Do",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong do phu yen son la",
+            "Point": null,
+            "Abbr": "md py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34928"
+        },
+        {
+            "MaPhuongXa": "36370",
+            "TenPhuongXa": "Tường Tiến",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tuong tien phu yen son la",
+            "Point": null,
+            "Abbr": "tt py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34924"
+        },
+        {
+            "MaPhuongXa": "36373",
+            "TenPhuongXa": "Nam Phong",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "np",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam phong phu yen son la",
+            "Point": null,
+            "Abbr": "np py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34931"
+        },
+        {
+            "MaPhuongXa": "36372",
+            "TenPhuongXa": "Tường Phong",
+            "MaQuanHuyen": "3636",
+            "TenQuanHuyen": "Phù Yên",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tuong phong phu yen son la",
+            "Point": null,
+            "Abbr": "tp py sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34929"
+        }
+    ],
+    "3615": [
+        {
+            "MaPhuongXa": "36186",
+            "TenPhuongXa": "Chiềng Ban",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng ban mai son son la",
+            "Point": null,
+            "Abbr": "cb ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34514"
+        },
+        {
+            "MaPhuongXa": "36181",
+            "TenPhuongXa": "Chiềng Mung",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng mung mai son son la",
+            "Point": null,
+            "Abbr": "cm ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34513"
+        },
+        {
+            "MaPhuongXa": "36167",
+            "TenPhuongXa": "Mường Bon",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong bon mai son son la",
+            "Point": null,
+            "Abbr": "mb ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34512"
+        },
+        {
+            "MaPhuongXa": "36164",
+            "TenPhuongXa": "Tà Hộc",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta hoc mai son son la",
+            "Point": null,
+            "Abbr": "th ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34508"
+        },
+        {
+            "MaPhuongXa": "36160",
+            "TenPhuongXa": "Cò Nòi",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "co noi mai son son la",
+            "Point": null,
+            "Abbr": "cn ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34527"
+        },
+        {
+            "MaPhuongXa": "36206",
+            "TenPhuongXa": "Chiềng Nơi",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng noi mai son son la",
+            "Point": null,
+            "Abbr": "cn ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34517"
+        },
+        {
+            "MaPhuongXa": "36201",
+            "TenPhuongXa": "Chiềng Chung",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng chung mai son son la",
+            "Point": null,
+            "Abbr": "cc ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34515"
+        },
+        {
+            "MaPhuongXa": "36203",
+            "TenPhuongXa": "Mường Chanh",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong chanh mai son son la",
+            "Point": null,
+            "Abbr": "mc ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34516"
+        },
+        {
+            "MaPhuongXa": "36209",
+            "TenPhuongXa": "Phiêng Cằm",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phieng cam mai son son la",
+            "Point": null,
+            "Abbr": "pc ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34518"
+        },
+        {
+            "MaPhuongXa": "36197",
+            "TenPhuongXa": "Chiềng Kheo",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ck",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng kheo mai son son la",
+            "Point": null,
+            "Abbr": "ck ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34521"
+        },
+        {
+            "MaPhuongXa": "36193",
+            "TenPhuongXa": "Chiềng Mai",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng mai mai son son la",
+            "Point": null,
+            "Abbr": "cm ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34520"
+        },
+        {
+            "MaPhuongXa": "36191",
+            "TenPhuongXa": "Chiềng Ve",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cv",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng ve mai son son la",
+            "Point": null,
+            "Abbr": "cv ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34522"
+        },
+        {
+            "MaPhuongXa": "36199",
+            "TenPhuongXa": "Chiềng Dong",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng dong mai son son la",
+            "Point": null,
+            "Abbr": "cd ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34519"
+        },
+        {
+            "MaPhuongXa": "36226",
+            "TenPhuongXa": "Nà Bó",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "nb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na bo mai son son la",
+            "Point": null,
+            "Abbr": "nb ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34507"
+        },
+        {
+            "MaPhuongXa": "36220",
+            "TenPhuongXa": "Chiềng Lương",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng luong mai son son la",
+            "Point": null,
+            "Abbr": "cl ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34526"
+        },
+        {
+            "MaPhuongXa": "36154",
+            "TenPhuongXa": "Hát Lót",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hat lot mai son son la",
+            "Point": null,
+            "Abbr": "hl ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34525"
+        },
+        {
+            "MaPhuongXa": "36150",
+            "TenPhuongXa": "Hát Lót",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hat lot mai son son la",
+            "Point": null,
+            "Abbr": "hl ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34506"
+        },
+        {
+            "MaPhuongXa": "36214",
+            "TenPhuongXa": "Nà Ớt",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "no",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na ot mai son son la",
+            "Point": null,
+            "Abbr": "no ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34523"
+        },
+        {
+            "MaPhuongXa": "36217",
+            "TenPhuongXa": "Phiêng Pằn",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phieng pan mai son son la",
+            "Point": null,
+            "Abbr": "pp ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34524"
+        },
+        {
+            "MaPhuongXa": "36177",
+            "TenPhuongXa": "Mường Bằng",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong bang mai son son la",
+            "Point": null,
+            "Abbr": "mb ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34511"
+        },
+        {
+            "MaPhuongXa": "36173",
+            "TenPhuongXa": "Chiềng Sung",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng sung mai son son la",
+            "Point": null,
+            "Abbr": "cs ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34510"
+        },
+        {
+            "MaPhuongXa": "36170",
+            "TenPhuongXa": "Chiềng Chăn",
+            "MaQuanHuyen": "3615",
+            "TenQuanHuyen": "Mai Sơn",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ms",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng chan mai son son la",
+            "Point": null,
+            "Abbr": "cc ms sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34509"
+        }
+    ],
+    "3624": [
+        {
+            "MaPhuongXa": "36264",
+            "TenPhuongXa": "Phiêng Khoài",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "pk",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phieng khoai yen chau son la",
+            "Point": null,
+            "Abbr": "pk yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34664"
+        },
+        {
+            "MaPhuongXa": "36260",
+            "TenPhuongXa": "Yên Sơn",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ys",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen son yen chau son la",
+            "Point": null,
+            "Abbr": "ys yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34662"
+        },
+        {
+            "MaPhuongXa": "36262",
+            "TenPhuongXa": "Chiềng On",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "co",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng on yen chau son la",
+            "Point": null,
+            "Abbr": "co yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34663"
+        },
+        {
+            "MaPhuongXa": "36268",
+            "TenPhuongXa": "Chiềng Tương",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng tuong yen chau son la",
+            "Point": null,
+            "Abbr": "ct yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34668"
+        },
+        {
+            "MaPhuongXa": "36244",
+            "TenPhuongXa": "Sập Vạt",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "sv",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sap vat yen chau son la",
+            "Point": null,
+            "Abbr": "sv yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34657"
+        },
+        {
+            "MaPhuongXa": "36247",
+            "TenPhuongXa": "Chiềng Hặc",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng hac yen chau son la",
+            "Point": null,
+            "Abbr": "ch yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34666"
+        },
+        {
+            "MaPhuongXa": "36240",
+            "TenPhuongXa": "Yên Châu",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "yc",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen chau yen chau son la",
+            "Point": null,
+            "Abbr": "yc yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34656"
+        },
+        {
+            "MaPhuongXa": "36242",
+            "TenPhuongXa": "Viêng Lán",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vieng lan yen chau son la",
+            "Point": null,
+            "Abbr": "vl yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34661"
+        },
+        {
+            "MaPhuongXa": "36243",
+            "TenPhuongXa": "Chiềng Khoi",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ck",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng khoi yen chau son la",
+            "Point": null,
+            "Abbr": "ck yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34665"
+        },
+        {
+            "MaPhuongXa": "36255",
+            "TenPhuongXa": "Chiềng Pằn",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng pan yen chau son la",
+            "Point": null,
+            "Abbr": "cp yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34660"
+        },
+        {
+            "MaPhuongXa": "36257",
+            "TenPhuongXa": "Chiềng Sàng",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng sang yen chau son la",
+            "Point": null,
+            "Abbr": "cs yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34659"
+        },
+        {
+            "MaPhuongXa": "36250",
+            "TenPhuongXa": "Tú Nang",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu nang yen chau son la",
+            "Point": null,
+            "Abbr": "tn yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34669"
+        },
+        {
+            "MaPhuongXa": "36253",
+            "TenPhuongXa": "Mường Lựm",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong lum yen chau son la",
+            "Point": null,
+            "Abbr": "ml yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34670"
+        },
+        {
+            "MaPhuongXa": "36258",
+            "TenPhuongXa": "Chiềng Đông",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng dong yen chau son la",
+            "Point": null,
+            "Abbr": "cd yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34658"
+        },
+        {
+            "MaPhuongXa": "36270",
+            "TenPhuongXa": "Loóng Phiêng",
+            "MaQuanHuyen": "3624",
+            "TenQuanHuyen": "Yên Châu",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "yc",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loong phieng yen chau son la",
+            "Point": null,
+            "Abbr": "lp yc sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34667"
+        }
+    ],
+    "3684": [
+        {
+            "MaPhuongXa": "36864",
+            "TenPhuongXa": "Xuân Nha",
+            "MaQuanHuyen": "3684",
+            "TenQuanHuyen": "Vân Hồ",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "xn",
+                    "Point": 5
+                },
+                {
+                    "Key": "vh",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan nha van ho son la",
+            "Point": null,
+            "Abbr": "xn vh sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34818"
+        },
+        {
+            "MaPhuongXa": "36862",
+            "TenPhuongXa": "Tô Múa",
+            "MaQuanHuyen": "3684",
+            "TenQuanHuyen": "Vân Hồ",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "vh",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "to mua van ho son la",
+            "Point": null,
+            "Abbr": "tm vh sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34815"
+        },
+        {
+            "MaPhuongXa": "36860",
+            "TenPhuongXa": "Tân Xuân",
+            "MaQuanHuyen": "3684",
+            "TenQuanHuyen": "Vân Hồ",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "tx",
+                    "Point": 5
+                },
+                {
+                    "Key": "vh",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan xuan van ho son la",
+            "Point": null,
+            "Abbr": "tx vh sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34819"
+        },
+        {
+            "MaPhuongXa": "36848",
+            "TenPhuongXa": "Lóng Luông",
+            "MaQuanHuyen": "3684",
+            "TenQuanHuyen": "Vân Hồ",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ll",
+                    "Point": 5
+                },
+                {
+                    "Key": "vh",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long luong van ho son la",
+            "Point": null,
+            "Abbr": "ll vh sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34807"
+        },
+        {
+            "MaPhuongXa": "36846",
+            "TenPhuongXa": "Liên Hòa",
+            "MaQuanHuyen": "3684",
+            "TenQuanHuyen": "Vân Hồ",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vh",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien hoa van ho son la",
+            "Point": null,
+            "Abbr": "lh vh sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34813"
+        },
+        {
+            "MaPhuongXa": "36844",
+            "TenPhuongXa": "Chiềng Yên",
+            "MaQuanHuyen": "3684",
+            "TenQuanHuyen": "Vân Hồ",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cy",
+                    "Point": 5
+                },
+                {
+                    "Key": "vh",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng yen van ho son la",
+            "Point": null,
+            "Abbr": "cy vh sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34808"
+        },
+        {
+            "MaPhuongXa": "36842",
+            "TenPhuongXa": "Chiềng Xuân",
+            "MaQuanHuyen": "3684",
+            "TenQuanHuyen": "Vân Hồ",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "cx",
+                    "Point": 5
+                },
+                {
+                    "Key": "vh",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng xuan van ho son la",
+            "Point": null,
+            "Abbr": "cx vh sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34817"
+        },
+        {
+            "MaPhuongXa": "36840",
+            "TenPhuongXa": "Vân Hồ",
+            "MaQuanHuyen": "3684",
+            "TenQuanHuyen": "Vân Hồ",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vh",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van ho van ho son la",
+            "Point": null,
+            "Abbr": "vh vh sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34806"
+        },
+        {
+            "MaPhuongXa": "36301",
+            "TenPhuongXa": "Chiềng Khoa",
+            "MaQuanHuyen": "3684",
+            "TenQuanHuyen": "Vân Hồ",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "ck",
+                    "Point": 5
+                },
+                {
+                    "Key": "vh",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng khoa van ho son la",
+            "Point": null,
+            "Abbr": "ck vh sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34816"
+        },
+        {
+            "MaPhuongXa": "36858",
+            "TenPhuongXa": "Suối Bàng",
+            "MaQuanHuyen": "3684",
+            "TenQuanHuyen": "Vân Hồ",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "sb",
+                    "Point": 5
+                },
+                {
+                    "Key": "vh",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi bang van ho son la",
+            "Point": null,
+            "Abbr": "sb vh sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34814"
+        },
+        {
+            "MaPhuongXa": "36856",
+            "TenPhuongXa": "Song Khủa",
+            "MaQuanHuyen": "3684",
+            "TenQuanHuyen": "Vân Hồ",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "sk",
+                    "Point": 5
+                },
+                {
+                    "Key": "vh",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song khua van ho son la",
+            "Point": null,
+            "Abbr": "sk vh sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34812"
+        },
+        {
+            "MaPhuongXa": "36854",
+            "TenPhuongXa": "Quang Minh",
+            "MaQuanHuyen": "3684",
+            "TenQuanHuyen": "Vân Hồ",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "qm",
+                    "Point": 5
+                },
+                {
+                    "Key": "vh",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang minh van ho son la",
+            "Point": null,
+            "Abbr": "qm vh sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34810"
+        },
+        {
+            "MaPhuongXa": "36852",
+            "TenPhuongXa": "Mường Tè",
+            "MaQuanHuyen": "3684",
+            "TenQuanHuyen": "Vân Hồ",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vh",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong te van ho son la",
+            "Point": null,
+            "Abbr": "mt vh sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34811"
+        },
+        {
+            "MaPhuongXa": "36850",
+            "TenPhuongXa": "Mường Men",
+            "MaQuanHuyen": "3684",
+            "TenQuanHuyen": "Vân Hồ",
+            "MaTinhThanh": "36",
+            "TenTinhThanh": "Sơn La",
+            "LstSearchTag": [
+                {
+                    "Key": "mm",
+                    "Point": 5
+                },
+                {
+                    "Key": "vh",
+                    "Point": 2
+                },
+                {
+                    "Key": "sl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong men van ho son la",
+            "Point": null,
+            "Abbr": "mm vh sl",
+            "TrangThai": null,
+            "MaBuuChinh": "34809"
+        }
+    ]
+}

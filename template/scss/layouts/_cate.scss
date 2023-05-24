@@ -1,0 +1,33 @@
+.category {}
+
+.Catelogy {
+    &-cate {
+        &-wrap {
+            @include flex;
+            justify-content: space-between;
+            cursor: pointer;
+        }
+
+        &-item {
+            padding: 1.6rem 0;
+            border-bottom: 0.1rem solid #E6E6E6;
+            user-select: none;
+
+        }
+
+        &-icon {
+            font-size: 1.2rem;
+        }
+    }
+
+    &-item {}
+
+    &-sub {
+        display: none;
+
+
+        &-wrap {
+            padding-top: 1rem;
+        }
+    }
+}

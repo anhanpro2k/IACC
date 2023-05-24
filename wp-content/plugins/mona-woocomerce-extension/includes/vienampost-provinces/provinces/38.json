@@ -1,0 +1,3540 @@
+{
+    "3853": [
+        {
+            "MaPhuongXa": "38543",
+            "TenPhuongXa": "Phìn Hồ",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phin ho nam po dien bien",
+            "Point": null,
+            "Abbr": "ph np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32808"
+        },
+        {
+            "MaPhuongXa": "38542",
+            "TenPhuongXa": "Pa Tần",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pa tan nam po dien bien",
+            "Point": null,
+            "Abbr": "pt np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32812"
+        },
+        {
+            "MaPhuongXa": "38541",
+            "TenPhuongXa": "Nậm Tin",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam tin nam po dien bien",
+            "Point": null,
+            "Abbr": "nt np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32814"
+        },
+        {
+            "MaPhuongXa": "38540",
+            "TenPhuongXa": "Nậm Nhừ",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nn",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam nhu nam po dien bien",
+            "Point": null,
+            "Abbr": "nn np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32817"
+        },
+        {
+            "MaPhuongXa": "38545",
+            "TenPhuongXa": "Vàng Đán",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "vd",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vang dan nam po dien bien",
+            "Point": null,
+            "Abbr": "vd np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32820"
+        },
+        {
+            "MaPhuongXa": "38544",
+            "TenPhuongXa": "Si Pa Phìn",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "spp",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "si pa phin nam po dien bien",
+            "Point": null,
+            "Abbr": "spp np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32807"
+        },
+        {
+            "MaPhuongXa": "38533",
+            "TenPhuongXa": "Chà Nưa",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cha nua nam po dien bien",
+            "Point": null,
+            "Abbr": "cn np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32809"
+        },
+        {
+            "MaPhuongXa": "38532",
+            "TenPhuongXa": "Chà Cang",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cha cang nam po dien bien",
+            "Point": null,
+            "Abbr": "cc np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32813"
+        },
+        {
+            "MaPhuongXa": "38530",
+            "TenPhuongXa": "Nà Khoa",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nk",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na khoa nam po dien bien",
+            "Point": null,
+            "Abbr": "nk np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32816"
+        },
+        {
+            "MaPhuongXa": "38537",
+            "TenPhuongXa": "Nà Hỳ",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na hy nam po dien bien",
+            "Point": null,
+            "Abbr": "nh np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32806"
+        },
+        {
+            "MaPhuongXa": "38536",
+            "TenPhuongXa": "Na Cô Sa",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ncs",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na co sa nam po dien bien",
+            "Point": null,
+            "Abbr": "ncs np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32815"
+        },
+        {
+            "MaPhuongXa": "38535",
+            "TenPhuongXa": "Nà Bủng",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nb",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na bung nam po dien bien",
+            "Point": null,
+            "Abbr": "nb np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32819"
+        },
+        {
+            "MaPhuongXa": "38534",
+            "TenPhuongXa": "Chà Tở",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cha to nam po dien bien",
+            "Point": null,
+            "Abbr": "ct np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32810"
+        },
+        {
+            "MaPhuongXa": "38539",
+            "TenPhuongXa": "Nậm Khăn",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nk",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam khan nam po dien bien",
+            "Point": null,
+            "Abbr": "nk np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32811"
+        },
+        {
+            "MaPhuongXa": "38538",
+            "TenPhuongXa": "Nậm Chua",
+            "MaQuanHuyen": "3853",
+            "TenQuanHuyen": "Nậm Pồ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "np",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam chua nam po dien bien",
+            "Point": null,
+            "Abbr": "nc np db",
+            "TrangThai": null,
+            "MaBuuChinh": "32818"
+        }
+    ],
+    "3833": [
+        {
+            "MaPhuongXa": "38346",
+            "TenPhuongXa": "Huổi Leng",
+            "MaQuanHuyen": "3833",
+            "TenQuanHuyen": "Mường Chà",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huoi leng muong cha dien bien",
+            "Point": null,
+            "Abbr": "hl mc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32762"
+        },
+        {
+            "MaPhuongXa": "38348",
+            "TenPhuongXa": "Mường Tùng",
+            "MaQuanHuyen": "3833",
+            "TenQuanHuyen": "Mường Chà",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong tung muong cha dien bien",
+            "Point": null,
+            "Abbr": "mt mc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32763"
+        },
+        {
+            "MaPhuongXa": "38334",
+            "TenPhuongXa": "Xá Tổng",
+            "MaQuanHuyen": "3833",
+            "TenQuanHuyen": "Mường Chà",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "t",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xa tong muong cha dien bien",
+            "Point": null,
+            "Abbr": "t mc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32760"
+        },
+        {
+            "MaPhuongXa": "38336",
+            "TenPhuongXa": "Pa Ham",
+            "MaQuanHuyen": "3833",
+            "TenQuanHuyen": "Mường Chà",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pa ham muong cha dien bien",
+            "Point": null,
+            "Abbr": "ph mc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32759"
+        },
+        {
+            "MaPhuongXa": "38330",
+            "TenPhuongXa": "Mường Chà",
+            "MaQuanHuyen": "3833",
+            "TenQuanHuyen": "Mường Chà",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong cha muong cha dien bien",
+            "Point": null,
+            "Abbr": "mc mc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32756"
+        },
+        {
+            "MaPhuongXa": "38332",
+            "TenPhuongXa": "Hừa Ngài",
+            "MaQuanHuyen": "3833",
+            "TenQuanHuyen": "Mường Chà",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hua ngai muong cha dien bien",
+            "Point": null,
+            "Abbr": "hn mc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32761"
+        },
+        {
+            "MaPhuongXa": "38357",
+            "TenPhuongXa": "Ma Thì Hồ",
+            "MaQuanHuyen": "3833",
+            "TenQuanHuyen": "Mường Chà",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mth",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ma thi ho muong cha dien bien",
+            "Point": null,
+            "Abbr": "mth mc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32764"
+        },
+        {
+            "MaPhuongXa": "38350",
+            "TenPhuongXa": "Mường Mơn",
+            "MaQuanHuyen": "3833",
+            "TenQuanHuyen": "Mường Chà",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mm",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong mon muong cha dien bien",
+            "Point": null,
+            "Abbr": "mm mc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32767"
+        },
+        {
+            "MaPhuongXa": "38359",
+            "TenPhuongXa": "Na Sang",
+            "MaQuanHuyen": "3833",
+            "TenQuanHuyen": "Mường Chà",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na sang muong cha dien bien",
+            "Point": null,
+            "Abbr": "ns mc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32766"
+        },
+        {
+            "MaPhuongXa": "38467",
+            "TenPhuongXa": "Huổi Mí",
+            "MaQuanHuyen": "3833",
+            "TenQuanHuyen": "Mường Chà",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huoi mi muong cha dien bien",
+            "Point": null,
+            "Abbr": "hm mc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32757"
+        },
+        {
+            "MaPhuongXa": "38465",
+            "TenPhuongXa": "Sa Lông",
+            "MaQuanHuyen": "3833",
+            "TenQuanHuyen": "Mường Chà",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sa long muong cha dien bien",
+            "Point": null,
+            "Abbr": "sl mc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32765"
+        },
+        {
+            "MaPhuongXa": "38468",
+            "TenPhuongXa": "Nậm Nèn",
+            "MaQuanHuyen": "3833",
+            "TenQuanHuyen": "Mường Chà",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nn",
+                    "Point": 5
+                },
+                {
+                    "Key": "mc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam nen muong cha dien bien",
+            "Point": null,
+            "Abbr": "nn mc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32758"
+        }
+    ],
+    "3810": [
+        {
+            "MaPhuongXa": "38143",
+            "TenPhuongXa": "Mường Phăng",
+            "MaQuanHuyen": "3810",
+            "TenQuanHuyen": "Điện Biên Phủ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbp",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong phang dien bien phu dien bien",
+            "Point": null,
+            "Abbr": "mp dbp db",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "38149",
+            "TenPhuongXa": "Nà Tấu",
+            "MaQuanHuyen": "3810",
+            "TenQuanHuyen": "Điện Biên Phủ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbp",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na tau dien bien phu dien bien",
+            "Point": null,
+            "Abbr": "nt dbp db",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "38188",
+            "TenPhuongXa": "Nà Nhạn",
+            "MaQuanHuyen": "3810",
+            "TenQuanHuyen": "Điện Biên Phủ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbp",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na nhan dien bien phu dien bien",
+            "Point": null,
+            "Abbr": "nn dbp db",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "38117",
+            "TenPhuongXa": "Thanh Bình",
+            "MaQuanHuyen": "3810",
+            "TenQuanHuyen": "Điện Biên Phủ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbp",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh binh dien bien phu dien bien",
+            "Point": null,
+            "Abbr": "tb dbp db",
+            "TrangThai": null,
+            "MaBuuChinh": "32109"
+        },
+        {
+            "MaPhuongXa": "38115",
+            "TenPhuongXa": "Thanh Minh",
+            "MaQuanHuyen": "3810",
+            "TenQuanHuyen": "Điện Biên Phủ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbp",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh minh dien bien phu dien bien",
+            "Point": null,
+            "Abbr": "tm dbp db",
+            "TrangThai": null,
+            "MaBuuChinh": "32107"
+        },
+        {
+            "MaPhuongXa": "38110",
+            "TenPhuongXa": "Him Lam",
+            "MaQuanHuyen": "3810",
+            "TenQuanHuyen": "Điện Biên Phủ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbp",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "him lam dien bien phu dien bien",
+            "Point": null,
+            "Abbr": "hl dbp db",
+            "TrangThai": null,
+            "MaBuuChinh": "32106"
+        },
+        {
+            "MaPhuongXa": "38126",
+            "TenPhuongXa": "Noong Bua",
+            "MaQuanHuyen": "3810",
+            "TenQuanHuyen": "Điện Biên Phủ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nb",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbp",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "noong bua dien bien phu dien bien",
+            "Point": null,
+            "Abbr": "nb dbp db",
+            "TrangThai": null,
+            "MaBuuChinh": "32112"
+        },
+        {
+            "MaPhuongXa": "38123",
+            "TenPhuongXa": "Nam Thanh",
+            "MaQuanHuyen": "3810",
+            "TenQuanHuyen": "Điện Biên Phủ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbp",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam thanh dien bien phu dien bien",
+            "Point": null,
+            "Abbr": "nt dbp db",
+            "TrangThai": null,
+            "MaBuuChinh": "32113"
+        },
+        {
+            "MaPhuongXa": "38120",
+            "TenPhuongXa": "Thanh Trường",
+            "MaQuanHuyen": "3810",
+            "TenQuanHuyen": "Điện Biên Phủ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbp",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh truong dien bien phu dien bien",
+            "Point": null,
+            "Abbr": "tt dbp db",
+            "TrangThai": null,
+            "MaBuuChinh": "32108"
+        },
+        {
+            "MaPhuongXa": "38129",
+            "TenPhuongXa": "Tà Lèng",
+            "MaQuanHuyen": "3810",
+            "TenQuanHuyen": "Điện Biên Phủ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbp",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta leng dien bien phu dien bien",
+            "Point": null,
+            "Abbr": "tl dbp db",
+            "TrangThai": null,
+            "MaBuuChinh": "32114"
+        },
+        {
+            "MaPhuongXa": "38106",
+            "TenPhuongXa": "Tân Thanh",
+            "MaQuanHuyen": "3810",
+            "TenQuanHuyen": "Điện Biên Phủ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbp",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh dien bien phu dien bien",
+            "Point": null,
+            "Abbr": "tt dbp db",
+            "TrangThai": null,
+            "MaBuuChinh": "32110"
+        },
+        {
+            "MaPhuongXa": "38100",
+            "TenPhuongXa": "Mường Thanh",
+            "MaQuanHuyen": "3810",
+            "TenQuanHuyen": "Điện Biên Phủ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbp",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong thanh dien bien phu dien bien",
+            "Point": null,
+            "Abbr": "mt dbp db",
+            "TrangThai": null,
+            "MaBuuChinh": "32111"
+        },
+        {
+            "MaPhuongXa": "38447",
+            "TenPhuongXa": "Pá Khoang",
+            "MaQuanHuyen": "3810",
+            "TenQuanHuyen": "Điện Biên Phủ",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "pk",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbp",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pa khoang dien bien phu dien bien",
+            "Point": null,
+            "Abbr": "pk dbp db",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        }
+    ],
+    "3814": [
+        {
+            "MaPhuongXa": "38141",
+            "TenPhuongXa": "Thanh Xương",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tx",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh xuong dien bien dien bien",
+            "Point": null,
+            "Abbr": "tx db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32209"
+        },
+        {
+            "MaPhuongXa": "38186",
+            "TenPhuongXa": "Thanh An",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh an dien bien dien bien",
+            "Point": null,
+            "Abbr": "ta db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32208"
+        },
+        {
+            "MaPhuongXa": "38183",
+            "TenPhuongXa": "Noong Hẹt",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "noong het dien bien dien bien",
+            "Point": null,
+            "Abbr": "nh db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32207"
+        },
+        {
+            "MaPhuongXa": "38181",
+            "TenPhuongXa": "Núa Ngam",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nn",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nua ngam dien bien dien bien",
+            "Point": null,
+            "Abbr": "nn db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32226"
+        },
+        {
+            "MaPhuongXa": "38180",
+            "TenPhuongXa": "Mường Lói",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong loi dien bien dien bien",
+            "Point": null,
+            "Abbr": "ml db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32230"
+        },
+        {
+            "MaPhuongXa": "38177",
+            "TenPhuongXa": "Mường Nhà",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mn",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong nha dien bien dien bien",
+            "Point": null,
+            "Abbr": "mn db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32228"
+        },
+        {
+            "MaPhuongXa": "38176",
+            "TenPhuongXa": "Na Ư",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nu",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na u dien bien dien bien",
+            "Point": null,
+            "Abbr": "nu db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32225"
+        },
+        {
+            "MaPhuongXa": "38173",
+            "TenPhuongXa": "Sam Mứn",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "sm",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sam mun dien bien dien bien",
+            "Point": null,
+            "Abbr": "sm db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32206"
+        },
+        {
+            "MaPhuongXa": "38157",
+            "TenPhuongXa": "Thanh Luông",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh luong dien bien dien bien",
+            "Point": null,
+            "Abbr": "tl db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32217"
+        },
+        {
+            "MaPhuongXa": "38155",
+            "TenPhuongXa": "Thanh Nưa",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh nua dien bien dien bien",
+            "Point": null,
+            "Abbr": "tn db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32216"
+        },
+        {
+            "MaPhuongXa": "38153",
+            "TenPhuongXa": "Mường Pồn",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mp",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong pon dien bien dien bien",
+            "Point": null,
+            "Abbr": "mp db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32214"
+        },
+        {
+            "MaPhuongXa": "38164",
+            "TenPhuongXa": "Thanh Yên",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ty",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh yen dien bien dien bien",
+            "Point": null,
+            "Abbr": "ty db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32220"
+        },
+        {
+            "MaPhuongXa": "38162",
+            "TenPhuongXa": "Thanh Chăn",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh chan dien bien dien bien",
+            "Point": null,
+            "Abbr": "tc db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32219"
+        },
+        {
+            "MaPhuongXa": "38160",
+            "TenPhuongXa": "Thanh Hưng",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh hung dien bien dien bien",
+            "Point": null,
+            "Abbr": "th db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32218"
+        },
+        {
+            "MaPhuongXa": "38169",
+            "TenPhuongXa": "Noong Luống",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "noong luong dien bien dien bien",
+            "Point": null,
+            "Abbr": "nl db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32221"
+        },
+        {
+            "MaPhuongXa": "38168",
+            "TenPhuongXa": "Pa Thơm",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pa thom dien bien dien bien",
+            "Point": null,
+            "Abbr": "pt db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32222"
+        },
+        {
+            "MaPhuongXa": "38446",
+            "TenPhuongXa": "Na Tông",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na tong dien bien dien bien",
+            "Point": null,
+            "Abbr": "nt db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32227"
+        },
+        {
+            "MaPhuongXa": "38444",
+            "TenPhuongXa": "Hẹ Muông",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "he muong dien bien dien bien",
+            "Point": null,
+            "Abbr": "hm db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32224"
+        },
+        {
+            "MaPhuongXa": "38445",
+            "TenPhuongXa": "Hua Thanh",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hua thanh dien bien dien bien",
+            "Point": null,
+            "Abbr": "ht db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32215"
+        },
+        {
+            "MaPhuongXa": "38448",
+            "TenPhuongXa": "Phu Luông",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu luong dien bien dien bien",
+            "Point": null,
+            "Abbr": "pl db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32229"
+        },
+        {
+            "MaPhuongXa": "38449",
+            "TenPhuongXa": "Pom Lót",
+            "MaQuanHuyen": "3814",
+            "TenQuanHuyen": "Điện Biên",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pom lot dien bien dien bien",
+            "Point": null,
+            "Abbr": "pl db db",
+            "TrangThai": null,
+            "MaBuuChinh": "32223"
+        }
+    ],
+    "3820": [
+        {
+            "MaPhuongXa": "38234",
+            "TenPhuongXa": "Nong U",
+            "MaQuanHuyen": "3820",
+            "TenQuanHuyen": "Điện Biên Đông",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nu",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbd",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nong u dien bien dong dien bien",
+            "Point": null,
+            "Abbr": "nu dbd db",
+            "TrangThai": null,
+            "MaBuuChinh": "32312"
+        },
+        {
+            "MaPhuongXa": "38235",
+            "TenPhuongXa": "Pú Hồng",
+            "MaQuanHuyen": "3820",
+            "TenQuanHuyen": "Điện Biên Đông",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbd",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pu hong dien bien dong dien bien",
+            "Point": null,
+            "Abbr": "ph dbd db",
+            "TrangThai": null,
+            "MaBuuChinh": "32315"
+        },
+        {
+            "MaPhuongXa": "38236",
+            "TenPhuongXa": "Tìa Dình",
+            "MaQuanHuyen": "3820",
+            "TenQuanHuyen": "Điện Biên Đông",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbd",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tia dinh dien bien dong dien bien",
+            "Point": null,
+            "Abbr": "td dbd db",
+            "TrangThai": null,
+            "MaBuuChinh": "32316"
+        },
+        {
+            "MaPhuongXa": "38230",
+            "TenPhuongXa": "Chiềng Sơ",
+            "MaQuanHuyen": "3820",
+            "TenQuanHuyen": "Điện Biên Đông",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbd",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng so dien bien dong dien bien",
+            "Point": null,
+            "Abbr": "cs dbd db",
+            "TrangThai": null,
+            "MaBuuChinh": "32308"
+        },
+        {
+            "MaPhuongXa": "38214",
+            "TenPhuongXa": "Phì Nhừ",
+            "MaQuanHuyen": "3820",
+            "TenQuanHuyen": "Điện Biên Đông",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbd",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phi nhu dien bien dong dien bien",
+            "Point": null,
+            "Abbr": "pn dbd db",
+            "TrangThai": null,
+            "MaBuuChinh": "32307"
+        },
+        {
+            "MaPhuongXa": "38217",
+            "TenPhuongXa": "Phình Giàng",
+            "MaQuanHuyen": "3820",
+            "TenQuanHuyen": "Điện Biên Đông",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "pg",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbd",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phinh giang dien bien dong dien bien",
+            "Point": null,
+            "Abbr": "pg dbd db",
+            "TrangThai": null,
+            "MaBuuChinh": "32314"
+        },
+        {
+            "MaPhuongXa": "38211",
+            "TenPhuongXa": "Keo Lôm",
+            "MaQuanHuyen": "3820",
+            "TenQuanHuyen": "Điện Biên Đông",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "kl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbd",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "keo lom dien bien dong dien bien",
+            "Point": null,
+            "Abbr": "kl dbd db",
+            "TrangThai": null,
+            "MaBuuChinh": "32313"
+        },
+        {
+            "MaPhuongXa": "38224",
+            "TenPhuongXa": "Mường Luân",
+            "MaQuanHuyen": "3820",
+            "TenQuanHuyen": "Điện Biên Đông",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbd",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong luan dien bien dong dien bien",
+            "Point": null,
+            "Abbr": "ml dbd db",
+            "TrangThai": null,
+            "MaBuuChinh": "32319"
+        },
+        {
+            "MaPhuongXa": "38227",
+            "TenPhuongXa": "Luân Giới",
+            "MaQuanHuyen": "3820",
+            "TenQuanHuyen": "Điện Biên Đông",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "lg",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbd",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luan gioi dien bien dong dien bien",
+            "Point": null,
+            "Abbr": "lg dbd db",
+            "TrangThai": null,
+            "MaBuuChinh": "32318"
+        },
+        {
+            "MaPhuongXa": "38221",
+            "TenPhuongXa": "Háng Lìa",
+            "MaQuanHuyen": "3820",
+            "TenQuanHuyen": "Điện Biên Đông",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbd",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hang lia dien bien dong dien bien",
+            "Point": null,
+            "Abbr": "hl dbd db",
+            "TrangThai": null,
+            "MaBuuChinh": "32317"
+        },
+        {
+            "MaPhuongXa": "38204",
+            "TenPhuongXa": "Xa Dung",
+            "MaQuanHuyen": "3820",
+            "TenQuanHuyen": "Điện Biên Đông",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "xd",
+                    "Point": 5
+                },
+                {
+                    "Key": "d",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbd",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xa dung dien bien dong dien bien",
+            "Point": null,
+            "Abbr": "d dbd db",
+            "TrangThai": null,
+            "MaBuuChinh": "32309"
+        },
+        {
+            "MaPhuongXa": "38207",
+            "TenPhuongXa": "Pú Nhi",
+            "MaQuanHuyen": "3820",
+            "TenQuanHuyen": "Điện Biên Đông",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbd",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pu nhi dien bien dong dien bien",
+            "Point": null,
+            "Abbr": "pn dbd db",
+            "TrangThai": null,
+            "MaBuuChinh": "32311"
+        },
+        {
+            "MaPhuongXa": "38200",
+            "TenPhuongXa": "Điện Biên Đông",
+            "MaQuanHuyen": "3820",
+            "TenQuanHuyen": "Điện Biên Đông",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "dbd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbd",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien bien dong dien bien dong dien bien",
+            "Point": null,
+            "Abbr": "dbd dbd db",
+            "TrangThai": null,
+            "MaBuuChinh": "32306"
+        },
+        {
+            "MaPhuongXa": "38201",
+            "TenPhuongXa": "Na Son",
+            "MaQuanHuyen": "3820",
+            "TenQuanHuyen": "Điện Biên Đông",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "dbd",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na son dien bien dong dien bien",
+            "Point": null,
+            "Abbr": "ns dbd db",
+            "TrangThai": null,
+            "MaBuuChinh": "32310"
+        }
+    ],
+    "3848": [
+        {
+            "MaPhuongXa": "38483",
+            "TenPhuongXa": "Ẳng Cang",
+            "MaQuanHuyen": "3848",
+            "TenQuanHuyen": "Mường Ảng",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ac",
+                    "Point": 5
+                },
+                {
+                    "Key": "ma",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ang cang muong ang dien bien",
+            "Point": null,
+            "Abbr": "ac ma db",
+            "TrangThai": null,
+            "MaBuuChinh": "32411"
+        },
+        {
+            "MaPhuongXa": "38480",
+            "TenPhuongXa": "Mường Ẳng",
+            "MaQuanHuyen": "3848",
+            "TenQuanHuyen": "Mường Ảng",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ma",
+                    "Point": 5
+                },
+                {
+                    "Key": "ma",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong ang muong ang dien bien",
+            "Point": null,
+            "Abbr": "ma ma db",
+            "TrangThai": null,
+            "MaBuuChinh": "32406"
+        },
+        {
+            "MaPhuongXa": "38486",
+            "TenPhuongXa": "Mường Đăng",
+            "MaQuanHuyen": "3848",
+            "TenQuanHuyen": "Mường Ảng",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "ma",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong dang muong ang dien bien",
+            "Point": null,
+            "Abbr": "md ma db",
+            "TrangThai": null,
+            "MaBuuChinh": "32409"
+        },
+        {
+            "MaPhuongXa": "38489",
+            "TenPhuongXa": "Ẳng Nưa",
+            "MaQuanHuyen": "3848",
+            "TenQuanHuyen": "Mường Ảng",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "an",
+                    "Point": 5
+                },
+                {
+                    "Key": "ma",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ang nua muong ang dien bien",
+            "Point": null,
+            "Abbr": "an ma db",
+            "TrangThai": null,
+            "MaBuuChinh": "32410"
+        },
+        {
+            "MaPhuongXa": "38491",
+            "TenPhuongXa": "Ẳng Tở",
+            "MaQuanHuyen": "3848",
+            "TenQuanHuyen": "Mường Ảng",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "ma",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ang to muong ang dien bien",
+            "Point": null,
+            "Abbr": "at ma db",
+            "TrangThai": null,
+            "MaBuuChinh": "32407"
+        },
+        {
+            "MaPhuongXa": "38494",
+            "TenPhuongXa": "Búng Lao",
+            "MaQuanHuyen": "3848",
+            "TenQuanHuyen": "Mường Ảng",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ma",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bung lao muong ang dien bien",
+            "Point": null,
+            "Abbr": "bl ma db",
+            "TrangThai": null,
+            "MaBuuChinh": "32415"
+        },
+        {
+            "MaPhuongXa": "38498",
+            "TenPhuongXa": "Mường Lạn",
+            "MaQuanHuyen": "3848",
+            "TenQuanHuyen": "Mường Ảng",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "ma",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong lan muong ang dien bien",
+            "Point": null,
+            "Abbr": "ml ma db",
+            "TrangThai": null,
+            "MaBuuChinh": "32413"
+        },
+        {
+            "MaPhuongXa": "38502",
+            "TenPhuongXa": "Nặm Lịch",
+            "MaQuanHuyen": "3848",
+            "TenQuanHuyen": "Mường Ảng",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ma",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam lich muong ang dien bien",
+            "Point": null,
+            "Abbr": "nl ma db",
+            "TrangThai": null,
+            "MaBuuChinh": "32412"
+        },
+        {
+            "MaPhuongXa": "38506",
+            "TenPhuongXa": "Xuân Lao",
+            "MaQuanHuyen": "3848",
+            "TenQuanHuyen": "Mường Ảng",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ma",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan lao muong ang dien bien",
+            "Point": null,
+            "Abbr": "xl ma db",
+            "TrangThai": null,
+            "MaBuuChinh": "32414"
+        },
+        {
+            "MaPhuongXa": "38504",
+            "TenPhuongXa": "Ngối Cáy",
+            "MaQuanHuyen": "3848",
+            "TenQuanHuyen": "Mường Ảng",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ma",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoi cay muong ang dien bien",
+            "Point": null,
+            "Abbr": "nc ma db",
+            "TrangThai": null,
+            "MaBuuChinh": "32408"
+        }
+    ],
+    "3825": [
+        {
+            "MaPhuongXa": "38285",
+            "TenPhuongXa": "Chiềng Đông",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng dong tuan giao dien bien",
+            "Point": null,
+            "Abbr": "cd tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32522"
+        },
+        {
+            "MaPhuongXa": "38287",
+            "TenPhuongXa": "Mường Khong",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mk",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong khong tuan giao dien bien",
+            "Point": null,
+            "Abbr": "mk tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32518"
+        },
+        {
+            "MaPhuongXa": "38281",
+            "TenPhuongXa": "Pú Xi",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "px",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pu xi tuan giao dien bien",
+            "Point": null,
+            "Abbr": "px tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32517"
+        },
+        {
+            "MaPhuongXa": "38283",
+            "TenPhuongXa": "Rạng Đông",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "rd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "rang dong tuan giao dien bien",
+            "Point": null,
+            "Abbr": "rd tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32512"
+        },
+        {
+            "MaPhuongXa": "38274",
+            "TenPhuongXa": "Mường Thín",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong thin tuan giao dien bien",
+            "Point": null,
+            "Abbr": "mt tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32519"
+        },
+        {
+            "MaPhuongXa": "38276",
+            "TenPhuongXa": "Nà Sáy",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na say tuan giao dien bien",
+            "Point": null,
+            "Abbr": "ns tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32520"
+        },
+        {
+            "MaPhuongXa": "38270",
+            "TenPhuongXa": "Mường Mùn",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong mun tuan giao dien bien",
+            "Point": null,
+            "Abbr": "mm tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32516"
+        },
+        {
+            "MaPhuongXa": "38279",
+            "TenPhuongXa": "Nà Tòng",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na tong tuan giao dien bien",
+            "Point": null,
+            "Abbr": "nt tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32511"
+        },
+        {
+            "MaPhuongXa": "38257",
+            "TenPhuongXa": "Quài Nưa",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "qn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quai nua tuan giao dien bien",
+            "Point": null,
+            "Abbr": "qn tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32514"
+        },
+        {
+            "MaPhuongXa": "38250",
+            "TenPhuongXa": "Tuần Giáo",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tg",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tuan giao tuan giao dien bien",
+            "Point": null,
+            "Abbr": "tg tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32506"
+        },
+        {
+            "MaPhuongXa": "38253",
+            "TenPhuongXa": "Quài Cang",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "qc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quai cang tuan giao dien bien",
+            "Point": null,
+            "Abbr": "qc tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32507"
+        },
+        {
+            "MaPhuongXa": "38264",
+            "TenPhuongXa": "Phình Sáng",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ps",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phinh sang tuan giao dien bien",
+            "Point": null,
+            "Abbr": "ps tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32510"
+        },
+        {
+            "MaPhuongXa": "38267",
+            "TenPhuongXa": "Mùn Chung",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mun chung tuan giao dien bien",
+            "Point": null,
+            "Abbr": "mc tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32515"
+        },
+        {
+            "MaPhuongXa": "38260",
+            "TenPhuongXa": "Pú Nhung",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pu nhung tuan giao dien bien",
+            "Point": null,
+            "Abbr": "pn tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32513"
+        },
+        {
+            "MaPhuongXa": "38262",
+            "TenPhuongXa": "Ta Ma",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta ma tuan giao dien bien",
+            "Point": null,
+            "Abbr": "tm tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32509"
+        },
+        {
+            "MaPhuongXa": "38307",
+            "TenPhuongXa": "Tênh Phông",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tenh phong tuan giao dien bien",
+            "Point": null,
+            "Abbr": "tp tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32523"
+        },
+        {
+            "MaPhuongXa": "38300",
+            "TenPhuongXa": "Chiềng Sinh",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chieng sinh tuan giao dien bien",
+            "Point": null,
+            "Abbr": "cs tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32521"
+        },
+        {
+            "MaPhuongXa": "38303",
+            "TenPhuongXa": "Quài Tở",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quai to tuan giao dien bien",
+            "Point": null,
+            "Abbr": "qt tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32524"
+        },
+        {
+            "MaPhuongXa": "38308",
+            "TenPhuongXa": "Toả Tình",
+            "MaQuanHuyen": "3825",
+            "TenQuanHuyen": "Tuần Giáo",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "toa tinh tuan giao dien bien",
+            "Point": null,
+            "Abbr": "tt tg db",
+            "TrangThai": null,
+            "MaBuuChinh": "32508"
+        }
+    ],
+    "3836": [
+        {
+            "MaPhuongXa": "38380",
+            "TenPhuongXa": "Mường Báng",
+            "MaQuanHuyen": "3836",
+            "TenQuanHuyen": "Tủa Chùa",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong bang tua chua dien bien",
+            "Point": null,
+            "Abbr": "mb tc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32607"
+        },
+        {
+            "MaPhuongXa": "38374",
+            "TenPhuongXa": "Tả Phình",
+            "MaQuanHuyen": "3836",
+            "TenQuanHuyen": "Tủa Chùa",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta phinh tua chua dien bien",
+            "Point": null,
+            "Abbr": "tp tc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32616"
+        },
+        {
+            "MaPhuongXa": "38376",
+            "TenPhuongXa": "Trung Thu",
+            "MaQuanHuyen": "3836",
+            "TenQuanHuyen": "Tủa Chùa",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung thu tua chua dien bien",
+            "Point": null,
+            "Abbr": "tt tc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32615"
+        },
+        {
+            "MaPhuongXa": "38371",
+            "TenPhuongXa": "Tả Sìn Thàng",
+            "MaQuanHuyen": "3836",
+            "TenQuanHuyen": "Tủa Chùa",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tst",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta sin thang tua chua dien bien",
+            "Point": null,
+            "Abbr": "tst tc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32613"
+        },
+        {
+            "MaPhuongXa": "38373",
+            "TenPhuongXa": "Lao Xả Phình",
+            "MaQuanHuyen": "3836",
+            "TenQuanHuyen": "Tủa Chùa",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "lxp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lao xa phinh tua chua dien bien",
+            "Point": null,
+            "Abbr": "lxp tc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32614"
+        },
+        {
+            "MaPhuongXa": "38378",
+            "TenPhuongXa": "Xính Phình",
+            "MaQuanHuyen": "3836",
+            "TenQuanHuyen": "Tủa Chùa",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "xp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xinh phinh tua chua dien bien",
+            "Point": null,
+            "Abbr": "xp tc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32617"
+        },
+        {
+            "MaPhuongXa": "38365",
+            "TenPhuongXa": "Tủa Thàng",
+            "MaQuanHuyen": "3836",
+            "TenQuanHuyen": "Tủa Chùa",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tua thang tua chua dien bien",
+            "Point": null,
+            "Abbr": "tt tc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32610"
+        },
+        {
+            "MaPhuongXa": "38367",
+            "TenPhuongXa": "Huổi Só",
+            "MaQuanHuyen": "3836",
+            "TenQuanHuyen": "Tủa Chùa",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huoi so tua chua dien bien",
+            "Point": null,
+            "Abbr": "hs tc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32611"
+        },
+        {
+            "MaPhuongXa": "38361",
+            "TenPhuongXa": "Sáng Nhè",
+            "MaQuanHuyen": "3836",
+            "TenQuanHuyen": "Tủa Chùa",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "sn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sang nhe tua chua dien bien",
+            "Point": null,
+            "Abbr": "sn tc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32608"
+        },
+        {
+            "MaPhuongXa": "38360",
+            "TenPhuongXa": "Tủa Chùa",
+            "MaQuanHuyen": "3836",
+            "TenQuanHuyen": "Tủa Chùa",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tua chua tua chua dien bien",
+            "Point": null,
+            "Abbr": "tc tc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32606"
+        },
+        {
+            "MaPhuongXa": "38363",
+            "TenPhuongXa": "Mường Đun",
+            "MaQuanHuyen": "3836",
+            "TenQuanHuyen": "Tủa Chùa",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong dun tua chua dien bien",
+            "Point": null,
+            "Abbr": "md tc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32609"
+        },
+        {
+            "MaPhuongXa": "38369",
+            "TenPhuongXa": "Sín Chải",
+            "MaQuanHuyen": "3836",
+            "TenQuanHuyen": "Tủa Chùa",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "sc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sin chai tua chua dien bien",
+            "Point": null,
+            "Abbr": "sc tc db",
+            "TrangThai": null,
+            "MaBuuChinh": "32612"
+        }
+    ],
+    "3840": [
+        {
+            "MaPhuongXa": "38550",
+            "TenPhuongXa": "Huổi Lếch",
+            "MaQuanHuyen": "3840",
+            "TenQuanHuyen": "Mường Nhé",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mn",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huoi lech muong nhe dien bien",
+            "Point": null,
+            "Abbr": "hl mn db",
+            "TrangThai": null,
+            "MaBuuChinh": "32915"
+        },
+        {
+            "MaPhuongXa": "38423",
+            "TenPhuongXa": "Nậm Kè",
+            "MaQuanHuyen": "3840",
+            "TenQuanHuyen": "Mường Nhé",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nk",
+                    "Point": 5
+                },
+                {
+                    "Key": "mn",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam ke muong nhe dien bien",
+            "Point": null,
+            "Abbr": "nk mn db",
+            "TrangThai": null,
+            "MaBuuChinh": "32912"
+        },
+        {
+            "MaPhuongXa": "38427",
+            "TenPhuongXa": "Nậm Vì",
+            "MaQuanHuyen": "3840",
+            "TenQuanHuyen": "Mường Nhé",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nv",
+                    "Point": 5
+                },
+                {
+                    "Key": "mn",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam vi muong nhe dien bien",
+            "Point": null,
+            "Abbr": "nv mn db",
+            "TrangThai": null,
+            "MaBuuChinh": "32907"
+        },
+        {
+            "MaPhuongXa": "38425",
+            "TenPhuongXa": "Quảng Lâm",
+            "MaQuanHuyen": "3840",
+            "TenQuanHuyen": "Mường Nhé",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ql",
+                    "Point": 5
+                },
+                {
+                    "Key": "mn",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang lam muong nhe dien bien",
+            "Point": null,
+            "Abbr": "ql mn db",
+            "TrangThai": null,
+            "MaBuuChinh": "32913"
+        },
+        {
+            "MaPhuongXa": "38428",
+            "TenPhuongXa": "Pá Mỳ",
+            "MaQuanHuyen": "3840",
+            "TenQuanHuyen": "Mường Nhé",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "mn",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pa my muong nhe dien bien",
+            "Point": null,
+            "Abbr": "pm mn db",
+            "TrangThai": null,
+            "MaBuuChinh": "32914"
+        },
+        {
+            "MaPhuongXa": "38429",
+            "TenPhuongXa": "Sen Thượng",
+            "MaQuanHuyen": "3840",
+            "TenQuanHuyen": "Mường Nhé",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "mn",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sen thuong muong nhe dien bien",
+            "Point": null,
+            "Abbr": "st mn db",
+            "TrangThai": null,
+            "MaBuuChinh": "32910"
+        },
+        {
+            "MaPhuongXa": "38403",
+            "TenPhuongXa": "Chung Chải",
+            "MaQuanHuyen": "3840",
+            "TenQuanHuyen": "Mường Nhé",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "mn",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chung chai muong nhe dien bien",
+            "Point": null,
+            "Abbr": "cc mn db",
+            "TrangThai": null,
+            "MaBuuChinh": "32908"
+        },
+        {
+            "MaPhuongXa": "38400",
+            "TenPhuongXa": "Leng Su Sìn",
+            "MaQuanHuyen": "3840",
+            "TenQuanHuyen": "Mường Nhé",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "lss",
+                    "Point": 5
+                },
+                {
+                    "Key": "mn",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "leng su sin muong nhe dien bien",
+            "Point": null,
+            "Abbr": "lss mn db",
+            "TrangThai": null,
+            "MaBuuChinh": "32909"
+        },
+        {
+            "MaPhuongXa": "38401",
+            "TenPhuongXa": "Mường Nhé",
+            "MaQuanHuyen": "3840",
+            "TenQuanHuyen": "Mường Nhé",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mn",
+                    "Point": 5
+                },
+                {
+                    "Key": "mn",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong nhe muong nhe dien bien",
+            "Point": null,
+            "Abbr": "mn mn db",
+            "TrangThai": null,
+            "MaBuuChinh": "32906"
+        },
+        {
+            "MaPhuongXa": "38404",
+            "TenPhuongXa": "Sín Thầu",
+            "MaQuanHuyen": "3840",
+            "TenQuanHuyen": "Mường Nhé",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "mn",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sin thau muong nhe dien bien",
+            "Point": null,
+            "Abbr": "st mn db",
+            "TrangThai": null,
+            "MaBuuChinh": "32911"
+        },
+        {
+            "MaPhuongXa": "38405",
+            "TenPhuongXa": "Mường Toong",
+            "MaQuanHuyen": "3840",
+            "TenQuanHuyen": "Mường Nhé",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mn",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "muong toong muong nhe dien bien",
+            "Point": null,
+            "Abbr": "mt mn db",
+            "TrangThai": null,
+            "MaBuuChinh": "32916"
+        }
+    ],
+    "3839": [
+        {
+            "MaPhuongXa": "38394",
+            "TenPhuongXa": "Lay Nưa",
+            "MaQuanHuyen": "3839",
+            "TenQuanHuyen": "Mường Lay",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "ln",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lay nua muong lay dien bien",
+            "Point": null,
+            "Abbr": "ln ml db",
+            "TrangThai": null,
+            "MaBuuChinh": "32708"
+        },
+        {
+            "MaPhuongXa": "38390",
+            "TenPhuongXa": "Sông Đà",
+            "MaQuanHuyen": "3839",
+            "TenQuanHuyen": "Mường Lay",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "sd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song da muong lay dien bien",
+            "Point": null,
+            "Abbr": "sd ml db",
+            "TrangThai": null,
+            "MaBuuChinh": "32707"
+        },
+        {
+            "MaPhuongXa": "38392",
+            "TenPhuongXa": "Na Lay",
+            "MaQuanHuyen": "3839",
+            "TenQuanHuyen": "Mường Lay",
+            "MaTinhThanh": "38",
+            "TenTinhThanh": "Điện Biên",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ml",
+                    "Point": 2
+                },
+                {
+                    "Key": "db",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na lay muong lay dien bien",
+            "Point": null,
+            "Abbr": "nl ml db",
+            "TrangThai": null,
+            "MaBuuChinh": "32706"
+        }
+    ]
+}

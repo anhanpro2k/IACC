@@ -1,0 +1,280 @@
+.form {
+    &-wrap {
+        margin-left: -1.2rem;
+        margin-right: -1.2rem;
+        @include flex;
+        flex-wrap: wrap;
+
+        .select2-container--default .select2-selection--single {
+            background: white;
+            border: 0.05rem solid rgba(0, 0, 0, 0.15);
+        }
+
+        .select2-container .select2-selection--single .select2-selection__rendered {
+            color: $color-text;
+        }
+    }
+
+    &-control {
+        width: 50%;
+        padding: 0 1.2rem;
+        margin-bottom: var(--pdGen2);
+        @include flex;
+        flex-direction: column;
+
+        @include max(850px) {
+            width: 100%;
+        }
+
+        &.full-w {
+            width: 100%;
+        }
+
+        &.d-3 {
+            @include max(800px) {
+                width: 100%;
+            }
+        }
+
+        &-file {
+            .name-file {
+                padding: 1.2rem 1.6rem 0;
+            }
+        }
+    }
+
+    &-input {
+        background: #ffffff;
+        border: 0.05rem solid rgba(0, 0, 0, 0.15);
+        border-radius: 50rem;
+        height: 4.8rem;
+        transition: all 0.3s ease-in-out;
+        padding: 0 2rem;
+
+        @include max(500px) {
+            height: 3.6rem;
+        }
+
+        &::placeholder {
+            color: $color-text;
+            font-size: 1.6rem;
+        }
+
+        &:focus {
+            border: 0.1rem solid $color-second;
+        }
+    }
+
+    &-text {
+        background: #ffffff;
+        border: 0.05rem solid rgba(0, 0, 0, 0.15);
+        border-radius: 1.6rem;
+        padding: 2rem;
+        transition: all 0.3s ease-in-out;
+        height: 13.6rem;
+        resize: none;
+
+        &::placeholder {
+            color: $color-text;
+            font-size: 1.6rem;
+        }
+
+        &:focus {
+            border: 0.1rem solid $color-pri;
+        }
+    }
+
+    &-select {
+        position: relative;
+
+        .list-select {
+            width: calc(100% - 2.5rem);
+            display: none;
+            z-index: 10;
+            filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.1));
+        }
+
+        .item-select {
+            padding: 1rem 2rem;
+            background: white;
+            cursor: pointer;
+            user-select: none;
+            transition: all 0.3s;
+            text-align: left;
+
+            @include min(1200px) {
+                &:hover {
+                    background: $color-pri;
+                    color: white;
+                }
+            }
+
+            &.seleted-item {
+                background: $color-pri;
+                color: white;
+                pointer-events: none;
+            }
+        }
+
+        input {
+            &:disabled {
+                background: white;
+            }
+        }
+
+        .selected {
+            width: 100%;
+            background: white;
+            padding: 1.5rem 1.7rem;
+            border-radius: 6px;
+            transition: all 0.3s;
+            font-weight: 300;
+            line-height: 1.25;
+            font-size: 1.6rem;
+            color: rgba(48, 48, 48, 0.5);
+            display: block;
+            cursor: pointer;
+            position: relative;
+            max-height: 4.9rem;
+            text-align: left;
+
+            .icon {
+                width: 2.4rem;
+                height: 2.4rem;
+                @include mid-flex;
+                position: absolute;
+                right: 1.7rem;
+                top: 50%;
+                transform: translateY(-50%);
+
+                i {
+                    font-size: 1rem;
+                    font-weight: 900;
+                }
+            }
+        }
+    }
+
+    &-search {
+        width: 100vw;
+        max-width: 0;
+        position: absolute;
+        right: calc(100% + 1.2rem);
+        top: 50%;
+        transform: translateY(-50%);
+        overflow: hidden;
+        transition: all 0.5s;
+        border-radius: 12rem;
+        border: 0.1rem solid #98A2B3;
+
+        @include max(800px) {
+            top: 170%;
+            left: -130%;
+        }
+
+        // @include max(450px) {
+        //     right: 0;
+        //     transform: translateX(5rem);
+        //     top: calc(100% + 2rem);
+        // }
+
+        &.active {
+            max-width: 32rem;
+
+            @include max(450px) {
+                max-width: 26rem;
+            }
+
+            @include max(280px) {
+                max-width: 20rem !important;
+            }
+        }
+
+        .form {
+            &-wrap {
+                flex-wrap: nowrap;
+                position: relative;
+                width: 100%;
+                margin: 0;
+                background: white;
+                height: 100%;
+                border-top-left-radius: 1rem;
+                border-bottom-left-radius: 1rem;
+                border-radius: 12rem;
+            }
+        }
+
+        .input {
+            width: 100%;
+            padding: 1rem 1.6rem;
+            // border: 1px solid $color-pri;
+
+            &::placeholder {
+                color: #98A2B3;
+                font-size: 1.6rem;
+                line-height: 1.5;
+            }
+        }
+
+        .btn-search {
+            width: 5rem;
+            background: url("../assets/images/search.svg");
+            background-repeat: no-repeat;
+            background-position: center;
+            flex-shrink: 0;
+            cursor: pointer;
+            background-size: 2.4rem;
+            // filter: brightness(0) invert(1);
+        }
+    }
+
+    &-sigup {
+        // padding-bottom: 2.5rem;
+        position: relative;
+        width: 100%;
+        max-width: 54rem;
+        margin-left: auto;
+
+        @include max(600px) {
+            max-width: none;
+        }
+    }
+
+    &-label {
+        border: 0.1rem dashed #004b41;
+        border-radius: 0.8rem;
+        padding: 3.2rem 0;
+        cursor: pointer;
+        background: rgba(0, 75, 65, 0.06);
+
+        .label-img {
+            width: 2.2rem;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 0.8rem;
+        }
+
+        .label-text {
+            text-align: center;
+            font-weight: 500;
+            display: block;
+            padding: 0 1rem;
+            color: rgba(68, 68, 68, 0.5);
+        }
+    }
+
+    &-upload {
+        .name-file {
+            margin-top: 2rem;
+        }
+    }
+}
+
+.popup-getPriceForm {
+    .wpcf7 {
+        max-width: 75rem;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

@@ -1,0 +1,50 @@
+.brand {
+    &-item {
+        border: 0.2rem solid $color-pri;
+        // border-right: 0;
+
+        &-wrap {
+            @include imgPd(1,1);
+            display: block;
+            width: 100%;
+
+            img {
+                @include imgContain;
+                transition: all 0.3s ease-in-out;
+            }
+
+            @include hover {
+                img {
+                    transform: translate(-50%, -50%) scale(1.2);
+                }
+            }
+        }
+    }
+
+    &-list {
+        // border-right: 0.2rem solid $color-pri;
+    }
+
+    .swiper {
+        &-slide {
+            // border: 0.2rem solid $color-pri;
+            &:not(:last-child) {
+                .brand-item {
+                    border-right: 0.2rem solid transparent;
+                }
+            }
+
+            &:last-child {
+                .brand-item {
+                    border-left: 0.2rem solid transparent;
+                }
+            }
+
+            &:nth-last-child(2) {
+                .brand-item {
+                    border-right: 0.2rem solid $color-pri;
+                }
+            }
+        }
+    }
+}

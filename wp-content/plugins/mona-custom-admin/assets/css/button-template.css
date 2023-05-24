@@ -1,0 +1,119 @@
+.mbutton-box-layout {
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+    padding: 15px;
+}
+
+.mbutton-box {
+    background-color: #fff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #1c2530;
+    font-size: 14px;
+    padding: 15px;
+}
+
+.mbutton-inner-header {
+    background-color: #fff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 10px 0px;
+    margin-bottom: 5px;
+}
+
+.mbutton-inner-header h2 {
+    font-size: 24px;
+    font-weight: 700;
+    padding: 5px 0 5px 0;
+    margin: 0;
+}
+
+.mbutton-switch {
+    position: relative;
+    display: inline-block;
+    width: 70px;
+    height: 35px;
+}
+
+.mbutton-switch input {
+    display: none;
+}
+
+.mbutton-switch .--slider .fa-check {
+    color: #FFFFFF;
+    position: absolute;
+    left: 15px;
+    font-size: 16px;
+    display: none;
+}
+
+.mbutton-switch .--slider .fa-times {
+    color: #FFFFFF;
+    position: absolute;
+    font-size: 16px;
+    right: 15px;
+}
+
+.mbutton-switch .--slider {
+    position: absolute;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #db3a34;
+    -webkit-transition: .4s;
+    transition: .4s;
+    border-radius: 50px;
+}
+
+.mbutton-switch .--slider:before {
+    position: absolute;
+    content: "";
+    height: 27px;
+    width: 27px;
+    left: 4px;
+    bottom: 4px;
+    border-radius: 50%;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.mbutton-switch input:checked+.--slider .fa-check {
+    display: block;
+}
+
+.mbutton-switch input:checked+.--slider .fa-times {
+    display: none;
+}
+
+.mbutton-switch input:checked+.--slider {
+    background-color: #52b69a;
+}
+
+.mbutton-switch input:focus+.--slider {
+    box-shadow: 0 0 1px #52b69a;
+}
+
+.mbutton-switch input:checked+.--slider:before {
+    -webkit-transform: translateX(35px);
+    -ms-transform: translateX(35px);
+    transform: translateX(35px);
+}
+
+.mbutton-inner-main {
+    background: #f0f0f1;
+    padding: 20px 10px;
+}
+
+.mbutton-active.text-title {
+    padding: 0;
+    margin: 0px 0 5px 0;
+    color: #0086da;
+}

@@ -1,0 +1,80 @@
+.sl {
+    &-cus {
+        position: relative;
+        &.min {
+            min-width: 120px;
+            &:not(:first-child) {
+                margin-left: 5px;
+            }
+        }
+    }
+    &-head {
+        background-color: #F8F8F8;
+        height: 40px;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        padding: 0 15px;
+        @include flex;
+        align-items: center;
+        position: relative;
+        z-index: 5;
+        cursor: pointer;
+        border-radius: 6px;
+        &::before {
+            content: '';
+            position: absolute;
+            right: 10px;
+            top: 13px;
+            width: 0;
+            height: 0;
+            border-left: 4px solid transparent;
+            border-right: 4px solid transparent;
+            border-bottom: 5px solid $color-second;
+        }
+        &::after {
+            content: '';
+            position: absolute;
+            right: 10px;
+            bottom: 13px;
+            width: 0;
+            height: 0;
+            border-left: 4px solid transparent;
+            border-right: 4px solid transparent;
+            border-top: 5px solid $color-second;
+        }
+    }
+    &-main {
+        font-size: 1.5rem;
+        line-height: 1.5;
+        font-weight: 700;
+        letter-spacing: 0.5px;
+        @include lc(1)
+    }
+    &-list {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        border-top: none;
+        background-color: white;
+        z-index: 10;
+        display: none;
+        overflow: hidden;
+        border-radius: 0 0 6px 6px;
+        max-height: 200px;
+        overflow-y: auto;
+    }
+    &-item {
+        font-size: 1.4rem;
+        line-height: 1.5;
+        letter-spacing: 0.5px;
+        color: $color-black;
+        padding: 10px 15px;
+        cursor: pointer;
+        transition: 0.2s ease-in-out;
+        &:hover {
+            background-color: $color-second;
+            color: white;
+        }
+    }
+}

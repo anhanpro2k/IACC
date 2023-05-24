@@ -1,0 +1,4124 @@
+{
+    "5310": [
+        {
+            "MaPhuongXa": "53213",
+            "TenPhuongXa": "Thuận Lộc",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuan loc hue thua thien hue",
+            "Point": null,
+            "Abbr": "tl h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49112"
+        },
+        {
+            "MaPhuongXa": "53114",
+            "TenPhuongXa": "Phú Nhuận",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu nhuan hue thua thien hue",
+            "Point": null,
+            "Abbr": "pn h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49119"
+        },
+        {
+            "MaPhuongXa": "53415",
+            "TenPhuongXa": "An Tây",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an tay hue thua thien hue",
+            "Point": null,
+            "Abbr": "at h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49127"
+        },
+        {
+            "MaPhuongXa": "53410",
+            "TenPhuongXa": "An Hoà",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hoa hue thua thien hue",
+            "Point": null,
+            "Abbr": "ah h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49114"
+        },
+        {
+            "MaPhuongXa": "53315",
+            "TenPhuongXa": "Thủy Biều",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy bieu hue thua thien hue",
+            "Point": null,
+            "Abbr": "tb h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49132"
+        },
+        {
+            "MaPhuongXa": "53619",
+            "TenPhuongXa": "Thủy Vân",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy van hue thua thien hue",
+            "Point": null,
+            "Abbr": "tv h tth",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "53276",
+            "TenPhuongXa": "Kim Long",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "kl",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim long hue thua thien hue",
+            "Point": null,
+            "Abbr": "kl h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49122"
+        },
+        {
+            "MaPhuongXa": "53174",
+            "TenPhuongXa": "Phú Hiệp",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hiep hue thua thien hue",
+            "Point": null,
+            "Abbr": "ph h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49109"
+        },
+        {
+            "MaPhuongXa": "53675",
+            "TenPhuongXa": "Thuận An",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuan an hue thua thien hue",
+            "Point": null,
+            "Abbr": "ta h tth",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "53670",
+            "TenPhuongXa": "Phú Dương",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu duong hue thua thien hue",
+            "Point": null,
+            "Abbr": "pd h tth",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "53678",
+            "TenPhuongXa": "Phú Thanh",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thanh hue thua thien hue",
+            "Point": null,
+            "Abbr": "pt h tth",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "53679",
+            "TenPhuongXa": "Phú Mậu",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu mau hue thua thien hue",
+            "Point": null,
+            "Abbr": "pm h tth",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "53253",
+            "TenPhuongXa": "Hương Sơ",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong so hue thua thien hue",
+            "Point": null,
+            "Abbr": "hs h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49113"
+        },
+        {
+            "MaPhuongXa": "53151",
+            "TenPhuongXa": "Vĩ Dạ",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "vd",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vi da hue thua thien hue",
+            "Point": null,
+            "Abbr": "vd h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49107"
+        },
+        {
+            "MaPhuongXa": "53350",
+            "TenPhuongXa": "Phước Vĩnh",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pv",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc vinh hue thua thien hue",
+            "Point": null,
+            "Abbr": "pv h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49126"
+        },
+        {
+            "MaPhuongXa": "53555",
+            "TenPhuongXa": "Hương Hồ",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong ho hue thua thien hue",
+            "Point": null,
+            "Abbr": "hh h tth",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "53557",
+            "TenPhuongXa": "Hương Thọ",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong tho hue thua thien hue",
+            "Point": null,
+            "Abbr": "ht h tth",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "53553",
+            "TenPhuongXa": "Hương An",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ha",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong an hue thua thien hue",
+            "Point": null,
+            "Abbr": "ha h tth",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "53187",
+            "TenPhuongXa": "Phú Hậu",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hau hue thua thien hue",
+            "Point": null,
+            "Abbr": "ph h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49110"
+        },
+        {
+            "MaPhuongXa": "53381",
+            "TenPhuongXa": "An Đông",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ad",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an dong hue thua thien hue",
+            "Point": null,
+            "Abbr": "ad h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49128"
+        },
+        {
+            "MaPhuongXa": "53680",
+            "TenPhuongXa": "Phú Thượng",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thuong hue thua thien hue",
+            "Point": null,
+            "Abbr": "pt h tth",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "53227",
+            "TenPhuongXa": "Phú Bình",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pb",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu binh hue thua thien hue",
+            "Point": null,
+            "Abbr": "pb h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49111"
+        },
+        {
+            "MaPhuongXa": "53325",
+            "TenPhuongXa": "Thủy Xuân",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tx",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy xuan hue thua thien hue",
+            "Point": null,
+            "Abbr": "tx h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49131"
+        },
+        {
+            "MaPhuongXa": "53623",
+            "TenPhuongXa": "Thủy Bằng",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy bang hue thua thien hue",
+            "Point": null,
+            "Abbr": "tb h tth",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "53292",
+            "TenPhuongXa": "Hương Long",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong long hue thua thien hue",
+            "Point": null,
+            "Abbr": "hl h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49123"
+        },
+        {
+            "MaPhuongXa": "53295",
+            "TenPhuongXa": "Phú Thuận",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thuan hue thua thien hue",
+            "Point": null,
+            "Abbr": "pt h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49125"
+        },
+        {
+            "MaPhuongXa": "53194",
+            "TenPhuongXa": "Đông Ba",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong ba hue thua thien hue",
+            "Point": null,
+            "Abbr": "db h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49116"
+        },
+        {
+            "MaPhuongXa": "53100",
+            "TenPhuongXa": "Vĩnh Ninh",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "vn",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh ninh hue thua thien hue",
+            "Point": null,
+            "Abbr": "vn h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49120"
+        },
+        {
+            "MaPhuongXa": "53304",
+            "TenPhuongXa": "Đúc",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "d",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc hue thua thien hue",
+            "Point": null,
+            "Abbr": "d h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49124"
+        },
+        {
+            "MaPhuongXa": "53261",
+            "TenPhuongXa": "Thuận Hoà",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuan hoa hue thua thien hue",
+            "Point": null,
+            "Abbr": "th h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49121"
+        },
+        {
+            "MaPhuongXa": "53160",
+            "TenPhuongXa": "Phú Hoà",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hoa hue thua thien hue",
+            "Point": null,
+            "Abbr": "ph h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49117"
+        },
+        {
+            "MaPhuongXa": "53164",
+            "TenPhuongXa": "Gia Hội",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "gh",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia hoi hue thua thien hue",
+            "Point": null,
+            "Abbr": "gh h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49108"
+        },
+        {
+            "MaPhuongXa": "53367",
+            "TenPhuongXa": "An Cựu",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ac",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an cuu hue thua thien hue",
+            "Point": null,
+            "Abbr": "ac h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49129"
+        },
+        {
+            "MaPhuongXa": "53142",
+            "TenPhuongXa": "Xuân Phú",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "xp",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan phu hue thua thien hue",
+            "Point": null,
+            "Abbr": "xp h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49106"
+        },
+        {
+            "MaPhuongXa": "53235",
+            "TenPhuongXa": "Tây Lộc",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tay loc hue thua thien hue",
+            "Point": null,
+            "Abbr": "tl h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49115"
+        },
+        {
+            "MaPhuongXa": "53131",
+            "TenPhuongXa": "Phú Hội",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hoi hue thua thien hue",
+            "Point": null,
+            "Abbr": "ph h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49118"
+        },
+        {
+            "MaPhuongXa": "53330",
+            "TenPhuongXa": "Trường An",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truong an hue thua thien hue",
+            "Point": null,
+            "Abbr": "ta h tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49130"
+        },
+        {
+            "MaPhuongXa": "53535",
+            "TenPhuongXa": "Hương Vinh",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong vinh hue thua thien hue",
+            "Point": null,
+            "Abbr": "hv h tth",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "53534",
+            "TenPhuongXa": "Hương Phong",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong phong hue thua thien hue",
+            "Point": null,
+            "Abbr": "hp h tth",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "53537",
+            "TenPhuongXa": "Hải Dương",
+            "MaQuanHuyen": "5310",
+            "TenQuanHuyen": "Huế",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "h",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai duong hue thua thien hue",
+            "Point": null,
+            "Abbr": "hd h tth",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        }
+    ],
+    "5361": [
+        {
+            "MaPhuongXa": "53616",
+            "TenPhuongXa": "Thủy Châu",
+            "MaQuanHuyen": "5361",
+            "TenQuanHuyen": "Hương Thuỷ",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy chau huong thuy thua thien hue",
+            "Point": null,
+            "Abbr": "tc ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49606"
+        },
+        {
+            "MaPhuongXa": "53614",
+            "TenPhuongXa": "Thủy Tân",
+            "MaQuanHuyen": "5361",
+            "TenQuanHuyen": "Hương Thuỷ",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy tan huong thuy thua thien hue",
+            "Point": null,
+            "Abbr": "tt ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49614"
+        },
+        {
+            "MaPhuongXa": "53615",
+            "TenPhuongXa": "Thủy Lương",
+            "MaQuanHuyen": "5361",
+            "TenQuanHuyen": "Hương Thuỷ",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy luong huong thuy thua thien hue",
+            "Point": null,
+            "Abbr": "tl ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49613"
+        },
+        {
+            "MaPhuongXa": "53610",
+            "TenPhuongXa": "Phú Bài",
+            "MaQuanHuyen": "5361",
+            "TenQuanHuyen": "Hương Thuỷ",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu bai huong thuy thua thien hue",
+            "Point": null,
+            "Abbr": "pb ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49612"
+        },
+        {
+            "MaPhuongXa": "53618",
+            "TenPhuongXa": "Thủy Thanh",
+            "MaQuanHuyen": "5361",
+            "TenQuanHuyen": "Hương Thuỷ",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy thanh huong thuy thua thien hue",
+            "Point": null,
+            "Abbr": "tt ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49607"
+        },
+        {
+            "MaPhuongXa": "53626",
+            "TenPhuongXa": "Dương Hòa",
+            "MaQuanHuyen": "5361",
+            "TenQuanHuyen": "Hương Thuỷ",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duong hoa huong thuy thua thien hue",
+            "Point": null,
+            "Abbr": "dh ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49617"
+        },
+        {
+            "MaPhuongXa": "53627",
+            "TenPhuongXa": "Phú Sơn",
+            "MaQuanHuyen": "5361",
+            "TenQuanHuyen": "Hương Thuỷ",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ps",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu son huong thuy thua thien hue",
+            "Point": null,
+            "Abbr": "ps ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49616"
+        },
+        {
+            "MaPhuongXa": "53620",
+            "TenPhuongXa": "Thủy Dương",
+            "MaQuanHuyen": "5361",
+            "TenQuanHuyen": "Hương Thuỷ",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy duong huong thuy thua thien hue",
+            "Point": null,
+            "Abbr": "td ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49609"
+        },
+        {
+            "MaPhuongXa": "53621",
+            "TenPhuongXa": "Thủy Phương",
+            "MaQuanHuyen": "5361",
+            "TenQuanHuyen": "Hương Thuỷ",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy phuong huong thuy thua thien hue",
+            "Point": null,
+            "Abbr": "tp ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49611"
+        },
+        {
+            "MaPhuongXa": "53628",
+            "TenPhuongXa": "Thủy Phù",
+            "MaQuanHuyen": "5361",
+            "TenQuanHuyen": "Hương Thuỷ",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuy phu huong thuy thua thien hue",
+            "Point": null,
+            "Abbr": "tp ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49615"
+        }
+    ],
+    "5349": [
+        {
+            "MaPhuongXa": "53514",
+            "TenPhuongXa": "Phong An",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pa",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong an phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "pa pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49319"
+        },
+        {
+            "MaPhuongXa": "53516",
+            "TenPhuongXa": "Phong Sơn",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ps",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong son phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "ps pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49320"
+        },
+        {
+            "MaPhuongXa": "53510",
+            "TenPhuongXa": "Phong Mỹ",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong my phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "pm pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49318"
+        },
+        {
+            "MaPhuongXa": "53512",
+            "TenPhuongXa": "Phong Xuân",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "px",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong xuan phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "px pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49321"
+        },
+        {
+            "MaPhuongXa": "53495",
+            "TenPhuongXa": "Điền Lộc",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien loc phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "dl pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49309"
+        },
+        {
+            "MaPhuongXa": "53496",
+            "TenPhuongXa": "Điền Hoà",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien hoa phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "dh pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49310"
+        },
+        {
+            "MaPhuongXa": "53490",
+            "TenPhuongXa": "Phong Điền",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong dien phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "pd pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49306"
+        },
+        {
+            "MaPhuongXa": "53491",
+            "TenPhuongXa": "Phong Hiền",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong hien phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "ph pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49307"
+        },
+        {
+            "MaPhuongXa": "53493",
+            "TenPhuongXa": "Phong Chương",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong chuong phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "pc pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49308"
+        },
+        {
+            "MaPhuongXa": "53498",
+            "TenPhuongXa": "Điền Hải",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien hai phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "dh pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49311"
+        },
+        {
+            "MaPhuongXa": "53504",
+            "TenPhuongXa": "Phong Hoà",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong hoa phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "ph pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49316"
+        },
+        {
+            "MaPhuongXa": "53507",
+            "TenPhuongXa": "Phong Bình",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pb",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong binh phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "pb pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49315"
+        },
+        {
+            "MaPhuongXa": "53501",
+            "TenPhuongXa": "Điền Môn",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien mon phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "dm pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49313"
+        },
+        {
+            "MaPhuongXa": "53500",
+            "TenPhuongXa": "Phong Hải",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong hai phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "ph pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49312"
+        },
+        {
+            "MaPhuongXa": "53502",
+            "TenPhuongXa": "Phong Thu",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong thu phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "pt pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49317"
+        },
+        {
+            "MaPhuongXa": "53509",
+            "TenPhuongXa": "Điền Hương",
+            "MaQuanHuyen": "5349",
+            "TenQuanHuyen": "Phong Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "pd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien huong phong dien thua thien hue",
+            "Point": null,
+            "Abbr": "dh pd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49314"
+        }
+    ],
+    "5371": [
+        {
+            "MaPhuongXa": "53717",
+            "TenPhuongXa": "Vinh Giang",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "vg",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh giang phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "vg pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49812"
+        },
+        {
+            "MaPhuongXa": "53716",
+            "TenPhuongXa": "Vinh Giang",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "vg",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh giang phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "vg pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49809"
+        },
+        {
+            "MaPhuongXa": "53715",
+            "TenPhuongXa": "Vinh Hiền",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hien phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "vh pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49813"
+        },
+        {
+            "MaPhuongXa": "53713",
+            "TenPhuongXa": "Lộc Vĩnh",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "lv",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc vinh phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "lv pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49808"
+        },
+        {
+            "MaPhuongXa": "53712",
+            "TenPhuongXa": "Lộc Bình",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc binh phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "lb pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49807"
+        },
+        {
+            "MaPhuongXa": "53710",
+            "TenPhuongXa": "Phú Lộc",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu loc phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "pl pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49806"
+        },
+        {
+            "MaPhuongXa": "53719",
+            "TenPhuongXa": "Vinh Mỹ",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "vm",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh my phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "vm pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49810"
+        },
+        {
+            "MaPhuongXa": "53718",
+            "TenPhuongXa": "Vinh Hưng",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hung phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "vh pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49811"
+        },
+        {
+            "MaPhuongXa": "53727",
+            "TenPhuongXa": "Lộc Hoà",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc hoa phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "lh pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49818"
+        },
+        {
+            "MaPhuongXa": "53725",
+            "TenPhuongXa": "Lộc Điền",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc dien phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "ld pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49819"
+        },
+        {
+            "MaPhuongXa": "53724",
+            "TenPhuongXa": "Lộc Bổn",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc bon phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "lb pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49816"
+        },
+        {
+            "MaPhuongXa": "53723",
+            "TenPhuongXa": "Lộc Sơn",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc son phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "ls pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49815"
+        },
+        {
+            "MaPhuongXa": "53720",
+            "TenPhuongXa": "Lộc An",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "la",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc an phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "la pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49814"
+        },
+        {
+            "MaPhuongXa": "53729",
+            "TenPhuongXa": "Xuân Lộc",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan loc phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "xl pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49817"
+        },
+        {
+            "MaPhuongXa": "53736",
+            "TenPhuongXa": "Lăng Cô",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lang co phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "lc pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49823"
+        },
+        {
+            "MaPhuongXa": "53734",
+            "TenPhuongXa": "Lộc Tiến",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc tien phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "lt pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49820"
+        },
+        {
+            "MaPhuongXa": "53733",
+            "TenPhuongXa": "Lộc Thủy",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc thuy phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "lt pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49822"
+        },
+        {
+            "MaPhuongXa": "53731",
+            "TenPhuongXa": "Lộc Trì",
+            "MaQuanHuyen": "5371",
+            "TenQuanHuyen": "Phú Lộc",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc tri phu loc thua thien hue",
+            "Point": null,
+            "Abbr": "lt pl tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49821"
+        }
+    ],
+    "5346": [
+        {
+            "MaPhuongXa": "53475",
+            "TenPhuongXa": "Quảng Phú",
+            "MaQuanHuyen": "5346",
+            "TenQuanHuyen": "Quảng Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "qp",
+                    "Point": 5
+                },
+                {
+                    "Key": "qd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang phu quang dien thua thien hue",
+            "Point": null,
+            "Abbr": "qp qd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49213"
+        },
+        {
+            "MaPhuongXa": "53477",
+            "TenPhuongXa": "Quảng Thọ",
+            "MaQuanHuyen": "5346",
+            "TenQuanHuyen": "Quảng Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "qd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang tho quang dien thua thien hue",
+            "Point": null,
+            "Abbr": "qt qd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49214"
+        },
+        {
+            "MaPhuongXa": "53470",
+            "TenPhuongXa": "Quảng Thái",
+            "MaQuanHuyen": "5346",
+            "TenQuanHuyen": "Quảng Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "qd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang thai quang dien thua thien hue",
+            "Point": null,
+            "Abbr": "qt qd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49210"
+        },
+        {
+            "MaPhuongXa": "53472",
+            "TenPhuongXa": "Quảng Vinh",
+            "MaQuanHuyen": "5346",
+            "TenQuanHuyen": "Quảng Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "qv",
+                    "Point": 5
+                },
+                {
+                    "Key": "qd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang vinh quang dien thua thien hue",
+            "Point": null,
+            "Abbr": "qv qd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49212"
+        },
+        {
+            "MaPhuongXa": "53480",
+            "TenPhuongXa": "Quảng An",
+            "MaQuanHuyen": "5346",
+            "TenQuanHuyen": "Quảng Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "qa",
+                    "Point": 5
+                },
+                {
+                    "Key": "qd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang an quang dien thua thien hue",
+            "Point": null,
+            "Abbr": "qa qd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49215"
+        },
+        {
+            "MaPhuongXa": "53481",
+            "TenPhuongXa": "Quảng Thành",
+            "MaQuanHuyen": "5346",
+            "TenQuanHuyen": "Quảng Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "qd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang thanh quang dien thua thien hue",
+            "Point": null,
+            "Abbr": "qt qd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49216"
+        },
+        {
+            "MaPhuongXa": "53464",
+            "TenPhuongXa": "Quảng Công",
+            "MaQuanHuyen": "5346",
+            "TenQuanHuyen": "Quảng Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "qc",
+                    "Point": 5
+                },
+                {
+                    "Key": "qd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang cong quang dien thua thien hue",
+            "Point": null,
+            "Abbr": "qc qd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49208"
+        },
+        {
+            "MaPhuongXa": "53466",
+            "TenPhuongXa": "Quảng Ngạn",
+            "MaQuanHuyen": "5346",
+            "TenQuanHuyen": "Quảng Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "qn",
+                    "Point": 5
+                },
+                {
+                    "Key": "qd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang ngan quang dien thua thien hue",
+            "Point": null,
+            "Abbr": "qn qd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49209"
+        },
+        {
+            "MaPhuongXa": "53460",
+            "TenPhuongXa": "Sịa",
+            "MaQuanHuyen": "5346",
+            "TenQuanHuyen": "Quảng Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "s",
+                    "Point": 5
+                },
+                {
+                    "Key": "qd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sia quang dien thua thien hue",
+            "Point": null,
+            "Abbr": "s qd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49206"
+        },
+        {
+            "MaPhuongXa": "53462",
+            "TenPhuongXa": "Quảng Phước",
+            "MaQuanHuyen": "5346",
+            "TenQuanHuyen": "Quảng Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "qp",
+                    "Point": 5
+                },
+                {
+                    "Key": "qd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang phuoc quang dien thua thien hue",
+            "Point": null,
+            "Abbr": "qp qd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49207"
+        },
+        {
+            "MaPhuongXa": "53468",
+            "TenPhuongXa": "Quảng Lợi",
+            "MaQuanHuyen": "5346",
+            "TenQuanHuyen": "Quảng Điền",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ql",
+                    "Point": 5
+                },
+                {
+                    "Key": "qd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang loi quang dien thua thien hue",
+            "Point": null,
+            "Abbr": "ql qd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49211"
+        }
+    ],
+    "5367": [
+        {
+            "MaPhuongXa": "53674",
+            "TenPhuongXa": "Phú Thuận",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thuan phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "pt pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49917"
+        },
+        {
+            "MaPhuongXa": "53672",
+            "TenPhuongXa": "Phú An",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pa",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu an phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "pa pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49923"
+        },
+        {
+            "MaPhuongXa": "53673",
+            "TenPhuongXa": "Phú Hải",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hai phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "ph pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49916"
+        },
+        {
+            "MaPhuongXa": "53687",
+            "TenPhuongXa": "Phú Đa",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu da phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "pd pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49906"
+        },
+        {
+            "MaPhuongXa": "53685",
+            "TenPhuongXa": "Phú Lương",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu luong phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "pl pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49908"
+        },
+        {
+            "MaPhuongXa": "53682",
+            "TenPhuongXa": "Phú Mỹ",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu my phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "pm pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49924"
+        },
+        {
+            "MaPhuongXa": "53683",
+            "TenPhuongXa": "Phú Hồ",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu ho phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "ph pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49925"
+        },
+        {
+            "MaPhuongXa": "53689",
+            "TenPhuongXa": "Phú Gia",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pg",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu gia phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "pg pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49909"
+        },
+        {
+            "MaPhuongXa": "53696",
+            "TenPhuongXa": "Phú Diên",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu dien phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "pd pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49915"
+        },
+        {
+            "MaPhuongXa": "53694",
+            "TenPhuongXa": "Phú Xuân",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "px",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu xuan phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "px pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49907"
+        },
+        {
+            "MaPhuongXa": "53692",
+            "TenPhuongXa": "Vinh Hà",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh ha phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "vh pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49910"
+        },
+        {
+            "MaPhuongXa": "53691",
+            "TenPhuongXa": "Vinh Phú",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "vp",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh phu phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "vp pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49911"
+        },
+        {
+            "MaPhuongXa": "53698",
+            "TenPhuongXa": "Vinh Xuân",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "vx",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh xuan phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "vx pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49914"
+        },
+        {
+            "MaPhuongXa": "53699",
+            "TenPhuongXa": "Vinh Thanh",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh thanh phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "vt pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49913"
+        },
+        {
+            "MaPhuongXa": "53700",
+            "TenPhuongXa": "Vinh An",
+            "MaQuanHuyen": "5367",
+            "TenQuanHuyen": "Phú Vang",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "va",
+                    "Point": 5
+                },
+                {
+                    "Key": "pv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh an phu vang thua thien hue",
+            "Point": null,
+            "Abbr": "va pv tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49912"
+        }
+    ],
+    "5357": [
+        {
+            "MaPhuongXa": "53575",
+            "TenPhuongXa": "Hồng Vân",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong van a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "hv al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49509"
+        },
+        {
+            "MaPhuongXa": "53574",
+            "TenPhuongXa": "Hồng Trung",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong trung a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "ht al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49511"
+        },
+        {
+            "MaPhuongXa": "53577",
+            "TenPhuongXa": "Quảng Nhâm",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "qn",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang nham a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "qn al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49514"
+        },
+        {
+            "MaPhuongXa": "53576",
+            "TenPhuongXa": "Hồng Bắc",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong bac a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "hb al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49513"
+        },
+        {
+            "MaPhuongXa": "53570",
+            "TenPhuongXa": "A Lưới",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "al",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "a luoi a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "al al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49506"
+        },
+        {
+            "MaPhuongXa": "53573",
+            "TenPhuongXa": "Trung Sơn",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung son a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "ts al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49512"
+        },
+        {
+            "MaPhuongXa": "53572",
+            "TenPhuongXa": "Hồng Kim",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hk",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong kim a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "hk al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49508"
+        },
+        {
+            "MaPhuongXa": "53578",
+            "TenPhuongXa": "Nhâm",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "n",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nham a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "n al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49517"
+        },
+        {
+            "MaPhuongXa": "53585",
+            "TenPhuongXa": "Lâm Đớt",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lam dot a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "ld al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49525"
+        },
+        {
+            "MaPhuongXa": "53584",
+            "TenPhuongXa": "Đông Sơn",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong son a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "ds al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49524"
+        },
+        {
+            "MaPhuongXa": "53587",
+            "TenPhuongXa": "A Ngo",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "an",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "a ngo a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "an al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49515"
+        },
+        {
+            "MaPhuongXa": "53580",
+            "TenPhuongXa": "Hồng Thái",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong thai a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "ht al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49520"
+        },
+        {
+            "MaPhuongXa": "53582",
+            "TenPhuongXa": "Hồng Thượng",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong thuong a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "ht al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49519"
+        },
+        {
+            "MaPhuongXa": "53589",
+            "TenPhuongXa": "Sơn Thủy",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son thuy a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "st al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49516"
+        },
+        {
+            "MaPhuongXa": "53595",
+            "TenPhuongXa": "A Roàng",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ar",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "a roang a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "ar al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49526"
+        },
+        {
+            "MaPhuongXa": "53597",
+            "TenPhuongXa": "Hồng Hạ",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong ha a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "hh al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49507"
+        },
+        {
+            "MaPhuongXa": "53591",
+            "TenPhuongXa": "Phú Vinh",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "pv",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu vinh a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "pv al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49518"
+        },
+        {
+            "MaPhuongXa": "53593",
+            "TenPhuongXa": "Hương Lâm",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong lam a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "hl al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49523"
+        },
+        {
+            "MaPhuongXa": "53592",
+            "TenPhuongXa": "Hương Phong",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong phong a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "hp al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49521"
+        },
+        {
+            "MaPhuongXa": "53599",
+            "TenPhuongXa": "Hồng Thủy",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong thuy a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "ht al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49510"
+        },
+        {
+            "MaPhuongXa": "53598",
+            "TenPhuongXa": "Hương Nguyên",
+            "MaQuanHuyen": "5357",
+            "TenQuanHuyen": "A Lưới",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "al",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong nguyen a luoi thua thien hue",
+            "Point": null,
+            "Abbr": "hn al tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49522"
+        }
+    ],
+    "5364": [
+        {
+            "MaPhuongXa": "53656",
+            "TenPhuongXa": "Thượng Lộ",
+            "MaQuanHuyen": "5364",
+            "TenQuanHuyen": "Nam Đông",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong lo nam dong thua thien hue",
+            "Point": null,
+            "Abbr": "tl nd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49714"
+        },
+        {
+            "MaPhuongXa": "53657",
+            "TenPhuongXa": "Hương Lộc",
+            "MaQuanHuyen": "5364",
+            "TenQuanHuyen": "Nam Đông",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong loc nam dong thua thien hue",
+            "Point": null,
+            "Abbr": "hl nd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49707"
+        },
+        {
+            "MaPhuongXa": "53654",
+            "TenPhuongXa": "Thượng Nhật",
+            "MaQuanHuyen": "5364",
+            "TenQuanHuyen": "Nam Đông",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong nhat nam dong thua thien hue",
+            "Point": null,
+            "Abbr": "tn nd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49716"
+        },
+        {
+            "MaPhuongXa": "53652",
+            "TenPhuongXa": "Thượng Long",
+            "MaQuanHuyen": "5364",
+            "TenQuanHuyen": "Nam Đông",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong long nam dong thua thien hue",
+            "Point": null,
+            "Abbr": "tl nd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49715"
+        },
+        {
+            "MaPhuongXa": "53650",
+            "TenPhuongXa": "Thượng Quảng",
+            "MaQuanHuyen": "5364",
+            "TenQuanHuyen": "Nam Đông",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "tq",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong quang nam dong thua thien hue",
+            "Point": null,
+            "Abbr": "tq nd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49713"
+        },
+        {
+            "MaPhuongXa": "53647",
+            "TenPhuongXa": "Hương Giang",
+            "MaQuanHuyen": "5364",
+            "TenQuanHuyen": "Nam Đông",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hg",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong giang nam dong thua thien hue",
+            "Point": null,
+            "Abbr": "hg nd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49711"
+        },
+        {
+            "MaPhuongXa": "53644",
+            "TenPhuongXa": "Hương Xuân",
+            "MaQuanHuyen": "5364",
+            "TenQuanHuyen": "Nam Đông",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hx",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong xuan nam dong thua thien hue",
+            "Point": null,
+            "Abbr": "hx nd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49710"
+        },
+        {
+            "MaPhuongXa": "53645",
+            "TenPhuongXa": "Hương Sơn",
+            "MaQuanHuyen": "5364",
+            "TenQuanHuyen": "Nam Đông",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong son nam dong thua thien hue",
+            "Point": null,
+            "Abbr": "hs nd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49709"
+        },
+        {
+            "MaPhuongXa": "53642",
+            "TenPhuongXa": "Hương Phú",
+            "MaQuanHuyen": "5364",
+            "TenQuanHuyen": "Nam Đông",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong phu nam dong thua thien hue",
+            "Point": null,
+            "Abbr": "hp nd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49708"
+        },
+        {
+            "MaPhuongXa": "53640",
+            "TenPhuongXa": "Khe Tre",
+            "MaQuanHuyen": "5364",
+            "TenQuanHuyen": "Nam Đông",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khe tre nam dong thua thien hue",
+            "Point": null,
+            "Abbr": "kt nd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49706"
+        },
+        {
+            "MaPhuongXa": "53648",
+            "TenPhuongXa": "Hương Hữu",
+            "MaQuanHuyen": "5364",
+            "TenQuanHuyen": "Nam Đông",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "nd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong huu nam dong thua thien hue",
+            "Point": null,
+            "Abbr": "hh nd tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49712"
+        }
+    ],
+    "5353": [
+        {
+            "MaPhuongXa": "53551",
+            "TenPhuongXa": "Hương Chữ",
+            "MaQuanHuyen": "5353",
+            "TenQuanHuyen": "Hương Trà",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong chu huong tra thua thien hue",
+            "Point": null,
+            "Abbr": "hc ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49413"
+        },
+        {
+            "MaPhuongXa": "53544",
+            "TenPhuongXa": "Hương Xuân",
+            "MaQuanHuyen": "5353",
+            "TenQuanHuyen": "Hương Trà",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hx",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong xuan huong tra thua thien hue",
+            "Point": null,
+            "Abbr": "hx ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49412"
+        },
+        {
+            "MaPhuongXa": "53546",
+            "TenPhuongXa": "Hương Bình",
+            "MaQuanHuyen": "5353",
+            "TenQuanHuyen": "Hương Trà",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong binh huong tra thua thien hue",
+            "Point": null,
+            "Abbr": "hb ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49416"
+        },
+        {
+            "MaPhuongXa": "53541",
+            "TenPhuongXa": "Hương Văn",
+            "MaQuanHuyen": "5353",
+            "TenQuanHuyen": "Hương Trà",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong van huong tra thua thien hue",
+            "Point": null,
+            "Abbr": "hv ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49411"
+        },
+        {
+            "MaPhuongXa": "53549",
+            "TenPhuongXa": "Bình Thành",
+            "MaQuanHuyen": "5353",
+            "TenQuanHuyen": "Hương Trà",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thanh huong tra thua thien hue",
+            "Point": null,
+            "Abbr": "bt ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49421"
+        },
+        {
+            "MaPhuongXa": "53548",
+            "TenPhuongXa": "Hồng Tiến",
+            "MaQuanHuyen": "5353",
+            "TenQuanHuyen": "Hương Trà",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hong tien huong tra thua thien hue",
+            "Point": null,
+            "Abbr": "ht ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49419"
+        },
+        {
+            "MaPhuongXa": "53530",
+            "TenPhuongXa": "Tứ Hạ",
+            "MaQuanHuyen": "5353",
+            "TenQuanHuyen": "Hương Trà",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu ha huong tra thua thien hue",
+            "Point": null,
+            "Abbr": "th ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49406"
+        },
+        {
+            "MaPhuongXa": "53532",
+            "TenPhuongXa": "Hương Toàn",
+            "MaQuanHuyen": "5353",
+            "TenQuanHuyen": "Hương Trà",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong toan huong tra thua thien hue",
+            "Point": null,
+            "Abbr": "ht ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49407"
+        },
+        {
+            "MaPhuongXa": "53539",
+            "TenPhuongXa": "Bình Tiến",
+            "MaQuanHuyen": "5353",
+            "TenQuanHuyen": "Hương Trà",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh tien huong tra thua thien hue",
+            "Point": null,
+            "Abbr": "bt ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49418"
+        },
+        {
+            "MaPhuongXa": "53538",
+            "TenPhuongXa": "Hương Vân",
+            "MaQuanHuyen": "5353",
+            "TenQuanHuyen": "Hương Trà",
+            "MaTinhThanh": "53",
+            "TenTinhThanh": "Thừa Thiên Huế",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "ht",
+                    "Point": 2
+                },
+                {
+                    "Key": "tth",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong van huong tra thua thien hue",
+            "Point": null,
+            "Abbr": "hv ht tth",
+            "TrangThai": null,
+            "MaBuuChinh": "49417"
+        }
+    ]
+}

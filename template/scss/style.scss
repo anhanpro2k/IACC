@@ -1,0 +1,116 @@
+// Library
+@import url("../js/library/fontawesome/css/all.css");
+@import url("../js/library/aos/aos.css");
+@import url("../js/library/swiper/swiper-bundle.min.css");
+@import url("../js/library/themify-icons/themify-icons.css");
+@import url("../js/library/plyr/plyr.css");
+@import url("../js/library/select2/select2.min.css");
+@import url("../js/library/themify-icons/themify-icons.css");
+@import url("../js/library/magnific/magnific-popup.css");
+@import url("../js/library/gallery/lightgallery.min.css");
+@import url("../js/library/datetime/daterangepicker.css");
+@import url("../js/library/tippy/titpy.min.css");
+// Core
+@import "./core/reset";
+@import "./core/variable";
+@import "./core/font";
+@import "./core/mixin";
+@import "./core/base";
+@import "./core/flex";
+@import "./core/animation";
+@import "./core/magnific";
+@import "./core/global";
+
+// Component
+@import "./components/backtotop";
+@import "./components/aos";
+@import "./components/smenu";
+@import "./components/scroll";
+@import "./components/header";
+@import "./components/footer";
+@import "./components/burger";
+@import "./components/mobile";
+@import "./components/select2";
+@import "./components/mirror";
+@import "./components/sl";
+@import "./components/popup";
+@import "./components/breadcrumb";
+@import "./components/menu";
+@import "./components/form";
+@import "./components/filter";
+@import "./components/toggle";
+@import "./components/range";
+@import "./components/tag";
+@import "./components/gallery";
+@import "./components/table";
+@import "./components/tooltip";
+@import "./components/background";
+@import "./components/lang";
+@import "./components/circletext";
+@import "./components/slideCus";
+@import "./components/contact";
+@import "./components/linksMain";
+@import "./components/bannerMain";
+
+
+
+// Layout
+@import "./layouts/banner";
+@import "./layouts/btn";
+@import "./layouts/pagi";
+@import "./layouts/search";
+@import "./layouts/sidebar";
+@import "./layouts/component";
+@import "./layouts/text";
+@import "./layouts/distance";
+@import "./layouts/recheck";
+@import "./layouts/star";
+@import "./layouts/side";
+@import "./layouts/mxh";
+@import "./layouts/cart";
+@import "./layouts/tab";
+@import "./layouts/news";
+@import "./layouts/service";
+@import "./layouts/form";
+@import "./layouts/reviews";
+@import "./layouts/table";
+@import "./layouts/gallery";
+@import "./layouts/decor";
+@import "./layouts/count";
+@import "./layouts/conatct";
+@import "./layouts/cate";
+@import "./layouts/animation";
+@import "./layouts/ani";
+@import "./layouts/brands";
+@import "./layouts/gen";
+@import "./layouts/about";
+@import "./layouts/noti";
+@import "./layouts/pro";
+@import "./layouts/recruit";
+@import "./layouts/links";
+
+// Pages
+@import "./pages/Khuyenmai";
+@import "./pages/contact";
+
+
+
+
+:root {
+    --pdGen: 1.2rem;
+    --pdGen2: 2.4rem;
+    --pd3: 3rem;
+    --Hmenu: 8rem;
+
+    @include max(1201px) {
+        --Hmenu: 4rem;
+    }
+
+    @include max(800px) {
+        --pdGen: 0.6rem;
+        --pdGen2: 1.2rem;
+        $pdGen: 0.6rem;
+        $pdGen2: 1.2rem;
+    }
+}
+

@@ -1,0 +1,14 @@
+#adminmenu .wp-menu-image img,
+.toplevel_page_mona-woo-setting img{
+        max-width: 20px;
+    padding-top: 5px;
+}
+.mona-nav-tab-wrapp{
+ border-bottom: 0;   
+}
+.mona-wrapp-setting{
+       padding: 20px;
+    background: #f1f1f1;
+    margin: 0 0.5em;
+    border: 1px solid #cccccc; 
+}

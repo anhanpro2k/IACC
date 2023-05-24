@@ -1,0 +1,12 @@
+:root {
+ --pdhdS: 12rem;
+
+ @media (max-width: 1200px) {
+    --pdhdS: 8rem;
+ }
+
+ @media (max-width: 800px) {
+    --pdhdS: 6rem;
+ }
+}
+

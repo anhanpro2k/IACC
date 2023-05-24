@@ -1,0 +1,130 @@
+.time {
+  &-item {
+    @include flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+
+    .num {
+      width: 9rem;
+      height: 9rem;
+      background: #ffffff;
+      border-radius: 0.5rem;
+      @include mid-flex;
+      font-weight: 600;
+      @include fz-32;
+      line-height: 1.5;
+      color: $color-second;
+    }
+
+    .text {
+      color: $color-five;
+      position: absolute;
+      top: calc(100% + 2.4rem);
+      @include fz-18;
+      line-height: 1.5;
+    }
+  }
+
+  &-colon {
+    color: $color-five;
+    font-weight: 600;
+    @include fz-32;
+    line-height: 1.5;
+  }
+}
+
+.countup {
+  background: #e51515;
+  border-radius: 1.2rem;
+  color: white;
+  padding: 4.5rem 8.8rem;
+  position: relative;
+
+  @include max(1201px) {
+    padding: 3.2rem 4rem;
+  }
+
+  @include max(600px) {
+    padding: 2.4rem;
+  }
+
+  &::before {
+    position: absolute;
+    content: "";
+    width: 0.1rem;
+    height: 5.4rem;
+    background: white;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    @include max(450px) {
+      // transform: translate(-50%, -50%) rotate(90deg);
+      // height: 60%;
+      width: calc(100% - 2.4rem);
+      max-width: 20rem;
+      height: 0.1rem;
+    }
+  }
+
+  &-item {
+    @include max(450px) {
+      width: 100%;
+
+      &:not(:last-child) {
+        margin-bottom: 2rem;
+      }
+    }
+    &-wrap {
+      @include mid-flex;
+      flex-direction: column;
+    }
+  }
+
+  &-num {
+    font-weight: 600;
+    @include fz-50;
+    line-height: 1.2;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 1rem;
+
+    @include max(600px) {
+      font-size: 2.8rem;
+    }
+  }
+
+  &-text {
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+
+    @include max(600px) {
+      font-size: 1.4rem;
+    }
+  }
+}
+
+.woocommerce .quantity input.qty {
+  border: none;
+  border-radius: unset;
+  width: 5.5rem;
+  padding: 0 0.5rem;
+  -moz-appearance: textfield;
+
+  @include max(800px) {
+    width: 4rem;
+  }
+
+  &::-webkit-outer-spin-button,
+  &::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}
+
+.woocommerce .cart a.remove {
+  display: inline-block;
+}

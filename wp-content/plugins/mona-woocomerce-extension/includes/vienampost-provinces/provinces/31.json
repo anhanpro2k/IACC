@@ -1,0 +1,5357 @@
+{
+    "3144": [
+        {
+            "MaPhuongXa": "31470",
+            "TenPhuongXa": "Khuôn Lùng",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "kl",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khuon lung xin man ha giang",
+            "Point": null,
+            "Abbr": "kl xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20717"
+        },
+        {
+            "MaPhuongXa": "31453",
+            "TenPhuongXa": "Nàn Xỉn",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nx",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nan xin xin man ha giang",
+            "Point": null,
+            "Abbr": "nx xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20709"
+        },
+        {
+            "MaPhuongXa": "31450",
+            "TenPhuongXa": "Trung Thịnh",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung thinh xin man ha giang",
+            "Point": null,
+            "Abbr": "tt xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20724"
+        },
+        {
+            "MaPhuongXa": "31451",
+            "TenPhuongXa": "Bản Díu",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban diu xin man ha giang",
+            "Point": null,
+            "Abbr": "bd xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20708"
+        },
+        {
+            "MaPhuongXa": "31457",
+            "TenPhuongXa": "Chí Cà",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cc",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi ca xin man ha giang",
+            "Point": null,
+            "Abbr": "cc xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20711"
+        },
+        {
+            "MaPhuongXa": "31454",
+            "TenPhuongXa": "Xín Mần",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "xm",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xin man xin man ha giang",
+            "Point": null,
+            "Abbr": "xm xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20710"
+        },
+        {
+            "MaPhuongXa": "31455",
+            "TenPhuongXa": "Thèn Phàng",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "then phang xin man ha giang",
+            "Point": null,
+            "Abbr": "tp xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20707"
+        },
+        {
+            "MaPhuongXa": "31459",
+            "TenPhuongXa": "Pà Vầy Sủ",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pvs",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pa vay su xin man ha giang",
+            "Point": null,
+            "Abbr": "pvs xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20712"
+        },
+        {
+            "MaPhuongXa": "31463",
+            "TenPhuongXa": "Chế Là",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "che la xin man ha giang",
+            "Point": null,
+            "Abbr": "cl xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20719"
+        },
+        {
+            "MaPhuongXa": "31460",
+            "TenPhuongXa": "Nàn Mạ",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nan ma xin man ha giang",
+            "Point": null,
+            "Abbr": "nm xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20713"
+        },
+        {
+            "MaPhuongXa": "31461",
+            "TenPhuongXa": "Bản Ngò",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban ngo xin man ha giang",
+            "Point": null,
+            "Abbr": "bn xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20714"
+        },
+        {
+            "MaPhuongXa": "31467",
+            "TenPhuongXa": "Quảng Nguyên",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "qn",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang nguyen xin man ha giang",
+            "Point": null,
+            "Abbr": "qn xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20718"
+        },
+        {
+            "MaPhuongXa": "31465",
+            "TenPhuongXa": "Nấm Dẩn",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam dan xin man ha giang",
+            "Point": null,
+            "Abbr": "nd xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20715"
+        },
+        {
+            "MaPhuongXa": "31468",
+            "TenPhuongXa": "Nà Chì",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na chi xin man ha giang",
+            "Point": null,
+            "Abbr": "nc xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20716"
+        },
+        {
+            "MaPhuongXa": "31442",
+            "TenPhuongXa": "Tả Nhìu",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta nhiu xin man ha giang",
+            "Point": null,
+            "Abbr": "tn xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20720"
+        },
+        {
+            "MaPhuongXa": "31440",
+            "TenPhuongXa": "Cốc Pài",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "coc pai xin man ha giang",
+            "Point": null,
+            "Abbr": "cp xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20706"
+        },
+        {
+            "MaPhuongXa": "31446",
+            "TenPhuongXa": "Thu Tà",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thu ta xin man ha giang",
+            "Point": null,
+            "Abbr": "tt xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20722"
+        },
+        {
+            "MaPhuongXa": "31444",
+            "TenPhuongXa": "Cốc Rế",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cr",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "coc re xin man ha giang",
+            "Point": null,
+            "Abbr": "cr xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20721"
+        },
+        {
+            "MaPhuongXa": "31448",
+            "TenPhuongXa": "Ngán Chiên",
+            "MaQuanHuyen": "3144",
+            "TenQuanHuyen": "Xín Mần",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nc",
+                    "Point": 5
+                },
+                {
+                    "Key": "xm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngan chien xin man ha giang",
+            "Point": null,
+            "Abbr": "nc xm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20723"
+        }
+    ],
+    "3126": [
+        {
+            "MaPhuongXa": "31275",
+            "TenPhuongXa": "Tả Lủng",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta lung dong van ha giang",
+            "Point": null,
+            "Abbr": "tl dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20524"
+        },
+        {
+            "MaPhuongXa": "31277",
+            "TenPhuongXa": "Xà Phìn",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "xp",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xa phin dong van ha giang",
+            "Point": null,
+            "Abbr": "p dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20510"
+        },
+        {
+            "MaPhuongXa": "31271",
+            "TenPhuongXa": "Thài Phìn Tủng",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tpt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai phin tung dong van ha giang",
+            "Point": null,
+            "Abbr": "tpt dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20522"
+        },
+        {
+            "MaPhuongXa": "31273",
+            "TenPhuongXa": "Tả Phìn",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta phin dong van ha giang",
+            "Point": null,
+            "Abbr": "tp dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20523"
+        },
+        {
+            "MaPhuongXa": "31279",
+            "TenPhuongXa": "Sủng Là",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sung la dong van ha giang",
+            "Point": null,
+            "Abbr": "sl dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20511"
+        },
+        {
+            "MaPhuongXa": "31286",
+            "TenPhuongXa": "Sính Lủng",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sinh lung dong van ha giang",
+            "Point": null,
+            "Abbr": "sl dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20521"
+        },
+        {
+            "MaPhuongXa": "31281",
+            "TenPhuongXa": "Phó Bảng",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pb",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho bang dong van ha giang",
+            "Point": null,
+            "Abbr": "pb dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20512"
+        },
+        {
+            "MaPhuongXa": "31282",
+            "TenPhuongXa": "Phố Là",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho la dong van ha giang",
+            "Point": null,
+            "Abbr": "pl dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20513"
+        },
+        {
+            "MaPhuongXa": "31283",
+            "TenPhuongXa": "Phố Cáo",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pho cao dong van ha giang",
+            "Point": null,
+            "Abbr": "pc dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20514"
+        },
+        {
+            "MaPhuongXa": "31288",
+            "TenPhuongXa": "Sảng Tủng",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sang tung dong van ha giang",
+            "Point": null,
+            "Abbr": "st dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20520"
+        },
+        {
+            "MaPhuongXa": "31264",
+            "TenPhuongXa": "Lũng Cú",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung cu dong van ha giang",
+            "Point": null,
+            "Abbr": "lc dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20508"
+        },
+        {
+            "MaPhuongXa": "31266",
+            "TenPhuongXa": "Má Lé",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ma le dong van ha giang",
+            "Point": null,
+            "Abbr": "ml dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20507"
+        },
+        {
+            "MaPhuongXa": "31260",
+            "TenPhuongXa": "Đồng Văn",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dv",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong van dong van ha giang",
+            "Point": null,
+            "Abbr": "dv dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20506"
+        },
+        {
+            "MaPhuongXa": "31268",
+            "TenPhuongXa": "Lũng Táo",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung tao dong van ha giang",
+            "Point": null,
+            "Abbr": "lt dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20509"
+        },
+        {
+            "MaPhuongXa": "31295",
+            "TenPhuongXa": "Lũng Phìn",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung phin dong van ha giang",
+            "Point": null,
+            "Abbr": "lp dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20518"
+        },
+        {
+            "MaPhuongXa": "31297",
+            "TenPhuongXa": "Sủng Trái",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sung trai dong van ha giang",
+            "Point": null,
+            "Abbr": "st dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20517"
+        },
+        {
+            "MaPhuongXa": "31290",
+            "TenPhuongXa": "Lũng Thầu",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung thau dong van ha giang",
+            "Point": null,
+            "Abbr": "lt dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20515"
+        },
+        {
+            "MaPhuongXa": "31291",
+            "TenPhuongXa": "Hồ Quáng Phìn",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hqp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ho quang phin dong van ha giang",
+            "Point": null,
+            "Abbr": "hqp dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20519"
+        },
+        {
+            "MaPhuongXa": "31293",
+            "TenPhuongXa": "Vần Chải",
+            "MaQuanHuyen": "3126",
+            "TenQuanHuyen": "Đồng Văn",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vc",
+                    "Point": 5
+                },
+                {
+                    "Key": "dv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "van chai dong van ha giang",
+            "Point": null,
+            "Abbr": "vc dv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20516"
+        }
+    ],
+    "3134": [
+        {
+            "MaPhuongXa": "31371",
+            "TenPhuongXa": "Trung Thành",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung thanh vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "tt vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20228"
+        },
+        {
+            "MaPhuongXa": "31370",
+            "TenPhuongXa": "Nông trường Việt Lâm",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ntvl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nong truong viet lam vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "ntvl vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20227"
+        },
+        {
+            "MaPhuongXa": "31373",
+            "TenPhuongXa": "Bạch Ngọc",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bach ngoc vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "bn vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20229"
+        },
+        {
+            "MaPhuongXa": "31354",
+            "TenPhuongXa": "Thuận Hòa",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuan hoa vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "th vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20213"
+        },
+        {
+            "MaPhuongXa": "31356",
+            "TenPhuongXa": "Minh Tân",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh tan vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "mt vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20214"
+        },
+        {
+            "MaPhuongXa": "31351",
+            "TenPhuongXa": "Kim Linh",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "kl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim linh vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "kl vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20210"
+        },
+        {
+            "MaPhuongXa": "31353",
+            "TenPhuongXa": "Tùng Bá",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tung ba vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "tb vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20212"
+        },
+        {
+            "MaPhuongXa": "31352",
+            "TenPhuongXa": "Phong Quang",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pq",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong quang vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "pq vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20220"
+        },
+        {
+            "MaPhuongXa": "31358",
+            "TenPhuongXa": "Cao Bồ",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao bo vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "cb vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20223"
+        },
+        {
+            "MaPhuongXa": "31381",
+            "TenPhuongXa": "Kim Thạch",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim thach vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "kt vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20211"
+        },
+        {
+            "MaPhuongXa": "31365",
+            "TenPhuongXa": "Lao Chải",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lao chai vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "lc vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20218"
+        },
+        {
+            "MaPhuongXa": "31364",
+            "TenPhuongXa": "Xín Chải",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "xc",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xin chai vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "xc vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20217"
+        },
+        {
+            "MaPhuongXa": "31367",
+            "TenPhuongXa": "Quảng Ngần",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "qn",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang ngan vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "qn vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20225"
+        },
+        {
+            "MaPhuongXa": "31366",
+            "TenPhuongXa": "Việt Lâm",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet lam vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "vl vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20226"
+        },
+        {
+            "MaPhuongXa": "31361",
+            "TenPhuongXa": "Thanh Thủy",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh thuy vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "tt vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20215"
+        },
+        {
+            "MaPhuongXa": "31360",
+            "TenPhuongXa": "Phương Tiến",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "t",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong tien vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "t vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20219"
+        },
+        {
+            "MaPhuongXa": "31363",
+            "TenPhuongXa": "Thanh Đức",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh duc vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "td vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20216"
+        },
+        {
+            "MaPhuongXa": "31368",
+            "TenPhuongXa": "Thượng Sơn",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong son vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "ts vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20224"
+        },
+        {
+            "MaPhuongXa": "31344",
+            "TenPhuongXa": "Linh Hồ",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "linh ho vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "lh vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20209"
+        },
+        {
+            "MaPhuongXa": "31347",
+            "TenPhuongXa": "Đạo Đức",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dao duc vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "dd vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20222"
+        },
+        {
+            "MaPhuongXa": "31341",
+            "TenPhuongXa": "Ngọc Linh",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc linh vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "nl vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20207"
+        },
+        {
+            "MaPhuongXa": "31340",
+            "TenPhuongXa": "Vị Xuyên",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vx",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vi xuyen vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "vx vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20206"
+        },
+        {
+            "MaPhuongXa": "31343",
+            "TenPhuongXa": "Ngọc Minh",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc minh vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "nm vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20208"
+        },
+        {
+            "MaPhuongXa": "31349",
+            "TenPhuongXa": "Phú Linh",
+            "MaQuanHuyen": "3134",
+            "TenQuanHuyen": "Vị Xuyên",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "vx",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu linh vi xuyen ha giang",
+            "Point": null,
+            "Abbr": "pl vx hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20221"
+        }
+    ],
+    "3115": [
+        {
+            "MaPhuongXa": "31175",
+            "TenPhuongXa": "Mậu Duệ",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mau due yen minh ha giang",
+            "Point": null,
+            "Abbr": "md ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20323"
+        },
+        {
+            "MaPhuongXa": "31172",
+            "TenPhuongXa": "Đồng Minh",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong minh yen minh ha giang",
+            "Point": null,
+            "Abbr": "dm ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20315"
+        },
+        {
+            "MaPhuongXa": "31178",
+            "TenPhuongXa": "Mậu Long",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "mau long yen minh ha giang",
+            "Point": null,
+            "Abbr": "ml ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20322"
+        },
+        {
+            "MaPhuongXa": "31155",
+            "TenPhuongXa": "Sủng Thài",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sung thai yen minh ha giang",
+            "Point": null,
+            "Abbr": "st ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20308"
+        },
+        {
+            "MaPhuongXa": "31153",
+            "TenPhuongXa": "Hữu Vinh",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu vinh yen minh ha giang",
+            "Point": null,
+            "Abbr": "hv ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20307"
+        },
+        {
+            "MaPhuongXa": "31150",
+            "TenPhuongXa": "Yên Minh",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ym",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen minh yen minh ha giang",
+            "Point": null,
+            "Abbr": "ym ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20306"
+        },
+        {
+            "MaPhuongXa": "31158",
+            "TenPhuongXa": "Sủng Tráng",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sung trang yen minh ha giang",
+            "Point": null,
+            "Abbr": "st ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20309"
+        },
+        {
+            "MaPhuongXa": "31186",
+            "TenPhuongXa": "Ngọc Long",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc long yen minh ha giang",
+            "Point": null,
+            "Abbr": "nl ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20320"
+        },
+        {
+            "MaPhuongXa": "31182",
+            "TenPhuongXa": "Lũng Hồ",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung ho yen minh ha giang",
+            "Point": null,
+            "Abbr": "lh ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20321"
+        },
+        {
+            "MaPhuongXa": "31180",
+            "TenPhuongXa": "Ngam La",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngam la yen minh ha giang",
+            "Point": null,
+            "Abbr": "nl ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20316"
+        },
+        {
+            "MaPhuongXa": "31167",
+            "TenPhuongXa": "Na Khê",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nk",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na khe yen minh ha giang",
+            "Point": null,
+            "Abbr": "nk ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20313"
+        },
+        {
+            "MaPhuongXa": "31164",
+            "TenPhuongXa": "Lao Và Chải",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lvc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lao va chai yen minh ha giang",
+            "Point": null,
+            "Abbr": "lvc ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20314"
+        },
+        {
+            "MaPhuongXa": "31162",
+            "TenPhuongXa": "Phú Lũng",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu lung yen minh ha giang",
+            "Point": null,
+            "Abbr": "pl ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20311"
+        },
+        {
+            "MaPhuongXa": "31160",
+            "TenPhuongXa": "Thắng Mố",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thang mo yen minh ha giang",
+            "Point": null,
+            "Abbr": "tm ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20310"
+        },
+        {
+            "MaPhuongXa": "31169",
+            "TenPhuongXa": "Bạch Đích",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bach dich yen minh ha giang",
+            "Point": null,
+            "Abbr": "bd ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20312"
+        },
+        {
+            "MaPhuongXa": "31194",
+            "TenPhuongXa": "Du Tiến",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "du tien yen minh ha giang",
+            "Point": null,
+            "Abbr": "dt ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20319"
+        },
+        {
+            "MaPhuongXa": "31192",
+            "TenPhuongXa": "Du Già",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dg",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "du gia yen minh ha giang",
+            "Point": null,
+            "Abbr": "dg ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20318"
+        },
+        {
+            "MaPhuongXa": "31190",
+            "TenPhuongXa": "Đường Thượng",
+            "MaQuanHuyen": "3115",
+            "TenQuanHuyen": "Yên Minh",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ym",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duong thuong yen minh ha giang",
+            "Point": null,
+            "Abbr": "dt ym hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20317"
+        }
+    ],
+    "3121": [
+        {
+            "MaPhuongXa": "31253",
+            "TenPhuongXa": "Niêm Tòng",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "niem tong meo vac ha giang",
+            "Point": null,
+            "Abbr": "nt mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "31225",
+            "TenPhuongXa": "Pả Vi",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pv",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pa vi meo vac ha giang",
+            "Point": null,
+            "Abbr": "pv mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20411"
+        },
+        {
+            "MaPhuongXa": "31226",
+            "TenPhuongXa": "Pải Lủng",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "pai lung meo vac ha giang",
+            "Point": null,
+            "Abbr": "pl mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20410"
+        },
+        {
+            "MaPhuongXa": "31221",
+            "TenPhuongXa": "Thượng Phùng",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong phung meo vac ha giang",
+            "Point": null,
+            "Abbr": "tp mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20409"
+        },
+        {
+            "MaPhuongXa": "31229",
+            "TenPhuongXa": "Tả Lủng",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta lung meo vac ha giang",
+            "Point": null,
+            "Abbr": "tl mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20420"
+        },
+        {
+            "MaPhuongXa": "31246",
+            "TenPhuongXa": "Niêm Sơn",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "niem son meo vac ha giang",
+            "Point": null,
+            "Abbr": "ns mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20416"
+        },
+        {
+            "MaPhuongXa": "31241",
+            "TenPhuongXa": "Khâu Vai",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "kv",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khau vai meo vac ha giang",
+            "Point": null,
+            "Abbr": "kv mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20418"
+        },
+        {
+            "MaPhuongXa": "31216",
+            "TenPhuongXa": "Giàng Chu Phìn",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "gcp",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giang chu phin meo vac ha giang",
+            "Point": null,
+            "Abbr": "gcp mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20407"
+        },
+        {
+            "MaPhuongXa": "31210",
+            "TenPhuongXa": "Mèo Vạc",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mv",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "meo vac meo vac ha giang",
+            "Point": null,
+            "Abbr": "mv mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20406"
+        },
+        {
+            "MaPhuongXa": "31211",
+            "TenPhuongXa": "Cán Chu Phìn",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ccp",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "can chu phin meo vac ha giang",
+            "Point": null,
+            "Abbr": "ccp mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20421"
+        },
+        {
+            "MaPhuongXa": "31213",
+            "TenPhuongXa": "Sơn Vĩ",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "sv",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son vi meo vac ha giang",
+            "Point": null,
+            "Abbr": "sv mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20423"
+        },
+        {
+            "MaPhuongXa": "31218",
+            "TenPhuongXa": "Xín Cái",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "xc",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xin cai meo vac ha giang",
+            "Point": null,
+            "Abbr": "xc mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20408"
+        },
+        {
+            "MaPhuongXa": "31234",
+            "TenPhuongXa": "Lũng Chinh",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung chinh meo vac ha giang",
+            "Point": null,
+            "Abbr": "lc mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20414"
+        },
+        {
+            "MaPhuongXa": "31236",
+            "TenPhuongXa": "Lũng Pù",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung pu meo vac ha giang",
+            "Point": null,
+            "Abbr": "lp mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20422"
+        },
+        {
+            "MaPhuongXa": "31237",
+            "TenPhuongXa": "Tát Ngà",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tat nga meo vac ha giang",
+            "Point": null,
+            "Abbr": "tn mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20419"
+        },
+        {
+            "MaPhuongXa": "31231",
+            "TenPhuongXa": "Sủng Trà",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sung tra meo vac ha giang",
+            "Point": null,
+            "Abbr": "st mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20412"
+        },
+        {
+            "MaPhuongXa": "31233",
+            "TenPhuongXa": "Sủng Máng",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "sm",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sung mang meo vac ha giang",
+            "Point": null,
+            "Abbr": "sm mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20413"
+        },
+        {
+            "MaPhuongXa": "31239",
+            "TenPhuongXa": "Nậm Ban",
+            "MaQuanHuyen": "3121",
+            "TenQuanHuyen": "Mèo Vạc",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nb",
+                    "Point": 5
+                },
+                {
+                    "Key": "mv",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam ban meo vac ha giang",
+            "Point": null,
+            "Abbr": "nb mv hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20415"
+        }
+    ],
+    "3148": [
+        {
+            "MaPhuongXa": "31483",
+            "TenPhuongXa": "Vô Điếm",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vo diem bac quang ha giang",
+            "Point": null,
+            "Abbr": "vd bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20822"
+        },
+        {
+            "MaPhuongXa": "31480",
+            "TenPhuongXa": "Việt Quang",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vq",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet quang bac quang ha giang",
+            "Point": null,
+            "Abbr": "vq bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20806"
+        },
+        {
+            "MaPhuongXa": "31481",
+            "TenPhuongXa": "Quang Minh",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "qm",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang minh bac quang ha giang",
+            "Point": null,
+            "Abbr": "qm bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20821"
+        },
+        {
+            "MaPhuongXa": "31487",
+            "TenPhuongXa": "Kim Ngọc",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "kn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim ngoc bac quang ha giang",
+            "Point": null,
+            "Abbr": "kn bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20827"
+        },
+        {
+            "MaPhuongXa": "31485",
+            "TenPhuongXa": "Liên Hiệp",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien hiep bac quang ha giang",
+            "Point": null,
+            "Abbr": "lh bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20824"
+        },
+        {
+            "MaPhuongXa": "31488",
+            "TenPhuongXa": "Bằng Hành",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bang hanh bac quang ha giang",
+            "Point": null,
+            "Abbr": "bh bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20828"
+        },
+        {
+            "MaPhuongXa": "31489",
+            "TenPhuongXa": "Hữu Sản",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu san bac quang ha giang",
+            "Point": null,
+            "Abbr": "hs bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20825"
+        },
+        {
+            "MaPhuongXa": "31585",
+            "TenPhuongXa": "Đông Thành",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong thanh bac quang ha giang",
+            "Point": null,
+            "Abbr": "dt bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20817"
+        },
+        {
+            "MaPhuongXa": "31492",
+            "TenPhuongXa": "Đồng Tiến",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tien bac quang ha giang",
+            "Point": null,
+            "Abbr": "dt bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20809"
+        },
+        {
+            "MaPhuongXa": "31493",
+            "TenPhuongXa": "Đồng Tâm",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong tam bac quang ha giang",
+            "Point": null,
+            "Abbr": "dt bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20808"
+        },
+        {
+            "MaPhuongXa": "31491",
+            "TenPhuongXa": "Thượng Bình",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong binh bac quang ha giang",
+            "Point": null,
+            "Abbr": "tb bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20826"
+        },
+        {
+            "MaPhuongXa": "31496",
+            "TenPhuongXa": "Tân Quang",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tq",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan quang bac quang ha giang",
+            "Point": null,
+            "Abbr": "tq bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20812"
+        },
+        {
+            "MaPhuongXa": "31497",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh bac quang ha giang",
+            "Point": null,
+            "Abbr": "tt bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20810"
+        },
+        {
+            "MaPhuongXa": "31495",
+            "TenPhuongXa": "Việt Vinh",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vv",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet vinh bac quang ha giang",
+            "Point": null,
+            "Abbr": "vv bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20807"
+        },
+        {
+            "MaPhuongXa": "31499",
+            "TenPhuongXa": "Tân Lập",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap bac quang ha giang",
+            "Point": null,
+            "Abbr": "tl bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20811"
+        },
+        {
+            "MaPhuongXa": "31503",
+            "TenPhuongXa": "Đức Xuân",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dx",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc xuan bac quang ha giang",
+            "Point": null,
+            "Abbr": "dx bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20823"
+        },
+        {
+            "MaPhuongXa": "31501",
+            "TenPhuongXa": "Hùng An",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ha",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung an bac quang ha giang",
+            "Point": null,
+            "Abbr": "ha bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20820"
+        },
+        {
+            "MaPhuongXa": "31500",
+            "TenPhuongXa": "Việt Hồng",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "viet hong bac quang ha giang",
+            "Point": null,
+            "Abbr": "vh bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20813"
+        },
+        {
+            "MaPhuongXa": "31506",
+            "TenPhuongXa": "Vĩnh Hảo",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hao bac quang ha giang",
+            "Point": null,
+            "Abbr": "vh bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20818"
+        },
+        {
+            "MaPhuongXa": "31505",
+            "TenPhuongXa": "Vĩnh Tuy",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh tuy bac quang ha giang",
+            "Point": null,
+            "Abbr": "vt bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20819"
+        },
+        {
+            "MaPhuongXa": "31504",
+            "TenPhuongXa": "Tiên Kiều",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tk",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien kieu bac quang ha giang",
+            "Point": null,
+            "Abbr": "tk bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20814"
+        },
+        {
+            "MaPhuongXa": "31509",
+            "TenPhuongXa": "Đồng Yên",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dy",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong yen bac quang ha giang",
+            "Point": null,
+            "Abbr": "dy bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20816"
+        },
+        {
+            "MaPhuongXa": "31508",
+            "TenPhuongXa": "Vĩnh Phúc",
+            "MaQuanHuyen": "3148",
+            "TenQuanHuyen": "Bắc Quang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bq",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh phuc bac quang ha giang",
+            "Point": null,
+            "Abbr": "vp bq hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20815"
+        }
+    ],
+    "3139": [
+        {
+            "MaPhuongXa": "31423",
+            "TenPhuongXa": "Nậm Ty",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam ty hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "nt hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20624"
+        },
+        {
+            "MaPhuongXa": "31421",
+            "TenPhuongXa": "Thông Nguyên",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thong nguyen hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "tn hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20623"
+        },
+        {
+            "MaPhuongXa": "31425",
+            "TenPhuongXa": "Nậm Khoà",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nk",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam khoa hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "nk hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20622"
+        },
+        {
+            "MaPhuongXa": "31395",
+            "TenPhuongXa": "Pố Lỗ",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "po lo hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "pl hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20611"
+        },
+        {
+            "MaPhuongXa": "31397",
+            "TenPhuongXa": "Thèn Chu Phìn",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tcp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "then chu phin hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "tcp hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20610"
+        },
+        {
+            "MaPhuongXa": "31391",
+            "TenPhuongXa": "Tân Tiến",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tien hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "tt hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20607"
+        },
+        {
+            "MaPhuongXa": "31390",
+            "TenPhuongXa": "Vinh Quang",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vq",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh quang hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "vq hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20606"
+        },
+        {
+            "MaPhuongXa": "31393",
+            "TenPhuongXa": "Đản Ván",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dv",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dan van hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "dv hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20609"
+        },
+        {
+            "MaPhuongXa": "31392",
+            "TenPhuongXa": "Túng Sán",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tung san hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "ts hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20608"
+        },
+        {
+            "MaPhuongXa": "31399",
+            "TenPhuongXa": "Thàng Tín",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thang tin hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "tt hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20612"
+        },
+        {
+            "MaPhuongXa": "31398",
+            "TenPhuongXa": "Chiến Phố",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chien pho hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "cp hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20615"
+        },
+        {
+            "MaPhuongXa": "31402",
+            "TenPhuongXa": "Bản Máy",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bm",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban may hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "bm hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20613"
+        },
+        {
+            "MaPhuongXa": "31403",
+            "TenPhuongXa": "Tụ Nhân",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu nhan hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "tn hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20616"
+        },
+        {
+            "MaPhuongXa": "31400",
+            "TenPhuongXa": "Bản Phùng",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban phung hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "bp hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20614"
+        },
+        {
+            "MaPhuongXa": "31406",
+            "TenPhuongXa": "Sản Sà Hồ",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ssh",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "san sa ho hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "ssh hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20619"
+        },
+        {
+            "MaPhuongXa": "31404",
+            "TenPhuongXa": "Nàng Đôn",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nang don hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "nd hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20617"
+        },
+        {
+            "MaPhuongXa": "31405",
+            "TenPhuongXa": "Pờ Li Ngài",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pln",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "po li ngai hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "pln hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20618"
+        },
+        {
+            "MaPhuongXa": "31408",
+            "TenPhuongXa": "Bản Luốc",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban luoc hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "bl hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20620"
+        },
+        {
+            "MaPhuongXa": "31412",
+            "TenPhuongXa": "Bản Nhùng",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban nhung hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "bn hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20629"
+        },
+        {
+            "MaPhuongXa": "31413",
+            "TenPhuongXa": "Tả Sử Choóng",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tsc",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta su choong hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "tsc hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20630"
+        },
+        {
+            "MaPhuongXa": "31410",
+            "TenPhuongXa": "Ngàm Đăng Vài",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ndv",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngam dang vai hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "ndv hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20628"
+        },
+        {
+            "MaPhuongXa": "31416",
+            "TenPhuongXa": "Bản Péo",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban peo hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "bp hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20626"
+        },
+        {
+            "MaPhuongXa": "31417",
+            "TenPhuongXa": "Hồ Thầu",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ho thau hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "ht hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20621"
+        },
+        {
+            "MaPhuongXa": "31414",
+            "TenPhuongXa": "Nậm Dịch",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam dich hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "nd hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20627"
+        },
+        {
+            "MaPhuongXa": "31419",
+            "TenPhuongXa": "Nam Sơn",
+            "MaQuanHuyen": "3139",
+            "TenQuanHuyen": "Hoàng Su Phì",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ns",
+                    "Point": 5
+                },
+                {
+                    "Key": "hsp",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam son hoang su phi ha giang",
+            "Point": null,
+            "Abbr": "ns hsp hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20625"
+        }
+    ],
+    "3152": [
+        {
+            "MaPhuongXa": "31523",
+            "TenPhuongXa": "Nà Khương",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nk",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "na khuong quang binh ha giang",
+            "Point": null,
+            "Abbr": "nk qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20765"
+        },
+        {
+            "MaPhuongXa": "31521",
+            "TenPhuongXa": "Tiến Nguyên",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien nguyen quang binh ha giang",
+            "Point": null,
+            "Abbr": "tn qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20760"
+        },
+        {
+            "MaPhuongXa": "31520",
+            "TenPhuongXa": "Tiên Yên",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ty",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien yen quang binh ha giang",
+            "Point": null,
+            "Abbr": "ty qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20767"
+        },
+        {
+            "MaPhuongXa": "31526",
+            "TenPhuongXa": "Bằng Lang",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bang lang quang binh ha giang",
+            "Point": null,
+            "Abbr": "bl qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20764"
+        },
+        {
+            "MaPhuongXa": "31525",
+            "TenPhuongXa": "Tân Bắc",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan bac quang binh ha giang",
+            "Point": null,
+            "Abbr": "tb qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20757"
+        },
+        {
+            "MaPhuongXa": "31528",
+            "TenPhuongXa": "Xuân Giang",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "xg",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan giang quang binh ha giang",
+            "Point": null,
+            "Abbr": "xg qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20766"
+        },
+        {
+            "MaPhuongXa": "31542",
+            "TenPhuongXa": "Vĩ Thượng",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vi thuong quang binh ha giang",
+            "Point": null,
+            "Abbr": "vt qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20768"
+        },
+        {
+            "MaPhuongXa": "31540",
+            "TenPhuongXa": "Xuân Minh",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "xm",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan minh quang binh ha giang",
+            "Point": null,
+            "Abbr": "xm qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20759"
+        },
+        {
+            "MaPhuongXa": "31544",
+            "TenPhuongXa": "Tân Trịnh",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan trinh quang binh ha giang",
+            "Point": null,
+            "Abbr": "tt qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20758"
+        },
+        {
+            "MaPhuongXa": "31533",
+            "TenPhuongXa": "Hương Sơn",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hs",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong son quang binh ha giang",
+            "Point": null,
+            "Abbr": "hs qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20769"
+        },
+        {
+            "MaPhuongXa": "31531",
+            "TenPhuongXa": "Yên Thành",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen thanh quang binh ha giang",
+            "Point": null,
+            "Abbr": "yt qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20762"
+        },
+        {
+            "MaPhuongXa": "31530",
+            "TenPhuongXa": "Bản Rịa",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "br",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban ria quang binh ha giang",
+            "Point": null,
+            "Abbr": "br qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20763"
+        },
+        {
+            "MaPhuongXa": "31536",
+            "TenPhuongXa": "Yên Bình",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "yb",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen binh quang binh ha giang",
+            "Point": null,
+            "Abbr": "yb qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20756"
+        },
+        {
+            "MaPhuongXa": "31534",
+            "TenPhuongXa": "Yên Hà",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "yh",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen ha quang binh ha giang",
+            "Point": null,
+            "Abbr": "yh qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20770"
+        },
+        {
+            "MaPhuongXa": "31538",
+            "TenPhuongXa": "Tân Nam",
+            "MaQuanHuyen": "3152",
+            "TenQuanHuyen": "Quang Bình",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan nam quang binh ha giang",
+            "Point": null,
+            "Abbr": "tn qb hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20761"
+        }
+    ],
+    "3131": [
+        {
+            "MaPhuongXa": "31326",
+            "TenPhuongXa": "Quản Bạ",
+            "MaQuanHuyen": "3131",
+            "TenQuanHuyen": "Quản Bạ",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "qb",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "b",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quan ba quan ba ha giang",
+            "Point": null,
+            "Abbr": "qb b hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20365"
+        },
+        {
+            "MaPhuongXa": "31321",
+            "TenPhuongXa": "Tùng Vài",
+            "MaQuanHuyen": "3131",
+            "TenQuanHuyen": "Quản Bạ",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "b",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tung vai quan ba ha giang",
+            "Point": null,
+            "Abbr": "tv b hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20361"
+        },
+        {
+            "MaPhuongXa": "31323",
+            "TenPhuongXa": "Quyết Tiến",
+            "MaQuanHuyen": "3131",
+            "TenQuanHuyen": "Quản Bạ",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "b",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quyet tien quan ba ha giang",
+            "Point": null,
+            "Abbr": "qt b hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20364"
+        },
+        {
+            "MaPhuongXa": "31329",
+            "TenPhuongXa": "Tả Ván",
+            "MaQuanHuyen": "3131",
+            "TenQuanHuyen": "Quản Bạ",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "b",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta van quan ba ha giang",
+            "Point": null,
+            "Abbr": "tv b hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20362"
+        },
+        {
+            "MaPhuongXa": "31328",
+            "TenPhuongXa": "Lùng Tám",
+            "MaQuanHuyen": "3131",
+            "TenQuanHuyen": "Quản Bạ",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "b",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lung tam quan ba ha giang",
+            "Point": null,
+            "Abbr": "lt b hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20368"
+        },
+        {
+            "MaPhuongXa": "31315",
+            "TenPhuongXa": "Bát Đại Sơn",
+            "MaQuanHuyen": "3131",
+            "TenQuanHuyen": "Quản Bạ",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bds",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "b",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bat dai son quan ba ha giang",
+            "Point": null,
+            "Abbr": "bds b hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20358"
+        },
+        {
+            "MaPhuongXa": "31317",
+            "TenPhuongXa": "Nghĩa Thuận",
+            "MaQuanHuyen": "3131",
+            "TenQuanHuyen": "Quản Bạ",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "b",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia thuan quan ba ha giang",
+            "Point": null,
+            "Abbr": "nt b hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20359"
+        },
+        {
+            "MaPhuongXa": "31311",
+            "TenPhuongXa": "Cán Tỷ",
+            "MaQuanHuyen": "3131",
+            "TenQuanHuyen": "Quản Bạ",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "b",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "can ty quan ba ha giang",
+            "Point": null,
+            "Abbr": "ct b hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20357"
+        },
+        {
+            "MaPhuongXa": "31310",
+            "TenPhuongXa": "Tam Sơn",
+            "MaQuanHuyen": "3131",
+            "TenQuanHuyen": "Quản Bạ",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "b",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam son quan ba ha giang",
+            "Point": null,
+            "Abbr": "ts b hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20356"
+        },
+        {
+            "MaPhuongXa": "31313",
+            "TenPhuongXa": "Thanh Vân",
+            "MaQuanHuyen": "3131",
+            "TenQuanHuyen": "Quản Bạ",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "b",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh van quan ba ha giang",
+            "Point": null,
+            "Abbr": "tv b hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20363"
+        },
+        {
+            "MaPhuongXa": "31319",
+            "TenPhuongXa": "Cao Mã Pờ",
+            "MaQuanHuyen": "3131",
+            "TenQuanHuyen": "Quản Bạ",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cmp",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "b",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cao ma po quan ba ha giang",
+            "Point": null,
+            "Abbr": "cmp b hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20360"
+        },
+        {
+            "MaPhuongXa": "31331",
+            "TenPhuongXa": "Đông Hà",
+            "MaQuanHuyen": "3131",
+            "TenQuanHuyen": "Quản Bạ",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "b",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong ha quan ba ha giang",
+            "Point": null,
+            "Abbr": "dh b hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20366"
+        },
+        {
+            "MaPhuongXa": "31332",
+            "TenPhuongXa": "Thái An",
+            "MaQuanHuyen": "3131",
+            "TenQuanHuyen": "Quản Bạ",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "qb",
+                    "Point": 2
+                },
+                {
+                    "Key": "b",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai an quan ba ha giang",
+            "Point": null,
+            "Abbr": "ta b hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20367"
+        }
+    ],
+    "3112": [
+        {
+            "MaPhuongXa": "31126",
+            "TenPhuongXa": "Minh Sơn",
+            "MaQuanHuyen": "3112",
+            "TenQuanHuyen": "Bắc Mê",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ms",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh son bac me ha giang",
+            "Point": null,
+            "Abbr": "ms bm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20909"
+        },
+        {
+            "MaPhuongXa": "31124",
+            "TenPhuongXa": "Giáp Trung",
+            "MaQuanHuyen": "3112",
+            "TenQuanHuyen": "Bắc Mê",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "gt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "giap trung bac me ha giang",
+            "Point": null,
+            "Abbr": "gt bm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20908"
+        },
+        {
+            "MaPhuongXa": "31122",
+            "TenPhuongXa": "Yên Phong",
+            "MaQuanHuyen": "3112",
+            "TenQuanHuyen": "Bắc Mê",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "yp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen phong bac me ha giang",
+            "Point": null,
+            "Abbr": "yp bm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20907"
+        },
+        {
+            "MaPhuongXa": "31120",
+            "TenPhuongXa": "Yên Phú",
+            "MaQuanHuyen": "3112",
+            "TenQuanHuyen": "Bắc Mê",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "yp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen phu bac me ha giang",
+            "Point": null,
+            "Abbr": "yp bm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20906"
+        },
+        {
+            "MaPhuongXa": "31129",
+            "TenPhuongXa": "Lạc Nông",
+            "MaQuanHuyen": "3112",
+            "TenQuanHuyen": "Bắc Mê",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ln",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac nong bac me ha giang",
+            "Point": null,
+            "Abbr": "ln bm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20912"
+        },
+        {
+            "MaPhuongXa": "31142",
+            "TenPhuongXa": "Phiêng Luông",
+            "MaQuanHuyen": "3112",
+            "TenQuanHuyen": "Bắc Mê",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phieng luong bac me ha giang",
+            "Point": null,
+            "Abbr": "pl bm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20914"
+        },
+        {
+            "MaPhuongXa": "31140",
+            "TenPhuongXa": "Đường Hồng",
+            "MaQuanHuyen": "3112",
+            "TenQuanHuyen": "Bắc Mê",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duong hong bac me ha giang",
+            "Point": null,
+            "Abbr": "dh bm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20916"
+        },
+        {
+            "MaPhuongXa": "31137",
+            "TenPhuongXa": "Thượng Tân",
+            "MaQuanHuyen": "3112",
+            "TenQuanHuyen": "Bắc Mê",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong tan bac me ha giang",
+            "Point": null,
+            "Abbr": "tt bm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20913"
+        },
+        {
+            "MaPhuongXa": "31135",
+            "TenPhuongXa": "Yên Cường",
+            "MaQuanHuyen": "3112",
+            "TenQuanHuyen": "Bắc Mê",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "yc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen cuong bac me ha giang",
+            "Point": null,
+            "Abbr": "yc bm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20915"
+        },
+        {
+            "MaPhuongXa": "31134",
+            "TenPhuongXa": "Phú Nam",
+            "MaQuanHuyen": "3112",
+            "TenQuanHuyen": "Bắc Mê",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu nam bac me ha giang",
+            "Point": null,
+            "Abbr": "pn bm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20918"
+        },
+        {
+            "MaPhuongXa": "31132",
+            "TenPhuongXa": "Yên Định",
+            "MaQuanHuyen": "3112",
+            "TenQuanHuyen": "Bắc Mê",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "yd",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen dinh bac me ha giang",
+            "Point": null,
+            "Abbr": "yd bm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20910"
+        },
+        {
+            "MaPhuongXa": "31131",
+            "TenPhuongXa": "Minh Ngọc",
+            "MaQuanHuyen": "3112",
+            "TenQuanHuyen": "Bắc Mê",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mn",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh ngoc bac me ha giang",
+            "Point": null,
+            "Abbr": "mn bm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20911"
+        },
+        {
+            "MaPhuongXa": "31138",
+            "TenPhuongXa": "Đường Âm",
+            "MaQuanHuyen": "3112",
+            "TenQuanHuyen": "Bắc Mê",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "da",
+                    "Point": 5
+                },
+                {
+                    "Key": "bm",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duong am bac me ha giang",
+            "Point": null,
+            "Abbr": "da bm hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20917"
+        }
+    ],
+    "3110": [
+        {
+            "MaPhuongXa": "31106",
+            "TenPhuongXa": "Trần Phú",
+            "MaQuanHuyen": "3110",
+            "TenQuanHuyen": "Hà Giang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tran phu ha giang ha giang",
+            "Point": null,
+            "Abbr": "tp hg hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20106"
+        },
+        {
+            "MaPhuongXa": "31105",
+            "TenPhuongXa": "Ngọc Đường",
+            "MaQuanHuyen": "3110",
+            "TenQuanHuyen": "Hà Giang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nd",
+                    "Point": 5
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc duong ha giang ha giang",
+            "Point": null,
+            "Abbr": "nd hg hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20108"
+        },
+        {
+            "MaPhuongXa": "31102",
+            "TenPhuongXa": "Minh Khai",
+            "MaQuanHuyen": "3110",
+            "TenQuanHuyen": "Hà Giang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mk",
+                    "Point": 5
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh khai ha giang ha giang",
+            "Point": null,
+            "Abbr": "mk hg hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20111"
+        },
+        {
+            "MaPhuongXa": "31100",
+            "TenPhuongXa": "Nguyễn Trãi",
+            "MaQuanHuyen": "3110",
+            "TenQuanHuyen": "Hà Giang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyen trai ha giang ha giang",
+            "Point": null,
+            "Abbr": "nt hg hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20110"
+        },
+        {
+            "MaPhuongXa": "31109",
+            "TenPhuongXa": "Quang Trung",
+            "MaQuanHuyen": "3110",
+            "TenQuanHuyen": "Hà Giang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang trung ha giang ha giang",
+            "Point": null,
+            "Abbr": "qt hg hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20109"
+        },
+        {
+            "MaPhuongXa": "31113",
+            "TenPhuongXa": "Phương Thiện",
+            "MaQuanHuyen": "3110",
+            "TenQuanHuyen": "Hà Giang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "t",
+                    "Point": 5
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong thien ha giang ha giang",
+            "Point": null,
+            "Abbr": "t hg hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20113"
+        },
+        {
+            "MaPhuongXa": "31112",
+            "TenPhuongXa": "Ngọc Hà",
+            "MaQuanHuyen": "3110",
+            "TenQuanHuyen": "Hà Giang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc ha ha giang ha giang",
+            "Point": null,
+            "Abbr": "nh hg hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20107"
+        },
+        {
+            "MaPhuongXa": "31111",
+            "TenPhuongXa": "Phương Độ",
+            "MaQuanHuyen": "3110",
+            "TenQuanHuyen": "Hà Giang",
+            "MaTinhThanh": "31",
+            "TenTinhThanh": "Hà Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "d",
+                    "Point": 5
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                },
+                {
+                    "Key": "hg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong do ha giang ha giang",
+            "Point": null,
+            "Abbr": "d hg hg",
+            "TrangThai": null,
+            "MaBuuChinh": "20112"
+        }
+    ]
+}

@@ -1,0 +1,2886 @@
+{
+    "9423": [
+        {
+            "MaPhuongXa": "94239",
+            "TenPhuongXa": "Phú Cần",
+            "MaQuanHuyen": "9423",
+            "TenQuanHuyen": "Tiểu Cần",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu can tieu can tra vinh",
+            "Point": null,
+            "Abbr": "pc tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87410"
+        },
+        {
+            "MaPhuongXa": "94237",
+            "TenPhuongXa": "Hiếu Trung",
+            "MaQuanHuyen": "9423",
+            "TenQuanHuyen": "Tiểu Cần",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hieu trung tieu can tra vinh",
+            "Point": null,
+            "Abbr": "ht tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87409"
+        },
+        {
+            "MaPhuongXa": "94235",
+            "TenPhuongXa": "Hiếu Tử",
+            "MaQuanHuyen": "9423",
+            "TenQuanHuyen": "Tiểu Cần",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hieu tu tieu can tra vinh",
+            "Point": null,
+            "Abbr": "ht tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87408"
+        },
+        {
+            "MaPhuongXa": "94233",
+            "TenPhuongXa": "Tập Ngãi",
+            "MaQuanHuyen": "9423",
+            "TenQuanHuyen": "Tiểu Cần",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tap ngai tieu can tra vinh",
+            "Point": null,
+            "Abbr": "tn tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87407"
+        },
+        {
+            "MaPhuongXa": "94230",
+            "TenPhuongXa": "Tiểu Cần",
+            "MaQuanHuyen": "9423",
+            "TenQuanHuyen": "Tiểu Cần",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tieu can tieu can tra vinh",
+            "Point": null,
+            "Abbr": "tc tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87406"
+        },
+        {
+            "MaPhuongXa": "94249",
+            "TenPhuongXa": "Ngãi Hùng",
+            "MaQuanHuyen": "9423",
+            "TenQuanHuyen": "Tiểu Cần",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngai hung tieu can tra vinh",
+            "Point": null,
+            "Abbr": "nh tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87416"
+        },
+        {
+            "MaPhuongXa": "94247",
+            "TenPhuongXa": "Tân Hùng",
+            "MaQuanHuyen": "9423",
+            "TenQuanHuyen": "Tiểu Cần",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hung tieu can tra vinh",
+            "Point": null,
+            "Abbr": "th tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87415"
+        },
+        {
+            "MaPhuongXa": "94245",
+            "TenPhuongXa": "Hùng Hoà",
+            "MaQuanHuyen": "9423",
+            "TenQuanHuyen": "Tiểu Cần",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung hoa tieu can tra vinh",
+            "Point": null,
+            "Abbr": "hh tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87414"
+        },
+        {
+            "MaPhuongXa": "94243",
+            "TenPhuongXa": "Tân Hoà",
+            "MaQuanHuyen": "9423",
+            "TenQuanHuyen": "Tiểu Cần",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoa tieu can tra vinh",
+            "Point": null,
+            "Abbr": "th tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87413"
+        },
+        {
+            "MaPhuongXa": "94241",
+            "TenPhuongXa": "Long Thới",
+            "MaQuanHuyen": "9423",
+            "TenQuanHuyen": "Tiểu Cần",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long thoi tieu can tra vinh",
+            "Point": null,
+            "Abbr": "lt tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87411"
+        },
+        {
+            "MaPhuongXa": "94251",
+            "TenPhuongXa": "Cầu Quan",
+            "MaQuanHuyen": "9423",
+            "TenQuanHuyen": "Tiểu Cần",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "cq",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cau quan tieu can tra vinh",
+            "Point": null,
+            "Abbr": "cq tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87412"
+        }
+    ],
+    "9410": [
+        {
+            "MaPhuongXa": "94135",
+            "TenPhuongXa": "Số 6",
+            "MaQuanHuyen": "9410",
+            "TenQuanHuyen": "Trà Vinh",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "s6",
+                    "Point": 5
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 6 tra vinh tra vinh",
+            "Point": null,
+            "Abbr": "s6 tv tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87111"
+        },
+        {
+            "MaPhuongXa": "94129",
+            "TenPhuongXa": "Số 3",
+            "MaQuanHuyen": "9410",
+            "TenQuanHuyen": "Trà Vinh",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "s3",
+                    "Point": 5
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 3 tra vinh tra vinh",
+            "Point": null,
+            "Abbr": "s3 tv tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87108"
+        },
+        {
+            "MaPhuongXa": "94124",
+            "TenPhuongXa": "Số 7",
+            "MaQuanHuyen": "9410",
+            "TenQuanHuyen": "Trà Vinh",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "s7",
+                    "Point": 5
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 7 tra vinh tra vinh",
+            "Point": null,
+            "Abbr": "s7 tv tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87112"
+        },
+        {
+            "MaPhuongXa": "94145",
+            "TenPhuongXa": "Số 9",
+            "MaQuanHuyen": "9410",
+            "TenQuanHuyen": "Trà Vinh",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "s9",
+                    "Point": 5
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 9 tra vinh tra vinh",
+            "Point": null,
+            "Abbr": "s9 tv tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87114"
+        },
+        {
+            "MaPhuongXa": "94140",
+            "TenPhuongXa": "Số 5",
+            "MaQuanHuyen": "9410",
+            "TenQuanHuyen": "Trà Vinh",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "s5",
+                    "Point": 5
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 5 tra vinh tra vinh",
+            "Point": null,
+            "Abbr": "s5 tv tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87110"
+        },
+        {
+            "MaPhuongXa": "94142",
+            "TenPhuongXa": "Số 8",
+            "MaQuanHuyen": "9410",
+            "TenQuanHuyen": "Trà Vinh",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "s8",
+                    "Point": 5
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 8 tra vinh tra vinh",
+            "Point": null,
+            "Abbr": "s8 tv tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87113"
+        },
+        {
+            "MaPhuongXa": "94108",
+            "TenPhuongXa": "Số 4",
+            "MaQuanHuyen": "9410",
+            "TenQuanHuyen": "Trà Vinh",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "s4",
+                    "Point": 5
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 4 tra vinh tra vinh",
+            "Point": null,
+            "Abbr": "s4 tv tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87109"
+        },
+        {
+            "MaPhuongXa": "94100",
+            "TenPhuongXa": "Số 1",
+            "MaQuanHuyen": "9410",
+            "TenQuanHuyen": "Trà Vinh",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "s1",
+                    "Point": 5
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 1 tra vinh tra vinh",
+            "Point": null,
+            "Abbr": "s1 tv tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87106"
+        },
+        {
+            "MaPhuongXa": "94119",
+            "TenPhuongXa": "Số 2",
+            "MaQuanHuyen": "9410",
+            "TenQuanHuyen": "Trà Vinh",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "s2",
+                    "Point": 5
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 2 tra vinh tra vinh",
+            "Point": null,
+            "Abbr": "s2 tv tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87107"
+        },
+        {
+            "MaPhuongXa": "94116",
+            "TenPhuongXa": "Long Đức",
+            "MaQuanHuyen": "9410",
+            "TenQuanHuyen": "Trà Vinh",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long duc tra vinh tra vinh",
+            "Point": null,
+            "Abbr": "ld tv tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87115"
+        }
+    ],
+    "9430": [
+        {
+            "MaPhuongXa": "94335",
+            "TenPhuongXa": "Định An",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "da",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh an tra cu tra vinh",
+            "Point": null,
+            "Abbr": "da tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87519"
+        },
+        {
+            "MaPhuongXa": "94334",
+            "TenPhuongXa": "Hàm Tân",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ham tan tra cu tra vinh",
+            "Point": null,
+            "Abbr": "ht tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87517"
+        },
+        {
+            "MaPhuongXa": "94332",
+            "TenPhuongXa": "Kim Sơn",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ks",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim son tra cu tra vinh",
+            "Point": null,
+            "Abbr": "ks tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87516"
+        },
+        {
+            "MaPhuongXa": "94330",
+            "TenPhuongXa": "Tân Sơn",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan son tra cu tra vinh",
+            "Point": null,
+            "Abbr": "ts tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87512"
+        },
+        {
+            "MaPhuongXa": "94324",
+            "TenPhuongXa": "Đại An",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "da",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai an tra cu tra vinh",
+            "Point": null,
+            "Abbr": "da tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87520"
+        },
+        {
+            "MaPhuongXa": "94322",
+            "TenPhuongXa": "Định An",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "da",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh an tra cu tra vinh",
+            "Point": null,
+            "Abbr": "da tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "94320",
+            "TenPhuongXa": "Hàm Giang",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "hg",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ham giang tra cu tra vinh",
+            "Point": null,
+            "Abbr": "hg tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87521"
+        },
+        {
+            "MaPhuongXa": "94308",
+            "TenPhuongXa": "Ngãi Xuyên",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "nx",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngai xuyen tra cu tra vinh",
+            "Point": null,
+            "Abbr": "nx tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87515"
+        },
+        {
+            "MaPhuongXa": "94306",
+            "TenPhuongXa": "Long Hiệp",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long hiep tra cu tra vinh",
+            "Point": null,
+            "Abbr": "lh tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87508"
+        },
+        {
+            "MaPhuongXa": "94304",
+            "TenPhuongXa": "Ngọc Biên",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "nb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngoc bien tra cu tra vinh",
+            "Point": null,
+            "Abbr": "nb tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87522"
+        },
+        {
+            "MaPhuongXa": "94302",
+            "TenPhuongXa": "Thanh Sơn",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh son tra cu tra vinh",
+            "Point": null,
+            "Abbr": "ts tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87507"
+        },
+        {
+            "MaPhuongXa": "94300",
+            "TenPhuongXa": "Trà Cú",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra cu tra cu tra vinh",
+            "Point": null,
+            "Abbr": "tc tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87506"
+        },
+        {
+            "MaPhuongXa": "94318",
+            "TenPhuongXa": "An Quãng Hữu",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "aqh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an quang huu tra cu tra vinh",
+            "Point": null,
+            "Abbr": "aqh tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87513"
+        },
+        {
+            "MaPhuongXa": "94316",
+            "TenPhuongXa": "Lưu Nghiệp Anh",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "lna",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luu nghiep anh tra cu tra vinh",
+            "Point": null,
+            "Abbr": "lna tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87514"
+        },
+        {
+            "MaPhuongXa": "94314",
+            "TenPhuongXa": "Tập Sơn",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tap son tra cu tra vinh",
+            "Point": null,
+            "Abbr": "ts tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87511"
+        },
+        {
+            "MaPhuongXa": "94312",
+            "TenPhuongXa": "Phước Hưng",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc hung tra cu tra vinh",
+            "Point": null,
+            "Abbr": "ph tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87510"
+        },
+        {
+            "MaPhuongXa": "94310",
+            "TenPhuongXa": "Tân Hiệp",
+            "MaQuanHuyen": "9430",
+            "TenQuanHuyen": "Trà Cú",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hiep tra cu tra vinh",
+            "Point": null,
+            "Abbr": "th tc tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87509"
+        }
+    ],
+    "9426": [
+        {
+            "MaPhuongXa": "94269",
+            "TenPhuongXa": "Hoà Minh",
+            "MaQuanHuyen": "9426",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa minh chau thanh tra vinh",
+            "Point": null,
+            "Abbr": "hm ct tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87918"
+        },
+        {
+            "MaPhuongXa": "94267",
+            "TenPhuongXa": "Long Hoà",
+            "MaQuanHuyen": "9426",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long hoa chau thanh tra vinh",
+            "Point": null,
+            "Abbr": "lh ct tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87919"
+        },
+        {
+            "MaPhuongXa": "94265",
+            "TenPhuongXa": "Phước Hảo",
+            "MaQuanHuyen": "9426",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc hao chau thanh tra vinh",
+            "Point": null,
+            "Abbr": "ph ct tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87907"
+        },
+        {
+            "MaPhuongXa": "94263",
+            "TenPhuongXa": "Đa Lộc",
+            "MaQuanHuyen": "9426",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da loc chau thanh tra vinh",
+            "Point": null,
+            "Abbr": "dl ct tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87911"
+        },
+        {
+            "MaPhuongXa": "94260",
+            "TenPhuongXa": "Châu Thành",
+            "MaQuanHuyen": "9426",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau thanh chau thanh tra vinh",
+            "Point": null,
+            "Abbr": "ct ct tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87906"
+        },
+        {
+            "MaPhuongXa": "94286",
+            "TenPhuongXa": "Lương Hòa A",
+            "MaQuanHuyen": "9426",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "lha",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong hoa a chau thanh tra vinh",
+            "Point": null,
+            "Abbr": "lha ct tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87912"
+        },
+        {
+            "MaPhuongXa": "94284",
+            "TenPhuongXa": "Mỹ Chánh",
+            "MaQuanHuyen": "9426",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my chanh chau thanh tra vinh",
+            "Point": null,
+            "Abbr": "mc ct tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87917"
+        },
+        {
+            "MaPhuongXa": "94282",
+            "TenPhuongXa": "Thanh Mỹ",
+            "MaQuanHuyen": "9426",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh my chau thanh tra vinh",
+            "Point": null,
+            "Abbr": "tm ct tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87916"
+        },
+        {
+            "MaPhuongXa": "94280",
+            "TenPhuongXa": "Song Lộc",
+            "MaQuanHuyen": "9426",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song loc chau thanh tra vinh",
+            "Point": null,
+            "Abbr": "sl ct tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87915"
+        },
+        {
+            "MaPhuongXa": "94279",
+            "TenPhuongXa": "Nguyệt Hoá",
+            "MaQuanHuyen": "9426",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nguyet hoa chau thanh tra vinh",
+            "Point": null,
+            "Abbr": "nh ct tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87914"
+        },
+        {
+            "MaPhuongXa": "94277",
+            "TenPhuongXa": "Lương Hoà",
+            "MaQuanHuyen": "9426",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong hoa chau thanh tra vinh",
+            "Point": null,
+            "Abbr": "lh ct tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87913"
+        },
+        {
+            "MaPhuongXa": "94275",
+            "TenPhuongXa": "Hoà Thuận",
+            "MaQuanHuyen": "9426",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa thuan chau thanh tra vinh",
+            "Point": null,
+            "Abbr": "ht ct tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87909"
+        },
+        {
+            "MaPhuongXa": "94273",
+            "TenPhuongXa": "Hoà Lợi",
+            "MaQuanHuyen": "9426",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa loi chau thanh tra vinh",
+            "Point": null,
+            "Abbr": "hl ct tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87910"
+        },
+        {
+            "MaPhuongXa": "94271",
+            "TenPhuongXa": "Hưng Mỹ",
+            "MaQuanHuyen": "9426",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "hm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung my chau thanh tra vinh",
+            "Point": null,
+            "Abbr": "hm ct tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87908"
+        }
+    ],
+    "9435": [
+        {
+            "MaPhuongXa": "94368",
+            "TenPhuongXa": "Thạnh Hoà Sơn",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ths",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh hoa son cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "ths cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87817"
+        },
+        {
+            "MaPhuongXa": "94366",
+            "TenPhuongXa": "Long Sơn",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long son cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "ls cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87816"
+        },
+        {
+            "MaPhuongXa": "94364",
+            "TenPhuongXa": "Nhị Trường",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhi truong cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "nt cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87815"
+        },
+        {
+            "MaPhuongXa": "94362",
+            "TenPhuongXa": "Thuận Hoà",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuan hoa cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "th cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87814"
+        },
+        {
+            "MaPhuongXa": "94360",
+            "TenPhuongXa": "Trường Thọ",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truong tho cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "tt cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87813"
+        },
+        {
+            "MaPhuongXa": "94374",
+            "TenPhuongXa": "Hiệp Mỹ Tây",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "hmt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep my tay cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "hmt cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87819"
+        },
+        {
+            "MaPhuongXa": "94372",
+            "TenPhuongXa": "Hiệp Mỹ Đông",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "hmd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep my dong cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "hmd cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87818"
+        },
+        {
+            "MaPhuongXa": "94371",
+            "TenPhuongXa": "Mỹ Long Nam",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "mln",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my long nam cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "mln cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87820"
+        },
+        {
+            "MaPhuongXa": "94358",
+            "TenPhuongXa": "Hiệp Hoà",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep hoa cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "hh cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87812"
+        },
+        {
+            "MaPhuongXa": "94357",
+            "TenPhuongXa": "Kim Hoà",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "kh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim hoa cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "kh cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87810"
+        },
+        {
+            "MaPhuongXa": "94355",
+            "TenPhuongXa": "Vĩnh Kim",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "vk",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh kim cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "vk cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87809"
+        },
+        {
+            "MaPhuongXa": "94354",
+            "TenPhuongXa": "Mỹ Long",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my long cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "ml cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87807"
+        },
+        {
+            "MaPhuongXa": "94353",
+            "TenPhuongXa": "Mỹ Long Bắc",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "mlb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my long bac cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "mlb cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87808"
+        },
+        {
+            "MaPhuongXa": "94351",
+            "TenPhuongXa": "Mỹ Hoà",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my hoa cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "mh cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87811"
+        },
+        {
+            "MaPhuongXa": "94350",
+            "TenPhuongXa": "Cầu Ngang",
+            "MaQuanHuyen": "9435",
+            "TenQuanHuyen": "Cầu Ngang",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cn",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cau ngang cau ngang tra vinh",
+            "Point": null,
+            "Abbr": "cn cn tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87806"
+        }
+    ],
+    "9417": [
+        {
+            "MaPhuongXa": "94189",
+            "TenPhuongXa": "Tân An",
+            "MaQuanHuyen": "9417",
+            "TenQuanHuyen": "Càng Long",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan an cang long tra vinh",
+            "Point": null,
+            "Abbr": "ta cl tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87215"
+        },
+        {
+            "MaPhuongXa": "94185",
+            "TenPhuongXa": "An Trường",
+            "MaQuanHuyen": "9417",
+            "TenQuanHuyen": "Càng Long",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an truong cang long tra vinh",
+            "Point": null,
+            "Abbr": "at cl tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87213"
+        },
+        {
+            "MaPhuongXa": "94187",
+            "TenPhuongXa": "Tân Bình",
+            "MaQuanHuyen": "9417",
+            "TenQuanHuyen": "Càng Long",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan binh cang long tra vinh",
+            "Point": null,
+            "Abbr": "tb cl tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87214"
+        },
+        {
+            "MaPhuongXa": "94181",
+            "TenPhuongXa": "Mỹ Cẩm",
+            "MaQuanHuyen": "9417",
+            "TenQuanHuyen": "Càng Long",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "mc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my cam cang long tra vinh",
+            "Point": null,
+            "Abbr": "mc cl tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87211"
+        },
+        {
+            "MaPhuongXa": "94183",
+            "TenPhuongXa": "An Trường A",
+            "MaQuanHuyen": "9417",
+            "TenQuanHuyen": "Càng Long",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ata",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an truong a cang long tra vinh",
+            "Point": null,
+            "Abbr": "ata cl tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87212"
+        },
+        {
+            "MaPhuongXa": "94179",
+            "TenPhuongXa": "Đức Mỹ",
+            "MaQuanHuyen": "9417",
+            "TenQuanHuyen": "Càng Long",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc my cang long tra vinh",
+            "Point": null,
+            "Abbr": "dm cl tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87210"
+        },
+        {
+            "MaPhuongXa": "94175",
+            "TenPhuongXa": "Nhị Long",
+            "MaQuanHuyen": "9417",
+            "TenQuanHuyen": "Càng Long",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhi long cang long tra vinh",
+            "Point": null,
+            "Abbr": "nl cl tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87207"
+        },
+        {
+            "MaPhuongXa": "94177",
+            "TenPhuongXa": "Đại Phước",
+            "MaQuanHuyen": "9417",
+            "TenQuanHuyen": "Càng Long",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai phuoc cang long tra vinh",
+            "Point": null,
+            "Abbr": "dp cl tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87208"
+        },
+        {
+            "MaPhuongXa": "94170",
+            "TenPhuongXa": "Càng Long",
+            "MaQuanHuyen": "9417",
+            "TenQuanHuyen": "Càng Long",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cang long cang long tra vinh",
+            "Point": null,
+            "Abbr": "cl cl tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87206"
+        },
+        {
+            "MaPhuongXa": "94199",
+            "TenPhuongXa": "Đại Phúc",
+            "MaQuanHuyen": "9417",
+            "TenQuanHuyen": "Càng Long",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai phuc cang long tra vinh",
+            "Point": null,
+            "Abbr": "dp cl tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87218"
+        },
+        {
+            "MaPhuongXa": "94195",
+            "TenPhuongXa": "Phương Thạnh",
+            "MaQuanHuyen": "9417",
+            "TenQuanHuyen": "Càng Long",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "t",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong thanh cang long tra vinh",
+            "Point": null,
+            "Abbr": "t cl tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87217"
+        },
+        {
+            "MaPhuongXa": "94197",
+            "TenPhuongXa": "Nhị Long Phú",
+            "MaQuanHuyen": "9417",
+            "TenQuanHuyen": "Càng Long",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "nlp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhi long phu cang long tra vinh",
+            "Point": null,
+            "Abbr": "nlp cl tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87209"
+        },
+        {
+            "MaPhuongXa": "94191",
+            "TenPhuongXa": "Huyền Hội",
+            "MaQuanHuyen": "9417",
+            "TenQuanHuyen": "Càng Long",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huyen hoi cang long tra vinh",
+            "Point": null,
+            "Abbr": "hh cl tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87216"
+        },
+        {
+            "MaPhuongXa": "94193",
+            "TenPhuongXa": "Bình Phú",
+            "MaQuanHuyen": "9417",
+            "TenQuanHuyen": "Càng Long",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh phu cang long tra vinh",
+            "Point": null,
+            "Abbr": "bp cl tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87219"
+        }
+    ],
+    "9421": [
+        {
+            "MaPhuongXa": "94224",
+            "TenPhuongXa": "Phong Phú",
+            "MaQuanHuyen": "9421",
+            "TenQuanHuyen": "Cầu Kè",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "pp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ck",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong phu cau ke tra vinh",
+            "Point": null,
+            "Abbr": "pp ck tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87315"
+        },
+        {
+            "MaPhuongXa": "94225",
+            "TenPhuongXa": "Phong Thạnh",
+            "MaQuanHuyen": "9421",
+            "TenQuanHuyen": "Cầu Kè",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ck",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phong thanh cau ke tra vinh",
+            "Point": null,
+            "Abbr": "pt ck tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87314"
+        },
+        {
+            "MaPhuongXa": "94222",
+            "TenPhuongXa": "Ninh Thới",
+            "MaQuanHuyen": "9421",
+            "TenQuanHuyen": "Cầu Kè",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "nt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ck",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh thoi cau ke tra vinh",
+            "Point": null,
+            "Abbr": "nt ck tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87316"
+        },
+        {
+            "MaPhuongXa": "94220",
+            "TenPhuongXa": "Hoà Tân",
+            "MaQuanHuyen": "9421",
+            "TenQuanHuyen": "Cầu Kè",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "ck",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa tan cau ke tra vinh",
+            "Point": null,
+            "Abbr": "ht ck tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87312"
+        },
+        {
+            "MaPhuongXa": "94218",
+            "TenPhuongXa": "An Phú Tân",
+            "MaQuanHuyen": "9421",
+            "TenQuanHuyen": "Cầu Kè",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "apt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ck",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an phu tan cau ke tra vinh",
+            "Point": null,
+            "Abbr": "apt ck tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87311"
+        },
+        {
+            "MaPhuongXa": "94216",
+            "TenPhuongXa": "Thông Hoà",
+            "MaQuanHuyen": "9421",
+            "TenQuanHuyen": "Cầu Kè",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ck",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thong hoa cau ke tra vinh",
+            "Point": null,
+            "Abbr": "th ck tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87309"
+        },
+        {
+            "MaPhuongXa": "94217",
+            "TenPhuongXa": "Tam Ngãi",
+            "MaQuanHuyen": "9421",
+            "TenQuanHuyen": "Cầu Kè",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ck",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam ngai cau ke tra vinh",
+            "Point": null,
+            "Abbr": "tn ck tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87310"
+        },
+        {
+            "MaPhuongXa": "94214",
+            "TenPhuongXa": "Thạnh Phú",
+            "MaQuanHuyen": "9421",
+            "TenQuanHuyen": "Cầu Kè",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ck",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh phu cau ke tra vinh",
+            "Point": null,
+            "Abbr": "tp ck tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87308"
+        },
+        {
+            "MaPhuongXa": "94215",
+            "TenPhuongXa": "Hoà Ân",
+            "MaQuanHuyen": "9421",
+            "TenQuanHuyen": "Cầu Kè",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ha",
+                    "Point": 5
+                },
+                {
+                    "Key": "ck",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa an cau ke tra vinh",
+            "Point": null,
+            "Abbr": "ha ck tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87307"
+        },
+        {
+            "MaPhuongXa": "94212",
+            "TenPhuongXa": "Châu Điền",
+            "MaQuanHuyen": "9421",
+            "TenQuanHuyen": "Cầu Kè",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ck",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chau dien cau ke tra vinh",
+            "Point": null,
+            "Abbr": "cd ck tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87313"
+        },
+        {
+            "MaPhuongXa": "94210",
+            "TenPhuongXa": "Cầu Kè",
+            "MaQuanHuyen": "9421",
+            "TenQuanHuyen": "Cầu Kè",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ck",
+                    "Point": 5
+                },
+                {
+                    "Key": "ck",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cau ke cau ke tra vinh",
+            "Point": null,
+            "Abbr": "ck ck tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87306"
+        }
+    ],
+    "9439": [
+        {
+            "MaPhuongXa": "94408",
+            "TenPhuongXa": "Đôn Châu",
+            "MaQuanHuyen": "9439",
+            "TenQuanHuyen": "Duyên Hải",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "don chau duyen hai tra vinh",
+            "Point": null,
+            "Abbr": "dc dh tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87708"
+        },
+        {
+            "MaPhuongXa": "94409",
+            "TenPhuongXa": "Đôn Xuân",
+            "MaQuanHuyen": "9439",
+            "TenQuanHuyen": "Duyên Hải",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "dx",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "don xuan duyen hai tra vinh",
+            "Point": null,
+            "Abbr": "dx dh tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87707"
+        },
+        {
+            "MaPhuongXa": "94401",
+            "TenPhuongXa": "Long Khánh",
+            "MaQuanHuyen": "9439",
+            "TenQuanHuyen": "Duyên Hải",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "lk",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long khanh duyen hai tra vinh",
+            "Point": null,
+            "Abbr": "lk dh tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87709"
+        },
+        {
+            "MaPhuongXa": "94402",
+            "TenPhuongXa": "Long Vĩnh",
+            "MaQuanHuyen": "9439",
+            "TenQuanHuyen": "Duyên Hải",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "lv",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long vinh duyen hai tra vinh",
+            "Point": null,
+            "Abbr": "lv dh tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87711"
+        },
+        {
+            "MaPhuongXa": "94404",
+            "TenPhuongXa": "Đông Hải",
+            "MaQuanHuyen": "9439",
+            "TenQuanHuyen": "Duyên Hải",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong hai duyen hai tra vinh",
+            "Point": null,
+            "Abbr": "dh dh tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87712"
+        },
+        {
+            "MaPhuongXa": "94406",
+            "TenPhuongXa": "Long Thành",
+            "MaQuanHuyen": "9439",
+            "TenQuanHuyen": "Duyên Hải",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long thanh duyen hai tra vinh",
+            "Point": null,
+            "Abbr": "lt dh tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87706"
+        },
+        {
+            "MaPhuongXa": "94399",
+            "TenPhuongXa": "Ngũ Lạc",
+            "MaQuanHuyen": "9439",
+            "TenQuanHuyen": "Duyên Hải",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngu lac duyen hai tra vinh",
+            "Point": null,
+            "Abbr": "nl dh tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87710"
+        }
+    ],
+    "9441": [
+        {
+            "MaPhuongXa": "94405",
+            "TenPhuongXa": "Dân Thành",
+            "MaQuanHuyen": "9441",
+            "TenQuanHuyen": "TX. Duyên Hải",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dan thanh tx. duyen hai tra vinh",
+            "Point": null,
+            "Abbr": "dt tdh tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87611"
+        },
+        {
+            "MaPhuongXa": "94397",
+            "TenPhuongXa": "Long Hữu",
+            "MaQuanHuyen": "9441",
+            "TenQuanHuyen": "TX. Duyên Hải",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long huu tx. duyen hai tra vinh",
+            "Point": null,
+            "Abbr": "lh tdh tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87609"
+        },
+        {
+            "MaPhuongXa": "94395",
+            "TenPhuongXa": "Long Toàn",
+            "MaQuanHuyen": "9441",
+            "TenQuanHuyen": "TX. Duyên Hải",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long toan tx. duyen hai tra vinh",
+            "Point": null,
+            "Abbr": "lt tdh tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87610"
+        },
+        {
+            "MaPhuongXa": "94394",
+            "TenPhuongXa": "Hiệp Thạnh",
+            "MaQuanHuyen": "9441",
+            "TenQuanHuyen": "TX. Duyên Hải",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep thanh tx. duyen hai tra vinh",
+            "Point": null,
+            "Abbr": "ht tdh tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87608"
+        },
+        {
+            "MaPhuongXa": "94393",
+            "TenPhuongXa": "Trường Long Hoà",
+            "MaQuanHuyen": "9441",
+            "TenQuanHuyen": "TX. Duyên Hải",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "tlh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "truong long hoa tx. duyen hai tra vinh",
+            "Point": null,
+            "Abbr": "tlh tdh tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87612"
+        },
+        {
+            "MaPhuongXa": "94410",
+            "TenPhuongXa": "1",
+            "MaQuanHuyen": "9441",
+            "TenQuanHuyen": "TX. Duyên Hải",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "1",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "1 tx. duyen hai tra vinh",
+            "Point": null,
+            "Abbr": "1 tdh tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87606"
+        },
+        {
+            "MaPhuongXa": "94411",
+            "TenPhuongXa": "2",
+            "MaQuanHuyen": "9441",
+            "TenQuanHuyen": "TX. Duyên Hải",
+            "MaTinhThanh": "94",
+            "TenTinhThanh": "Trà Vinh",
+            "LstSearchTag": [
+                {
+                    "Key": "2",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdh",
+                    "Point": 2
+                },
+                {
+                    "Key": "tv",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "2 tx. duyen hai tra vinh",
+            "Point": null,
+            "Abbr": "2 tdh tv",
+            "TrangThai": null,
+            "MaBuuChinh": "87607"
+        }
+    ]
+}

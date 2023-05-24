@@ -1,0 +1,18 @@
+.mirror {
+  position: relative;
+  overflow: hidden;
+  &::after {
+    content: "";
+    z-index: 1;
+    background-color: rgba(255, 255, 255, 0.2);
+    position: absolute;
+    top: -50%;
+    bottom: -50%;
+    width: 1.25em;
+    transform: translate3d(-2000%, 0, 0) rotate(35deg);
+  }
+  &:hover::after {
+    -webkit-animation: mirror 0.4s;
+    animation: mirror 0.4s;
+  }
+}

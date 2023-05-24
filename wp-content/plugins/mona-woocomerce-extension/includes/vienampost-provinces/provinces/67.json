@@ -1,0 +1,3995 @@
+{
+    "6725": [
+        {
+            "MaPhuongXa": "67261",
+            "TenPhuongXa": "Quảng Lập",
+            "MaQuanHuyen": "6725",
+            "TenQuanHuyen": "Đơn Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ql",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang lap don duong lam dong",
+            "Point": null,
+            "Abbr": "ql dd ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66907"
+        },
+        {
+            "MaPhuongXa": "67260",
+            "TenPhuongXa": "K'Đơn",
+            "MaQuanHuyen": "6725",
+            "TenQuanHuyen": "Đơn Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "k",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "k'don don duong lam dong",
+            "Point": null,
+            "Abbr": "k dd ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66911"
+        },
+        {
+            "MaPhuongXa": "67262",
+            "TenPhuongXa": "P'Ro'h",
+            "MaQuanHuyen": "6725",
+            "TenQuanHuyen": "Đơn Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "p",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "p'ro'h don duong lam dong",
+            "Point": null,
+            "Abbr": "p dd ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66912"
+        },
+        {
+            "MaPhuongXa": "67250",
+            "TenPhuongXa": "Thạnh Mỹ",
+            "MaQuanHuyen": "6725",
+            "TenQuanHuyen": "Đơn Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh my don duong lam dong",
+            "Point": null,
+            "Abbr": "tm dd ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66906"
+        },
+        {
+            "MaPhuongXa": "67253",
+            "TenPhuongXa": "Lạc Xuân",
+            "MaQuanHuyen": "6725",
+            "TenQuanHuyen": "Đơn Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "lx",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac xuan don duong lam dong",
+            "Point": null,
+            "Abbr": "lx dd ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66914"
+        },
+        {
+            "MaPhuongXa": "67252",
+            "TenPhuongXa": "Ka Đô",
+            "MaQuanHuyen": "6725",
+            "TenQuanHuyen": "Đơn Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "kd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ka do don duong lam dong",
+            "Point": null,
+            "Abbr": "kd dd ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66913"
+        },
+        {
+            "MaPhuongXa": "67255",
+            "TenPhuongXa": "Đ'Ran",
+            "MaQuanHuyen": "6725",
+            "TenQuanHuyen": "Đơn Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "d",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "d'ran don duong lam dong",
+            "Point": null,
+            "Abbr": "d dd ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66915"
+        },
+        {
+            "MaPhuongXa": "67257",
+            "TenPhuongXa": "Lạc Lâm",
+            "MaQuanHuyen": "6725",
+            "TenQuanHuyen": "Đơn Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ll",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac lam don duong lam dong",
+            "Point": null,
+            "Abbr": "ll dd ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66908"
+        },
+        {
+            "MaPhuongXa": "67259",
+            "TenPhuongXa": "Tu Tra",
+            "MaQuanHuyen": "6725",
+            "TenQuanHuyen": "Đơn Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu tra don duong lam dong",
+            "Point": null,
+            "Abbr": "tt dd ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66910"
+        },
+        {
+            "MaPhuongXa": "67258",
+            "TenPhuongXa": "Đạ Ròn",
+            "MaQuanHuyen": "6725",
+            "TenQuanHuyen": "Đơn Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dr",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da ron don duong lam dong",
+            "Point": null,
+            "Abbr": "dr dd ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66909"
+        }
+    ],
+    "6710": [
+        {
+            "MaPhuongXa": "67164",
+            "TenPhuongXa": "Số 2",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "s2",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 2 da lat lam dong",
+            "Point": null,
+            "Abbr": "s2 dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66109"
+        },
+        {
+            "MaPhuongXa": "67221",
+            "TenPhuongXa": "Trạm Hành",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tram hanh da lat lam dong",
+            "Point": null,
+            "Abbr": "th dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66121"
+        },
+        {
+            "MaPhuongXa": "67125",
+            "TenPhuongXa": "Số 11",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "s11",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 11 da lat lam dong",
+            "Point": null,
+            "Abbr": "s11 dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66118"
+        },
+        {
+            "MaPhuongXa": "67129",
+            "TenPhuongXa": "Xuân Thọ",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan tho da lat lam dong",
+            "Point": null,
+            "Abbr": "xt dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66119"
+        },
+        {
+            "MaPhuongXa": "67190",
+            "TenPhuongXa": "Số 7",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "s7",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 7 da lat lam dong",
+            "Point": null,
+            "Abbr": "s7 dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66107"
+        },
+        {
+            "MaPhuongXa": "67196",
+            "TenPhuongXa": "Số 5",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "s5",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 5 da lat lam dong",
+            "Point": null,
+            "Abbr": "s5 dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66113"
+        },
+        {
+            "MaPhuongXa": "67203",
+            "TenPhuongXa": "Tà Nung",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta nung da lat lam dong",
+            "Point": null,
+            "Abbr": "tn dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66114"
+        },
+        {
+            "MaPhuongXa": "67204",
+            "TenPhuongXa": "Số 4",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "s4",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 4 da lat lam dong",
+            "Point": null,
+            "Abbr": "s4 dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66115"
+        },
+        {
+            "MaPhuongXa": "67100",
+            "TenPhuongXa": "Số 3",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "s3",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 3 da lat lam dong",
+            "Point": null,
+            "Abbr": "s3 dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66116"
+        },
+        {
+            "MaPhuongXa": "67154",
+            "TenPhuongXa": "Số 1",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "s1",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 1 da lat lam dong",
+            "Point": null,
+            "Abbr": "s1 dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66110"
+        },
+        {
+            "MaPhuongXa": "67215",
+            "TenPhuongXa": "Xuân Trường",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan truong da lat lam dong",
+            "Point": null,
+            "Abbr": "xt dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66120"
+        },
+        {
+            "MaPhuongXa": "67111",
+            "TenPhuongXa": "Số 10",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "s10",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 10 da lat lam dong",
+            "Point": null,
+            "Abbr": "s10 dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66117"
+        },
+        {
+            "MaPhuongXa": "67180",
+            "TenPhuongXa": "Số 6",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "s6",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 6 da lat lam dong",
+            "Point": null,
+            "Abbr": "s6 dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66108"
+        },
+        {
+            "MaPhuongXa": "67130",
+            "TenPhuongXa": "Số 9",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "s9",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 9 da lat lam dong",
+            "Point": null,
+            "Abbr": "s9 dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66111"
+        },
+        {
+            "MaPhuongXa": "67146",
+            "TenPhuongXa": "Số 8",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "s8",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 8 da lat lam dong",
+            "Point": null,
+            "Abbr": "s8 dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66106"
+        },
+        {
+            "MaPhuongXa": "67144",
+            "TenPhuongXa": "Số 12",
+            "MaQuanHuyen": "6710",
+            "TenQuanHuyen": "Đà Lạt",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "s12",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 12 da lat lam dong",
+            "Point": null,
+            "Abbr": "s12 dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66112"
+        }
+    ],
+    "6755": [
+        {
+            "MaPhuongXa": "67566",
+            "TenPhuongXa": "Đồng Nai Thượng",
+            "MaQuanHuyen": "6755",
+            "TenQuanHuyen": "Cát Tiên",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dnt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong nai thuong cat tien lam dong",
+            "Point": null,
+            "Abbr": "dnt ct ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66514"
+        },
+        {
+            "MaPhuongXa": "67564",
+            "TenPhuongXa": "Đức Phổ",
+            "MaQuanHuyen": "6755",
+            "TenQuanHuyen": "Cát Tiên",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc pho cat tien lam dong",
+            "Point": null,
+            "Abbr": "dp ct ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66510"
+        },
+        {
+            "MaPhuongXa": "67565",
+            "TenPhuongXa": "Quảng Ngãi",
+            "MaQuanHuyen": "6755",
+            "TenQuanHuyen": "Cát Tiên",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "qn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang ngai cat tien lam dong",
+            "Point": null,
+            "Abbr": "qn ct ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66511"
+        },
+        {
+            "MaPhuongXa": "67562",
+            "TenPhuongXa": "Phước Cát 1",
+            "MaQuanHuyen": "6755",
+            "TenQuanHuyen": "Cát Tiên",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "pc1",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc cat 1 cat tien lam dong",
+            "Point": null,
+            "Abbr": "pc1 ct ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66516"
+        },
+        {
+            "MaPhuongXa": "67560",
+            "TenPhuongXa": "Phước Cát 2",
+            "MaQuanHuyen": "6755",
+            "TenQuanHuyen": "Cát Tiên",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "pc2",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc cat 2 cat tien lam dong",
+            "Point": null,
+            "Abbr": "pc2 ct ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66515"
+        },
+        {
+            "MaPhuongXa": "67557",
+            "TenPhuongXa": "Tiên Hoàng",
+            "MaQuanHuyen": "6755",
+            "TenQuanHuyen": "Cát Tiên",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tien hoang cat tien lam dong",
+            "Point": null,
+            "Abbr": "th ct ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66513"
+        },
+        {
+            "MaPhuongXa": "67554",
+            "TenPhuongXa": "Mỹ Lâm",
+            "MaQuanHuyen": "6755",
+            "TenQuanHuyen": "Cát Tiên",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my lam cat tien lam dong",
+            "Point": null,
+            "Abbr": "ml ct ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66507"
+        },
+        {
+            "MaPhuongXa": "67555",
+            "TenPhuongXa": "Nam Ninh",
+            "MaQuanHuyen": "6755",
+            "TenQuanHuyen": "Cát Tiên",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "nn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam ninh cat tien lam dong",
+            "Point": null,
+            "Abbr": "nn ct ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66508"
+        },
+        {
+            "MaPhuongXa": "67553",
+            "TenPhuongXa": "Tư Nghĩa",
+            "MaQuanHuyen": "6755",
+            "TenQuanHuyen": "Cát Tiên",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu nghia cat tien lam dong",
+            "Point": null,
+            "Abbr": "tn ct ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66512"
+        },
+        {
+            "MaPhuongXa": "67550",
+            "TenPhuongXa": "Cát Tiên",
+            "MaQuanHuyen": "6755",
+            "TenQuanHuyen": "Cát Tiên",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cat tien cat tien lam dong",
+            "Point": null,
+            "Abbr": "ct ct ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66506"
+        },
+        {
+            "MaPhuongXa": "67558",
+            "TenPhuongXa": "Gia Viễn",
+            "MaQuanHuyen": "6755",
+            "TenQuanHuyen": "Cát Tiên",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "gv",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia vien cat tien lam dong",
+            "Point": null,
+            "Abbr": "gv ct ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66509"
+        }
+    ],
+    "6728": [
+        {
+            "MaPhuongXa": "67293",
+            "TenPhuongXa": "Phi Tô",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phi to lam ha lam dong",
+            "Point": null,
+            "Abbr": "pt lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66308"
+        },
+        {
+            "MaPhuongXa": "67292",
+            "TenPhuongXa": "Mê Linh",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "me linh lam ha lam dong",
+            "Point": null,
+            "Abbr": "ml lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66315"
+        },
+        {
+            "MaPhuongXa": "67294",
+            "TenPhuongXa": "Đạ Đờn",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da don lam ha lam dong",
+            "Point": null,
+            "Abbr": "dd lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66309"
+        },
+        {
+            "MaPhuongXa": "67296",
+            "TenPhuongXa": "Phú Sơn",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ps",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu son lam ha lam dong",
+            "Point": null,
+            "Abbr": "ps lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66316"
+        },
+        {
+            "MaPhuongXa": "67298",
+            "TenPhuongXa": "Phúc Thọ",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuc tho lam ha lam dong",
+            "Point": null,
+            "Abbr": "pt lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66317"
+        },
+        {
+            "MaPhuongXa": "67300",
+            "TenPhuongXa": "Tân Thanh",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh lam ha lam dong",
+            "Point": null,
+            "Abbr": "tt lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66318"
+        },
+        {
+            "MaPhuongXa": "67302",
+            "TenPhuongXa": "Tân Văn",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "tv",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan van lam ha lam dong",
+            "Point": null,
+            "Abbr": "tv lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66310"
+        },
+        {
+            "MaPhuongXa": "67304",
+            "TenPhuongXa": "Hoài Đức",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoai duc lam ha lam dong",
+            "Point": null,
+            "Abbr": "hd lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66319"
+        },
+        {
+            "MaPhuongXa": "67306",
+            "TenPhuongXa": "Liên Hà",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien ha lam ha lam dong",
+            "Point": null,
+            "Abbr": "lh lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66320"
+        },
+        {
+            "MaPhuongXa": "67309",
+            "TenPhuongXa": "Tân Hà",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan ha lam ha lam dong",
+            "Point": null,
+            "Abbr": "th lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66311"
+        },
+        {
+            "MaPhuongXa": "67311",
+            "TenPhuongXa": "Đan Phượng",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dan phuong lam ha lam dong",
+            "Point": null,
+            "Abbr": "dp lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66321"
+        },
+        {
+            "MaPhuongXa": "67313",
+            "TenPhuongXa": "Nam Hà",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam ha lam ha lam dong",
+            "Point": null,
+            "Abbr": "nh lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66307"
+        },
+        {
+            "MaPhuongXa": "67280",
+            "TenPhuongXa": "Đinh Văn",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dv",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh van lam ha lam dong",
+            "Point": null,
+            "Abbr": "dv lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66306"
+        },
+        {
+            "MaPhuongXa": "67285",
+            "TenPhuongXa": "Gia Lâm",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "gl",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia lam lam ha lam dong",
+            "Point": null,
+            "Abbr": "gl lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66312"
+        },
+        {
+            "MaPhuongXa": "67287",
+            "TenPhuongXa": "Đông Thanh",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong thanh lam ha lam dong",
+            "Point": null,
+            "Abbr": "dt lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66314"
+        },
+        {
+            "MaPhuongXa": "67289",
+            "TenPhuongXa": "Nam Ban",
+            "MaQuanHuyen": "6728",
+            "TenQuanHuyen": "Lâm Hà",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "nb",
+                    "Point": 5
+                },
+                {
+                    "Key": "lh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam ban lam ha lam dong",
+            "Point": null,
+            "Abbr": "nb lh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66313"
+        }
+    ],
+    "6737": [
+        {
+            "MaPhuongXa": "67392",
+            "TenPhuongXa": "Liên Đầm",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien dam di linh lam dong",
+            "Point": null,
+            "Abbr": "ld dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66709"
+        },
+        {
+            "MaPhuongXa": "67394",
+            "TenPhuongXa": "Hoà Trung",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa trung di linh lam dong",
+            "Point": null,
+            "Abbr": "ht dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66719"
+        },
+        {
+            "MaPhuongXa": "67396",
+            "TenPhuongXa": "Hoà Ninh",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa ninh di linh lam dong",
+            "Point": null,
+            "Abbr": "hn dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66720"
+        },
+        {
+            "MaPhuongXa": "67399",
+            "TenPhuongXa": "Hoà Bắc",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa bac di linh lam dong",
+            "Point": null,
+            "Abbr": "hb dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66722"
+        },
+        {
+            "MaPhuongXa": "67407",
+            "TenPhuongXa": "Sơn Điền",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "sd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son dien di linh lam dong",
+            "Point": null,
+            "Abbr": "sd dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66723"
+        },
+        {
+            "MaPhuongXa": "67405",
+            "TenPhuongXa": "Gung Ré",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "gr",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gung re di linh lam dong",
+            "Point": null,
+            "Abbr": "gr dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66710"
+        },
+        {
+            "MaPhuongXa": "67402",
+            "TenPhuongXa": "Hoà Nam",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa nam di linh lam dong",
+            "Point": null,
+            "Abbr": "hn dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66721"
+        },
+        {
+            "MaPhuongXa": "67409",
+            "TenPhuongXa": "Gia Bắc",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "gb",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia bac di linh lam dong",
+            "Point": null,
+            "Abbr": "gb dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66724"
+        },
+        {
+            "MaPhuongXa": "67416",
+            "TenPhuongXa": "Tân Lâm",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lam di linh lam dong",
+            "Point": null,
+            "Abbr": "tl dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66717"
+        },
+        {
+            "MaPhuongXa": "67412",
+            "TenPhuongXa": "Tam Bố",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam bo di linh lam dong",
+            "Point": null,
+            "Abbr": "tb dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66712"
+        },
+        {
+            "MaPhuongXa": "67410",
+            "TenPhuongXa": "Bảo Thuận",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bao thuan di linh lam dong",
+            "Point": null,
+            "Abbr": "bt dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66711"
+        },
+        {
+            "MaPhuongXa": "67370",
+            "TenPhuongXa": "Di Linh",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "di linh di linh lam dong",
+            "Point": null,
+            "Abbr": "dl dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66706"
+        },
+        {
+            "MaPhuongXa": "67375",
+            "TenPhuongXa": "Đinh Lạc",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh lac di linh lam dong",
+            "Point": null,
+            "Abbr": "dl dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66714"
+        },
+        {
+            "MaPhuongXa": "67377",
+            "TenPhuongXa": "Gia Hiệp",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "gh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia hiep di linh lam dong",
+            "Point": null,
+            "Abbr": "gh dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66713"
+        },
+        {
+            "MaPhuongXa": "67379",
+            "TenPhuongXa": "Tân Nghĩa",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan nghia di linh lam dong",
+            "Point": null,
+            "Abbr": "tn dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66707"
+        },
+        {
+            "MaPhuongXa": "67381",
+            "TenPhuongXa": "Tân Châu",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan chau di linh lam dong",
+            "Point": null,
+            "Abbr": "tc dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66708"
+        },
+        {
+            "MaPhuongXa": "67383",
+            "TenPhuongXa": "Tân Thượng",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thuong di linh lam dong",
+            "Point": null,
+            "Abbr": "tt dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66715"
+        },
+        {
+            "MaPhuongXa": "67385",
+            "TenPhuongXa": "Đinh Trang Thượng",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dtt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh trang thuong di linh lam dong",
+            "Point": null,
+            "Abbr": "dtt dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66716"
+        },
+        {
+            "MaPhuongXa": "67386",
+            "TenPhuongXa": "Đinh Trang Hoà",
+            "MaQuanHuyen": "6737",
+            "TenQuanHuyen": "Di Linh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dth",
+                    "Point": 5
+                },
+                {
+                    "Key": "dl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh trang hoa di linh lam dong",
+            "Point": null,
+            "Abbr": "dth dl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66718"
+        }
+    ],
+    "6752": [
+        {
+            "MaPhuongXa": "67526",
+            "TenPhuongXa": "Mỹ Đức",
+            "MaQuanHuyen": "6752",
+            "TenQuanHuyen": "Đạ Tẻh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "md",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my duc da teh lam dong",
+            "Point": null,
+            "Abbr": "md dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66612"
+        },
+        {
+            "MaPhuongXa": "67524",
+            "TenPhuongXa": "Quảng Trị",
+            "MaQuanHuyen": "6752",
+            "TenQuanHuyen": "Đạ Tẻh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "qt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quang tri da teh lam dong",
+            "Point": null,
+            "Abbr": "qt dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66611"
+        },
+        {
+            "MaPhuongXa": "67522",
+            "TenPhuongXa": "Triệu Hải",
+            "MaQuanHuyen": "6752",
+            "TenQuanHuyen": "Đạ Tẻh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trieu hai da teh lam dong",
+            "Point": null,
+            "Abbr": "th dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66609"
+        },
+        {
+            "MaPhuongXa": "67520",
+            "TenPhuongXa": "Đạ Tẻh",
+            "MaQuanHuyen": "6752",
+            "TenQuanHuyen": "Đạ Tẻh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da teh da teh lam dong",
+            "Point": null,
+            "Abbr": "dt dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66606"
+        },
+        {
+            "MaPhuongXa": "67521",
+            "TenPhuongXa": "Hà Đông",
+            "MaQuanHuyen": "6752",
+            "TenQuanHuyen": "Đạ Tẻh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha dong da teh lam dong",
+            "Point": null,
+            "Abbr": "hd dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66608"
+        },
+        {
+            "MaPhuongXa": "67528",
+            "TenPhuongXa": "Quốc Oai",
+            "MaQuanHuyen": "6752",
+            "TenQuanHuyen": "Đạ Tẻh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "qo",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quoc oai da teh lam dong",
+            "Point": null,
+            "Abbr": "qo dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66613"
+        },
+        {
+            "MaPhuongXa": "67536",
+            "TenPhuongXa": "Đạ Kho",
+            "MaQuanHuyen": "6752",
+            "TenQuanHuyen": "Đạ Tẻh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da kho da teh lam dong",
+            "Point": null,
+            "Abbr": "dk dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66607"
+        },
+        {
+            "MaPhuongXa": "67534",
+            "TenPhuongXa": "Đạ Lây",
+            "MaQuanHuyen": "6752",
+            "TenQuanHuyen": "Đạ Tẻh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da lay da teh lam dong",
+            "Point": null,
+            "Abbr": "dl dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66616"
+        },
+        {
+            "MaPhuongXa": "67532",
+            "TenPhuongXa": "Hương Lâm",
+            "MaQuanHuyen": "6752",
+            "TenQuanHuyen": "Đạ Tẻh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huong lam da teh lam dong",
+            "Point": null,
+            "Abbr": "hl dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66615"
+        },
+        {
+            "MaPhuongXa": "67530",
+            "TenPhuongXa": "An Nhơn",
+            "MaQuanHuyen": "6752",
+            "TenQuanHuyen": "Đạ Tẻh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "an",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an nhon da teh lam dong",
+            "Point": null,
+            "Abbr": "an dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66614"
+        },
+        {
+            "MaPhuongXa": "67538",
+            "TenPhuongXa": "Đạ Pal",
+            "MaQuanHuyen": "6752",
+            "TenQuanHuyen": "Đạ Tẻh",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da pal da teh lam dong",
+            "Point": null,
+            "Abbr": "dp dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66610"
+        }
+    ],
+    "6747": [
+        {
+            "MaPhuongXa": "67494",
+            "TenPhuongXa": "B'Lao",
+            "MaQuanHuyen": "6747",
+            "TenQuanHuyen": "Bảo Lộc",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "b",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "b'lao bao loc lam dong",
+            "Point": null,
+            "Abbr": "b bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66459"
+        },
+        {
+            "MaPhuongXa": "67490",
+            "TenPhuongXa": "Lộc Tiến",
+            "MaQuanHuyen": "6747",
+            "TenQuanHuyen": "Bảo Lộc",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc tien bao loc lam dong",
+            "Point": null,
+            "Abbr": "lt bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66464"
+        },
+        {
+            "MaPhuongXa": "67506",
+            "TenPhuongXa": "Lộc Sơn",
+            "MaQuanHuyen": "6747",
+            "TenQuanHuyen": "Bảo Lộc",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc son bao loc lam dong",
+            "Point": null,
+            "Abbr": "ls bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66460"
+        },
+        {
+            "MaPhuongXa": "67503",
+            "TenPhuongXa": "Đại Lào",
+            "MaQuanHuyen": "6747",
+            "TenQuanHuyen": "Bảo Lộc",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dai lao bao loc lam dong",
+            "Point": null,
+            "Abbr": "dl bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66466"
+        },
+        {
+            "MaPhuongXa": "67500",
+            "TenPhuongXa": "Lộc Châu",
+            "MaQuanHuyen": "6747",
+            "TenQuanHuyen": "Bảo Lộc",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc chau bao loc lam dong",
+            "Point": null,
+            "Abbr": "lc bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66465"
+        },
+        {
+            "MaPhuongXa": "67509",
+            "TenPhuongXa": "Lộc Nga",
+            "MaQuanHuyen": "6747",
+            "TenQuanHuyen": "Bảo Lộc",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ln",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc nga bao loc lam dong",
+            "Point": null,
+            "Abbr": "ln bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66461"
+        },
+        {
+            "MaPhuongXa": "67477",
+            "TenPhuongXa": "Lộc Thanh",
+            "MaQuanHuyen": "6747",
+            "TenQuanHuyen": "Bảo Lộc",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc thanh bao loc lam dong",
+            "Point": null,
+            "Abbr": "lt bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66462"
+        },
+        {
+            "MaPhuongXa": "67475",
+            "TenPhuongXa": "Lộc Phát",
+            "MaQuanHuyen": "6747",
+            "TenQuanHuyen": "Bảo Lộc",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc phat bao loc lam dong",
+            "Point": null,
+            "Abbr": "lp bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66457"
+        },
+        {
+            "MaPhuongXa": "67470",
+            "TenPhuongXa": "Số 1",
+            "MaQuanHuyen": "6747",
+            "TenQuanHuyen": "Bảo Lộc",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "s1",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 1 bao loc lam dong",
+            "Point": null,
+            "Abbr": "s1 bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66456"
+        },
+        {
+            "MaPhuongXa": "67479",
+            "TenPhuongXa": "Số 2",
+            "MaQuanHuyen": "6747",
+            "TenQuanHuyen": "Bảo Lộc",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "s2",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 2 bao loc lam dong",
+            "Point": null,
+            "Abbr": "s2 bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66458"
+        },
+        {
+            "MaPhuongXa": "67487",
+            "TenPhuongXa": "Đạ M'Bri",
+            "MaQuanHuyen": "6747",
+            "TenQuanHuyen": "Bảo Lộc",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da m'bri bao loc lam dong",
+            "Point": null,
+            "Abbr": "dm bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66463"
+        }
+    ],
+    "6758": [
+        {
+            "MaPhuongXa": "67593",
+            "TenPhuongXa": "Phước Lộc",
+            "MaQuanHuyen": "6758",
+            "TenQuanHuyen": "Đạ Huoai",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc loc da huoai lam dong",
+            "Point": null,
+            "Abbr": "pl dh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66658"
+        },
+        {
+            "MaPhuongXa": "67591",
+            "TenPhuongXa": "Ma Đa Gui",
+            "MaQuanHuyen": "6758",
+            "TenQuanHuyen": "Đạ Huoai",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "mdg",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ma da gui da huoai lam dong",
+            "Point": null,
+            "Abbr": "mdg dh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66661"
+        },
+        {
+            "MaPhuongXa": "67586",
+            "TenPhuongXa": "Đạ M'Ri",
+            "MaQuanHuyen": "6758",
+            "TenQuanHuyen": "Đạ Huoai",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da m'ri da huoai lam dong",
+            "Point": null,
+            "Abbr": "dm dh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66665"
+        },
+        {
+            "MaPhuongXa": "67587",
+            "TenPhuongXa": "Hà Lâm",
+            "MaQuanHuyen": "6758",
+            "TenQuanHuyen": "Đạ Huoai",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha lam da huoai lam dong",
+            "Point": null,
+            "Abbr": "hl dh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66657"
+        },
+        {
+            "MaPhuongXa": "67584",
+            "TenPhuongXa": "Đoàn Kết",
+            "MaQuanHuyen": "6758",
+            "TenQuanHuyen": "Đạ Huoai",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "doan ket da huoai lam dong",
+            "Point": null,
+            "Abbr": "dk dh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66662"
+        },
+        {
+            "MaPhuongXa": "67585",
+            "TenPhuongXa": "Đạ P'Loa",
+            "MaQuanHuyen": "6758",
+            "TenQuanHuyen": "Đạ Huoai",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da p'loa da huoai lam dong",
+            "Point": null,
+            "Abbr": "dp dh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66663"
+        },
+        {
+            "MaPhuongXa": "67582",
+            "TenPhuongXa": "Đạ M'Ri",
+            "MaQuanHuyen": "6758",
+            "TenQuanHuyen": "Đạ Huoai",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da m'ri da huoai lam dong",
+            "Point": null,
+            "Abbr": "dm dh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66664"
+        },
+        {
+            "MaPhuongXa": "67580",
+            "TenPhuongXa": "Ma Đa Gui",
+            "MaQuanHuyen": "6758",
+            "TenQuanHuyen": "Đạ Huoai",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "mdg",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ma da gui da huoai lam dong",
+            "Point": null,
+            "Abbr": "mdg dh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66656"
+        },
+        {
+            "MaPhuongXa": "67588",
+            "TenPhuongXa": "Đạ Tồn",
+            "MaQuanHuyen": "6758",
+            "TenQuanHuyen": "Đạ Huoai",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da ton da huoai lam dong",
+            "Point": null,
+            "Abbr": "dt dh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66659"
+        },
+        {
+            "MaPhuongXa": "67589",
+            "TenPhuongXa": "Đạ Oai",
+            "MaQuanHuyen": "6758",
+            "TenQuanHuyen": "Đạ Huoai",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "do",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da oai da huoai lam dong",
+            "Point": null,
+            "Abbr": "do dh ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66660"
+        }
+    ],
+    "6760": [
+        {
+            "MaPhuongXa": "67605",
+            "TenPhuongXa": "Đạ K'Nàng",
+            "MaQuanHuyen": "6760",
+            "TenQuanHuyen": "Đam Rông",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "dr",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da k'nang dam rong lam dong",
+            "Point": null,
+            "Abbr": "dk dr ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66261"
+        },
+        {
+            "MaPhuongXa": "67604",
+            "TenPhuongXa": "Rô Men",
+            "MaQuanHuyen": "6760",
+            "TenQuanHuyen": "Đam Rông",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "rm",
+                    "Point": 5
+                },
+                {
+                    "Key": "dr",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ro men dam rong lam dong",
+            "Point": null,
+            "Abbr": "rm dr ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66256"
+        },
+        {
+            "MaPhuongXa": "67607",
+            "TenPhuongXa": "Phi Liêng",
+            "MaQuanHuyen": "6760",
+            "TenQuanHuyen": "Đam Rông",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dr",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phi lieng dam rong lam dong",
+            "Point": null,
+            "Abbr": "pl dr ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66260"
+        },
+        {
+            "MaPhuongXa": "67600",
+            "TenPhuongXa": "Đạ Tông",
+            "MaQuanHuyen": "6760",
+            "TenQuanHuyen": "Đam Rông",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dr",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da tong dam rong lam dong",
+            "Point": null,
+            "Abbr": "dt dr ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66262"
+        },
+        {
+            "MaPhuongXa": "67603",
+            "TenPhuongXa": "Đạ Long",
+            "MaQuanHuyen": "6760",
+            "TenQuanHuyen": "Đam Rông",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dr",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da long dam rong lam dong",
+            "Point": null,
+            "Abbr": "dl dr ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66263"
+        },
+        {
+            "MaPhuongXa": "67602",
+            "TenPhuongXa": "Đạ M'Rong",
+            "MaQuanHuyen": "6760",
+            "TenQuanHuyen": "Đam Rông",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dm",
+                    "Point": 5
+                },
+                {
+                    "Key": "dr",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da m'rong dam rong lam dong",
+            "Point": null,
+            "Abbr": "dm dr ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66257"
+        },
+        {
+            "MaPhuongXa": "67609",
+            "TenPhuongXa": "Liêng S'Rônh",
+            "MaQuanHuyen": "6760",
+            "TenQuanHuyen": "Đam Rông",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ls",
+                    "Point": 5
+                },
+                {
+                    "Key": "dr",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lieng s'ronh dam rong lam dong",
+            "Point": null,
+            "Abbr": "ls dr ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66259"
+        },
+        {
+            "MaPhuongXa": "67611",
+            "TenPhuongXa": "Đạ Rsal",
+            "MaQuanHuyen": "6760",
+            "TenQuanHuyen": "Đam Rông",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dr",
+                    "Point": 5
+                },
+                {
+                    "Key": "dr",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da rsal dam rong lam dong",
+            "Point": null,
+            "Abbr": "dr dr ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66258"
+        }
+    ],
+    "6733": [
+        {
+            "MaPhuongXa": "67350",
+            "TenPhuongXa": "Tà Hine",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta hine duc trong lam dong",
+            "Point": null,
+            "Abbr": "th dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66816"
+        },
+        {
+            "MaPhuongXa": "67351",
+            "TenPhuongXa": "Ninh Loan",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "nl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh loan duc trong lam dong",
+            "Point": null,
+            "Abbr": "nl dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66817"
+        },
+        {
+            "MaPhuongXa": "67353",
+            "TenPhuongXa": "Đà Loan",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da loan duc trong lam dong",
+            "Point": null,
+            "Abbr": "dl dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66818"
+        },
+        {
+            "MaPhuongXa": "67356",
+            "TenPhuongXa": "Tà Năng",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ta nang duc trong lam dong",
+            "Point": null,
+            "Abbr": "tn dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66819"
+        },
+        {
+            "MaPhuongXa": "67359",
+            "TenPhuongXa": "Đa Quyn",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dq",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da quyn duc trong lam dong",
+            "Point": null,
+            "Abbr": "dq dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66820"
+        },
+        {
+            "MaPhuongXa": "67330",
+            "TenPhuongXa": "Liên Nghĩa",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ln",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien nghia duc trong lam dong",
+            "Point": null,
+            "Abbr": "ln dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66806"
+        },
+        {
+            "MaPhuongXa": "67335",
+            "TenPhuongXa": "Hiệp Thạnh",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep thanh duc trong lam dong",
+            "Point": null,
+            "Abbr": "ht dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66807"
+        },
+        {
+            "MaPhuongXa": "67337",
+            "TenPhuongXa": "Hiệp An",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ha",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep an duc trong lam dong",
+            "Point": null,
+            "Abbr": "ha dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66813"
+        },
+        {
+            "MaPhuongXa": "67339",
+            "TenPhuongXa": "Liên Hiệp",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lien hiep duc trong lam dong",
+            "Point": null,
+            "Abbr": "lh dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66808"
+        },
+        {
+            "MaPhuongXa": "67340",
+            "TenPhuongXa": "N'Thôn Hạ",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "n'thon ha duc trong lam dong",
+            "Point": null,
+            "Abbr": "nh dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66809"
+        },
+        {
+            "MaPhuongXa": "67341",
+            "TenPhuongXa": "Bình Thạnh",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thanh duc trong lam dong",
+            "Point": null,
+            "Abbr": "bt dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66814"
+        },
+        {
+            "MaPhuongXa": "67342",
+            "TenPhuongXa": "Tân Hội",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoi duc trong lam dong",
+            "Point": null,
+            "Abbr": "th dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66810"
+        },
+        {
+            "MaPhuongXa": "67344",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh duc trong lam dong",
+            "Point": null,
+            "Abbr": "tt dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66811"
+        },
+        {
+            "MaPhuongXa": "67345",
+            "TenPhuongXa": "Phú Hội",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hoi duc trong lam dong",
+            "Point": null,
+            "Abbr": "ph dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66812"
+        },
+        {
+            "MaPhuongXa": "67348",
+            "TenPhuongXa": "Ninh Gia",
+            "MaQuanHuyen": "6733",
+            "TenQuanHuyen": "Đức Trọng",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ng",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ninh gia duc trong lam dong",
+            "Point": null,
+            "Abbr": "ng dt ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66815"
+        }
+    ],
+    "6743": [
+        {
+            "MaPhuongXa": "67455",
+            "TenPhuongXa": "Lộc An",
+            "MaQuanHuyen": "6743",
+            "TenQuanHuyen": "Bảo Lâm",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "la",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc an bao lam lam dong",
+            "Point": null,
+            "Abbr": "la bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66412"
+        },
+        {
+            "MaPhuongXa": "67453",
+            "TenPhuongXa": "Tân Lạc",
+            "MaQuanHuyen": "6743",
+            "TenQuanHuyen": "Bảo Lâm",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lac bao lam lam dong",
+            "Point": null,
+            "Abbr": "tl bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66419"
+        },
+        {
+            "MaPhuongXa": "67451",
+            "TenPhuongXa": "Lộc Nam",
+            "MaQuanHuyen": "6743",
+            "TenQuanHuyen": "Bảo Lâm",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ln",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc nam bao lam lam dong",
+            "Point": null,
+            "Abbr": "ln bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66418"
+        },
+        {
+            "MaPhuongXa": "67436",
+            "TenPhuongXa": "Lộc Đức",
+            "MaQuanHuyen": "6743",
+            "TenQuanHuyen": "Bảo Lâm",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc duc bao lam lam dong",
+            "Point": null,
+            "Abbr": "ld bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66413"
+        },
+        {
+            "MaPhuongXa": "67433",
+            "TenPhuongXa": "Lộc Ngãi",
+            "MaQuanHuyen": "6743",
+            "TenQuanHuyen": "Bảo Lâm",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ln",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc ngai bao lam lam dong",
+            "Point": null,
+            "Abbr": "ln bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66407"
+        },
+        {
+            "MaPhuongXa": "67430",
+            "TenPhuongXa": "Lộc Thắng",
+            "MaQuanHuyen": "6743",
+            "TenQuanHuyen": "Bảo Lâm",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc thang bao lam lam dong",
+            "Point": null,
+            "Abbr": "lt bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66406"
+        },
+        {
+            "MaPhuongXa": "67439",
+            "TenPhuongXa": "Lộc Lâm",
+            "MaQuanHuyen": "6743",
+            "TenQuanHuyen": "Bảo Lâm",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ll",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc lam bao lam lam dong",
+            "Point": null,
+            "Abbr": "ll bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66409"
+        },
+        {
+            "MaPhuongXa": "67438",
+            "TenPhuongXa": "Lộc Phú",
+            "MaQuanHuyen": "6743",
+            "TenQuanHuyen": "Bảo Lâm",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc phu bao lam lam dong",
+            "Point": null,
+            "Abbr": "lp bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66408"
+        },
+        {
+            "MaPhuongXa": "67447",
+            "TenPhuongXa": "Lộc Thành",
+            "MaQuanHuyen": "6743",
+            "TenQuanHuyen": "Bảo Lâm",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc thanh bao lam lam dong",
+            "Point": null,
+            "Abbr": "lt bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66417"
+        },
+        {
+            "MaPhuongXa": "67445",
+            "TenPhuongXa": "Lộc Tân",
+            "MaQuanHuyen": "6743",
+            "TenQuanHuyen": "Bảo Lâm",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc tan bao lam lam dong",
+            "Point": null,
+            "Abbr": "lt bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66416"
+        },
+        {
+            "MaPhuongXa": "67443",
+            "TenPhuongXa": "Lộc Quảng",
+            "MaQuanHuyen": "6743",
+            "TenQuanHuyen": "Bảo Lâm",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "lq",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc quang bao lam lam dong",
+            "Point": null,
+            "Abbr": "lq bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66411"
+        },
+        {
+            "MaPhuongXa": "67442",
+            "TenPhuongXa": "Lộc Bắc",
+            "MaQuanHuyen": "6743",
+            "TenQuanHuyen": "Bảo Lâm",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc bac bao lam lam dong",
+            "Point": null,
+            "Abbr": "lb bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66415"
+        },
+        {
+            "MaPhuongXa": "67441",
+            "TenPhuongXa": "Lộc Bảo",
+            "MaQuanHuyen": "6743",
+            "TenQuanHuyen": "Bảo Lâm",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "loc bao bao lam lam dong",
+            "Point": null,
+            "Abbr": "lb bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66414"
+        },
+        {
+            "MaPhuongXa": "67440",
+            "TenPhuongXa": "B'Lá",
+            "MaQuanHuyen": "6743",
+            "TenQuanHuyen": "Bảo Lâm",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "b",
+                    "Point": 5
+                },
+                {
+                    "Key": "bl",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "b'la bao lam lam dong",
+            "Point": null,
+            "Abbr": "b bl ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66410"
+        }
+    ],
+    "6727": [
+        {
+            "MaPhuongXa": "67270",
+            "TenPhuongXa": "Lạc Dương",
+            "MaQuanHuyen": "6727",
+            "TenQuanHuyen": "Lạc Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac duong lac duong lam dong",
+            "Point": null,
+            "Abbr": "ld ld ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66206"
+        },
+        {
+            "MaPhuongXa": "67273",
+            "TenPhuongXa": "Đạ Sas",
+            "MaQuanHuyen": "6727",
+            "TenQuanHuyen": "Lạc Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da sas lac duong lam dong",
+            "Point": null,
+            "Abbr": "ds ld ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66207"
+        },
+        {
+            "MaPhuongXa": "67275",
+            "TenPhuongXa": "Đưng K'Nớ",
+            "MaQuanHuyen": "6727",
+            "TenQuanHuyen": "Lạc Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dung k'no lac duong lam dong",
+            "Point": null,
+            "Abbr": "dk ld ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66209"
+        },
+        {
+            "MaPhuongXa": "67274",
+            "TenPhuongXa": "Đạ Chais",
+            "MaQuanHuyen": "6727",
+            "TenQuanHuyen": "Lạc Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da chais lac duong lam dong",
+            "Point": null,
+            "Abbr": "dc ld ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66211"
+        },
+        {
+            "MaPhuongXa": "67277",
+            "TenPhuongXa": "Lát",
+            "MaQuanHuyen": "6727",
+            "TenQuanHuyen": "Lạc Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "l",
+                    "Point": 5
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lat lac duong lam dong",
+            "Point": null,
+            "Abbr": "l ld ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66208"
+        },
+        {
+            "MaPhuongXa": "67276",
+            "TenPhuongXa": "Đạ Nhim",
+            "MaQuanHuyen": "6727",
+            "TenQuanHuyen": "Lạc Dương",
+            "MaTinhThanh": "67",
+            "TenTinhThanh": "Lâm Đồng",
+            "LstSearchTag": [
+                {
+                    "Key": "dn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                },
+                {
+                    "Key": "ld",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da nhim lac duong lam dong",
+            "Point": null,
+            "Abbr": "dn ld ld",
+            "TrangThai": null,
+            "MaBuuChinh": "66210"
+        }
+    ]
+}

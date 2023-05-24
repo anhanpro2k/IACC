@@ -1,0 +1,108 @@
+.page-numbers {
+  @include flex;
+  align-items: center;
+  justify-content: start;
+
+  &.m-top {
+    margin-top: 3rem;
+  }
+
+  .dot {
+    width: 5.3rem;
+    height: 0.1rem;
+    background: $color-text;
+
+  }
+
+  >li {
+    &:not(:first-child) {
+      margin-left: 0.8rem;
+
+      @include max(420px) {
+        margin-left: 0.4rem;
+      }
+    }
+
+    &>.page-numbers {
+      background-color: #FEF8EA;
+      line-height: 1.5;
+      font-weight: 400;
+      color: $color-second;
+      @include mid-flex;
+      cursor: pointer;
+      border-radius: 50%;
+      transition: 0.3s ease-in-out;
+      width: 3.2rem;
+      height: 3.2rem;
+      border-radius: 50%;
+      @include fz-16;
+      
+      @include hover{
+        background-color: $color-second;
+        color: white;
+
+        i{
+          color: white;
+        }
+      }
+
+      @include max(600px) {
+        width: 3.2rem;
+        height: 3.2rem;
+        font-size: 1.4rem;
+      }
+
+      // &:hover {
+      //   @include min(1201px) {}
+      // }
+
+      &.current {
+        background: $color-second;
+        color: white;
+        border-radius: 50%;
+      }
+
+      &.dot {
+        pointer-events: none;
+      }
+
+      .icon {
+        font-weight: 400;
+      }
+    }
+  }
+
+  .page-numbers.next,
+  .page-numbers.prev {
+    cursor: pointer;
+   
+    color: black;
+
+    i {
+      font-weight: 400;
+    }
+
+    >.page-numbers {}
+
+    &:hover {
+      color: $color-third;
+      
+    }
+
+    .icon {
+      font-weight: 900 !important;
+      font-size: 1rem;
+      cursor: pointer;
+      // transition: all 0.3s ease-in-out;
+    }
+  }
+}
+
+
+.pagination {
+  &.center {
+    .page-numbers {
+      justify-content: center;
+    }
+  }
+}

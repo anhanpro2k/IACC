@@ -1,0 +1,3048 @@
+{
+    "6219": [
+        {
+            "MaPhuongXa": "62210",
+            "TenPhuongXa": "Xuân Yên",
+            "MaQuanHuyen": "6219",
+            "TenQuanHuyen": "Sông Cầu",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xy",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan yen song cau phu yen",
+            "Point": null,
+            "Abbr": "xy sc py",
+            "TrangThai": null,
+            "MaBuuChinh": "56312"
+        },
+        {
+            "MaPhuongXa": "62200",
+            "TenPhuongXa": "Xuân Lộc",
+            "MaQuanHuyen": "6219",
+            "TenQuanHuyen": "Sông Cầu",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan loc song cau phu yen",
+            "Point": null,
+            "Abbr": "xl sc py",
+            "TrangThai": null,
+            "MaBuuChinh": "56318"
+        },
+        {
+            "MaPhuongXa": "62202",
+            "TenPhuongXa": "Xuân Thọ 1",
+            "MaQuanHuyen": "6219",
+            "TenQuanHuyen": "Sông Cầu",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xt1",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan tho 1 song cau phu yen",
+            "Point": null,
+            "Abbr": "xt1 sc py",
+            "TrangThai": null,
+            "MaBuuChinh": "56310"
+        },
+        {
+            "MaPhuongXa": "62204",
+            "TenPhuongXa": "Xuân Thọ 2",
+            "MaQuanHuyen": "6219",
+            "TenQuanHuyen": "Sông Cầu",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xt2",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan tho 2 song cau phu yen",
+            "Point": null,
+            "Abbr": "xt2 sc py",
+            "TrangThai": null,
+            "MaBuuChinh": "56309"
+        },
+        {
+            "MaPhuongXa": "62206",
+            "TenPhuongXa": "Xuân Lâm",
+            "MaQuanHuyen": "6219",
+            "TenQuanHuyen": "Sông Cầu",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan lam song cau phu yen",
+            "Point": null,
+            "Abbr": "xl sc py",
+            "TrangThai": null,
+            "MaBuuChinh": "56311"
+        },
+        {
+            "MaPhuongXa": "62209",
+            "TenPhuongXa": "Xuân Thành",
+            "MaQuanHuyen": "6219",
+            "TenQuanHuyen": "Sông Cầu",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan thanh song cau phu yen",
+            "Point": null,
+            "Abbr": "xt sc py",
+            "TrangThai": null,
+            "MaBuuChinh": "56307"
+        },
+        {
+            "MaPhuongXa": "62208",
+            "TenPhuongXa": "Xuân Đài",
+            "MaQuanHuyen": "6219",
+            "TenQuanHuyen": "Sông Cầu",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xd",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan dai song cau phu yen",
+            "Point": null,
+            "Abbr": "xd sc py",
+            "TrangThai": null,
+            "MaBuuChinh": "56308"
+        },
+        {
+            "MaPhuongXa": "62190",
+            "TenPhuongXa": "Xuân Phú",
+            "MaQuanHuyen": "6219",
+            "TenQuanHuyen": "Sông Cầu",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan phu song cau phu yen",
+            "Point": null,
+            "Abbr": "xp sc py",
+            "TrangThai": null,
+            "MaBuuChinh": "56306"
+        },
+        {
+            "MaPhuongXa": "62196",
+            "TenPhuongXa": "Xuân Cảnh",
+            "MaQuanHuyen": "6219",
+            "TenQuanHuyen": "Sông Cầu",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xc",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan canh song cau phu yen",
+            "Point": null,
+            "Abbr": "xc sc py",
+            "TrangThai": null,
+            "MaBuuChinh": "56315"
+        },
+        {
+            "MaPhuongXa": "62197",
+            "TenPhuongXa": "Xuân Hoà",
+            "MaQuanHuyen": "6219",
+            "TenQuanHuyen": "Sông Cầu",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan hoa song cau phu yen",
+            "Point": null,
+            "Abbr": "xh sc py",
+            "TrangThai": null,
+            "MaBuuChinh": "56316"
+        },
+        {
+            "MaPhuongXa": "62194",
+            "TenPhuongXa": "Xuân Thịnh",
+            "MaQuanHuyen": "6219",
+            "TenQuanHuyen": "Sông Cầu",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan thinh song cau phu yen",
+            "Point": null,
+            "Abbr": "xt sc py",
+            "TrangThai": null,
+            "MaBuuChinh": "56314"
+        },
+        {
+            "MaPhuongXa": "62195",
+            "TenPhuongXa": "Xuân Phương",
+            "MaQuanHuyen": "6219",
+            "TenQuanHuyen": "Sông Cầu",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan phuong song cau phu yen",
+            "Point": null,
+            "Abbr": "xp sc py",
+            "TrangThai": null,
+            "MaBuuChinh": "56313"
+        },
+        {
+            "MaPhuongXa": "62198",
+            "TenPhuongXa": "Xuân Bình",
+            "MaQuanHuyen": "6219",
+            "TenQuanHuyen": "Sông Cầu",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xb",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan binh song cau phu yen",
+            "Point": null,
+            "Abbr": "xb sc py",
+            "TrangThai": null,
+            "MaBuuChinh": "56317"
+        },
+        {
+            "MaPhuongXa": "62199",
+            "TenPhuongXa": "Xuân Hải",
+            "MaQuanHuyen": "6219",
+            "TenQuanHuyen": "Sông Cầu",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xh",
+                    "Point": 5
+                },
+                {
+                    "Key": "sc",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan hai song cau phu yen",
+            "Point": null,
+            "Abbr": "xh sc py",
+            "TrangThai": null,
+            "MaBuuChinh": "56319"
+        }
+    ],
+    "6210": [
+        {
+            "MaPhuongXa": "62110",
+            "TenPhuongXa": "Số 4",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "s4",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 4 tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "s4 th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56112"
+        },
+        {
+            "MaPhuongXa": "62119",
+            "TenPhuongXa": "Số 6",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "s6",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 6 tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "s6 th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56111"
+        },
+        {
+            "MaPhuongXa": "62153",
+            "TenPhuongXa": "Phú Thạnh",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thanh tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "pt th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56109"
+        },
+        {
+            "MaPhuongXa": "62151",
+            "TenPhuongXa": "Phú Đông",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu dong tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "pd th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56110"
+        },
+        {
+            "MaPhuongXa": "62100",
+            "TenPhuongXa": "Số 1",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "s1",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 1 tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "s1 th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56106"
+        },
+        {
+            "MaPhuongXa": "62106",
+            "TenPhuongXa": "Số 3",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "s3",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 3 tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "s3 th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56113"
+        },
+        {
+            "MaPhuongXa": "62142",
+            "TenPhuongXa": "Hoà Kiến",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hk",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa kien tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "hk th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56121"
+        },
+        {
+            "MaPhuongXa": "62147",
+            "TenPhuongXa": "Phú Lâm",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu lam tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "pl th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56108"
+        },
+        {
+            "MaPhuongXa": "62144",
+            "TenPhuongXa": "Bình Ngọc",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh ngoc tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "bn th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56107"
+        },
+        {
+            "MaPhuongXa": "62145",
+            "TenPhuongXa": "Số 9",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "s9",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 9 tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "s9 th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56117"
+        },
+        {
+            "MaPhuongXa": "62148",
+            "TenPhuongXa": "An Phú",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ap",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an phu tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "ap th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56120"
+        },
+        {
+            "MaPhuongXa": "62121",
+            "TenPhuongXa": "Số 5",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "s5",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 5 tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "s5 th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56115"
+        },
+        {
+            "MaPhuongXa": "62125",
+            "TenPhuongXa": "Số 7",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "s7",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 7 tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "s7 th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56118"
+        },
+        {
+            "MaPhuongXa": "62132",
+            "TenPhuongXa": "Số 2",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "s2",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 2 tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "s2 th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56114"
+        },
+        {
+            "MaPhuongXa": "62138",
+            "TenPhuongXa": "Bình Kiến",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "bk",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh kien tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "bk th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56119"
+        },
+        {
+            "MaPhuongXa": "62139",
+            "TenPhuongXa": "Số 8",
+            "MaQuanHuyen": "6210",
+            "TenQuanHuyen": "Tuy Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "s8",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so 8 tuy hoa phu yen",
+            "Point": null,
+            "Abbr": "s8 th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56116"
+        }
+    ],
+    "6227": [
+        {
+            "MaPhuongXa": "62270",
+            "TenPhuongXa": "Hai Riêng",
+            "MaQuanHuyen": "6227",
+            "TenQuanHuyen": "Sông Hinh",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hr",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai rieng song hinh phu yen",
+            "Point": null,
+            "Abbr": "hr sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56606"
+        },
+        {
+            "MaPhuongXa": "62273",
+            "TenPhuongXa": "Ea Bia",
+            "MaQuanHuyen": "6227",
+            "TenQuanHuyen": "Sông Hinh",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "eb",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ea bia song hinh phu yen",
+            "Point": null,
+            "Abbr": "eb sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56607"
+        },
+        {
+            "MaPhuongXa": "62275",
+            "TenPhuongXa": "Đức Bình Đông",
+            "MaQuanHuyen": "6227",
+            "TenQuanHuyen": "Sông Hinh",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dbd",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc binh dong song hinh phu yen",
+            "Point": null,
+            "Abbr": "dbd sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56610"
+        },
+        {
+            "MaPhuongXa": "62277",
+            "TenPhuongXa": "Sơn Giang",
+            "MaQuanHuyen": "6227",
+            "TenQuanHuyen": "Sông Hinh",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "sg",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son giang song hinh phu yen",
+            "Point": null,
+            "Abbr": "sg sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56609"
+        },
+        {
+            "MaPhuongXa": "62279",
+            "TenPhuongXa": "Đức Bình Tây",
+            "MaQuanHuyen": "6227",
+            "TenQuanHuyen": "Sông Hinh",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dbt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duc binh tay song hinh phu yen",
+            "Point": null,
+            "Abbr": "dbt sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56608"
+        },
+        {
+            "MaPhuongXa": "62281",
+            "TenPhuongXa": "Ea Lâm",
+            "MaQuanHuyen": "6227",
+            "TenQuanHuyen": "Sông Hinh",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "el",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ea lam song hinh phu yen",
+            "Point": null,
+            "Abbr": "el sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56616"
+        },
+        {
+            "MaPhuongXa": "62280",
+            "TenPhuongXa": "Ea Bá",
+            "MaQuanHuyen": "6227",
+            "TenQuanHuyen": "Sông Hinh",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "eb",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ea ba song hinh phu yen",
+            "Point": null,
+            "Abbr": "eb sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56615"
+        },
+        {
+            "MaPhuongXa": "62282",
+            "TenPhuongXa": "Ea Bar",
+            "MaQuanHuyen": "6227",
+            "TenQuanHuyen": "Sông Hinh",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "eb",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ea bar song hinh phu yen",
+            "Point": null,
+            "Abbr": "eb sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56613"
+        },
+        {
+            "MaPhuongXa": "62284",
+            "TenPhuongXa": "Ea Trol",
+            "MaQuanHuyen": "6227",
+            "TenQuanHuyen": "Sông Hinh",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "et",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ea trol song hinh phu yen",
+            "Point": null,
+            "Abbr": "et sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56612"
+        },
+        {
+            "MaPhuongXa": "62286",
+            "TenPhuongXa": "Sông Hinh",
+            "MaQuanHuyen": "6227",
+            "TenQuanHuyen": "Sông Hinh",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "sh",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song hinh song hinh phu yen",
+            "Point": null,
+            "Abbr": "sh sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56611"
+        },
+        {
+            "MaPhuongXa": "62288",
+            "TenPhuongXa": "Ea Ly",
+            "MaQuanHuyen": "6227",
+            "TenQuanHuyen": "Sông Hinh",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "el",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ea ly song hinh phu yen",
+            "Point": null,
+            "Abbr": "el sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56614"
+        }
+    ],
+    "6216": [
+        {
+            "MaPhuongXa": "62172",
+            "TenPhuongXa": "An Xuân",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ax",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an xuan tuy an phu yen",
+            "Point": null,
+            "Abbr": "ax ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56213"
+        },
+        {
+            "MaPhuongXa": "62171",
+            "TenPhuongXa": "An Nghiệp",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "an",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an nghiep tuy an phu yen",
+            "Point": null,
+            "Abbr": "an ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56212"
+        },
+        {
+            "MaPhuongXa": "62176",
+            "TenPhuongXa": "An Thọ",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an tho tuy an phu yen",
+            "Point": null,
+            "Abbr": "at ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56215"
+        },
+        {
+            "MaPhuongXa": "62177",
+            "TenPhuongXa": "An Chấn",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ac",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an chan tuy an phu yen",
+            "Point": null,
+            "Abbr": "ac ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56216"
+        },
+        {
+            "MaPhuongXa": "62174",
+            "TenPhuongXa": "An Lĩnh",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "al",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an linh tuy an phu yen",
+            "Point": null,
+            "Abbr": "al ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56214"
+        },
+        {
+            "MaPhuongXa": "62175",
+            "TenPhuongXa": "An Hiệp",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hiep tuy an phu yen",
+            "Point": null,
+            "Abbr": "ah ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56218"
+        },
+        {
+            "MaPhuongXa": "62178",
+            "TenPhuongXa": "An Hoà Hải",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ahh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hoa hai tuy an phu yen",
+            "Point": null,
+            "Abbr": "ahh ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56219"
+        },
+        {
+            "MaPhuongXa": "62162",
+            "TenPhuongXa": "An Cư",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ac",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an cu tuy an phu yen",
+            "Point": null,
+            "Abbr": "ac ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56207"
+        },
+        {
+            "MaPhuongXa": "62163",
+            "TenPhuongXa": "An Hải",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an hai tuy an phu yen",
+            "Point": null,
+            "Abbr": "ah ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56220"
+        },
+        {
+            "MaPhuongXa": "62160",
+            "TenPhuongXa": "Chí Thạnh",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi thanh tuy an phu yen",
+            "Point": null,
+            "Abbr": "ct ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56206"
+        },
+        {
+            "MaPhuongXa": "62166",
+            "TenPhuongXa": "An Ninh Tây",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ant",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an ninh tay tuy an phu yen",
+            "Point": null,
+            "Abbr": "ant ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56209"
+        },
+        {
+            "MaPhuongXa": "62167",
+            "TenPhuongXa": "An Dân",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ad",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an dan tuy an phu yen",
+            "Point": null,
+            "Abbr": "ad ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56210"
+        },
+        {
+            "MaPhuongXa": "62164",
+            "TenPhuongXa": "An Thạch",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thach tuy an phu yen",
+            "Point": null,
+            "Abbr": "at ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56208"
+        },
+        {
+            "MaPhuongXa": "62165",
+            "TenPhuongXa": "An Ninh Đông",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "and",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an ninh dong tuy an phu yen",
+            "Point": null,
+            "Abbr": "and ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56221"
+        },
+        {
+            "MaPhuongXa": "62169",
+            "TenPhuongXa": "An Định",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ad",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an dinh tuy an phu yen",
+            "Point": null,
+            "Abbr": "ad ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56211"
+        },
+        {
+            "MaPhuongXa": "62180",
+            "TenPhuongXa": "An Mỹ",
+            "MaQuanHuyen": "6216",
+            "TenQuanHuyen": "Tuy An",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "am",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an my tuy an phu yen",
+            "Point": null,
+            "Abbr": "am ta py",
+            "TrangThai": null,
+            "MaBuuChinh": "56217"
+        }
+    ],
+    "6224": [
+        {
+            "MaPhuongXa": "62251",
+            "TenPhuongXa": "Sơn Phước",
+            "MaQuanHuyen": "6224",
+            "TenQuanHuyen": "Sơn Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "sp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son phuoc son hoa phu yen",
+            "Point": null,
+            "Abbr": "sp sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56516"
+        },
+        {
+            "MaPhuongXa": "62250",
+            "TenPhuongXa": "Sơn Định",
+            "MaQuanHuyen": "6224",
+            "TenQuanHuyen": "Sơn Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "sd",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son dinh son hoa phu yen",
+            "Point": null,
+            "Abbr": "sd sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56512"
+        },
+        {
+            "MaPhuongXa": "62252",
+            "TenPhuongXa": "Sơn Hội",
+            "MaQuanHuyen": "6224",
+            "TenQuanHuyen": "Sơn Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "sh",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son hoi son hoa phu yen",
+            "Point": null,
+            "Abbr": "sh sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56513"
+        },
+        {
+            "MaPhuongXa": "62254",
+            "TenPhuongXa": "Cà Lúi",
+            "MaQuanHuyen": "6224",
+            "TenQuanHuyen": "Sơn Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ca lui son hoa phu yen",
+            "Point": null,
+            "Abbr": "cl sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56515"
+        },
+        {
+            "MaPhuongXa": "62256",
+            "TenPhuongXa": "Phước Tân",
+            "MaQuanHuyen": "6224",
+            "TenQuanHuyen": "Sơn Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc tan son hoa phu yen",
+            "Point": null,
+            "Abbr": "pt sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56514"
+        },
+        {
+            "MaPhuongXa": "62258",
+            "TenPhuongXa": "Ea Chà Rang",
+            "MaQuanHuyen": "6224",
+            "TenQuanHuyen": "Sơn Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ecr",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ea cha rang son hoa phu yen",
+            "Point": null,
+            "Abbr": "ecr sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56517"
+        },
+        {
+            "MaPhuongXa": "62240",
+            "TenPhuongXa": "Củng Sơn",
+            "MaQuanHuyen": "6224",
+            "TenQuanHuyen": "Sơn Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cung son son hoa phu yen",
+            "Point": null,
+            "Abbr": "cs sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56506"
+        },
+        {
+            "MaPhuongXa": "62243",
+            "TenPhuongXa": "Sơn Hà",
+            "MaQuanHuyen": "6224",
+            "TenQuanHuyen": "Sơn Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "sh",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son ha son hoa phu yen",
+            "Point": null,
+            "Abbr": "sh sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56508"
+        },
+        {
+            "MaPhuongXa": "62245",
+            "TenPhuongXa": "Sơn Xuân",
+            "MaQuanHuyen": "6224",
+            "TenQuanHuyen": "Sơn Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "sx",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son xuan son hoa phu yen",
+            "Point": null,
+            "Abbr": "sx sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56510"
+        },
+        {
+            "MaPhuongXa": "62247",
+            "TenPhuongXa": "Suối Bạc",
+            "MaQuanHuyen": "6224",
+            "TenQuanHuyen": "Sơn Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "sb",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi bac son hoa phu yen",
+            "Point": null,
+            "Abbr": "sb sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56507"
+        },
+        {
+            "MaPhuongXa": "62246",
+            "TenPhuongXa": "Sơn Long",
+            "MaQuanHuyen": "6224",
+            "TenQuanHuyen": "Sơn Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son long son hoa phu yen",
+            "Point": null,
+            "Abbr": "sl sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56511"
+        },
+        {
+            "MaPhuongXa": "62249",
+            "TenPhuongXa": "Sơn Nguyên",
+            "MaQuanHuyen": "6224",
+            "TenQuanHuyen": "Sơn Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "sn",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son nguyen son hoa phu yen",
+            "Point": null,
+            "Abbr": "sn sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56509"
+        },
+        {
+            "MaPhuongXa": "62260",
+            "TenPhuongXa": "Krông Pa",
+            "MaQuanHuyen": "6224",
+            "TenQuanHuyen": "Sơn Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "kp",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "krong pa son hoa phu yen",
+            "Point": null,
+            "Abbr": "kp sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56519"
+        },
+        {
+            "MaPhuongXa": "62262",
+            "TenPhuongXa": "Suối Trai",
+            "MaQuanHuyen": "6224",
+            "TenQuanHuyen": "Sơn Hoà",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "sh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "suoi trai son hoa phu yen",
+            "Point": null,
+            "Abbr": "st sh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56518"
+        }
+    ],
+    "6230": [
+        {
+            "MaPhuongXa": "62300",
+            "TenPhuongXa": "Hoà Thành",
+            "MaQuanHuyen": "6230",
+            "TenQuanHuyen": "Đông Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa thanh dong hoa phu yen",
+            "Point": null,
+            "Abbr": "ht dh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56815"
+        },
+        {
+            "MaPhuongXa": "62301",
+            "TenPhuongXa": "Hoà Tân Đông",
+            "MaQuanHuyen": "6230",
+            "TenQuanHuyen": "Đông Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "htd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa tan dong dong hoa phu yen",
+            "Point": null,
+            "Abbr": "htd dh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56814"
+        },
+        {
+            "MaPhuongXa": "62302",
+            "TenPhuongXa": "Hoà Xuân Tây",
+            "MaQuanHuyen": "6230",
+            "TenQuanHuyen": "Đông Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hxt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa xuan tay dong hoa phu yen",
+            "Point": null,
+            "Abbr": "hxt dh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56812"
+        },
+        {
+            "MaPhuongXa": "62303",
+            "TenPhuongXa": "Hoà Xuân Nam",
+            "MaQuanHuyen": "6230",
+            "TenQuanHuyen": "Đông Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hxn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa xuan nam dong hoa phu yen",
+            "Point": null,
+            "Abbr": "hxn dh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56811"
+        },
+        {
+            "MaPhuongXa": "62304",
+            "TenPhuongXa": "Hoà Vinh",
+            "MaQuanHuyen": "6230",
+            "TenQuanHuyen": "Đông Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hv",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa vinh dong hoa phu yen",
+            "Point": null,
+            "Abbr": "hv dh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56806"
+        },
+        {
+            "MaPhuongXa": "62305",
+            "TenPhuongXa": "Hoà Xuân Đông",
+            "MaQuanHuyen": "6230",
+            "TenQuanHuyen": "Đông Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hxd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa xuan dong dong hoa phu yen",
+            "Point": null,
+            "Abbr": "hxd dh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56813"
+        },
+        {
+            "MaPhuongXa": "62306",
+            "TenPhuongXa": "Hoà Hiệp Bắc",
+            "MaQuanHuyen": "6230",
+            "TenQuanHuyen": "Đông Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hhb",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa hiep bac dong hoa phu yen",
+            "Point": null,
+            "Abbr": "hhb dh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56807"
+        },
+        {
+            "MaPhuongXa": "62307",
+            "TenPhuongXa": "Hòa Hiệp Trung",
+            "MaQuanHuyen": "6230",
+            "TenQuanHuyen": "Đông Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hht",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa hiep trung dong hoa phu yen",
+            "Point": null,
+            "Abbr": "hht dh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56808"
+        },
+        {
+            "MaPhuongXa": "62308",
+            "TenPhuongXa": "Hòa Hiệp Nam",
+            "MaQuanHuyen": "6230",
+            "TenQuanHuyen": "Đông Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hhn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa hiep nam dong hoa phu yen",
+            "Point": null,
+            "Abbr": "hhn dh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56809"
+        },
+        {
+            "MaPhuongXa": "62309",
+            "TenPhuongXa": "Hoà Tâm",
+            "MaQuanHuyen": "6230",
+            "TenQuanHuyen": "Đông Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "dh",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa tam dong hoa phu yen",
+            "Point": null,
+            "Abbr": "ht dh py",
+            "TrangThai": null,
+            "MaBuuChinh": "56810"
+        }
+    ],
+    "6234": [
+        {
+            "MaPhuongXa": "62340",
+            "TenPhuongXa": "Hoà An",
+            "MaQuanHuyen": "6234",
+            "TenQuanHuyen": "Phú Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ha",
+                    "Point": 5
+                },
+                {
+                    "Key": "ph",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa an phu hoa phu yen",
+            "Point": null,
+            "Abbr": "ha ph py",
+            "TrangThai": null,
+            "MaBuuChinh": "56909"
+        },
+        {
+            "MaPhuongXa": "62341",
+            "TenPhuongXa": "Hoà Định Đông",
+            "MaQuanHuyen": "6234",
+            "TenQuanHuyen": "Phú Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hdd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ph",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa dinh dong phu hoa phu yen",
+            "Point": null,
+            "Abbr": "hdd ph py",
+            "TrangThai": null,
+            "MaBuuChinh": "56907"
+        },
+        {
+            "MaPhuongXa": "62342",
+            "TenPhuongXa": "Hoà Định Tây",
+            "MaQuanHuyen": "6234",
+            "TenQuanHuyen": "Phú Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hdt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ph",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa dinh tay phu hoa phu yen",
+            "Point": null,
+            "Abbr": "hdt ph py",
+            "TrangThai": null,
+            "MaBuuChinh": "56914"
+        },
+        {
+            "MaPhuongXa": "62343",
+            "TenPhuongXa": "Hoà Hội",
+            "MaQuanHuyen": "6234",
+            "TenQuanHuyen": "Phú Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ph",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa hoi phu hoa phu yen",
+            "Point": null,
+            "Abbr": "hh ph py",
+            "TrangThai": null,
+            "MaBuuChinh": "56913"
+        },
+        {
+            "MaPhuongXa": "62344",
+            "TenPhuongXa": "Hoà Thắng",
+            "MaQuanHuyen": "6234",
+            "TenQuanHuyen": "Phú Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "ph",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa thang phu hoa phu yen",
+            "Point": null,
+            "Abbr": "ht ph py",
+            "TrangThai": null,
+            "MaBuuChinh": "56908"
+        },
+        {
+            "MaPhuongXa": "62345",
+            "TenPhuongXa": "Hòa Quang Nam",
+            "MaQuanHuyen": "6234",
+            "TenQuanHuyen": "Phú Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hqn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ph",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa quang nam phu hoa phu yen",
+            "Point": null,
+            "Abbr": "hqn ph py",
+            "TrangThai": null,
+            "MaBuuChinh": "56911"
+        },
+        {
+            "MaPhuongXa": "62346",
+            "TenPhuongXa": "Hoà Quang Bắc",
+            "MaQuanHuyen": "6234",
+            "TenQuanHuyen": "Phú Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hqb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ph",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa quang bac phu hoa phu yen",
+            "Point": null,
+            "Abbr": "hqb ph py",
+            "TrangThai": null,
+            "MaBuuChinh": "56912"
+        },
+        {
+            "MaPhuongXa": "62347",
+            "TenPhuongXa": "Hoà Trị",
+            "MaQuanHuyen": "6234",
+            "TenQuanHuyen": "Phú Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "ph",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa tri phu hoa phu yen",
+            "Point": null,
+            "Abbr": "ht ph py",
+            "TrangThai": null,
+            "MaBuuChinh": "56910"
+        },
+        {
+            "MaPhuongXa": "62348",
+            "TenPhuongXa": "Phú Hoà",
+            "MaQuanHuyen": "6234",
+            "TenQuanHuyen": "Phú Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "ph",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hoa phu hoa phu yen",
+            "Point": null,
+            "Abbr": "ph ph py",
+            "TrangThai": null,
+            "MaBuuChinh": "56906"
+        }
+    ],
+    "6222": [
+        {
+            "MaPhuongXa": "62221",
+            "TenPhuongXa": "Xuân Sơn Bắc",
+            "MaQuanHuyen": "6222",
+            "TenQuanHuyen": "Đồng Xuân",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xsb",
+                    "Point": 5
+                },
+                {
+                    "Key": "dx",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan son bac dong xuan phu yen",
+            "Point": null,
+            "Abbr": "xsb dx py",
+            "TrangThai": null,
+            "MaBuuChinh": "56407"
+        },
+        {
+            "MaPhuongXa": "62220",
+            "TenPhuongXa": "La Hai",
+            "MaQuanHuyen": "6222",
+            "TenQuanHuyen": "Đồng Xuân",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dx",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "la hai dong xuan phu yen",
+            "Point": null,
+            "Abbr": "lh dx py",
+            "TrangThai": null,
+            "MaBuuChinh": "56406"
+        },
+        {
+            "MaPhuongXa": "62223",
+            "TenPhuongXa": "Xuân Lãnh",
+            "MaQuanHuyen": "6222",
+            "TenQuanHuyen": "Đồng Xuân",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dx",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan lanh dong xuan phu yen",
+            "Point": null,
+            "Abbr": "xl dx py",
+            "TrangThai": null,
+            "MaBuuChinh": "56415"
+        },
+        {
+            "MaPhuongXa": "62222",
+            "TenPhuongXa": "Xuân Long",
+            "MaQuanHuyen": "6222",
+            "TenQuanHuyen": "Đồng Xuân",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dx",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan long dong xuan phu yen",
+            "Point": null,
+            "Abbr": "xl dx py",
+            "TrangThai": null,
+            "MaBuuChinh": "56413"
+        },
+        {
+            "MaPhuongXa": "62225",
+            "TenPhuongXa": "Đa Lộc",
+            "MaQuanHuyen": "6222",
+            "TenQuanHuyen": "Đồng Xuân",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "dl",
+                    "Point": 5
+                },
+                {
+                    "Key": "dx",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "da loc dong xuan phu yen",
+            "Point": null,
+            "Abbr": "dl dx py",
+            "TrangThai": null,
+            "MaBuuChinh": "56414"
+        },
+        {
+            "MaPhuongXa": "62227",
+            "TenPhuongXa": "Xuân Quang 2",
+            "MaQuanHuyen": "6222",
+            "TenQuanHuyen": "Đồng Xuân",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xq2",
+                    "Point": 5
+                },
+                {
+                    "Key": "dx",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan quang 2 dong xuan phu yen",
+            "Point": null,
+            "Abbr": "xq2 dx py",
+            "TrangThai": null,
+            "MaBuuChinh": "56412"
+        },
+        {
+            "MaPhuongXa": "62226",
+            "TenPhuongXa": "Phú Mỡ",
+            "MaQuanHuyen": "6222",
+            "TenQuanHuyen": "Đồng Xuân",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "dx",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu mo dong xuan phu yen",
+            "Point": null,
+            "Abbr": "pm dx py",
+            "TrangThai": null,
+            "MaBuuChinh": "56416"
+        },
+        {
+            "MaPhuongXa": "62229",
+            "TenPhuongXa": "Xuân Quang 3",
+            "MaQuanHuyen": "6222",
+            "TenQuanHuyen": "Đồng Xuân",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xq3",
+                    "Point": 5
+                },
+                {
+                    "Key": "dx",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan quang 3 dong xuan phu yen",
+            "Point": null,
+            "Abbr": "xq3 dx py",
+            "TrangThai": null,
+            "MaBuuChinh": "56409"
+        },
+        {
+            "MaPhuongXa": "62228",
+            "TenPhuongXa": "Xuân Quang 1",
+            "MaQuanHuyen": "6222",
+            "TenQuanHuyen": "Đồng Xuân",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xq1",
+                    "Point": 5
+                },
+                {
+                    "Key": "dx",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan quang 1 dong xuan phu yen",
+            "Point": null,
+            "Abbr": "xq1 dx py",
+            "TrangThai": null,
+            "MaBuuChinh": "56411"
+        },
+        {
+            "MaPhuongXa": "62231",
+            "TenPhuongXa": "Xuân Sơn Nam",
+            "MaQuanHuyen": "6222",
+            "TenQuanHuyen": "Đồng Xuân",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xsn",
+                    "Point": 5
+                },
+                {
+                    "Key": "dx",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan son nam dong xuan phu yen",
+            "Point": null,
+            "Abbr": "xsn dx py",
+            "TrangThai": null,
+            "MaBuuChinh": "56408"
+        },
+        {
+            "MaPhuongXa": "62230",
+            "TenPhuongXa": "Xuân Phước",
+            "MaQuanHuyen": "6222",
+            "TenQuanHuyen": "Đồng Xuân",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "xp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dx",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan phuoc dong xuan phu yen",
+            "Point": null,
+            "Abbr": "xp dx py",
+            "TrangThai": null,
+            "MaBuuChinh": "56410"
+        }
+    ],
+    "6232": [
+        {
+            "MaPhuongXa": "62320",
+            "TenPhuongXa": "Hòa Bình 1",
+            "MaQuanHuyen": "6232",
+            "TenQuanHuyen": "Tây Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hb1",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh 1 tay hoa phu yen",
+            "Point": null,
+            "Abbr": "hb1 th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56707"
+        },
+        {
+            "MaPhuongXa": "62321",
+            "TenPhuongXa": "thị trấn Phú Thứ",
+            "MaQuanHuyen": "6232",
+            "TenQuanHuyen": "Tây Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ttpt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thi tran phu thu tay hoa phu yen",
+            "Point": null,
+            "Abbr": "pt th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56706"
+        },
+        {
+            "MaPhuongXa": "62322",
+            "TenPhuongXa": "Hoà Phong",
+            "MaQuanHuyen": "6232",
+            "TenQuanHuyen": "Tây Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa phong tay hoa phu yen",
+            "Point": null,
+            "Abbr": "hp th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56713"
+        },
+        {
+            "MaPhuongXa": "62324",
+            "TenPhuongXa": "Hoà Phú",
+            "MaQuanHuyen": "6232",
+            "TenQuanHuyen": "Tây Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa phu tay hoa phu yen",
+            "Point": null,
+            "Abbr": "hp th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56714"
+        },
+        {
+            "MaPhuongXa": "62325",
+            "TenPhuongXa": "Hoà Mỹ Tây",
+            "MaQuanHuyen": "6232",
+            "TenQuanHuyen": "Tây Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hmt",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa my tay tay hoa phu yen",
+            "Point": null,
+            "Abbr": "hmt th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56712"
+        },
+        {
+            "MaPhuongXa": "62326",
+            "TenPhuongXa": "Hoà Mỹ Đông",
+            "MaQuanHuyen": "6232",
+            "TenQuanHuyen": "Tây Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hmd",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa my dong tay hoa phu yen",
+            "Point": null,
+            "Abbr": "hmd th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56711"
+        },
+        {
+            "MaPhuongXa": "62327",
+            "TenPhuongXa": "Hoà Tân Tây",
+            "MaQuanHuyen": "6232",
+            "TenQuanHuyen": "Tây Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "htt",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa tan tay tay hoa phu yen",
+            "Point": null,
+            "Abbr": "htt th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56708"
+        },
+        {
+            "MaPhuongXa": "62328",
+            "TenPhuongXa": "Hoà Thịnh",
+            "MaQuanHuyen": "6232",
+            "TenQuanHuyen": "Tây Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa thinh tay hoa phu yen",
+            "Point": null,
+            "Abbr": "ht th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56710"
+        },
+        {
+            "MaPhuongXa": "62330",
+            "TenPhuongXa": "Hoà Đồng",
+            "MaQuanHuyen": "6232",
+            "TenQuanHuyen": "Tây Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa dong tay hoa phu yen",
+            "Point": null,
+            "Abbr": "hd th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56709"
+        },
+        {
+            "MaPhuongXa": "62331",
+            "TenPhuongXa": "Sơn Thành Đông",
+            "MaQuanHuyen": "6232",
+            "TenQuanHuyen": "Tây Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "std",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son thanh dong tay hoa phu yen",
+            "Point": null,
+            "Abbr": "std th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56715"
+        },
+        {
+            "MaPhuongXa": "62334",
+            "TenPhuongXa": "Sơn Thành Tây",
+            "MaQuanHuyen": "6232",
+            "TenQuanHuyen": "Tây Hòa",
+            "MaTinhThanh": "62",
+            "TenTinhThanh": "Phú Yên",
+            "LstSearchTag": [
+                {
+                    "Key": "stt",
+                    "Point": 5
+                },
+                {
+                    "Key": "th",
+                    "Point": 2
+                },
+                {
+                    "Key": "py",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son thanh tay tay hoa phu yen",
+            "Point": null,
+            "Abbr": "stt th py",
+            "TrangThai": null,
+            "MaBuuChinh": "56716"
+        }
+    ]
+}

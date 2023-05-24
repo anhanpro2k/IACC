@@ -1,0 +1,2477 @@
+{
+    "8239": [
+        {
+            "MaPhuongXa": "82438",
+            "TenPhuongXa": "Hưng Định",
+            "MaQuanHuyen": "8239",
+            "TenQuanHuyen": "Thuận An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung dinh thuan an binh duong",
+            "Point": null,
+            "Abbr": "hd ta bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75213"
+        },
+        {
+            "MaPhuongXa": "82430",
+            "TenPhuongXa": "Bình Chuẩn",
+            "MaQuanHuyen": "8239",
+            "TenQuanHuyen": "Thuận An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh chuan thuan an binh duong",
+            "Point": null,
+            "Abbr": "bc ta bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75210"
+        },
+        {
+            "MaPhuongXa": "82437",
+            "TenPhuongXa": "Bình Nhâm",
+            "MaQuanHuyen": "8239",
+            "TenQuanHuyen": "Thuận An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh nham thuan an binh duong",
+            "Point": null,
+            "Abbr": "bn ta bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75214"
+        },
+        {
+            "MaPhuongXa": "82413",
+            "TenPhuongXa": "An Phú",
+            "MaQuanHuyen": "8239",
+            "TenQuanHuyen": "Thuận An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "ap",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an phu thuan an binh duong",
+            "Point": null,
+            "Abbr": "ap ta bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75209"
+        },
+        {
+            "MaPhuongXa": "82440",
+            "TenPhuongXa": "An Thạnh",
+            "MaQuanHuyen": "8239",
+            "TenQuanHuyen": "Thuận An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thanh thuan an binh duong",
+            "Point": null,
+            "Abbr": "at ta bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75212"
+        },
+        {
+            "MaPhuongXa": "82445",
+            "TenPhuongXa": "Vĩnh Phú",
+            "MaQuanHuyen": "8239",
+            "TenQuanHuyen": "Thuận An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "vp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh phu thuan an binh duong",
+            "Point": null,
+            "Abbr": "vp ta bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75207"
+        },
+        {
+            "MaPhuongXa": "82444",
+            "TenPhuongXa": "An Sơn",
+            "MaQuanHuyen": "8239",
+            "TenQuanHuyen": "Thuận An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "as",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an son thuan an binh duong",
+            "Point": null,
+            "Abbr": "as ta bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75215"
+        },
+        {
+            "MaPhuongXa": "82397",
+            "TenPhuongXa": "Bình Hoà",
+            "MaQuanHuyen": "8239",
+            "TenQuanHuyen": "Thuận An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh hoa thuan an binh duong",
+            "Point": null,
+            "Abbr": "bh ta bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75208"
+        },
+        {
+            "MaPhuongXa": "82390",
+            "TenPhuongXa": "Lái Thiêu",
+            "MaQuanHuyen": "8239",
+            "TenQuanHuyen": "Thuận An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lai thieu thuan an binh duong",
+            "Point": null,
+            "Abbr": "lt ta bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75206"
+        },
+        {
+            "MaPhuongXa": "82420",
+            "TenPhuongXa": "Thuận Giao",
+            "MaQuanHuyen": "8239",
+            "TenQuanHuyen": "Thuận An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tg",
+                    "Point": 5
+                },
+                {
+                    "Key": "ta",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuan giao thuan an binh duong",
+            "Point": null,
+            "Abbr": "tg ta bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75211"
+        }
+    ],
+    "8210": [
+        {
+            "MaPhuongXa": "82139",
+            "TenPhuongXa": "Tương Bình Hiệp",
+            "MaQuanHuyen": "8210",
+            "TenQuanHuyen": "Thủ Dầu Một",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tbh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tuong binh hiep thu dau mot binh duong",
+            "Point": null,
+            "Abbr": "tbh tdm bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75118"
+        },
+        {
+            "MaPhuongXa": "82135",
+            "TenPhuongXa": "Phú Mỹ",
+            "MaQuanHuyen": "8210",
+            "TenQuanHuyen": "Thủ Dầu Một",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu my thu dau mot binh duong",
+            "Point": null,
+            "Abbr": "pm tdm bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75113"
+        },
+        {
+            "MaPhuongXa": "82137",
+            "TenPhuongXa": "Định Hoà",
+            "MaQuanHuyen": "8210",
+            "TenQuanHuyen": "Thủ Dầu Một",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh hoa thu dau mot binh duong",
+            "Point": null,
+            "Abbr": "dh tdm bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75115"
+        },
+        {
+            "MaPhuongXa": "82183",
+            "TenPhuongXa": "Phú Thọ",
+            "MaQuanHuyen": "8210",
+            "TenQuanHuyen": "Thủ Dầu Một",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu tho thu dau mot binh duong",
+            "Point": null,
+            "Abbr": "pt tdm bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75108"
+        },
+        {
+            "MaPhuongXa": "82114",
+            "TenPhuongXa": "Phú Hòa",
+            "MaQuanHuyen": "8210",
+            "TenQuanHuyen": "Thủ Dầu Một",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hoa thu dau mot binh duong",
+            "Point": null,
+            "Abbr": "ph tdm bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75109"
+        },
+        {
+            "MaPhuongXa": "82100",
+            "TenPhuongXa": "Hiệp Thành",
+            "MaQuanHuyen": "8210",
+            "TenQuanHuyen": "Thủ Dầu Một",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep thanh thu dau mot binh duong",
+            "Point": null,
+            "Abbr": "ht tdm bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75111"
+        },
+        {
+            "MaPhuongXa": "82205",
+            "TenPhuongXa": "Phú Tân",
+            "MaQuanHuyen": "8210",
+            "TenQuanHuyen": "Thủ Dầu Một",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu tan thu dau mot binh duong",
+            "Point": null,
+            "Abbr": "pt tdm bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75112"
+        },
+        {
+            "MaPhuongXa": "82204",
+            "TenPhuongXa": "Hoà Phú",
+            "MaQuanHuyen": "8210",
+            "TenQuanHuyen": "Thủ Dầu Một",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa phu thu dau mot binh duong",
+            "Point": null,
+            "Abbr": "hp tdm bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75114"
+        },
+        {
+            "MaPhuongXa": "82148",
+            "TenPhuongXa": "Phú Cường",
+            "MaQuanHuyen": "8210",
+            "TenQuanHuyen": "Thủ Dầu Một",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu cuong thu dau mot binh duong",
+            "Point": null,
+            "Abbr": "pc tdm bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75106"
+        },
+        {
+            "MaPhuongXa": "82144",
+            "TenPhuongXa": "Hiệp An",
+            "MaQuanHuyen": "8210",
+            "TenQuanHuyen": "Thủ Dầu Một",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "ha",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep an thu dau mot binh duong",
+            "Point": null,
+            "Abbr": "ha tdm bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75116"
+        },
+        {
+            "MaPhuongXa": "82146",
+            "TenPhuongXa": "Chánh Mỹ",
+            "MaQuanHuyen": "8210",
+            "TenQuanHuyen": "Thủ Dầu Một",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chanh my thu dau mot binh duong",
+            "Point": null,
+            "Abbr": "cm tdm bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75119"
+        },
+        {
+            "MaPhuongXa": "82141",
+            "TenPhuongXa": "Tân An",
+            "MaQuanHuyen": "8210",
+            "TenQuanHuyen": "Thủ Dầu Một",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan an thu dau mot binh duong",
+            "Point": null,
+            "Abbr": "ta tdm bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75117"
+        },
+        {
+            "MaPhuongXa": "82123",
+            "TenPhuongXa": "Phú Lợi",
+            "MaQuanHuyen": "8210",
+            "TenQuanHuyen": "Thủ Dầu Một",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu loi thu dau mot binh duong",
+            "Point": null,
+            "Abbr": "pl tdm bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75110"
+        },
+        {
+            "MaPhuongXa": "82167",
+            "TenPhuongXa": "Chánh Nghĩa",
+            "MaQuanHuyen": "8210",
+            "TenQuanHuyen": "Thủ Dầu Một",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tdm",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chanh nghia thu dau mot binh duong",
+            "Point": null,
+            "Abbr": "cn tdm bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75107"
+        }
+    ],
+    "8246": [
+        {
+            "MaPhuongXa": "82488",
+            "TenPhuongXa": "Tân Bình",
+            "MaQuanHuyen": "8246",
+            "TenQuanHuyen": "Dĩ An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "da",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan binh di an binh duong",
+            "Point": null,
+            "Abbr": "tb da bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75312"
+        },
+        {
+            "MaPhuongXa": "82478",
+            "TenPhuongXa": "Tân Đông Hiệp",
+            "MaQuanHuyen": "8246",
+            "TenQuanHuyen": "Dĩ An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tdh",
+                    "Point": 5
+                },
+                {
+                    "Key": "da",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan dong hiep di an binh duong",
+            "Point": null,
+            "Abbr": "tdh da bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75311"
+        },
+        {
+            "MaPhuongXa": "82473",
+            "TenPhuongXa": "Bình An",
+            "MaQuanHuyen": "8246",
+            "TenQuanHuyen": "Dĩ An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "ba",
+                    "Point": 5
+                },
+                {
+                    "Key": "da",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh an di an binh duong",
+            "Point": null,
+            "Abbr": "ba da bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75310"
+        },
+        {
+            "MaPhuongXa": "82476",
+            "TenPhuongXa": "Bình Thắng",
+            "MaQuanHuyen": "8246",
+            "TenQuanHuyen": "Dĩ An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "da",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh thang di an binh duong",
+            "Point": null,
+            "Abbr": "bt da bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75309"
+        },
+        {
+            "MaPhuongXa": "82490",
+            "TenPhuongXa": "An Bình",
+            "MaQuanHuyen": "8246",
+            "TenQuanHuyen": "Dĩ An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "ab",
+                    "Point": 5
+                },
+                {
+                    "Key": "da",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an binh di an binh duong",
+            "Point": null,
+            "Abbr": "ab da bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75307"
+        },
+        {
+            "MaPhuongXa": "82468",
+            "TenPhuongXa": "Đông Hoà",
+            "MaQuanHuyen": "8246",
+            "TenQuanHuyen": "Dĩ An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "da",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong hoa di an binh duong",
+            "Point": null,
+            "Abbr": "dh da bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75308"
+        },
+        {
+            "MaPhuongXa": "82460",
+            "TenPhuongXa": "Dĩ An",
+            "MaQuanHuyen": "8246",
+            "TenQuanHuyen": "Dĩ An",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "da",
+                    "Point": 5
+                },
+                {
+                    "Key": "da",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "di an di an binh duong",
+            "Point": null,
+            "Abbr": "da da bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75306"
+        }
+    ],
+    "8223": [
+        {
+            "MaPhuongXa": "82230",
+            "TenPhuongXa": "Uyên Hưng",
+            "MaQuanHuyen": "8223",
+            "TenQuanHuyen": "Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "uh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "uyen hung tan uyen binh duong",
+            "Point": null,
+            "Abbr": "uh tu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75406"
+        },
+        {
+            "MaPhuongXa": "82259",
+            "TenPhuongXa": "Thạnh Phước",
+            "MaQuanHuyen": "8223",
+            "TenQuanHuyen": "Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh phuoc tan uyen binh duong",
+            "Point": null,
+            "Abbr": "tp tu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75414"
+        },
+        {
+            "MaPhuongXa": "82258",
+            "TenPhuongXa": "Bạch Đằng",
+            "MaQuanHuyen": "8223",
+            "TenQuanHuyen": "Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bach dang tan uyen binh duong",
+            "Point": null,
+            "Abbr": "bd tu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75413"
+        },
+        {
+            "MaPhuongXa": "82254",
+            "TenPhuongXa": "Tân Phước Khánh",
+            "MaQuanHuyen": "8223",
+            "TenQuanHuyen": "Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tpk",
+                    "Point": 5
+                },
+                {
+                    "Key": "tu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phuoc khanh tan uyen binh duong",
+            "Point": null,
+            "Abbr": "tpk tu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75415"
+        },
+        {
+            "MaPhuongXa": "82252",
+            "TenPhuongXa": "Tân Vĩnh Hiệp",
+            "MaQuanHuyen": "8223",
+            "TenQuanHuyen": "Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tvh",
+                    "Point": 5
+                },
+                {
+                    "Key": "tu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan vinh hiep tan uyen binh duong",
+            "Point": null,
+            "Abbr": "tvh tu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75411"
+        },
+        {
+            "MaPhuongXa": "82250",
+            "TenPhuongXa": "Phú Chánh",
+            "MaQuanHuyen": "8223",
+            "TenQuanHuyen": "Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "tu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu chanh tan uyen binh duong",
+            "Point": null,
+            "Abbr": "pc tu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75410"
+        },
+        {
+            "MaPhuongXa": "82247",
+            "TenPhuongXa": "Vĩnh Tân",
+            "MaQuanHuyen": "8223",
+            "TenQuanHuyen": "Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "vt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh tan tan uyen binh duong",
+            "Point": null,
+            "Abbr": "vt tu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75409"
+        },
+        {
+            "MaPhuongXa": "82244",
+            "TenPhuongXa": "Khánh Bình",
+            "MaQuanHuyen": "8223",
+            "TenQuanHuyen": "Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "kb",
+                    "Point": 5
+                },
+                {
+                    "Key": "tu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "khanh binh tan uyen binh duong",
+            "Point": null,
+            "Abbr": "kb tu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75412"
+        },
+        {
+            "MaPhuongXa": "82241",
+            "TenPhuongXa": "Hội Nghĩa",
+            "MaQuanHuyen": "8223",
+            "TenQuanHuyen": "Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "hn",
+                    "Point": 5
+                },
+                {
+                    "Key": "tu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoi nghia tan uyen binh duong",
+            "Point": null,
+            "Abbr": "hn tu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75407"
+        },
+        {
+            "MaPhuongXa": "82268",
+            "TenPhuongXa": "Thạnh Hội",
+            "MaQuanHuyen": "8223",
+            "TenQuanHuyen": "Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh hoi tan uyen binh duong",
+            "Point": null,
+            "Abbr": "th tu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75417"
+        },
+        {
+            "MaPhuongXa": "82264",
+            "TenPhuongXa": "Tân Hiệp",
+            "MaQuanHuyen": "8223",
+            "TenQuanHuyen": "Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hiep tan uyen binh duong",
+            "Point": null,
+            "Abbr": "th tu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75408"
+        },
+        {
+            "MaPhuongXa": "82261",
+            "TenPhuongXa": "Thái Hoà",
+            "MaQuanHuyen": "8223",
+            "TenQuanHuyen": "Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thai hoa tan uyen binh duong",
+            "Point": null,
+            "Abbr": "th tu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75416"
+        }
+    ],
+    "8255": [
+        {
+            "MaPhuongXa": "82581",
+            "TenPhuongXa": "Tân Định",
+            "MaQuanHuyen": "8255",
+            "TenQuanHuyen": "Bến Cát",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "bc",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan dinh ben cat binh duong",
+            "Point": null,
+            "Abbr": "td bc bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75910"
+        },
+        {
+            "MaPhuongXa": "82572",
+            "TenPhuongXa": "Phú An",
+            "MaQuanHuyen": "8255",
+            "TenQuanHuyen": "Bến Cát",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "pa",
+                    "Point": 5
+                },
+                {
+                    "Key": "bc",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu an ben cat binh duong",
+            "Point": null,
+            "Abbr": "pa bc bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75909"
+        },
+        {
+            "MaPhuongXa": "82574",
+            "TenPhuongXa": "Thới Hòa",
+            "MaQuanHuyen": "8255",
+            "TenQuanHuyen": "Bến Cát",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bc",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thoi hoa ben cat binh duong",
+            "Point": null,
+            "Abbr": "th bc bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75911"
+        },
+        {
+            "MaPhuongXa": "82577",
+            "TenPhuongXa": "Hòa Lợi",
+            "MaQuanHuyen": "8255",
+            "TenQuanHuyen": "Bến Cát",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "bc",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa loi ben cat binh duong",
+            "Point": null,
+            "Abbr": "hl bc bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75912"
+        },
+        {
+            "MaPhuongXa": "82550",
+            "TenPhuongXa": "Mỹ Phước",
+            "MaQuanHuyen": "8255",
+            "TenQuanHuyen": "Bến Cát",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "mp",
+                    "Point": 5
+                },
+                {
+                    "Key": "bc",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my phuoc ben cat binh duong",
+            "Point": null,
+            "Abbr": "mp bc bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75906"
+        },
+        {
+            "MaPhuongXa": "82569",
+            "TenPhuongXa": "An Tây",
+            "MaQuanHuyen": "8255",
+            "TenQuanHuyen": "Bến Cát",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "bc",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an tay ben cat binh duong",
+            "Point": null,
+            "Abbr": "at bc bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75908"
+        },
+        {
+            "MaPhuongXa": "82565",
+            "TenPhuongXa": "Chánh Phú Hòa",
+            "MaQuanHuyen": "8255",
+            "TenQuanHuyen": "Bến Cát",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "cph",
+                    "Point": 5
+                },
+                {
+                    "Key": "bc",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chanh phu hoa ben cat binh duong",
+            "Point": null,
+            "Abbr": "cph bc bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75913"
+        },
+        {
+            "MaPhuongXa": "82567",
+            "TenPhuongXa": "An Điền",
+            "MaQuanHuyen": "8255",
+            "TenQuanHuyen": "Bến Cát",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "ad",
+                    "Point": 5
+                },
+                {
+                    "Key": "bc",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an dien ben cat binh duong",
+            "Point": null,
+            "Abbr": "ad bc bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75907"
+        }
+    ],
+    "8228": [
+        {
+            "MaPhuongXa": "82289",
+            "TenPhuongXa": "An Long",
+            "MaQuanHuyen": "8228",
+            "TenQuanHuyen": "Phú Giáo",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "al",
+                    "Point": 5
+                },
+                {
+                    "Key": "pg",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an long phu giao binh duong",
+            "Point": null,
+            "Abbr": "al pg bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75610"
+        },
+        {
+            "MaPhuongXa": "82288",
+            "TenPhuongXa": "An Linh",
+            "MaQuanHuyen": "8228",
+            "TenQuanHuyen": "Phú Giáo",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "al",
+                    "Point": 5
+                },
+                {
+                    "Key": "pg",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an linh phu giao binh duong",
+            "Point": null,
+            "Abbr": "al pg bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75611"
+        },
+        {
+            "MaPhuongXa": "82286",
+            "TenPhuongXa": "Tân Hiệp",
+            "MaQuanHuyen": "8228",
+            "TenQuanHuyen": "Phú Giáo",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "pg",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hiep phu giao binh duong",
+            "Point": null,
+            "Abbr": "th pg bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75612"
+        },
+        {
+            "MaPhuongXa": "82285",
+            "TenPhuongXa": "Phước Sang",
+            "MaQuanHuyen": "8228",
+            "TenQuanHuyen": "Phú Giáo",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "ps",
+                    "Point": 5
+                },
+                {
+                    "Key": "pg",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc sang phu giao binh duong",
+            "Point": null,
+            "Abbr": "ps pg bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75608"
+        },
+        {
+            "MaPhuongXa": "82283",
+            "TenPhuongXa": "An Bình",
+            "MaQuanHuyen": "8228",
+            "TenQuanHuyen": "Phú Giáo",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "ab",
+                    "Point": 5
+                },
+                {
+                    "Key": "pg",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an binh phu giao binh duong",
+            "Point": null,
+            "Abbr": "ab pg bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75607"
+        },
+        {
+            "MaPhuongXa": "82282",
+            "TenPhuongXa": "Tam Lập",
+            "MaQuanHuyen": "8228",
+            "TenQuanHuyen": "Phú Giáo",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "pg",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam lap phu giao binh duong",
+            "Point": null,
+            "Abbr": "tl pg bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75616"
+        },
+        {
+            "MaPhuongXa": "82280",
+            "TenPhuongXa": "Phước Vĩnh",
+            "MaQuanHuyen": "8228",
+            "TenQuanHuyen": "Phú Giáo",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "pv",
+                    "Point": 5
+                },
+                {
+                    "Key": "pg",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc vinh phu giao binh duong",
+            "Point": null,
+            "Abbr": "pv pg bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75606"
+        },
+        {
+            "MaPhuongXa": "82296",
+            "TenPhuongXa": "An Thái",
+            "MaQuanHuyen": "8228",
+            "TenQuanHuyen": "Phú Giáo",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "pg",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thai phu giao binh duong",
+            "Point": null,
+            "Abbr": "at pg bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75609"
+        },
+        {
+            "MaPhuongXa": "82294",
+            "TenPhuongXa": "Phước Hoà",
+            "MaQuanHuyen": "8228",
+            "TenQuanHuyen": "Phú Giáo",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "pg",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc hoa phu giao binh duong",
+            "Point": null,
+            "Abbr": "ph pg bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75614"
+        },
+        {
+            "MaPhuongXa": "82292",
+            "TenPhuongXa": "Tân Long",
+            "MaQuanHuyen": "8228",
+            "TenQuanHuyen": "Phú Giáo",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "pg",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan long phu giao binh duong",
+            "Point": null,
+            "Abbr": "tl pg bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75613"
+        },
+        {
+            "MaPhuongXa": "82290",
+            "TenPhuongXa": "Vĩnh Hoà",
+            "MaQuanHuyen": "8228",
+            "TenQuanHuyen": "Phú Giáo",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "pg",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh hoa phu giao binh duong",
+            "Point": null,
+            "Abbr": "vh pg bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75615"
+        }
+    ],
+    "8260": [
+        {
+            "MaPhuongXa": "82613",
+            "TenPhuongXa": "Đất Cuốc",
+            "MaQuanHuyen": "8260",
+            "TenQuanHuyen": "Bắc Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "dc",
+                    "Point": 5
+                },
+                {
+                    "Key": "btu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dat cuoc bac tan uyen binh duong",
+            "Point": null,
+            "Abbr": "dc btu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75511"
+        },
+        {
+            "MaPhuongXa": "82611",
+            "TenPhuongXa": "Bình Mỹ",
+            "MaQuanHuyen": "8260",
+            "TenQuanHuyen": "Bắc Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "bm",
+                    "Point": 5
+                },
+                {
+                    "Key": "btu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh my bac tan uyen binh duong",
+            "Point": null,
+            "Abbr": "bm btu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75509"
+        },
+        {
+            "MaPhuongXa": "82617",
+            "TenPhuongXa": "Tân Bình",
+            "MaQuanHuyen": "8260",
+            "TenQuanHuyen": "Bắc Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "btu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan binh bac tan uyen binh duong",
+            "Point": null,
+            "Abbr": "tb btu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75512"
+        },
+        {
+            "MaPhuongXa": "82615",
+            "TenPhuongXa": "Hiếu Liêm",
+            "MaQuanHuyen": "8260",
+            "TenQuanHuyen": "Bắc Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "btu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hieu liem bac tan uyen binh duong",
+            "Point": null,
+            "Abbr": "hl btu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75507"
+        },
+        {
+            "MaPhuongXa": "82609",
+            "TenPhuongXa": "Tân Định",
+            "MaQuanHuyen": "8260",
+            "TenQuanHuyen": "Bắc Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "btu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan dinh bac tan uyen binh duong",
+            "Point": null,
+            "Abbr": "td btu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75508"
+        },
+        {
+            "MaPhuongXa": "82603",
+            "TenPhuongXa": "Lạc An",
+            "MaQuanHuyen": "8260",
+            "TenQuanHuyen": "Bắc Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "la",
+                    "Point": 5
+                },
+                {
+                    "Key": "btu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lac an bac tan uyen binh duong",
+            "Point": null,
+            "Abbr": "la btu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75513"
+        },
+        {
+            "MaPhuongXa": "82602",
+            "TenPhuongXa": "Thường Tân",
+            "MaQuanHuyen": "8260",
+            "TenQuanHuyen": "Bắc Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "btu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thuong tan bac tan uyen binh duong",
+            "Point": null,
+            "Abbr": "tt btu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75515"
+        },
+        {
+            "MaPhuongXa": "82600",
+            "TenPhuongXa": "Tân Mỹ",
+            "MaQuanHuyen": "8260",
+            "TenQuanHuyen": "Bắc Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "btu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan my bac tan uyen binh duong",
+            "Point": null,
+            "Abbr": "tm btu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75514"
+        },
+        {
+            "MaPhuongXa": "82607",
+            "TenPhuongXa": "Tân Lập",
+            "MaQuanHuyen": "8260",
+            "TenQuanHuyen": "Bắc Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "btu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap bac tan uyen binh duong",
+            "Point": null,
+            "Abbr": "tl btu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75510"
+        },
+        {
+            "MaPhuongXa": "82605",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "8260",
+            "TenQuanHuyen": "Bắc Tân Uyên",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "btu",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh bac tan uyen binh duong",
+            "Point": null,
+            "Abbr": "tt btu bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75506"
+        }
+    ],
+    "8236": [
+        {
+            "MaPhuongXa": "82376",
+            "TenPhuongXa": "Thanh Tuyền",
+            "MaQuanHuyen": "8236",
+            "TenQuanHuyen": "Dầu Tiếng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh tuyen dau tieng binh duong",
+            "Point": null,
+            "Abbr": "tt dt bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75808"
+        },
+        {
+            "MaPhuongXa": "82374",
+            "TenPhuongXa": "Thanh An",
+            "MaQuanHuyen": "8236",
+            "TenQuanHuyen": "Dầu Tiếng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh an dau tieng binh duong",
+            "Point": null,
+            "Abbr": "ta dt bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75807"
+        },
+        {
+            "MaPhuongXa": "82372",
+            "TenPhuongXa": "Minh Hoà",
+            "MaQuanHuyen": "8236",
+            "TenQuanHuyen": "Dầu Tiếng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh hoa dau tieng binh duong",
+            "Point": null,
+            "Abbr": "mh dt bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75816"
+        },
+        {
+            "MaPhuongXa": "82373",
+            "TenPhuongXa": "Định An",
+            "MaQuanHuyen": "8236",
+            "TenQuanHuyen": "Dầu Tiếng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "da",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh an dau tieng binh duong",
+            "Point": null,
+            "Abbr": "da dt bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75813"
+        },
+        {
+            "MaPhuongXa": "82370",
+            "TenPhuongXa": "Minh Thạnh",
+            "MaQuanHuyen": "8236",
+            "TenQuanHuyen": "Dầu Tiếng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh thanh dau tieng binh duong",
+            "Point": null,
+            "Abbr": "mt dt bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75815"
+        },
+        {
+            "MaPhuongXa": "82368",
+            "TenPhuongXa": "Minh Tân",
+            "MaQuanHuyen": "8236",
+            "TenQuanHuyen": "Dầu Tiếng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "minh tan dau tieng binh duong",
+            "Point": null,
+            "Abbr": "mt dt bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75814"
+        },
+        {
+            "MaPhuongXa": "82367",
+            "TenPhuongXa": "Long Hòa",
+            "MaQuanHuyen": "8236",
+            "TenQuanHuyen": "Dầu Tiếng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long hoa dau tieng binh duong",
+            "Point": null,
+            "Abbr": "lh dt bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75812"
+        },
+        {
+            "MaPhuongXa": "82364",
+            "TenPhuongXa": "An Lập",
+            "MaQuanHuyen": "8236",
+            "TenQuanHuyen": "Dầu Tiếng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "al",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an lap dau tieng binh duong",
+            "Point": null,
+            "Abbr": "al dt bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75810"
+        },
+        {
+            "MaPhuongXa": "82365",
+            "TenPhuongXa": "Long Tân",
+            "MaQuanHuyen": "8236",
+            "TenQuanHuyen": "Dầu Tiếng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long tan dau tieng binh duong",
+            "Point": null,
+            "Abbr": "lt dt bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75809"
+        },
+        {
+            "MaPhuongXa": "82362",
+            "TenPhuongXa": "Định Hiệp",
+            "MaQuanHuyen": "8236",
+            "TenQuanHuyen": "Dầu Tiếng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh hiep dau tieng binh duong",
+            "Point": null,
+            "Abbr": "dh dt bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75811"
+        },
+        {
+            "MaPhuongXa": "82363",
+            "TenPhuongXa": "Định Thành",
+            "MaQuanHuyen": "8236",
+            "TenQuanHuyen": "Dầu Tiếng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dinh thanh dau tieng binh duong",
+            "Point": null,
+            "Abbr": "dt dt bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75817"
+        },
+        {
+            "MaPhuongXa": "82360",
+            "TenPhuongXa": "Dầu Tiếng",
+            "MaQuanHuyen": "8236",
+            "TenQuanHuyen": "Dầu Tiếng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "dt",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dau tieng dau tieng binh duong",
+            "Point": null,
+            "Abbr": "dt dt bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75806"
+        }
+    ],
+    "8231": [
+        {
+            "MaPhuongXa": "82328",
+            "TenPhuongXa": "Cây Trường",
+            "MaQuanHuyen": "8231",
+            "TenQuanHuyen": "Bàu Bàng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cay truong bau bang binh duong",
+            "Point": null,
+            "Abbr": "ct bb bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75708"
+        },
+        {
+            "MaPhuongXa": "82329",
+            "TenPhuongXa": "Long Nguyên",
+            "MaQuanHuyen": "8231",
+            "TenQuanHuyen": "Bàu Bàng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "ln",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long nguyen bau bang binh duong",
+            "Point": null,
+            "Abbr": "ln bb bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75709"
+        },
+        {
+            "MaPhuongXa": "82326",
+            "TenPhuongXa": "Trừ Văn Thố",
+            "MaQuanHuyen": "8231",
+            "TenQuanHuyen": "Bàu Bàng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "tvt",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tru van tho bau bang binh duong",
+            "Point": null,
+            "Abbr": "tvt bb bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75707"
+        },
+        {
+            "MaPhuongXa": "82324",
+            "TenPhuongXa": "Lai Uyên",
+            "MaQuanHuyen": "8231",
+            "TenQuanHuyen": "Bàu Bàng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "lu",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lai uyen bau bang binh duong",
+            "Point": null,
+            "Abbr": "lu bb bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75706"
+        },
+        {
+            "MaPhuongXa": "82322",
+            "TenPhuongXa": "Tân Hưng",
+            "MaQuanHuyen": "8231",
+            "TenQuanHuyen": "Bàu Bàng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hung bau bang binh duong",
+            "Point": null,
+            "Abbr": "th bb bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75711"
+        },
+        {
+            "MaPhuongXa": "82323",
+            "TenPhuongXa": "Lai Hưng",
+            "MaQuanHuyen": "8231",
+            "TenQuanHuyen": "Bàu Bàng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lai hung bau bang binh duong",
+            "Point": null,
+            "Abbr": "lh bb bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75710"
+        },
+        {
+            "MaPhuongXa": "82321",
+            "TenPhuongXa": "Hưng Hoà",
+            "MaQuanHuyen": "8231",
+            "TenQuanHuyen": "Bàu Bàng",
+            "MaTinhThanh": "82",
+            "TenTinhThanh": "Bình Dương",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "bb",
+                    "Point": 2
+                },
+                {
+                    "Key": "bd",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung hoa bau bang binh duong",
+            "Point": null,
+            "Abbr": "hh bb bd",
+            "TrangThai": null,
+            "MaBuuChinh": "75712"
+        }
+    ]
+}

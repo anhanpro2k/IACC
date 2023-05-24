@@ -1,0 +1,4843 @@
+{
+    "8647": [
+        {
+            "MaPhuongXa": "86479",
+            "TenPhuongXa": "Hậu Mỹ Phú",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hmp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hau my phu cai be tien giang",
+            "Point": null,
+            "Abbr": "hmp cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84910"
+        },
+        {
+            "MaPhuongXa": "86478",
+            "TenPhuongXa": "Hậu Thành",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hau thanh cai be tien giang",
+            "Point": null,
+            "Abbr": "ht cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84909"
+        },
+        {
+            "MaPhuongXa": "86470",
+            "TenPhuongXa": "Cái Bè",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cai be cai be tien giang",
+            "Point": null,
+            "Abbr": "cb cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84906"
+        },
+        {
+            "MaPhuongXa": "86474",
+            "TenPhuongXa": "Đông Hoà Hiệp",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dhh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong hoa hiep cai be tien giang",
+            "Point": null,
+            "Abbr": "dhh cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84907"
+        },
+        {
+            "MaPhuongXa": "86477",
+            "TenPhuongXa": "An Cư",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ac",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an cu cai be tien giang",
+            "Point": null,
+            "Abbr": "ac cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84908"
+        },
+        {
+            "MaPhuongXa": "86476",
+            "TenPhuongXa": "Mỹ Hội",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my hoi cai be tien giang",
+            "Point": null,
+            "Abbr": "mh cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84911"
+        },
+        {
+            "MaPhuongXa": "86489",
+            "TenPhuongXa": "Mỹ Tân",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my tan cai be tien giang",
+            "Point": null,
+            "Abbr": "mt cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84917"
+        },
+        {
+            "MaPhuongXa": "86488",
+            "TenPhuongXa": "Mỹ Đức Đông",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mdd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my duc dong cai be tien giang",
+            "Point": null,
+            "Abbr": "mdd cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84920"
+        },
+        {
+            "MaPhuongXa": "86481",
+            "TenPhuongXa": "Hậu Mỹ Bắc A",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hmba",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hau my bac a cai be tien giang",
+            "Point": null,
+            "Abbr": "hmba cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84913"
+        },
+        {
+            "MaPhuongXa": "86480",
+            "TenPhuongXa": "Hậu Mỹ Trinh",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hmt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hau my trinh cai be tien giang",
+            "Point": null,
+            "Abbr": "hmt cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84912"
+        },
+        {
+            "MaPhuongXa": "86483",
+            "TenPhuongXa": "Hoà Khánh",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hk",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa khanh cai be tien giang",
+            "Point": null,
+            "Abbr": "hk cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84930"
+        },
+        {
+            "MaPhuongXa": "86482",
+            "TenPhuongXa": "Hậu Mỹ Bắc B",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hmbb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hau my bac b cai be tien giang",
+            "Point": null,
+            "Abbr": "hmbb cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84914"
+        },
+        {
+            "MaPhuongXa": "86485",
+            "TenPhuongXa": "Thiện Trí",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thien tri cai be tien giang",
+            "Point": null,
+            "Abbr": "tt cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84919"
+        },
+        {
+            "MaPhuongXa": "86487",
+            "TenPhuongXa": "Mỹ Trung",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my trung cai be tien giang",
+            "Point": null,
+            "Abbr": "mt cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84915"
+        },
+        {
+            "MaPhuongXa": "86486",
+            "TenPhuongXa": "Thiện Trung",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thien trung cai be tien giang",
+            "Point": null,
+            "Abbr": "tt cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84918"
+        },
+        {
+            "MaPhuongXa": "86499",
+            "TenPhuongXa": "Hoà Hưng",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa hung cai be tien giang",
+            "Point": null,
+            "Abbr": "hh cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84928"
+        },
+        {
+            "MaPhuongXa": "86498",
+            "TenPhuongXa": "Tân Thanh",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh cai be tien giang",
+            "Point": null,
+            "Abbr": "tt cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84926"
+        },
+        {
+            "MaPhuongXa": "86491",
+            "TenPhuongXa": "Mỹ Đức Tây",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mdt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my duc tay cai be tien giang",
+            "Point": null,
+            "Abbr": "mdt cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84921"
+        },
+        {
+            "MaPhuongXa": "86490",
+            "TenPhuongXa": "Mỹ Lợi B",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mlb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my loi b cai be tien giang",
+            "Point": null,
+            "Abbr": "mlb cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84916"
+        },
+        {
+            "MaPhuongXa": "86493",
+            "TenPhuongXa": "An Thái Đông",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "atd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thai dong cai be tien giang",
+            "Point": null,
+            "Abbr": "atd cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84923"
+        },
+        {
+            "MaPhuongXa": "86492",
+            "TenPhuongXa": "Mỹ Lợi A",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mla",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my loi a cai be tien giang",
+            "Point": null,
+            "Abbr": "mla cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84922"
+        },
+        {
+            "MaPhuongXa": "86495",
+            "TenPhuongXa": "Tân Hưng",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hung cai be tien giang",
+            "Point": null,
+            "Abbr": "th cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84925"
+        },
+        {
+            "MaPhuongXa": "86494",
+            "TenPhuongXa": "An Thái Trung",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "att",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thai trung cai be tien giang",
+            "Point": null,
+            "Abbr": "att cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84924"
+        },
+        {
+            "MaPhuongXa": "86497",
+            "TenPhuongXa": "An Hữu",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an huu cai be tien giang",
+            "Point": null,
+            "Abbr": "ah cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84927"
+        },
+        {
+            "MaPhuongXa": "86496",
+            "TenPhuongXa": "Mỹ Lương",
+            "MaQuanHuyen": "8647",
+            "TenQuanHuyen": "Cái Bè",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "cb",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my luong cai be tien giang",
+            "Point": null,
+            "Abbr": "ml cb tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84929"
+        }
+    ],
+    "8610": [
+        {
+            "MaPhuongXa": "86178",
+            "TenPhuongXa": "Đạo Thạnh",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dao thanh my tho tien giang",
+            "Point": null,
+            "Abbr": "dt mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84113"
+        },
+        {
+            "MaPhuongXa": "86174",
+            "TenPhuongXa": "Tân Mỹ Chánh",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tmc",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan my chanh my tho tien giang",
+            "Point": null,
+            "Abbr": "tmc mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84111"
+        },
+        {
+            "MaPhuongXa": "86176",
+            "TenPhuongXa": "Mỹ Phong",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mp",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my phong my tho tien giang",
+            "Point": null,
+            "Abbr": "mp mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84112"
+        },
+        {
+            "MaPhuongXa": "86170",
+            "TenPhuongXa": "9",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "9",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "9 my tho tien giang",
+            "Point": null,
+            "Abbr": "9 mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84110"
+        },
+        {
+            "MaPhuongXa": "86171",
+            "TenPhuongXa": "10",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "10",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "10 my tho tien giang",
+            "Point": null,
+            "Abbr": "10 mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84116"
+        },
+        {
+            "MaPhuongXa": "86173",
+            "TenPhuongXa": "Tân Long",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan long my tho tien giang",
+            "Point": null,
+            "Abbr": "tl mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84121"
+        },
+        {
+            "MaPhuongXa": "86133",
+            "TenPhuongXa": "4",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "4",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "4 my tho tien giang",
+            "Point": null,
+            "Abbr": "4 mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84114"
+        },
+        {
+            "MaPhuongXa": "86184",
+            "TenPhuongXa": "Thới Sơn",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thoi son my tho tien giang",
+            "Point": null,
+            "Abbr": "ts mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84122"
+        },
+        {
+            "MaPhuongXa": "86180",
+            "TenPhuongXa": "Trung An",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung an my tho tien giang",
+            "Point": null,
+            "Abbr": "ta mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84118"
+        },
+        {
+            "MaPhuongXa": "86183",
+            "TenPhuongXa": "Phước Thạnh",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc thanh my tho tien giang",
+            "Point": null,
+            "Abbr": "pt mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84117"
+        },
+        {
+            "MaPhuongXa": "86149",
+            "TenPhuongXa": "6",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "6",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "6 my tho tien giang",
+            "Point": null,
+            "Abbr": "6 mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84119"
+        },
+        {
+            "MaPhuongXa": "86143",
+            "TenPhuongXa": "5",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "5",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "5 my tho tien giang",
+            "Point": null,
+            "Abbr": "5 mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84115"
+        },
+        {
+            "MaPhuongXa": "86100",
+            "TenPhuongXa": "1",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "1",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "1 my tho tien giang",
+            "Point": null,
+            "Abbr": "1 mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84120"
+        },
+        {
+            "MaPhuongXa": "86129",
+            "TenPhuongXa": "3",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "3",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "3 my tho tien giang",
+            "Point": null,
+            "Abbr": "3 mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84107"
+        },
+        {
+            "MaPhuongXa": "86120",
+            "TenPhuongXa": "8",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "8",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "8 my tho tien giang",
+            "Point": null,
+            "Abbr": "8 mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84109"
+        },
+        {
+            "MaPhuongXa": "86157",
+            "TenPhuongXa": "7",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "7",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "7 my tho tien giang",
+            "Point": null,
+            "Abbr": "7 mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84106"
+        },
+        {
+            "MaPhuongXa": "86110",
+            "TenPhuongXa": "2",
+            "MaQuanHuyen": "8610",
+            "TenQuanHuyen": "Mỹ Tho",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "2",
+                    "Point": 5
+                },
+                {
+                    "Key": "mt",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "2 my tho tien giang",
+            "Point": null,
+            "Abbr": "2 mt tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84108"
+        }
+    ],
+    "8627": [
+        {
+            "MaPhuongXa": "86278",
+            "TenPhuongXa": "3",
+            "MaQuanHuyen": "8627",
+            "TenQuanHuyen": "Gò Công",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "3",
+                    "Point": 5
+                },
+                {
+                    "Key": "gc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "3 go cong tien giang",
+            "Point": null,
+            "Abbr": "3 gc tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84307"
+        },
+        {
+            "MaPhuongXa": "86275",
+            "TenPhuongXa": "2",
+            "MaQuanHuyen": "8627",
+            "TenQuanHuyen": "Gò Công",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "2",
+                    "Point": 5
+                },
+                {
+                    "Key": "gc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "2 go cong tien giang",
+            "Point": null,
+            "Abbr": "2 gc tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84306"
+        },
+        {
+            "MaPhuongXa": "86270",
+            "TenPhuongXa": "1",
+            "MaQuanHuyen": "8627",
+            "TenQuanHuyen": "Gò Công",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "1",
+                    "Point": 5
+                },
+                {
+                    "Key": "gc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "1 go cong tien giang",
+            "Point": null,
+            "Abbr": "1 gc tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84315"
+        },
+        {
+            "MaPhuongXa": "86288",
+            "TenPhuongXa": "Bình Đông",
+            "MaQuanHuyen": "8627",
+            "TenQuanHuyen": "Gò Công",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "gc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh dong go cong tien giang",
+            "Point": null,
+            "Abbr": "bd gc tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84311"
+        },
+        {
+            "MaPhuongXa": "86287",
+            "TenPhuongXa": "Long Hoà",
+            "MaQuanHuyen": "8627",
+            "TenQuanHuyen": "Gò Công",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "gc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long hoa go cong tien giang",
+            "Point": null,
+            "Abbr": "lh gc tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84317"
+        },
+        {
+            "MaPhuongXa": "86286",
+            "TenPhuongXa": "Long Chánh",
+            "MaQuanHuyen": "8627",
+            "TenQuanHuyen": "Gò Công",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lc",
+                    "Point": 5
+                },
+                {
+                    "Key": "gc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long chanh go cong tien giang",
+            "Point": null,
+            "Abbr": "lc gc tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84313"
+        },
+        {
+            "MaPhuongXa": "86285",
+            "TenPhuongXa": "Long Hưng",
+            "MaQuanHuyen": "8627",
+            "TenQuanHuyen": "Gò Công",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "gc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long hung go cong tien giang",
+            "Point": null,
+            "Abbr": "lh gc tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84309"
+        },
+        {
+            "MaPhuongXa": "86284",
+            "TenPhuongXa": "Long Thuận",
+            "MaQuanHuyen": "8627",
+            "TenQuanHuyen": "Gò Công",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long thuan go cong tien giang",
+            "Point": null,
+            "Abbr": "lt gc tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84308"
+        },
+        {
+            "MaPhuongXa": "86283",
+            "TenPhuongXa": "5",
+            "MaQuanHuyen": "8627",
+            "TenQuanHuyen": "Gò Công",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "5",
+                    "Point": 5
+                },
+                {
+                    "Key": "gc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "5 go cong tien giang",
+            "Point": null,
+            "Abbr": "5 gc tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84316"
+        },
+        {
+            "MaPhuongXa": "86281",
+            "TenPhuongXa": "4",
+            "MaQuanHuyen": "8627",
+            "TenQuanHuyen": "Gò Công",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "4",
+                    "Point": 5
+                },
+                {
+                    "Key": "gc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "4 go cong tien giang",
+            "Point": null,
+            "Abbr": "4 gc tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84314"
+        },
+        {
+            "MaPhuongXa": "86292",
+            "TenPhuongXa": "Tân Trung",
+            "MaQuanHuyen": "8627",
+            "TenQuanHuyen": "Gò Công",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan trung go cong tien giang",
+            "Point": null,
+            "Abbr": "tt gc tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84310"
+        },
+        {
+            "MaPhuongXa": "86290",
+            "TenPhuongXa": "Bình Xuân",
+            "MaQuanHuyen": "8627",
+            "TenQuanHuyen": "Gò Công",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bx",
+                    "Point": 5
+                },
+                {
+                    "Key": "gc",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh xuan go cong tien giang",
+            "Point": null,
+            "Abbr": "bx gc tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84312"
+        }
+    ],
+    "8634": [
+        {
+            "MaPhuongXa": "86370",
+            "TenPhuongXa": "Bình Đức",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh duc chau thanh tien giang",
+            "Point": null,
+            "Abbr": "bd ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": null
+        },
+        {
+            "MaPhuongXa": "86371",
+            "TenPhuongXa": "Thạnh Phú",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh phu chau thanh tien giang",
+            "Point": null,
+            "Abbr": "tp ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84622"
+        },
+        {
+            "MaPhuongXa": "86368",
+            "TenPhuongXa": "Long An",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "la",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long an chau thanh tien giang",
+            "Point": null,
+            "Abbr": "la ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84611"
+        },
+        {
+            "MaPhuongXa": "86366",
+            "TenPhuongXa": "Kim Sơn",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ks",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim son chau thanh tien giang",
+            "Point": null,
+            "Abbr": "ks ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84627"
+        },
+        {
+            "MaPhuongXa": "86367",
+            "TenPhuongXa": "Phú Phong",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pp",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu phong chau thanh tien giang",
+            "Point": null,
+            "Abbr": "pp ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84628"
+        },
+        {
+            "MaPhuongXa": "86364",
+            "TenPhuongXa": "Bàn Long",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bl",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ban long chau thanh tien giang",
+            "Point": null,
+            "Abbr": "bl ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84626"
+        },
+        {
+            "MaPhuongXa": "86365",
+            "TenPhuongXa": "Song Thuận",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "st",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song thuan chau thanh tien giang",
+            "Point": null,
+            "Abbr": "st ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84624"
+        },
+        {
+            "MaPhuongXa": "86363",
+            "TenPhuongXa": "Vĩnh Kim",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vk",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh kim chau thanh tien giang",
+            "Point": null,
+            "Abbr": "vk ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84625"
+        },
+        {
+            "MaPhuongXa": "86361",
+            "TenPhuongXa": "Bình Trưng",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh trung chau thanh tien giang",
+            "Point": null,
+            "Abbr": "bt ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84619"
+        },
+        {
+            "MaPhuongXa": "86348",
+            "TenPhuongXa": "Tam Hiệp",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam hiep chau thanh tien giang",
+            "Point": null,
+            "Abbr": "th ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84613"
+        },
+        {
+            "MaPhuongXa": "86346",
+            "TenPhuongXa": "Thân Cửu Nghĩa",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tcn",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "than cuu nghia chau thanh tien giang",
+            "Point": null,
+            "Abbr": "tcn ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84612"
+        },
+        {
+            "MaPhuongXa": "86344",
+            "TenPhuongXa": "Tân Lý Đông",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tld",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan ly dong chau thanh tien giang",
+            "Point": null,
+            "Abbr": "tld ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84610"
+        },
+        {
+            "MaPhuongXa": "86342",
+            "TenPhuongXa": "Tân Hương",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan huong chau thanh tien giang",
+            "Point": null,
+            "Abbr": "th ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84608"
+        },
+        {
+            "MaPhuongXa": "86343",
+            "TenPhuongXa": "Tân Hội Đông",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "thd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoi dong chau thanh tien giang",
+            "Point": null,
+            "Abbr": "thd ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84609"
+        },
+        {
+            "MaPhuongXa": "86340",
+            "TenPhuongXa": "Tân Hiệp",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hiep chau thanh tien giang",
+            "Point": null,
+            "Abbr": "th ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84606"
+        },
+        {
+            "MaPhuongXa": "86341",
+            "TenPhuongXa": "Tân Lý Tây",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tlt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan ly tay chau thanh tien giang",
+            "Point": null,
+            "Abbr": "tlt ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84607"
+        },
+        {
+            "MaPhuongXa": "86359",
+            "TenPhuongXa": "Đông Hoà",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong hoa chau thanh tien giang",
+            "Point": null,
+            "Abbr": "dh ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84620"
+        },
+        {
+            "MaPhuongXa": "86356",
+            "TenPhuongXa": "Hữu Đạo",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "huu dao chau thanh tien giang",
+            "Point": null,
+            "Abbr": "hd ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84618"
+        },
+        {
+            "MaPhuongXa": "86357",
+            "TenPhuongXa": "Long Hưng",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long hung chau thanh tien giang",
+            "Point": null,
+            "Abbr": "lh ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84621"
+        },
+        {
+            "MaPhuongXa": "86354",
+            "TenPhuongXa": "Điềm Hy",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "diem hy chau thanh tien giang",
+            "Point": null,
+            "Abbr": "dh ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84616"
+        },
+        {
+            "MaPhuongXa": "86355",
+            "TenPhuongXa": "Dưỡng Điềm",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "duong diem chau thanh tien giang",
+            "Point": null,
+            "Abbr": "dd ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84617"
+        },
+        {
+            "MaPhuongXa": "86352",
+            "TenPhuongXa": "Nhị Bình",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhi binh chau thanh tien giang",
+            "Point": null,
+            "Abbr": "nb ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84615"
+        },
+        {
+            "MaPhuongXa": "86350",
+            "TenPhuongXa": "Long Định",
+            "MaQuanHuyen": "8634",
+            "TenQuanHuyen": "Châu Thành",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ld",
+                    "Point": 5
+                },
+                {
+                    "Key": "ct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long dinh chau thanh tien giang",
+            "Point": null,
+            "Abbr": "ld ct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84614"
+        }
+    ],
+    "8641": [
+        {
+            "MaPhuongXa": "86438",
+            "TenPhuongXa": "Hội Xuân",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hx",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoi xuan huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "hx cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84818"
+        },
+        {
+            "MaPhuongXa": "86430",
+            "TenPhuongXa": "Mỹ Thành Nam",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mtn",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thanh nam huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "mtn cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84809"
+        },
+        {
+            "MaPhuongXa": "86432",
+            "TenPhuongXa": "Mỹ Thành Bắc",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mtb",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my thanh bac huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "mtb cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84807"
+        },
+        {
+            "MaPhuongXa": "86435",
+            "TenPhuongXa": "Phú An",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pa",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu an huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "pa cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84813"
+        },
+        {
+            "MaPhuongXa": "86434",
+            "TenPhuongXa": "Cẩm Sơn",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cam son huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "cs cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84812"
+        },
+        {
+            "MaPhuongXa": "86437",
+            "TenPhuongXa": "Hiệp Đức",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hiep duc huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "hd cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84816"
+        },
+        {
+            "MaPhuongXa": "86449",
+            "TenPhuongXa": "Long Tiên",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long tien huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "lt cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84815"
+        },
+        {
+            "MaPhuongXa": "86440",
+            "TenPhuongXa": "Tân Phong",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phong huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "tp cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84819"
+        },
+        {
+            "MaPhuongXa": "86444",
+            "TenPhuongXa": "Long Trung",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lt",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long trung huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "lt cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84817"
+        },
+        {
+            "MaPhuongXa": "86447",
+            "TenPhuongXa": "Ngũ Hiệp",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngu hiep huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "nh cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84821"
+        },
+        {
+            "MaPhuongXa": "86429",
+            "TenPhuongXa": "Phú Nhuận",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pn",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu nhuan huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "pn cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84810"
+        },
+        {
+            "MaPhuongXa": "86425",
+            "TenPhuongXa": "Phú Cường",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu cuong huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "pc cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84808"
+        },
+        {
+            "MaPhuongXa": "86427",
+            "TenPhuongXa": "Bình Phú",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh phu huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "bp cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84806"
+        },
+        {
+            "MaPhuongXa": "86426",
+            "TenPhuongXa": "Thạnh Lộc",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh loc huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "tl cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84811"
+        },
+        {
+            "MaPhuongXa": "86451",
+            "TenPhuongXa": "Tam Bình",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tam binh huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "tb cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84820"
+        },
+        {
+            "MaPhuongXa": "86454",
+            "TenPhuongXa": "Mỹ Long",
+            "MaQuanHuyen": "8641",
+            "TenQuanHuyen": "Huyện Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ml",
+                    "Point": 5
+                },
+                {
+                    "Key": "hcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my long huyen cai lay tien giang",
+            "Point": null,
+            "Abbr": "ml cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84814"
+        }
+    ],
+    "8653": [
+        {
+            "MaPhuongXa": "86538",
+            "TenPhuongXa": "Phường 5",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "p5",
+                    "Point": 5
+                },
+                {
+                    "Key": "5",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong 5 thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "5 cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84869"
+        },
+        {
+            "MaPhuongXa": "86530",
+            "TenPhuongXa": "Phường 1",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "p1",
+                    "Point": 5
+                },
+                {
+                    "Key": "1",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong 1 thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "1 cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84856"
+        },
+        {
+            "MaPhuongXa": "86532",
+            "TenPhuongXa": "Phường 2",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "p2",
+                    "Point": 5
+                },
+                {
+                    "Key": "2",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong 2 thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "2 cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84866"
+        },
+        {
+            "MaPhuongXa": "86534",
+            "TenPhuongXa": "Phường 3",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "p3",
+                    "Point": 5
+                },
+                {
+                    "Key": "3",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong 3 thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "3 cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84858"
+        },
+        {
+            "MaPhuongXa": "86536",
+            "TenPhuongXa": "Phường 4",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "p4",
+                    "Point": 5
+                },
+                {
+                    "Key": "4",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuong 4 thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "4 cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84857"
+        },
+        {
+            "MaPhuongXa": "86548",
+            "TenPhuongXa": "Thanh Hòa",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh hoa thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "th cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84867"
+        },
+        {
+            "MaPhuongXa": "86549",
+            "TenPhuongXa": "Long Khánh",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lk",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long khanh thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "lk cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84868"
+        },
+        {
+            "MaPhuongXa": "86540",
+            "TenPhuongXa": "Nhị Mỹ",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhi my thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "nm cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84859"
+        },
+        {
+            "MaPhuongXa": "86541",
+            "TenPhuongXa": "Tân Hội",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoi thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "th cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84860"
+        },
+        {
+            "MaPhuongXa": "86542",
+            "TenPhuongXa": "Tân Phú",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phu thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "tp cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84861"
+        },
+        {
+            "MaPhuongXa": "86543",
+            "TenPhuongXa": "Mỹ Hạnh Đông",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mhd",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my hanh dong thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "mhd cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84862"
+        },
+        {
+            "MaPhuongXa": "86544",
+            "TenPhuongXa": "Tân Bình",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan binh thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "tb cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84865"
+        },
+        {
+            "MaPhuongXa": "86545",
+            "TenPhuongXa": "Mỹ Hạnh Trung",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mht",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my hanh trung thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "mht cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84863"
+        },
+        {
+            "MaPhuongXa": "86546",
+            "TenPhuongXa": "Mỹ Phước Tây",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mpt",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my phuoc tay thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "mpt cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84864"
+        },
+        {
+            "MaPhuongXa": "86551",
+            "TenPhuongXa": "Phú Quý",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pq",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu quy thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "pq cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84870"
+        },
+        {
+            "MaPhuongXa": "86552",
+            "TenPhuongXa": "Nhị Quý",
+            "MaQuanHuyen": "8653",
+            "TenQuanHuyen": "Thị xã Cai Lậy",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "nq",
+                    "Point": 5
+                },
+                {
+                    "Key": "txcl",
+                    "Point": 2
+                },
+                {
+                    "Key": "cl",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhi quy thi xa cai lay tien giang",
+            "Point": null,
+            "Abbr": "nq cl tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84871"
+        }
+    ],
+    "8620": [
+        {
+            "MaPhuongXa": "86230",
+            "TenPhuongXa": "Bình Ninh",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh ninh cho gao tien giang",
+            "Point": null,
+            "Abbr": "bn cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84515"
+        },
+        {
+            "MaPhuongXa": "86208",
+            "TenPhuongXa": "Đăng Hưng Phước",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dhp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dang hung phuoc cho gao tien giang",
+            "Point": null,
+            "Abbr": "dhp cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84516"
+        },
+        {
+            "MaPhuongXa": "86206",
+            "TenPhuongXa": "Quơn Long",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ql",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "quon long cho gao tien giang",
+            "Point": null,
+            "Abbr": "ql cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84510"
+        },
+        {
+            "MaPhuongXa": "86204",
+            "TenPhuongXa": "Tân Thuận Bình",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ttb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thuan binh cho gao tien giang",
+            "Point": null,
+            "Abbr": "ttb cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84509"
+        },
+        {
+            "MaPhuongXa": "86202",
+            "TenPhuongXa": "Bình Phục Nhứt",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bpn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh phuc nhut cho gao tien giang",
+            "Point": null,
+            "Abbr": "bpn cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84508"
+        },
+        {
+            "MaPhuongXa": "86201",
+            "TenPhuongXa": "Bình Phan",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh phan cho gao tien giang",
+            "Point": null,
+            "Abbr": "bp cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84507"
+        },
+        {
+            "MaPhuongXa": "86200",
+            "TenPhuongXa": "Chợ Gạo",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "cg",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cho gao cho gao tien giang",
+            "Point": null,
+            "Abbr": "cg cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84506"
+        },
+        {
+            "MaPhuongXa": "86228",
+            "TenPhuongXa": "An Thạnh Thuỷ",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "att",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thanh thuy cho gao tien giang",
+            "Point": null,
+            "Abbr": "att cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84514"
+        },
+        {
+            "MaPhuongXa": "86226",
+            "TenPhuongXa": "Hoà Định",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa dinh cho gao tien giang",
+            "Point": null,
+            "Abbr": "hd cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84513"
+        },
+        {
+            "MaPhuongXa": "86225",
+            "TenPhuongXa": "Xuân Đông",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "xd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan dong cho gao tien giang",
+            "Point": null,
+            "Abbr": "xd cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84512"
+        },
+        {
+            "MaPhuongXa": "86224",
+            "TenPhuongXa": "Hoà Tịnh",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa tinh cho gao tien giang",
+            "Point": null,
+            "Abbr": "ht cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84521"
+        },
+        {
+            "MaPhuongXa": "86222",
+            "TenPhuongXa": "Phú Kiết",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pk",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu kiet cho gao tien giang",
+            "Point": null,
+            "Abbr": "pk cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84522"
+        },
+        {
+            "MaPhuongXa": "86220",
+            "TenPhuongXa": "Lương Hoà Lạc",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lhl",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "luong hoa lac cho gao tien giang",
+            "Point": null,
+            "Abbr": "lhl cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84523"
+        },
+        {
+            "MaPhuongXa": "86218",
+            "TenPhuongXa": "Song Bình",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "sb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song binh cho gao tien giang",
+            "Point": null,
+            "Abbr": "sb cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84524"
+        },
+        {
+            "MaPhuongXa": "86216",
+            "TenPhuongXa": "Long Bình Điền",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lbd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long binh dien cho gao tien giang",
+            "Point": null,
+            "Abbr": "lbd cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84511"
+        },
+        {
+            "MaPhuongXa": "86214",
+            "TenPhuongXa": "Mỹ Tịnh An",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mta",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my tinh an cho gao tien giang",
+            "Point": null,
+            "Abbr": "mta cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84520"
+        },
+        {
+            "MaPhuongXa": "86212",
+            "TenPhuongXa": "Thanh Bình",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh binh cho gao tien giang",
+            "Point": null,
+            "Abbr": "tb cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84517"
+        },
+        {
+            "MaPhuongXa": "86211",
+            "TenPhuongXa": "Trung Hoà",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trung hoa cho gao tien giang",
+            "Point": null,
+            "Abbr": "th cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84519"
+        },
+        {
+            "MaPhuongXa": "86210",
+            "TenPhuongXa": "Tân Bình Thạnh",
+            "MaQuanHuyen": "8620",
+            "TenQuanHuyen": "Chợ Gạo",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tbt",
+                    "Point": 5
+                },
+                {
+                    "Key": "cg",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan binh thanh cho gao tien giang",
+            "Point": null,
+            "Abbr": "tbt cg tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84518"
+        }
+    ],
+    "8624": [
+        {
+            "MaPhuongXa": "86261",
+            "TenPhuongXa": "Bình Tân",
+            "MaQuanHuyen": "8624",
+            "TenQuanHuyen": "Gò Công Tây",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh tan go cong tay tien giang",
+            "Point": null,
+            "Abbr": "bt gct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84418"
+        },
+        {
+            "MaPhuongXa": "86249",
+            "TenPhuongXa": "Bình Nhì",
+            "MaQuanHuyen": "8624",
+            "TenQuanHuyen": "Gò Công Tây",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "gct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh nhi go cong tay tien giang",
+            "Point": null,
+            "Abbr": "bn gct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84412"
+        },
+        {
+            "MaPhuongXa": "86248",
+            "TenPhuongXa": "Đồng Sơn",
+            "MaQuanHuyen": "8624",
+            "TenQuanHuyen": "Gò Công Tây",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "gct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong son go cong tay tien giang",
+            "Point": null,
+            "Abbr": "ds gct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84411"
+        },
+        {
+            "MaPhuongXa": "86247",
+            "TenPhuongXa": "Đồng Thạnh",
+            "MaQuanHuyen": "8624",
+            "TenQuanHuyen": "Gò Công Tây",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong thanh go cong tay tien giang",
+            "Point": null,
+            "Abbr": "dt gct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84413"
+        },
+        {
+            "MaPhuongXa": "86246",
+            "TenPhuongXa": "Bình Phú",
+            "MaQuanHuyen": "8624",
+            "TenQuanHuyen": "Gò Công Tây",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bp",
+                    "Point": 5
+                },
+                {
+                    "Key": "gct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh phu go cong tay tien giang",
+            "Point": null,
+            "Abbr": "bp gct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84410"
+        },
+        {
+            "MaPhuongXa": "86245",
+            "TenPhuongXa": "Thành Công",
+            "MaQuanHuyen": "8624",
+            "TenQuanHuyen": "Gò Công Tây",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tc",
+                    "Point": 5
+                },
+                {
+                    "Key": "gct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh cong go cong tay tien giang",
+            "Point": null,
+            "Abbr": "tc gct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84409"
+        },
+        {
+            "MaPhuongXa": "86244",
+            "TenPhuongXa": "Yên Luông",
+            "MaQuanHuyen": "8624",
+            "TenQuanHuyen": "Gò Công Tây",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "yl",
+                    "Point": 5
+                },
+                {
+                    "Key": "gct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen luong go cong tay tien giang",
+            "Point": null,
+            "Abbr": "yl gct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84408"
+        },
+        {
+            "MaPhuongXa": "86242",
+            "TenPhuongXa": "Thạnh Trị",
+            "MaQuanHuyen": "8624",
+            "TenQuanHuyen": "Gò Công Tây",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh tri go cong tay tien giang",
+            "Point": null,
+            "Abbr": "tt gct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84407"
+        },
+        {
+            "MaPhuongXa": "86240",
+            "TenPhuongXa": "Vĩnh Bình",
+            "MaQuanHuyen": "8624",
+            "TenQuanHuyen": "Gò Công Tây",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vb",
+                    "Point": 5
+                },
+                {
+                    "Key": "gct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh binh go cong tay tien giang",
+            "Point": null,
+            "Abbr": "vb gct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84406"
+        },
+        {
+            "MaPhuongXa": "86259",
+            "TenPhuongXa": "Long Bình",
+            "MaQuanHuyen": "8624",
+            "TenQuanHuyen": "Gò Công Tây",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lb",
+                    "Point": 5
+                },
+                {
+                    "Key": "gct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long binh go cong tay tien giang",
+            "Point": null,
+            "Abbr": "lb gct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84417"
+        },
+        {
+            "MaPhuongXa": "86254",
+            "TenPhuongXa": "Long Vĩnh",
+            "MaQuanHuyen": "8624",
+            "TenQuanHuyen": "Gò Công Tây",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "lv",
+                    "Point": 5
+                },
+                {
+                    "Key": "gct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "long vinh go cong tay tien giang",
+            "Point": null,
+            "Abbr": "lv gct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84416"
+        },
+        {
+            "MaPhuongXa": "86251",
+            "TenPhuongXa": "Vĩnh Hựu",
+            "MaQuanHuyen": "8624",
+            "TenQuanHuyen": "Gò Công Tây",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vh",
+                    "Point": 5
+                },
+                {
+                    "Key": "gct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vinh huu go cong tay tien giang",
+            "Point": null,
+            "Abbr": "vh gct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84415"
+        },
+        {
+            "MaPhuongXa": "86250",
+            "TenPhuongXa": "Thạnh Nhựt",
+            "MaQuanHuyen": "8624",
+            "TenQuanHuyen": "Gò Công Tây",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "gct",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh nhut go cong tay tien giang",
+            "Point": null,
+            "Abbr": "tn gct tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84414"
+        }
+    ],
+    "8639": [
+        {
+            "MaPhuongXa": "86401",
+            "TenPhuongXa": "Thạnh Mỹ",
+            "MaQuanHuyen": "8639",
+            "TenQuanHuyen": "Tân Phước",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh my tan phuoc tien giang",
+            "Point": null,
+            "Abbr": "tm tp tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84714"
+        },
+        {
+            "MaPhuongXa": "86400",
+            "TenPhuongXa": "Tân Hoà Đông",
+            "MaQuanHuyen": "8639",
+            "TenQuanHuyen": "Tân Phước",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "thd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoa dong tan phuoc tien giang",
+            "Point": null,
+            "Abbr": "thd tp tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84713"
+        },
+        {
+            "MaPhuongXa": "86403",
+            "TenPhuongXa": "Thạnh Hoà",
+            "MaQuanHuyen": "8639",
+            "TenQuanHuyen": "Tân Phước",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh hoa tan phuoc tien giang",
+            "Point": null,
+            "Abbr": "th tp tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84716"
+        },
+        {
+            "MaPhuongXa": "86402",
+            "TenPhuongXa": "Thạnh Tân",
+            "MaQuanHuyen": "8639",
+            "TenQuanHuyen": "Tân Phước",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh tan tan phuoc tien giang",
+            "Point": null,
+            "Abbr": "tt tp tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84715"
+        },
+        {
+            "MaPhuongXa": "86404",
+            "TenPhuongXa": "Tân Hoà Tây",
+            "MaQuanHuyen": "8639",
+            "TenQuanHuyen": "Tân Phước",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoa tay tan phuoc tien giang",
+            "Point": null,
+            "Abbr": "tht tp tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84717"
+        },
+        {
+            "MaPhuongXa": "86398",
+            "TenPhuongXa": "Hưng Thạnh",
+            "MaQuanHuyen": "8639",
+            "TenQuanHuyen": "Tân Phước",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hung thanh tan phuoc tien giang",
+            "Point": null,
+            "Abbr": "ht tp tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84712"
+        },
+        {
+            "MaPhuongXa": "86399",
+            "TenPhuongXa": "Phú Mỹ",
+            "MaQuanHuyen": "8639",
+            "TenQuanHuyen": "Tân Phước",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pm",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu my tan phuoc tien giang",
+            "Point": null,
+            "Abbr": "pm tp tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84711"
+        },
+        {
+            "MaPhuongXa": "86397",
+            "TenPhuongXa": "Mỹ Phước",
+            "MaQuanHuyen": "8639",
+            "TenQuanHuyen": "Tân Phước",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my phuoc tan phuoc tien giang",
+            "Point": null,
+            "Abbr": "mp tp tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84718"
+        },
+        {
+            "MaPhuongXa": "86394",
+            "TenPhuongXa": "Tân Lập 2",
+            "MaQuanHuyen": "8639",
+            "TenQuanHuyen": "Tân Phước",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tl2",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap 2 tan phuoc tien giang",
+            "Point": null,
+            "Abbr": "tl2 tp tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84709"
+        },
+        {
+            "MaPhuongXa": "86395",
+            "TenPhuongXa": "Tân Hoà Thành",
+            "MaQuanHuyen": "8639",
+            "TenQuanHuyen": "Tân Phước",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tht",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoa thanh tan phuoc tien giang",
+            "Point": null,
+            "Abbr": "tht tp tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84710"
+        },
+        {
+            "MaPhuongXa": "86393",
+            "TenPhuongXa": "Tân Lập 1",
+            "MaQuanHuyen": "8639",
+            "TenQuanHuyen": "Tân Phước",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tl1",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan lap 1 tan phuoc tien giang",
+            "Point": null,
+            "Abbr": "tl1 tp tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84708"
+        },
+        {
+            "MaPhuongXa": "86390",
+            "TenPhuongXa": "Mỹ Phước",
+            "MaQuanHuyen": "8639",
+            "TenQuanHuyen": "Tân Phước",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "mp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "my phuoc tan phuoc tien giang",
+            "Point": null,
+            "Abbr": "mp tp tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84706"
+        },
+        {
+            "MaPhuongXa": "86391",
+            "TenPhuongXa": "Phước Lập",
+            "MaQuanHuyen": "8639",
+            "TenQuanHuyen": "Tân Phước",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pl",
+                    "Point": 5
+                },
+                {
+                    "Key": "tp",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc lap tan phuoc tien giang",
+            "Point": null,
+            "Abbr": "pl tp tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84707"
+        }
+    ],
+    "8630": [
+        {
+            "MaPhuongXa": "86308",
+            "TenPhuongXa": "Kiểng Phước",
+            "MaQuanHuyen": "8630",
+            "TenQuanHuyen": "Gò Công Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "kp",
+                    "Point": 5
+                },
+                {
+                    "Key": "gcd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kieng phuoc go cong dong tien giang",
+            "Point": null,
+            "Abbr": "kp gcd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84361"
+        },
+        {
+            "MaPhuongXa": "86307",
+            "TenPhuongXa": "Tân Điền",
+            "MaQuanHuyen": "8630",
+            "TenQuanHuyen": "Gò Công Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "gcd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan dien go cong dong tien giang",
+            "Point": null,
+            "Abbr": "td gcd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84359"
+        },
+        {
+            "MaPhuongXa": "86305",
+            "TenPhuongXa": "Tân Thành",
+            "MaQuanHuyen": "8630",
+            "TenQuanHuyen": "Gò Công Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gcd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh go cong dong tien giang",
+            "Point": null,
+            "Abbr": "tt gcd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84358"
+        },
+        {
+            "MaPhuongXa": "86303",
+            "TenPhuongXa": "Tăng Hòa",
+            "MaQuanHuyen": "8630",
+            "TenQuanHuyen": "Gò Công Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "gcd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tang hoa go cong dong tien giang",
+            "Point": null,
+            "Abbr": "th gcd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84357"
+        },
+        {
+            "MaPhuongXa": "86300",
+            "TenPhuongXa": "Tân Hoà",
+            "MaQuanHuyen": "8630",
+            "TenQuanHuyen": "Gò Công Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "gcd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan hoa go cong dong tien giang",
+            "Point": null,
+            "Abbr": "th gcd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84356"
+        },
+        {
+            "MaPhuongXa": "86326",
+            "TenPhuongXa": "Phước Trung",
+            "MaQuanHuyen": "8630",
+            "TenQuanHuyen": "Gò Công Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gcd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phuoc trung go cong dong tien giang",
+            "Point": null,
+            "Abbr": "pt gcd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84368"
+        },
+        {
+            "MaPhuongXa": "86319",
+            "TenPhuongXa": "Bình Nghị",
+            "MaQuanHuyen": "8630",
+            "TenQuanHuyen": "Gò Công Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "gcd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh nghi go cong dong tien giang",
+            "Point": null,
+            "Abbr": "bn gcd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84367"
+        },
+        {
+            "MaPhuongXa": "86316",
+            "TenPhuongXa": "Gia Thuận",
+            "MaQuanHuyen": "8630",
+            "TenQuanHuyen": "Gò Công Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "gt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gcd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gia thuan go cong dong tien giang",
+            "Point": null,
+            "Abbr": "gt gcd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84362"
+        },
+        {
+            "MaPhuongXa": "86317",
+            "TenPhuongXa": "Tân Phước",
+            "MaQuanHuyen": "8630",
+            "TenQuanHuyen": "Gò Công Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "gcd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phuoc go cong dong tien giang",
+            "Point": null,
+            "Abbr": "tp gcd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84363"
+        },
+        {
+            "MaPhuongXa": "86314",
+            "TenPhuongXa": "Tân Tây",
+            "MaQuanHuyen": "8630",
+            "TenQuanHuyen": "Gò Công Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "gcd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan tay go cong dong tien giang",
+            "Point": null,
+            "Abbr": "tt gcd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84364"
+        },
+        {
+            "MaPhuongXa": "86312",
+            "TenPhuongXa": "Tân Đông",
+            "MaQuanHuyen": "8630",
+            "TenQuanHuyen": "Gò Công Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "gcd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan dong go cong dong tien giang",
+            "Point": null,
+            "Abbr": "td gcd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84365"
+        },
+        {
+            "MaPhuongXa": "86310",
+            "TenPhuongXa": "Vàm Láng",
+            "MaQuanHuyen": "8630",
+            "TenQuanHuyen": "Gò Công Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "vl",
+                    "Point": 5
+                },
+                {
+                    "Key": "gcd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "vam lang go cong dong tien giang",
+            "Point": null,
+            "Abbr": "vl gcd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84360"
+        },
+        {
+            "MaPhuongXa": "86311",
+            "TenPhuongXa": "Bình Ân",
+            "MaQuanHuyen": "8630",
+            "TenQuanHuyen": "Gò Công Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "ba",
+                    "Point": 5
+                },
+                {
+                    "Key": "gcd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh an go cong dong tien giang",
+            "Point": null,
+            "Abbr": "ba gcd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84366"
+        }
+    ],
+    "8651": [
+        {
+            "MaPhuongXa": "86510",
+            "TenPhuongXa": "Phú Đông",
+            "MaQuanHuyen": "8651",
+            "TenQuanHuyen": "Tân Phú Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "tpd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu dong tan phu dong tien giang",
+            "Point": null,
+            "Abbr": "pd tpd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84207"
+        },
+        {
+            "MaPhuongXa": "86511",
+            "TenPhuongXa": "Phú Tân",
+            "MaQuanHuyen": "8651",
+            "TenQuanHuyen": "Tân Phú Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tpd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu tan tan phu dong tien giang",
+            "Point": null,
+            "Abbr": "pt tpd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84208"
+        },
+        {
+            "MaPhuongXa": "86512",
+            "TenPhuongXa": "Phú Thạnh",
+            "MaQuanHuyen": "8651",
+            "TenQuanHuyen": "Tân Phú Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tpd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thanh tan phu dong tien giang",
+            "Point": null,
+            "Abbr": "pt tpd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84206"
+        },
+        {
+            "MaPhuongXa": "86514",
+            "TenPhuongXa": "Tân Phú",
+            "MaQuanHuyen": "8651",
+            "TenQuanHuyen": "Tân Phú Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tp",
+                    "Point": 5
+                },
+                {
+                    "Key": "tpd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan phu tan phu dong tien giang",
+            "Point": null,
+            "Abbr": "tp tpd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84209"
+        },
+        {
+            "MaPhuongXa": "86515",
+            "TenPhuongXa": "Tân Thạnh",
+            "MaQuanHuyen": "8651",
+            "TenQuanHuyen": "Tân Phú Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tpd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thanh tan phu dong tien giang",
+            "Point": null,
+            "Abbr": "tt tpd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84211"
+        },
+        {
+            "MaPhuongXa": "86516",
+            "TenPhuongXa": "Tân Thới",
+            "MaQuanHuyen": "8651",
+            "TenQuanHuyen": "Tân Phú Đông",
+            "MaTinhThanh": "86",
+            "TenTinhThanh": "Tiền Giang",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "tpd",
+                    "Point": 2
+                },
+                {
+                    "Key": "tg",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan thoi tan phu dong tien giang",
+            "Point": null,
+            "Abbr": "tt tpd tg",
+            "TrangThai": null,
+            "MaBuuChinh": "84210"
+        }
+    ]
+}

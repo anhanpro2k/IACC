@@ -1,0 +1,216 @@
+.mona-clear:after {
+    content: "";
+    display: table;
+    clear: both
+}
+
+.mona-clear:before {
+    display: table;
+    content: " "
+}
+.selected {
+    border: 1px solid firebrick;
+}
+.woocommerce #payment ul.payment_methods li img, .woocommerce-page #payment ul.payment_methods li img {
+    vertical-align: middle;
+    margin: 7px !important;
+    position: relative;
+}
+.mona-bk-bank-wrapp{
+    border-top: 2px solid #ddd;
+    padding-top: 10px;
+    text-align: center;
+}
+.mona-bk-bank-wrapp .vmpayment_cardinfo b{
+    color: red;
+    display: block;
+}
+.mona-bk-bank-wrapp .credit-card .bank-item{
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+    display: block;
+    width: calc(25% - 10px);
+    float: left;
+    border: 1px solid #ddd;
+    min-height: 45px;
+    text-align: center;
+    line-height: 45px;
+    background: #fbfbfb;
+    margin: 5px;
+    cursor: pointer;
+}
+.mona-bk-bank-wrapp .credit-card .bank-input:checked+.mona-choice-bank-func{
+    border: 1px solid #05a8ff;
+    -webkit-box-shadow: 1px 2px 15px 0px rgb(113, 160, 222);
+    -moz-box-shadow: 1px 2px 15px 0px rgb(113, 160, 222);
+    box-shadow: 1px 2px 15px 0px rgb(113, 160, 222);
+}
+.woocommerce-page #payment ul.payment_methods li .bank-item img{
+    margin: 0px !important;
+    float: none;
+    display: inline-block;
+}
+.credit-card {
+    float: left;
+    width: 100%;
+    margin: 10px 0 30px;
+}
+
+.credit-card .bank-item {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 1%;
+    border: 1px solid #c2c2c2;
+    margin-bottom: 15px;
+    width: 24%;
+    text-align: center;
+}
+
+.credit-card .bank-item.selected {
+    border-color: red;
+}
+.mona-hidden{
+    display: none!important;
+}
+
+.wc_payment_methods .wc_payment_method{
+    display: block;
+}
+.wc_payment_methods .wc_payment_method .input-radio{
+    display: none;
+}
+.wc_payment_methods .wc_payment_method .input-radio+label{
+    display: block;
+    padding: 10px 20px;
+    padding-left: 40px;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    border-bottom: 2px solid transparent;
+    position: relative;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.wc_payment_methods .wc_payment_method .input-radio+label:before{
+    content: '';
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    margin-top: -8px;
+    border: 1px solid #dfdcde;
+    border-radius: 14px;
+    background: #f7f7f7;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+}
+.wc_payment_methods .wc_payment_method .input-radio+label:after{
+    content: '';
+    width: 8px;
+    height: 8px;
+    display: inline-block;
+    position: absolute;
+    left: 14px;
+    top: 50%;
+    margin-top: -4px;
+    border-radius: 14px;
+    background: transparent;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+}
+.wc_payment_methods .wc_payment_method .input-radio:checked+label:before{
+    border-color: #cf3629;
+}
+.wc_payment_methods .wc_payment_method .input-radio:checked+label:after{
+
+    background: #cf3629;  
+}
+.wc_payment_methods .wc_payment_method .input-radio:checked+label{
+    border-bottom: 2px solid #cf3629;
+    background: #efefef;
+}
+.woocommerce-checkout #payment .wc_payment_methods div.payment_box:before{
+    content: none;
+}
+.woocommerce-checkout #payment .wc_payment_methods div.payment_box{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.woocommerce #payment ul.payment_methods li img, .woocommerce-page #payment ul.payment_methods li img{
+    margin: 0 !important;
+}
+.mona-content ul .mona-list-bank,
+.mona-list-bank{
+    list-style: none;
+    text-align: center;
+    margin: 0 ;
+    padding: 0;
+}
+.mona-list-bank .item{
+    display: inline-block;
+    margin-bottom: 5px !important;
+    vertical-align: top;
+
+}
+.mona-list-bank .item .label{
+    width: 100px;
+    min-height: 91px;
+    padding: 5px;
+    border: 1px solid #efefef;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    padding-bottom: 20px;
+    background: #fff;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    box-shadow: 0 0 2px transparent;
+    -webkit-box-shadow: 0 0 2px transparent;
+}
+.mona-list-bank .item .label img{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    max-width: 100%;
+    max-height: 100%;
+}
+.mona-list-bank .plahonder{
+    line-height: 1;
+    display: block;
+    font-size: 10px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 5px;
+}
+.mona-hiden{
+    display: none;
+}
+.mona-list-bank .item label .mona-change-bank:checked+.label{
+    box-shadow: 0 0 2px #cf3629;
+    -webkit-box-shadow: 0 0 2px #cf3629;
+}
+#billing_country_field{
+    display: none;
+}
+#billing_address_2_field{
+    order: 9;
+}
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea{
+     background-color: #f8f8f8;
+    display: block;
+    width: 100%;
+    margin: 1.5rem 0 2.5rem;
+    border: 1px solid #e5e5e5;
+    padding: 1.5rem;
+    line-height: calc(19 / 16);
+    font-size: 1.6rem;
+    border-radius: 6px;
+    -webkit-transition: 0.3s linear;
+    transition: 0.3s linear;
+}

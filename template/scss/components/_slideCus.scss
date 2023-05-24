@@ -1,0 +1,12 @@
+.slideJS {
+    // overflow: hidden;
+    overflow: auto;
+    &-wrap {
+        @include flex;
+
+    }
+
+    &-item {
+        flex-shrink: 0;
+    }
+}

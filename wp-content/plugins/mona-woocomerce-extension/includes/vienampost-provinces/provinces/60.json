@@ -1,0 +1,6030 @@
+{
+    "6017": [
+        {
+            "MaPhuongXa": "60200",
+            "TenPhuongXa": "Đak Krong",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak krong dak doa gia lai",
+            "Point": null,
+            "Abbr": "dk dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61214"
+        },
+        {
+            "MaPhuongXa": "60206",
+            "TenPhuongXa": "H'Nol",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "h",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "h'nol dak doa gia lai",
+            "Point": null,
+            "Abbr": "h dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61219"
+        },
+        {
+            "MaPhuongXa": "60193",
+            "TenPhuongXa": "Trang",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "t",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "trang dak doa gia lai",
+            "Point": null,
+            "Abbr": "t dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61220"
+        },
+        {
+            "MaPhuongXa": "60191",
+            "TenPhuongXa": "Ia Pết",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ip",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia pet dak doa gia lai",
+            "Point": null,
+            "Abbr": "ip dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61221"
+        },
+        {
+            "MaPhuongXa": "60196",
+            "TenPhuongXa": "Ia Băng",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ib",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia bang dak doa gia lai",
+            "Point": null,
+            "Abbr": "ib dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61222"
+        },
+        {
+            "MaPhuongXa": "60199",
+            "TenPhuongXa": "Hà Đông",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "hd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha dong dak doa gia lai",
+            "Point": null,
+            "Abbr": "hd dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61213"
+        },
+        {
+            "MaPhuongXa": "60172",
+            "TenPhuongXa": "Tân Bình",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan binh dak doa gia lai",
+            "Point": null,
+            "Abbr": "tb dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61207"
+        },
+        {
+            "MaPhuongXa": "60173",
+            "TenPhuongXa": "KDang",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "k",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kdang dak doa gia lai",
+            "Point": null,
+            "Abbr": "k dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61208"
+        },
+        {
+            "MaPhuongXa": "60170",
+            "TenPhuongXa": "Đak Đoa",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak doa dak doa gia lai",
+            "Point": null,
+            "Abbr": "dd dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61206"
+        },
+        {
+            "MaPhuongXa": "60177",
+            "TenPhuongXa": "Nam Yang",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ny",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nam yang dak doa gia lai",
+            "Point": null,
+            "Abbr": "ny dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61216"
+        },
+        {
+            "MaPhuongXa": "60175",
+            "TenPhuongXa": "H'Neng",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "h",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "h'neng dak doa gia lai",
+            "Point": null,
+            "Abbr": "h dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61209"
+        },
+        {
+            "MaPhuongXa": "60178",
+            "TenPhuongXa": "Kon Gang",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "kg",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kon gang dak doa gia lai",
+            "Point": null,
+            "Abbr": "kg dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61210"
+        },
+        {
+            "MaPhuongXa": "60180",
+            "TenPhuongXa": "Hải Yang",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "hy",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hai yang dak doa gia lai",
+            "Point": null,
+            "Abbr": "hy dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61211"
+        },
+        {
+            "MaPhuongXa": "60181",
+            "TenPhuongXa": "Đak Sơ Mei",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dsm",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak so mei dak doa gia lai",
+            "Point": null,
+            "Abbr": "dsm dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61212"
+        },
+        {
+            "MaPhuongXa": "60187",
+            "TenPhuongXa": "Glar",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "g",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "glar dak doa gia lai",
+            "Point": null,
+            "Abbr": "g dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61218"
+        },
+        {
+            "MaPhuongXa": "60184",
+            "TenPhuongXa": "Hà Bầu",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha bau dak doa gia lai",
+            "Point": null,
+            "Abbr": "hb dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61215"
+        },
+        {
+            "MaPhuongXa": "60189",
+            "TenPhuongXa": "A Dơk",
+            "MaQuanHuyen": "6017",
+            "TenQuanHuyen": "Đak Đoa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ad",
+                    "Point": 5
+                },
+                {
+                    "Key": "dd",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "a dok dak doa gia lai",
+            "Point": null,
+            "Abbr": "ad dd gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61217"
+        }
+    ],
+    "6030": [
+        {
+            "MaPhuongXa": "60300",
+            "TenPhuongXa": "Phú Hoà",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ph",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu hoa chu pah gia lai",
+            "Point": null,
+            "Abbr": "ph cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61306"
+        },
+        {
+            "MaPhuongXa": "60303",
+            "TenPhuongXa": "Nghĩa Hưng",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia hung chu pah gia lai",
+            "Point": null,
+            "Abbr": "nh cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61307"
+        },
+        {
+            "MaPhuongXa": "60306",
+            "TenPhuongXa": "Chư Jôr",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cj",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu jor chu pah gia lai",
+            "Point": null,
+            "Abbr": "cj cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61308"
+        },
+        {
+            "MaPhuongXa": "60307",
+            "TenPhuongXa": "Chư Đang Ya",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cdy",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu dang ya chu pah gia lai",
+            "Point": null,
+            "Abbr": "cdy cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61309"
+        },
+        {
+            "MaPhuongXa": "60308",
+            "TenPhuongXa": "Đắk Tơ Ver",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dtv",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak to ver chu pah gia lai",
+            "Point": null,
+            "Abbr": "dtv cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61310"
+        },
+        {
+            "MaPhuongXa": "60309",
+            "TenPhuongXa": "Hà Tây",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha tay chu pah gia lai",
+            "Point": null,
+            "Abbr": "ht cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61311"
+        },
+        {
+            "MaPhuongXa": "60321",
+            "TenPhuongXa": "Ia Nhin",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "in",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia nhin chu pah gia lai",
+            "Point": null,
+            "Abbr": "in cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61319"
+        },
+        {
+            "MaPhuongXa": "60323",
+            "TenPhuongXa": "Ia Ly",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "il",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia ly chu pah gia lai",
+            "Point": null,
+            "Abbr": "il cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61315"
+        },
+        {
+            "MaPhuongXa": "60325",
+            "TenPhuongXa": "Ia Kreng",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ik",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia kreng chu pah gia lai",
+            "Point": null,
+            "Abbr": "ik cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61317"
+        },
+        {
+            "MaPhuongXa": "60311",
+            "TenPhuongXa": "Hoà Phú",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa phu chu pah gia lai",
+            "Point": null,
+            "Abbr": "hp cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61313"
+        },
+        {
+            "MaPhuongXa": "60312",
+            "TenPhuongXa": "Ia Khươl",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ik",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia khuol chu pah gia lai",
+            "Point": null,
+            "Abbr": "ik cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61312"
+        },
+        {
+            "MaPhuongXa": "60314",
+            "TenPhuongXa": "Ia Phí",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ip",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia phi chu pah gia lai",
+            "Point": null,
+            "Abbr": "ip cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61314"
+        },
+        {
+            "MaPhuongXa": "60316",
+            "TenPhuongXa": "Nghĩa Hoà",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia hoa chu pah gia lai",
+            "Point": null,
+            "Abbr": "nh cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61320"
+        },
+        {
+            "MaPhuongXa": "60317",
+            "TenPhuongXa": "Ia Mơ Nông",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "imn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia mo nong chu pah gia lai",
+            "Point": null,
+            "Abbr": "imn cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61316"
+        },
+        {
+            "MaPhuongXa": "60319",
+            "TenPhuongXa": "Ia Ka",
+            "MaQuanHuyen": "6030",
+            "TenQuanHuyen": "Chư Păh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ik",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia ka chu pah gia lai",
+            "Point": null,
+            "Abbr": "ik cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61318"
+        }
+    ],
+    "6010": [
+        {
+            "MaPhuongXa": "60100",
+            "TenPhuongXa": "Tây Sơn",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tay son pleiku gia lai",
+            "Point": null,
+            "Abbr": "ts p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61106"
+        },
+        {
+            "MaPhuongXa": "60106",
+            "TenPhuongXa": "Hoa Lư",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "hl",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa lu pleiku gia lai",
+            "Point": null,
+            "Abbr": "hl p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61109"
+        },
+        {
+            "MaPhuongXa": "60108",
+            "TenPhuongXa": "Trà Đa",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "td",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra da pleiku gia lai",
+            "Point": null,
+            "Abbr": "td p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61120"
+        },
+        {
+            "MaPhuongXa": "60109",
+            "TenPhuongXa": "Thống Nhất",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "tn",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thong nhat pleiku gia lai",
+            "Point": null,
+            "Abbr": "tn p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61110"
+        },
+        {
+            "MaPhuongXa": "60122",
+            "TenPhuongXa": "Diên Hồng",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien hong pleiku gia lai",
+            "Point": null,
+            "Abbr": "dh p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61112"
+        },
+        {
+            "MaPhuongXa": "60143",
+            "TenPhuongXa": "An Phú",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ap",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an phu pleiku gia lai",
+            "Point": null,
+            "Abbr": "ap p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61118"
+        },
+        {
+            "MaPhuongXa": "60140",
+            "TenPhuongXa": "Chư Á",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ca",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu a pleiku gia lai",
+            "Point": null,
+            "Abbr": "ca p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61119"
+        },
+        {
+            "MaPhuongXa": "60146",
+            "TenPhuongXa": "Hội Phú",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "hp",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoi phu pleiku gia lai",
+            "Point": null,
+            "Abbr": "hp p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61114"
+        },
+        {
+            "MaPhuongXa": "60145",
+            "TenPhuongXa": "Diên Phú",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dien phu pleiku gia lai",
+            "Point": null,
+            "Abbr": "dp p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61125"
+        },
+        {
+            "MaPhuongXa": "60148",
+            "TenPhuongXa": "Chư H'Drông",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ch",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu h'drong pleiku gia lai",
+            "Point": null,
+            "Abbr": "ch p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61128"
+        },
+        {
+            "MaPhuongXa": "60162",
+            "TenPhuongXa": "Phù Đổng",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "pd",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu dong pleiku gia lai",
+            "Point": null,
+            "Abbr": "pd p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61108"
+        },
+        {
+            "MaPhuongXa": "60160",
+            "TenPhuongXa": "Chi Lăng",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chi lang pleiku gia lai",
+            "Point": null,
+            "Abbr": "cl p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61116"
+        },
+        {
+            "MaPhuongXa": "60161",
+            "TenPhuongXa": "Đống Đa",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dd",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong da pleiku gia lai",
+            "Point": null,
+            "Abbr": "dd p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61124"
+        },
+        {
+            "MaPhuongXa": "60112",
+            "TenPhuongXa": "Biển Hồ",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "bh",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bien ho pleiku gia lai",
+            "Point": null,
+            "Abbr": "bh p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61121"
+        },
+        {
+            "MaPhuongXa": "60116",
+            "TenPhuongXa": "Yên Thế",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen the pleiku gia lai",
+            "Point": null,
+            "Abbr": "yt p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61123"
+        },
+        {
+            "MaPhuongXa": "60114",
+            "TenPhuongXa": "Tân Sơn",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan son pleiku gia lai",
+            "Point": null,
+            "Abbr": "ts p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61122"
+        },
+        {
+            "MaPhuongXa": "60118",
+            "TenPhuongXa": "Yên Đổ",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "yd",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yen do pleiku gia lai",
+            "Point": null,
+            "Abbr": "yd p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61111"
+        },
+        {
+            "MaPhuongXa": "60130",
+            "TenPhuongXa": "Ia Kring",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ik",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia kring pleiku gia lai",
+            "Point": null,
+            "Abbr": "ik p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61113"
+        },
+        {
+            "MaPhuongXa": "60137",
+            "TenPhuongXa": "Trà Bá",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "tb",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tra ba pleiku gia lai",
+            "Point": null,
+            "Abbr": "tb p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61115"
+        },
+        {
+            "MaPhuongXa": "60135",
+            "TenPhuongXa": "Hội Thương",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoi thuong pleiku gia lai",
+            "Point": null,
+            "Abbr": "ht p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61107"
+        },
+        {
+            "MaPhuongXa": "60152",
+            "TenPhuongXa": "Ia Kênh",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ik",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia kenh pleiku gia lai",
+            "Point": null,
+            "Abbr": "ik p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61127"
+        },
+        {
+            "MaPhuongXa": "60150",
+            "TenPhuongXa": "Gào",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "g",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "gao pleiku gia lai",
+            "Point": null,
+            "Abbr": "g p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61126"
+        },
+        {
+            "MaPhuongXa": "60158",
+            "TenPhuongXa": "Thắng Lợi",
+            "MaQuanHuyen": "6010",
+            "TenQuanHuyen": "Pleiku",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "tl",
+                    "Point": 5
+                },
+                {
+                    "Key": "p",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thang loi pleiku gia lai",
+            "Point": null,
+            "Abbr": "tl p gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61117"
+        }
+    ],
+    "6060": [
+        {
+            "MaPhuongXa": "60605",
+            "TenPhuongXa": "Đất Bằng",
+            "MaQuanHuyen": "6060",
+            "TenQuanHuyen": "Krông Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "db",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dat bang krong pa gia lai",
+            "Point": null,
+            "Abbr": "db kp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62109"
+        },
+        {
+            "MaPhuongXa": "60607",
+            "TenPhuongXa": "Chư Gu",
+            "MaQuanHuyen": "6060",
+            "TenQuanHuyen": "Krông Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cg",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu gu krong pa gia lai",
+            "Point": null,
+            "Abbr": "cg kp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62114"
+        },
+        {
+            "MaPhuongXa": "60600",
+            "TenPhuongXa": "Phú Túc",
+            "MaQuanHuyen": "6060",
+            "TenQuanHuyen": "Krông Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu tuc krong pa gia lai",
+            "Point": null,
+            "Abbr": "pt kp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62106"
+        },
+        {
+            "MaPhuongXa": "60603",
+            "TenPhuongXa": "Ia Mlah",
+            "MaQuanHuyen": "6060",
+            "TenQuanHuyen": "Krông Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "im",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia mlah krong pa gia lai",
+            "Point": null,
+            "Abbr": "im kp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62108"
+        },
+        {
+            "MaPhuongXa": "60609",
+            "TenPhuongXa": "Chư Rcăm",
+            "MaQuanHuyen": "6060",
+            "TenQuanHuyen": "Krông Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cr",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu rcam krong pa gia lai",
+            "Point": null,
+            "Abbr": "cr kp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62110"
+        },
+        {
+            "MaPhuongXa": "60625",
+            "TenPhuongXa": "Ia Dreh",
+            "MaQuanHuyen": "6060",
+            "TenQuanHuyen": "Krông Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "id",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia dreh krong pa gia lai",
+            "Point": null,
+            "Abbr": "id kp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62118"
+        },
+        {
+            "MaPhuongXa": "60627",
+            "TenPhuongXa": "Krông Năng",
+            "MaQuanHuyen": "6060",
+            "TenQuanHuyen": "Krông Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "kn",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "krong nang krong pa gia lai",
+            "Point": null,
+            "Abbr": "kn kp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62119"
+        },
+        {
+            "MaPhuongXa": "60621",
+            "TenPhuongXa": "Chư Ngọc",
+            "MaQuanHuyen": "6060",
+            "TenQuanHuyen": "Krông Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cn",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu ngoc krong pa gia lai",
+            "Point": null,
+            "Abbr": "cn kp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62117"
+        },
+        {
+            "MaPhuongXa": "60623",
+            "TenPhuongXa": "Ia Rmok",
+            "MaQuanHuyen": "6060",
+            "TenQuanHuyen": "Krông Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ir",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia rmok krong pa gia lai",
+            "Point": null,
+            "Abbr": "ir kp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62116"
+        },
+        {
+            "MaPhuongXa": "60615",
+            "TenPhuongXa": "Uar",
+            "MaQuanHuyen": "6060",
+            "TenQuanHuyen": "Krông Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "u",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "uar krong pa gia lai",
+            "Point": null,
+            "Abbr": "u kp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62113"
+        },
+        {
+            "MaPhuongXa": "60617",
+            "TenPhuongXa": "Chư Drăng",
+            "MaQuanHuyen": "6060",
+            "TenQuanHuyen": "Krông Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu drang krong pa gia lai",
+            "Point": null,
+            "Abbr": "cd kp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62115"
+        },
+        {
+            "MaPhuongXa": "60611",
+            "TenPhuongXa": "Ia Rsai",
+            "MaQuanHuyen": "6060",
+            "TenQuanHuyen": "Krông Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ir",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia rsai krong pa gia lai",
+            "Point": null,
+            "Abbr": "ir kp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62111"
+        },
+        {
+            "MaPhuongXa": "60613",
+            "TenPhuongXa": "Ia Rsươm",
+            "MaQuanHuyen": "6060",
+            "TenQuanHuyen": "Krông Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ir",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia rsuom krong pa gia lai",
+            "Point": null,
+            "Abbr": "ir kp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62112"
+        },
+        {
+            "MaPhuongXa": "60619",
+            "TenPhuongXa": "Phú Cần",
+            "MaQuanHuyen": "6060",
+            "TenQuanHuyen": "Krông Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "pc",
+                    "Point": 5
+                },
+                {
+                    "Key": "kp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu can krong pa gia lai",
+            "Point": null,
+            "Abbr": "pc kp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62107"
+        }
+    ],
+    "6069": [
+        {
+            "MaPhuongXa": "60707",
+            "TenPhuongXa": "Chư A Thai",
+            "MaQuanHuyen": "6069",
+            "TenQuanHuyen": "Phú Thiện",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cat",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu a thai phu thien gia lai",
+            "Point": null,
+            "Abbr": "cat pt gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61707"
+        },
+        {
+            "MaPhuongXa": "60700",
+            "TenPhuongXa": "Ia AKe",
+            "MaQuanHuyen": "6069",
+            "TenQuanHuyen": "Phú Thiện",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ia",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia ake phu thien gia lai",
+            "Point": null,
+            "Abbr": "ia pt gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61709"
+        },
+        {
+            "MaPhuongXa": "60703",
+            "TenPhuongXa": "Ia Hiao",
+            "MaQuanHuyen": "6069",
+            "TenQuanHuyen": "Phú Thiện",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ih",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia hiao phu thien gia lai",
+            "Point": null,
+            "Abbr": "ih pt gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61715"
+        },
+        {
+            "MaPhuongXa": "60709",
+            "TenPhuongXa": "Chrôh Pơnan",
+            "MaQuanHuyen": "6069",
+            "TenQuanHuyen": "Phú Thiện",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chroh ponan phu thien gia lai",
+            "Point": null,
+            "Abbr": "cp pt gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61714"
+        },
+        {
+            "MaPhuongXa": "60694",
+            "TenPhuongXa": "Ia Sol",
+            "MaQuanHuyen": "6069",
+            "TenQuanHuyen": "Phú Thiện",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "is",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia sol phu thien gia lai",
+            "Point": null,
+            "Abbr": "is pt gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61710"
+        },
+        {
+            "MaPhuongXa": "60696",
+            "TenPhuongXa": "Ia Piar",
+            "MaQuanHuyen": "6069",
+            "TenQuanHuyen": "Phú Thiện",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ip",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia piar phu thien gia lai",
+            "Point": null,
+            "Abbr": "ip pt gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61711"
+        },
+        {
+            "MaPhuongXa": "60690",
+            "TenPhuongXa": "Phú Thiện",
+            "MaQuanHuyen": "6069",
+            "TenQuanHuyen": "Phú Thiện",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu thien phu thien gia lai",
+            "Point": null,
+            "Abbr": "pt pt gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61706"
+        },
+        {
+            "MaPhuongXa": "60692",
+            "TenPhuongXa": "Ia Yeng",
+            "MaQuanHuyen": "6069",
+            "TenQuanHuyen": "Phú Thiện",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "iy",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia yeng phu thien gia lai",
+            "Point": null,
+            "Abbr": "iy pt gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61712"
+        },
+        {
+            "MaPhuongXa": "60698",
+            "TenPhuongXa": "Ia Peng",
+            "MaQuanHuyen": "6069",
+            "TenQuanHuyen": "Phú Thiện",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ip",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia peng phu thien gia lai",
+            "Point": null,
+            "Abbr": "ip pt gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61713"
+        },
+        {
+            "MaPhuongXa": "60711",
+            "TenPhuongXa": "Ayun Hạ",
+            "MaQuanHuyen": "6069",
+            "TenQuanHuyen": "Phú Thiện",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ah",
+                    "Point": 5
+                },
+                {
+                    "Key": "pt",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ayun ha phu thien gia lai",
+            "Point": null,
+            "Abbr": "ah pt gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61708"
+        }
+    ],
+    "6038": [
+        {
+            "MaPhuongXa": "60406",
+            "TenPhuongXa": "Ia Nan",
+            "MaQuanHuyen": "6038",
+            "TenQuanHuyen": "Đức Cơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "in",
+                    "Point": 5
+                },
+                {
+                    "Key": "dc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia nan duc co gia lai",
+            "Point": null,
+            "Abbr": "in dc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61515"
+        },
+        {
+            "MaPhuongXa": "60405",
+            "TenPhuongXa": "Ia Pnôn",
+            "MaQuanHuyen": "6038",
+            "TenQuanHuyen": "Đức Cơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ip",
+                    "Point": 5
+                },
+                {
+                    "Key": "dc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia pnon duc co gia lai",
+            "Point": null,
+            "Abbr": "ip dc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61514"
+        },
+        {
+            "MaPhuongXa": "60403",
+            "TenPhuongXa": "Ia Kriêng",
+            "MaQuanHuyen": "6038",
+            "TenQuanHuyen": "Đức Cơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ik",
+                    "Point": 5
+                },
+                {
+                    "Key": "dc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia krieng duc co gia lai",
+            "Point": null,
+            "Abbr": "ik dc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61513"
+        },
+        {
+            "MaPhuongXa": "60402",
+            "TenPhuongXa": "Ia Lang",
+            "MaQuanHuyen": "6038",
+            "TenQuanHuyen": "Đức Cơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "il",
+                    "Point": 5
+                },
+                {
+                    "Key": "dc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia lang duc co gia lai",
+            "Point": null,
+            "Abbr": "il dc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61512"
+        },
+        {
+            "MaPhuongXa": "60400",
+            "TenPhuongXa": "Ia Dom",
+            "MaQuanHuyen": "6038",
+            "TenQuanHuyen": "Đức Cơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "id",
+                    "Point": 5
+                },
+                {
+                    "Key": "dc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia dom duc co gia lai",
+            "Point": null,
+            "Abbr": "id dc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61511"
+        },
+        {
+            "MaPhuongXa": "60392",
+            "TenPhuongXa": "Ia Krêl",
+            "MaQuanHuyen": "6038",
+            "TenQuanHuyen": "Đức Cơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ik",
+                    "Point": 5
+                },
+                {
+                    "Key": "dc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia krel duc co gia lai",
+            "Point": null,
+            "Abbr": "ik dc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61508"
+        },
+        {
+            "MaPhuongXa": "60394",
+            "TenPhuongXa": "Ia Din",
+            "MaQuanHuyen": "6038",
+            "TenQuanHuyen": "Đức Cơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "id",
+                    "Point": 5
+                },
+                {
+                    "Key": "dc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia din duc co gia lai",
+            "Point": null,
+            "Abbr": "id dc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61509"
+        },
+        {
+            "MaPhuongXa": "60396",
+            "TenPhuongXa": "Ia Dơk",
+            "MaQuanHuyen": "6038",
+            "TenQuanHuyen": "Đức Cơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "id",
+                    "Point": 5
+                },
+                {
+                    "Key": "dc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia dok duc co gia lai",
+            "Point": null,
+            "Abbr": "id dc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61507"
+        },
+        {
+            "MaPhuongXa": "60398",
+            "TenPhuongXa": "Ia Kla",
+            "MaQuanHuyen": "6038",
+            "TenQuanHuyen": "Đức Cơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ik",
+                    "Point": 5
+                },
+                {
+                    "Key": "dc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia kla duc co gia lai",
+            "Point": null,
+            "Abbr": "ik dc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61510"
+        },
+        {
+            "MaPhuongXa": "60380",
+            "TenPhuongXa": "Chư Ty",
+            "MaQuanHuyen": "6038",
+            "TenQuanHuyen": "Đức Cơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ct",
+                    "Point": 5
+                },
+                {
+                    "Key": "dc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu ty duc co gia lai",
+            "Point": null,
+            "Abbr": "ct dc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61506"
+        }
+    ],
+    "6047": [
+        {
+            "MaPhuongXa": "60503",
+            "TenPhuongXa": "H Bông",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "h bong chu se gia lai",
+            "Point": null,
+            "Abbr": "hb cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61920"
+        },
+        {
+            "MaPhuongXa": "60501",
+            "TenPhuongXa": "Kông HTok",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "kh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kong htok chu se gia lai",
+            "Point": null,
+            "Abbr": "kh cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61918"
+        },
+        {
+            "MaPhuongXa": "60497",
+            "TenPhuongXa": "Ia Ko",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ik",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia ko chu se gia lai",
+            "Point": null,
+            "Abbr": "ik cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61915"
+        },
+        {
+            "MaPhuongXa": "60494",
+            "TenPhuongXa": "Ia Blang",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ib",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia blang chu se gia lai",
+            "Point": null,
+            "Abbr": "ib cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61916"
+        },
+        {
+            "MaPhuongXa": "60492",
+            "TenPhuongXa": "Ia Hlốp",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ih",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia hlop chu se gia lai",
+            "Point": null,
+            "Abbr": "ih cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61914"
+        },
+        {
+            "MaPhuongXa": "60499",
+            "TenPhuongXa": "Ia Pal",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ip",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia pal chu se gia lai",
+            "Point": null,
+            "Abbr": "ip cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61917"
+        },
+        {
+            "MaPhuongXa": "60514",
+            "TenPhuongXa": "Bar Măih",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "bm",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bar maih chu se gia lai",
+            "Point": null,
+            "Abbr": "bm cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61910"
+        },
+        {
+            "MaPhuongXa": "60515",
+            "TenPhuongXa": "Chư Pơng",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu pong chu se gia lai",
+            "Point": null,
+            "Abbr": "cp cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61912"
+        },
+        {
+            "MaPhuongXa": "60476",
+            "TenPhuongXa": "AL Bá",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ab",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "al ba chu se gia lai",
+            "Point": null,
+            "Abbr": "ab cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61908"
+        },
+        {
+            "MaPhuongXa": "60470",
+            "TenPhuongXa": "Chư Sê",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cs",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu se chu se gia lai",
+            "Point": null,
+            "Abbr": "cs cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61906"
+        },
+        {
+            "MaPhuongXa": "60479",
+            "TenPhuongXa": "A Yun",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ay",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "a yun chu se gia lai",
+            "Point": null,
+            "Abbr": "ay cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61919"
+        },
+        {
+            "MaPhuongXa": "60487",
+            "TenPhuongXa": "Ia Glai",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ig",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia glai chu se gia lai",
+            "Point": null,
+            "Abbr": "ig cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61913"
+        },
+        {
+            "MaPhuongXa": "60484",
+            "TenPhuongXa": "Ia Tiêm",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "it",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia tiem chu se gia lai",
+            "Point": null,
+            "Abbr": "it cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61911"
+        },
+        {
+            "MaPhuongXa": "60481",
+            "TenPhuongXa": "Bờ Ngoong",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "bn",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bo ngoong chu se gia lai",
+            "Point": null,
+            "Abbr": "bn cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61909"
+        },
+        {
+            "MaPhuongXa": "60489",
+            "TenPhuongXa": "Dun",
+            "MaQuanHuyen": "6047",
+            "TenQuanHuyen": "Chư Sê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "d",
+                    "Point": 5
+                },
+                {
+                    "Key": "cs",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dun chu se gia lai",
+            "Point": null,
+            "Abbr": "d cs gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61907"
+        }
+    ],
+    "6021": [
+        {
+            "MaPhuongXa": "60220",
+            "TenPhuongXa": "Đắk Dj Răng",
+            "MaQuanHuyen": "6021",
+            "TenQuanHuyen": "Mang Yang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ddr",
+                    "Point": 5
+                },
+                {
+                    "Key": "my",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak dj rang mang yang gia lai",
+            "Point": null,
+            "Abbr": "ddr my gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62712"
+        },
+        {
+            "MaPhuongXa": "60222",
+            "TenPhuongXa": "Lơ Pang",
+            "MaQuanHuyen": "6021",
+            "TenQuanHuyen": "Mang Yang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "lp",
+                    "Point": 5
+                },
+                {
+                    "Key": "my",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lo pang mang yang gia lai",
+            "Point": null,
+            "Abbr": "lp my gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62713"
+        },
+        {
+            "MaPhuongXa": "60224",
+            "TenPhuongXa": "Kon Thụp",
+            "MaQuanHuyen": "6021",
+            "TenQuanHuyen": "Mang Yang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "my",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kon thup mang yang gia lai",
+            "Point": null,
+            "Abbr": "kt my gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62714"
+        },
+        {
+            "MaPhuongXa": "60226",
+            "TenPhuongXa": "Đê Ar",
+            "MaQuanHuyen": "6021",
+            "TenQuanHuyen": "Mang Yang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "da",
+                    "Point": 5
+                },
+                {
+                    "Key": "my",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "de ar mang yang gia lai",
+            "Point": null,
+            "Abbr": "da my gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62715"
+        },
+        {
+            "MaPhuongXa": "60228",
+            "TenPhuongXa": "Đắk Trôi",
+            "MaQuanHuyen": "6021",
+            "TenQuanHuyen": "Mang Yang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dt",
+                    "Point": 5
+                },
+                {
+                    "Key": "my",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak troi mang yang gia lai",
+            "Point": null,
+            "Abbr": "dt my gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62716"
+        },
+        {
+            "MaPhuongXa": "60210",
+            "TenPhuongXa": "Kon Dơng",
+            "MaQuanHuyen": "6021",
+            "TenQuanHuyen": "Mang Yang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "kd",
+                    "Point": 5
+                },
+                {
+                    "Key": "my",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kon dong mang yang gia lai",
+            "Point": null,
+            "Abbr": "kd my gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62706"
+        },
+        {
+            "MaPhuongXa": "60213",
+            "TenPhuongXa": "Đắk Yă",
+            "MaQuanHuyen": "6021",
+            "TenQuanHuyen": "Mang Yang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dy",
+                    "Point": 5
+                },
+                {
+                    "Key": "my",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak ya mang yang gia lai",
+            "Point": null,
+            "Abbr": "dy my gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62707"
+        },
+        {
+            "MaPhuongXa": "60214",
+            "TenPhuongXa": "H Ra",
+            "MaQuanHuyen": "6021",
+            "TenQuanHuyen": "Mang Yang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "hr",
+                    "Point": 5
+                },
+                {
+                    "Key": "my",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "h ra mang yang gia lai",
+            "Point": null,
+            "Abbr": "hr my gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62709"
+        },
+        {
+            "MaPhuongXa": "60217",
+            "TenPhuongXa": "A Yun",
+            "MaQuanHuyen": "6021",
+            "TenQuanHuyen": "Mang Yang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ay",
+                    "Point": 5
+                },
+                {
+                    "Key": "my",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "a yun mang yang gia lai",
+            "Point": null,
+            "Abbr": "ay my gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62711"
+        },
+        {
+            "MaPhuongXa": "60230",
+            "TenPhuongXa": "Kon Chiêng",
+            "MaQuanHuyen": "6021",
+            "TenQuanHuyen": "Mang Yang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "kc",
+                    "Point": 5
+                },
+                {
+                    "Key": "my",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kon chieng mang yang gia lai",
+            "Point": null,
+            "Abbr": "kc my gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62717"
+        },
+        {
+            "MaPhuongXa": "60233",
+            "TenPhuongXa": "Đắk Jơ Ta",
+            "MaQuanHuyen": "6021",
+            "TenQuanHuyen": "Mang Yang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "djt",
+                    "Point": 5
+                },
+                {
+                    "Key": "my",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak jo ta mang yang gia lai",
+            "Point": null,
+            "Abbr": "djt my gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62710"
+        },
+        {
+            "MaPhuongXa": "60235",
+            "TenPhuongXa": "Đắk Ta Ley",
+            "MaQuanHuyen": "6021",
+            "TenQuanHuyen": "Mang Yang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dtl",
+                    "Point": 5
+                },
+                {
+                    "Key": "my",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak ta ley mang yang gia lai",
+            "Point": null,
+            "Abbr": "dtl my gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62708"
+        }
+    ],
+    "6072": [
+        {
+            "MaPhuongXa": "60724",
+            "TenPhuongXa": "Ia Hrú",
+            "MaQuanHuyen": "6072",
+            "TenQuanHuyen": "Chư Pưh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ih",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia hru chu puh gia lai",
+            "Point": null,
+            "Abbr": "ih cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61808"
+        },
+        {
+            "MaPhuongXa": "60727",
+            "TenPhuongXa": "Ia Le",
+            "MaQuanHuyen": "6072",
+            "TenQuanHuyen": "Chư Pưh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "il",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia le chu puh gia lai",
+            "Point": null,
+            "Abbr": "il cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61813"
+        },
+        {
+            "MaPhuongXa": "60720",
+            "TenPhuongXa": "Chư Don",
+            "MaQuanHuyen": "6072",
+            "TenQuanHuyen": "Chư Pưh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cd",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu don chu puh gia lai",
+            "Point": null,
+            "Abbr": "cd cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61811"
+        },
+        {
+            "MaPhuongXa": "60721",
+            "TenPhuongXa": "Ia Blứ",
+            "MaQuanHuyen": "6072",
+            "TenQuanHuyen": "Chư Pưh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ib",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia blu chu puh gia lai",
+            "Point": null,
+            "Abbr": "ib cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61814"
+        },
+        {
+            "MaPhuongXa": "60722",
+            "TenPhuongXa": "Ia Dreng",
+            "MaQuanHuyen": "6072",
+            "TenQuanHuyen": "Chư Pưh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "id",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia dreng chu puh gia lai",
+            "Point": null,
+            "Abbr": "id cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61809"
+        },
+        {
+            "MaPhuongXa": "60723",
+            "TenPhuongXa": "Ia Hla",
+            "MaQuanHuyen": "6072",
+            "TenQuanHuyen": "Chư Pưh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ih",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia hla chu puh gia lai",
+            "Point": null,
+            "Abbr": "ih cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61810"
+        },
+        {
+            "MaPhuongXa": "60730",
+            "TenPhuongXa": "Ia Phang",
+            "MaQuanHuyen": "6072",
+            "TenQuanHuyen": "Chư Pưh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ip",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia phang chu puh gia lai",
+            "Point": null,
+            "Abbr": "ip cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61812"
+        },
+        {
+            "MaPhuongXa": "60732",
+            "TenPhuongXa": "Ia Rong",
+            "MaQuanHuyen": "6072",
+            "TenQuanHuyen": "Chư Pưh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ir",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia rong chu puh gia lai",
+            "Point": null,
+            "Abbr": "ir cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61807"
+        },
+        {
+            "MaPhuongXa": "60733",
+            "TenPhuongXa": "Nhơn Hoà",
+            "MaQuanHuyen": "6072",
+            "TenQuanHuyen": "Chư Pưh",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "nh",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nhon hoa chu puh gia lai",
+            "Point": null,
+            "Abbr": "nh cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61806"
+        }
+    ],
+    "6042": [
+        {
+            "MaPhuongXa": "60426",
+            "TenPhuongXa": "Ia Băng",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ib",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia bang chu prong gia lai",
+            "Point": null,
+            "Abbr": "ib cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61610"
+        },
+        {
+            "MaPhuongXa": "60424",
+            "TenPhuongXa": "Ia Tôr",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "it",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia tor chu prong gia lai",
+            "Point": null,
+            "Abbr": "it cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61608"
+        },
+        {
+            "MaPhuongXa": "60420",
+            "TenPhuongXa": "Chư Prông",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cp",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu prong chu prong gia lai",
+            "Point": null,
+            "Abbr": "cp cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61606"
+        },
+        {
+            "MaPhuongXa": "60428",
+            "TenPhuongXa": "Ia Phìn",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ip",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia phin chu prong gia lai",
+            "Point": null,
+            "Abbr": "ip cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61611"
+        },
+        {
+            "MaPhuongXa": "60447",
+            "TenPhuongXa": "Ia Lâu",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "il",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia lau chu prong gia lai",
+            "Point": null,
+            "Abbr": "il cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61621"
+        },
+        {
+            "MaPhuongXa": "60446",
+            "TenPhuongXa": "Ia Mơr",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "im",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia mor chu prong gia lai",
+            "Point": null,
+            "Abbr": "im cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61624"
+        },
+        {
+            "MaPhuongXa": "60445",
+            "TenPhuongXa": "Ia Púch",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ip",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia puch chu prong gia lai",
+            "Point": null,
+            "Abbr": "ip cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61623"
+        },
+        {
+            "MaPhuongXa": "60443",
+            "TenPhuongXa": "Ia Pia",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ip",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia pia chu prong gia lai",
+            "Point": null,
+            "Abbr": "ip cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61619"
+        },
+        {
+            "MaPhuongXa": "60440",
+            "TenPhuongXa": "Ia Vê",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "iv",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia ve chu prong gia lai",
+            "Point": null,
+            "Abbr": "iv cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61620"
+        },
+        {
+            "MaPhuongXa": "60449",
+            "TenPhuongXa": "Ia Ga",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ig",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia ga chu prong gia lai",
+            "Point": null,
+            "Abbr": "ig cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61622"
+        },
+        {
+            "MaPhuongXa": "60461",
+            "TenPhuongXa": "Ia Kly",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ik",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia kly chu prong gia lai",
+            "Point": null,
+            "Abbr": "ik cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61607"
+        },
+        {
+            "MaPhuongXa": "60460",
+            "TenPhuongXa": "Ia Bang",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ib",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia bang chu prong gia lai",
+            "Point": null,
+            "Abbr": "ib cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61609"
+        },
+        {
+            "MaPhuongXa": "60437",
+            "TenPhuongXa": "Ia O",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "io",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia o chu prong gia lai",
+            "Point": null,
+            "Abbr": "io cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61616"
+        },
+        {
+            "MaPhuongXa": "60435",
+            "TenPhuongXa": "Ia Boòng",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ib",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia boong chu prong gia lai",
+            "Point": null,
+            "Abbr": "ib cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61617"
+        },
+        {
+            "MaPhuongXa": "60433",
+            "TenPhuongXa": "Bình Giáo",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "bg",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "binh giao chu prong gia lai",
+            "Point": null,
+            "Abbr": "bg cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61613"
+        },
+        {
+            "MaPhuongXa": "60431",
+            "TenPhuongXa": "Thăng Hưng",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "th",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thang hung chu prong gia lai",
+            "Point": null,
+            "Abbr": "th cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61614"
+        },
+        {
+            "MaPhuongXa": "60430",
+            "TenPhuongXa": "Bàu Cạn",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "bc",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "bau can chu prong gia lai",
+            "Point": null,
+            "Abbr": "bc cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61612"
+        },
+        {
+            "MaPhuongXa": "60438",
+            "TenPhuongXa": "Ia Me",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "im",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia me chu prong gia lai",
+            "Point": null,
+            "Abbr": "im cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61618"
+        },
+        {
+            "MaPhuongXa": "60452",
+            "TenPhuongXa": "Ia Đrăng",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "id",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia drang chu prong gia lai",
+            "Point": null,
+            "Abbr": "id cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61615"
+        },
+        {
+            "MaPhuongXa": "60450",
+            "TenPhuongXa": "Ia Piơr",
+            "MaQuanHuyen": "6042",
+            "TenQuanHuyen": "Chư Prông",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ip",
+                    "Point": 5
+                },
+                {
+                    "Key": "cp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia pior chu prong gia lai",
+            "Point": null,
+            "Abbr": "ip cp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61625"
+        }
+    ],
+    "6024": [
+        {
+            "MaPhuongXa": "60241",
+            "TenPhuongXa": "Cửu An",
+            "MaQuanHuyen": "6024",
+            "TenQuanHuyen": "An Khê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ca",
+                    "Point": 5
+                },
+                {
+                    "Key": "ak",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cuu an an khe gia lai",
+            "Point": null,
+            "Abbr": "ca ak gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62511"
+        },
+        {
+            "MaPhuongXa": "60240",
+            "TenPhuongXa": "Song An",
+            "MaQuanHuyen": "6024",
+            "TenQuanHuyen": "An Khê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "sa",
+                    "Point": 5
+                },
+                {
+                    "Key": "ak",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song an an khe gia lai",
+            "Point": null,
+            "Abbr": "sa ak gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62510"
+        },
+        {
+            "MaPhuongXa": "60242",
+            "TenPhuongXa": "Tú An",
+            "MaQuanHuyen": "6024",
+            "TenQuanHuyen": "An Khê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "ak",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tu an an khe gia lai",
+            "Point": null,
+            "Abbr": "ta ak gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62512"
+        },
+        {
+            "MaPhuongXa": "60245",
+            "TenPhuongXa": "An Bình",
+            "MaQuanHuyen": "6024",
+            "TenQuanHuyen": "An Khê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ab",
+                    "Point": 5
+                },
+                {
+                    "Key": "ak",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an binh an khe gia lai",
+            "Point": null,
+            "Abbr": "ab ak gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62516"
+        },
+        {
+            "MaPhuongXa": "60244",
+            "TenPhuongXa": "Thành An",
+            "MaQuanHuyen": "6024",
+            "TenQuanHuyen": "An Khê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "ak",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "thanh an an khe gia lai",
+            "Point": null,
+            "Abbr": "ta ak gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62514"
+        },
+        {
+            "MaPhuongXa": "60247",
+            "TenPhuongXa": "Tây Sơn",
+            "MaQuanHuyen": "6024",
+            "TenQuanHuyen": "An Khê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ts",
+                    "Point": 5
+                },
+                {
+                    "Key": "ak",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tay son an khe gia lai",
+            "Point": null,
+            "Abbr": "ts ak gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62506"
+        },
+        {
+            "MaPhuongXa": "60249",
+            "TenPhuongXa": "An Phú",
+            "MaQuanHuyen": "6024",
+            "TenQuanHuyen": "An Khê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ap",
+                    "Point": 5
+                },
+                {
+                    "Key": "ak",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an phu an khe gia lai",
+            "Point": null,
+            "Abbr": "ap ak gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62507"
+        },
+        {
+            "MaPhuongXa": "60252",
+            "TenPhuongXa": "An Tân",
+            "MaQuanHuyen": "6024",
+            "TenQuanHuyen": "An Khê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "ak",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an tan an khe gia lai",
+            "Point": null,
+            "Abbr": "at ak gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62508"
+        },
+        {
+            "MaPhuongXa": "60257",
+            "TenPhuongXa": "Ngô Mây",
+            "MaQuanHuyen": "6024",
+            "TenQuanHuyen": "An Khê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "nm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ak",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ngo may an khe gia lai",
+            "Point": null,
+            "Abbr": "nm ak gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62509"
+        },
+        {
+            "MaPhuongXa": "60256",
+            "TenPhuongXa": "An Phước",
+            "MaQuanHuyen": "6024",
+            "TenQuanHuyen": "An Khê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ap",
+                    "Point": 5
+                },
+                {
+                    "Key": "ak",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an phuoc an khe gia lai",
+            "Point": null,
+            "Abbr": "ap ak gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62515"
+        },
+        {
+            "MaPhuongXa": "60258",
+            "TenPhuongXa": "Xuân An",
+            "MaQuanHuyen": "6024",
+            "TenQuanHuyen": "An Khê",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "xa",
+                    "Point": 5
+                },
+                {
+                    "Key": "ak",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "xuan an an khe gia lai",
+            "Point": null,
+            "Abbr": "xa ak gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62513"
+        }
+    ],
+    "6034": [
+        {
+            "MaPhuongXa": "60340",
+            "TenPhuongXa": "Ia Kha",
+            "MaQuanHuyen": "6034",
+            "TenQuanHuyen": "Ia Grai",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ik",
+                    "Point": 5
+                },
+                {
+                    "Key": "ig",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia kha ia grai gia lai",
+            "Point": null,
+            "Abbr": "ik ig gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61406"
+        },
+        {
+            "MaPhuongXa": "60343",
+            "TenPhuongXa": "Ia Dêr",
+            "MaQuanHuyen": "6034",
+            "TenQuanHuyen": "Ia Grai",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "id",
+                    "Point": 5
+                },
+                {
+                    "Key": "ig",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia der ia grai gia lai",
+            "Point": null,
+            "Abbr": "id ig gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61408"
+        },
+        {
+            "MaPhuongXa": "60345",
+            "TenPhuongXa": "Ia Sao",
+            "MaQuanHuyen": "6034",
+            "TenQuanHuyen": "Ia Grai",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "is",
+                    "Point": 5
+                },
+                {
+                    "Key": "ig",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia sao ia grai gia lai",
+            "Point": null,
+            "Abbr": "is ig gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61409"
+        },
+        {
+            "MaPhuongXa": "60348",
+            "TenPhuongXa": "Ia Hrung",
+            "MaQuanHuyen": "6034",
+            "TenQuanHuyen": "Ia Grai",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ih",
+                    "Point": 5
+                },
+                {
+                    "Key": "ig",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia hrung ia grai gia lai",
+            "Point": null,
+            "Abbr": "ih ig gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61407"
+        },
+        {
+            "MaPhuongXa": "60360",
+            "TenPhuongXa": "Ia Pếch",
+            "MaQuanHuyen": "6034",
+            "TenQuanHuyen": "Ia Grai",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ip",
+                    "Point": 5
+                },
+                {
+                    "Key": "ig",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia pech ia grai gia lai",
+            "Point": null,
+            "Abbr": "ip ig gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61418"
+        },
+        {
+            "MaPhuongXa": "60362",
+            "TenPhuongXa": "Ia Khai",
+            "MaQuanHuyen": "6034",
+            "TenQuanHuyen": "Ia Grai",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ik",
+                    "Point": 5
+                },
+                {
+                    "Key": "ig",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia khai ia grai gia lai",
+            "Point": null,
+            "Abbr": "ik ig gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61413"
+        },
+        {
+            "MaPhuongXa": "60364",
+            "TenPhuongXa": "Ia Grăng",
+            "MaQuanHuyen": "6034",
+            "TenQuanHuyen": "Ia Grai",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ig",
+                    "Point": 5
+                },
+                {
+                    "Key": "ig",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia grang ia grai gia lai",
+            "Point": null,
+            "Abbr": "ig ig gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61412"
+        },
+        {
+            "MaPhuongXa": "60366",
+            "TenPhuongXa": "Ia Bă",
+            "MaQuanHuyen": "6034",
+            "TenQuanHuyen": "Ia Grai",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ib",
+                    "Point": 5
+                },
+                {
+                    "Key": "ig",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia ba ia grai gia lai",
+            "Point": null,
+            "Abbr": "ib ig gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61411"
+        },
+        {
+            "MaPhuongXa": "60368",
+            "TenPhuongXa": "Ia Yok",
+            "MaQuanHuyen": "6034",
+            "TenQuanHuyen": "Ia Grai",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "iy",
+                    "Point": 5
+                },
+                {
+                    "Key": "ig",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia yok ia grai gia lai",
+            "Point": null,
+            "Abbr": "iy ig gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61410"
+        },
+        {
+            "MaPhuongXa": "60351",
+            "TenPhuongXa": "Ia Krai",
+            "MaQuanHuyen": "6034",
+            "TenQuanHuyen": "Ia Grai",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ik",
+                    "Point": 5
+                },
+                {
+                    "Key": "ig",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia krai ia grai gia lai",
+            "Point": null,
+            "Abbr": "ik ig gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61414"
+        },
+        {
+            "MaPhuongXa": "60353",
+            "TenPhuongXa": "Ia Tô",
+            "MaQuanHuyen": "6034",
+            "TenQuanHuyen": "Ia Grai",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "it",
+                    "Point": 5
+                },
+                {
+                    "Key": "ig",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia to ia grai gia lai",
+            "Point": null,
+            "Abbr": "it ig gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61417"
+        },
+        {
+            "MaPhuongXa": "60356",
+            "TenPhuongXa": "Ia O",
+            "MaQuanHuyen": "6034",
+            "TenQuanHuyen": "Ia Grai",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "io",
+                    "Point": 5
+                },
+                {
+                    "Key": "ig",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia o ia grai gia lai",
+            "Point": null,
+            "Abbr": "io ig gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61415"
+        },
+        {
+            "MaPhuongXa": "60358",
+            "TenPhuongXa": "Ia Chĩa",
+            "MaQuanHuyen": "6034",
+            "TenQuanHuyen": "Ia Grai",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ic",
+                    "Point": 5
+                },
+                {
+                    "Key": "ig",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia chia ia grai gia lai",
+            "Point": null,
+            "Abbr": "ic ig gl",
+            "TrangThai": null,
+            "MaBuuChinh": "61416"
+        }
+    ],
+    "6064": [
+        {
+            "MaPhuongXa": "60645",
+            "TenPhuongXa": "Cư An",
+            "MaQuanHuyen": "6064",
+            "TenQuanHuyen": "Đak Pơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ca",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cu an dak po gia lai",
+            "Point": null,
+            "Abbr": "ca dp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62413"
+        },
+        {
+            "MaPhuongXa": "60646",
+            "TenPhuongXa": "Ya Hội",
+            "MaQuanHuyen": "6064",
+            "TenQuanHuyen": "Đak Pơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "yh",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ya hoi dak po gia lai",
+            "Point": null,
+            "Abbr": "yh dp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62410"
+        },
+        {
+            "MaPhuongXa": "60640",
+            "TenPhuongXa": "Đak Pơ",
+            "MaQuanHuyen": "6064",
+            "TenQuanHuyen": "Đak Pơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak po dak po gia lai",
+            "Point": null,
+            "Abbr": "dp dp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62406"
+        },
+        {
+            "MaPhuongXa": "60643",
+            "TenPhuongXa": "Tân An",
+            "MaQuanHuyen": "6064",
+            "TenQuanHuyen": "Đak Pơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ta",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "tan an dak po gia lai",
+            "Point": null,
+            "Abbr": "ta dp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62412"
+        },
+        {
+            "MaPhuongXa": "60642",
+            "TenPhuongXa": "Phú An",
+            "MaQuanHuyen": "6064",
+            "TenQuanHuyen": "Đak Pơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "pa",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "phu an dak po gia lai",
+            "Point": null,
+            "Abbr": "pa dp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62411"
+        },
+        {
+            "MaPhuongXa": "60648",
+            "TenPhuongXa": "Yang Bắc",
+            "MaQuanHuyen": "6064",
+            "TenQuanHuyen": "Đak Pơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "yb",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yang bac dak po gia lai",
+            "Point": null,
+            "Abbr": "yb dp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62409"
+        },
+        {
+            "MaPhuongXa": "60651",
+            "TenPhuongXa": "An Thành",
+            "MaQuanHuyen": "6064",
+            "TenQuanHuyen": "Đak Pơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an thanh dak po gia lai",
+            "Point": null,
+            "Abbr": "at dp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62407"
+        },
+        {
+            "MaPhuongXa": "60653",
+            "TenPhuongXa": "Hà Tam",
+            "MaQuanHuyen": "6064",
+            "TenQuanHuyen": "Đak Pơ",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ht",
+                    "Point": 5
+                },
+                {
+                    "Key": "dp",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ha tam dak po gia lai",
+            "Point": null,
+            "Abbr": "ht dp gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62408"
+        }
+    ],
+    "6026": [
+        {
+            "MaPhuongXa": "60291",
+            "TenPhuongXa": "Kông Bờ La",
+            "MaQuanHuyen": "6026",
+            "TenQuanHuyen": "K'Bang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "kbl",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kong bo la k'bang gia lai",
+            "Point": null,
+            "Abbr": "kbl k gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62617"
+        },
+        {
+            "MaPhuongXa": "60293",
+            "TenPhuongXa": "Đắk Smar",
+            "MaQuanHuyen": "6026",
+            "TenQuanHuyen": "K'Bang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak smar k'bang gia lai",
+            "Point": null,
+            "Abbr": "ds k gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62607"
+        },
+        {
+            "MaPhuongXa": "60260",
+            "TenPhuongXa": "K'Bang",
+            "MaQuanHuyen": "6026",
+            "TenQuanHuyen": "K'Bang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "k",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "k'bang k'bang gia lai",
+            "Point": null,
+            "Abbr": "k k gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62606"
+        },
+        {
+            "MaPhuongXa": "60263",
+            "TenPhuongXa": "Đông",
+            "MaQuanHuyen": "6026",
+            "TenQuanHuyen": "K'Bang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "d",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dong k'bang gia lai",
+            "Point": null,
+            "Abbr": "d k gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62615"
+        },
+        {
+            "MaPhuongXa": "60266",
+            "TenPhuongXa": "Sơ Pai",
+            "MaQuanHuyen": "6026",
+            "TenQuanHuyen": "K'Bang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "sp",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "so pai k'bang gia lai",
+            "Point": null,
+            "Abbr": "sp k gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62608"
+        },
+        {
+            "MaPhuongXa": "60268",
+            "TenPhuongXa": "Sơn Lang",
+            "MaQuanHuyen": "6026",
+            "TenQuanHuyen": "K'Bang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "sl",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "son lang k'bang gia lai",
+            "Point": null,
+            "Abbr": "sl k gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62609"
+        },
+        {
+            "MaPhuongXa": "60270",
+            "TenPhuongXa": "Đăk Rong",
+            "MaQuanHuyen": "6026",
+            "TenQuanHuyen": "K'Bang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dr",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak rong k'bang gia lai",
+            "Point": null,
+            "Abbr": "dr k gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62610"
+        },
+        {
+            "MaPhuongXa": "60274",
+            "TenPhuongXa": "Lơ Ku",
+            "MaQuanHuyen": "6026",
+            "TenQuanHuyen": "K'Bang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "lk",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "lo ku k'bang gia lai",
+            "Point": null,
+            "Abbr": "lk k gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62613"
+        },
+        {
+            "MaPhuongXa": "60277",
+            "TenPhuongXa": "KRong",
+            "MaQuanHuyen": "6026",
+            "TenQuanHuyen": "K'Bang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "k",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "krong k'bang gia lai",
+            "Point": null,
+            "Abbr": "k k gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62612"
+        },
+        {
+            "MaPhuongXa": "60281",
+            "TenPhuongXa": "Kon Pne",
+            "MaQuanHuyen": "6026",
+            "TenQuanHuyen": "K'Bang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "kp",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kon pne k'bang gia lai",
+            "Point": null,
+            "Abbr": "kp k gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62611"
+        },
+        {
+            "MaPhuongXa": "60282",
+            "TenPhuongXa": "Đắk HLơ",
+            "MaQuanHuyen": "6026",
+            "TenQuanHuyen": "K'Bang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dh",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak hlo k'bang gia lai",
+            "Point": null,
+            "Abbr": "dh k gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62618"
+        },
+        {
+            "MaPhuongXa": "60285",
+            "TenPhuongXa": "Tơ Tung",
+            "MaQuanHuyen": "6026",
+            "TenQuanHuyen": "K'Bang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "tt",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "to tung k'bang gia lai",
+            "Point": null,
+            "Abbr": "tt k gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62614"
+        },
+        {
+            "MaPhuongXa": "60284",
+            "TenPhuongXa": "Nghĩa An",
+            "MaQuanHuyen": "6026",
+            "TenQuanHuyen": "K'Bang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "na",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "nghia an k'bang gia lai",
+            "Point": null,
+            "Abbr": "na k gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62619"
+        },
+        {
+            "MaPhuongXa": "60289",
+            "TenPhuongXa": "Kông Lơng Khơng",
+            "MaQuanHuyen": "6026",
+            "TenQuanHuyen": "K'Bang",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "klk",
+                    "Point": 5
+                },
+                {
+                    "Key": "k",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kong long khong k'bang gia lai",
+            "Point": null,
+            "Abbr": "klk k gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62616"
+        }
+    ],
+    "6053": [
+        {
+            "MaPhuongXa": "60543",
+            "TenPhuongXa": "Sông Bờ",
+            "MaQuanHuyen": "6053",
+            "TenQuanHuyen": "Ayun Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "sb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "song bo ayun pa gia lai",
+            "Point": null,
+            "Abbr": "sb ap gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62007"
+        },
+        {
+            "MaPhuongXa": "60541",
+            "TenPhuongXa": "Hoà Bình",
+            "MaQuanHuyen": "6053",
+            "TenQuanHuyen": "Ayun Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "hb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "hoa binh ayun pa gia lai",
+            "Point": null,
+            "Abbr": "hb ap gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62009"
+        },
+        {
+            "MaPhuongXa": "60548",
+            "TenPhuongXa": "Ia Rbol",
+            "MaQuanHuyen": "6053",
+            "TenQuanHuyen": "Ayun Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ir",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia rbol ayun pa gia lai",
+            "Point": null,
+            "Abbr": "ir ap gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62011"
+        },
+        {
+            "MaPhuongXa": "60537",
+            "TenPhuongXa": "Cheo Reo",
+            "MaQuanHuyen": "6053",
+            "TenQuanHuyen": "Ayun Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cr",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cheo reo ayun pa gia lai",
+            "Point": null,
+            "Abbr": "cr ap gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62008"
+        },
+        {
+            "MaPhuongXa": "60530",
+            "TenPhuongXa": "Đoàn Kết",
+            "MaQuanHuyen": "6053",
+            "TenQuanHuyen": "Ayun Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dk",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "doan ket ayun pa gia lai",
+            "Point": null,
+            "Abbr": "dk ap gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62006"
+        },
+        {
+            "MaPhuongXa": "60539",
+            "TenPhuongXa": "Chư Băh",
+            "MaQuanHuyen": "6053",
+            "TenQuanHuyen": "Ayun Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cb",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu bah ayun pa gia lai",
+            "Point": null,
+            "Abbr": "cb ap gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62010"
+        },
+        {
+            "MaPhuongXa": "60550",
+            "TenPhuongXa": "Ia Rtô",
+            "MaQuanHuyen": "6053",
+            "TenQuanHuyen": "Ayun Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ir",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia rto ayun pa gia lai",
+            "Point": null,
+            "Abbr": "ir ap gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62013"
+        },
+        {
+            "MaPhuongXa": "60551",
+            "TenPhuongXa": "Ia Sao",
+            "MaQuanHuyen": "6053",
+            "TenQuanHuyen": "Ayun Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "is",
+                    "Point": 5
+                },
+                {
+                    "Key": "ap",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia sao ayun pa gia lai",
+            "Point": null,
+            "Abbr": "is ap gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62012"
+        }
+    ],
+    "6057": [
+        {
+            "MaPhuongXa": "60594",
+            "TenPhuongXa": "Đắk Pơ Pho",
+            "MaQuanHuyen": "6057",
+            "TenQuanHuyen": "Kông Chro",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dpp",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak po pho kong chro gia lai",
+            "Point": null,
+            "Abbr": "dpp kc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62312"
+        },
+        {
+            "MaPhuongXa": "60592",
+            "TenPhuongXa": "Đak Pling",
+            "MaQuanHuyen": "6057",
+            "TenQuanHuyen": "Kông Chro",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dp",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak pling kong chro gia lai",
+            "Point": null,
+            "Abbr": "dp kc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62319"
+        },
+        {
+            "MaPhuongXa": "60593",
+            "TenPhuongXa": "Đắk Cơ Ninh",
+            "MaQuanHuyen": "6057",
+            "TenQuanHuyen": "Kông Chro",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dcn",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak co ninh kong chro gia lai",
+            "Point": null,
+            "Abbr": "dcn kc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62316"
+        },
+        {
+            "MaPhuongXa": "60576",
+            "TenPhuongXa": "Đắk Song",
+            "MaQuanHuyen": "6057",
+            "TenQuanHuyen": "Kông Chro",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ds",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak song kong chro gia lai",
+            "Point": null,
+            "Abbr": "ds kc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62318"
+        },
+        {
+            "MaPhuongXa": "60572",
+            "TenPhuongXa": "Ya Ma",
+            "MaQuanHuyen": "6057",
+            "TenQuanHuyen": "Kông Chro",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ym",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ya ma kong chro gia lai",
+            "Point": null,
+            "Abbr": "ym kc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62307"
+        },
+        {
+            "MaPhuongXa": "60573",
+            "TenPhuongXa": "SRó",
+            "MaQuanHuyen": "6057",
+            "TenQuanHuyen": "Kông Chro",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "s",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "sro kong chro gia lai",
+            "Point": null,
+            "Abbr": "s kc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62317"
+        },
+        {
+            "MaPhuongXa": "60570",
+            "TenPhuongXa": "Kông Chro",
+            "MaQuanHuyen": "6057",
+            "TenQuanHuyen": "Kông Chro",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "kc",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kong chro kong chro gia lai",
+            "Point": null,
+            "Abbr": "kc kc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62306"
+        },
+        {
+            "MaPhuongXa": "60578",
+            "TenPhuongXa": "Đăk Tơ Pang",
+            "MaQuanHuyen": "6057",
+            "TenQuanHuyen": "Kông Chro",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "dtp",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "dak to pang kong chro gia lai",
+            "Point": null,
+            "Abbr": "dtp kc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62308"
+        },
+        {
+            "MaPhuongXa": "60579",
+            "TenPhuongXa": "Kong Yang",
+            "MaQuanHuyen": "6057",
+            "TenQuanHuyen": "Kông Chro",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ky",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kong yang kong chro gia lai",
+            "Point": null,
+            "Abbr": "ky kc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62309"
+        },
+        {
+            "MaPhuongXa": "60587",
+            "TenPhuongXa": "Chơ Long",
+            "MaQuanHuyen": "6057",
+            "TenQuanHuyen": "Kông Chro",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cl",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "cho long kong chro gia lai",
+            "Point": null,
+            "Abbr": "cl kc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62314"
+        },
+        {
+            "MaPhuongXa": "60585",
+            "TenPhuongXa": "Yang Trung",
+            "MaQuanHuyen": "6057",
+            "TenQuanHuyen": "Kông Chro",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "yt",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yang trung kong chro gia lai",
+            "Point": null,
+            "Abbr": "yt kc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62313"
+        },
+        {
+            "MaPhuongXa": "60583",
+            "TenPhuongXa": "Chư Krey",
+            "MaQuanHuyen": "6057",
+            "TenQuanHuyen": "Kông Chro",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ck",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu krey kong chro gia lai",
+            "Point": null,
+            "Abbr": "ck kc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62311"
+        },
+        {
+            "MaPhuongXa": "60581",
+            "TenPhuongXa": "An Trung",
+            "MaQuanHuyen": "6057",
+            "TenQuanHuyen": "Kông Chro",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "at",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "an trung kong chro gia lai",
+            "Point": null,
+            "Abbr": "at kc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62310"
+        },
+        {
+            "MaPhuongXa": "60589",
+            "TenPhuongXa": "Yang Nam",
+            "MaQuanHuyen": "6057",
+            "TenQuanHuyen": "Kông Chro",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "yn",
+                    "Point": 5
+                },
+                {
+                    "Key": "kc",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "yang nam kong chro gia lai",
+            "Point": null,
+            "Abbr": "yn kc gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62315"
+        }
+    ],
+    "6066": [
+        {
+            "MaPhuongXa": "60664",
+            "TenPhuongXa": "Kim Tân",
+            "MaQuanHuyen": "6066",
+            "TenQuanHuyen": "Ia Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "kt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ip",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "kim tan ia pa gia lai",
+            "Point": null,
+            "Abbr": "kt ip gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62206"
+        },
+        {
+            "MaPhuongXa": "60667",
+            "TenPhuongXa": "Ia Broái",
+            "MaQuanHuyen": "6066",
+            "TenQuanHuyen": "Ia Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ib",
+                    "Point": 5
+                },
+                {
+                    "Key": "ip",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia broai ia pa gia lai",
+            "Point": null,
+            "Abbr": "ib ip gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62211"
+        },
+        {
+            "MaPhuongXa": "60666",
+            "TenPhuongXa": "Ia Tul",
+            "MaQuanHuyen": "6066",
+            "TenQuanHuyen": "Ia Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "it",
+                    "Point": 5
+                },
+                {
+                    "Key": "ip",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia tul ia pa gia lai",
+            "Point": null,
+            "Abbr": "it ip gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62212"
+        },
+        {
+            "MaPhuongXa": "60660",
+            "TenPhuongXa": "Pờ Tó",
+            "MaQuanHuyen": "6066",
+            "TenQuanHuyen": "Ia Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "pt",
+                    "Point": 5
+                },
+                {
+                    "Key": "ip",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "po to ia pa gia lai",
+            "Point": null,
+            "Abbr": "pt ip gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62208"
+        },
+        {
+            "MaPhuongXa": "60662",
+            "TenPhuongXa": "Chư Răng",
+            "MaQuanHuyen": "6066",
+            "TenQuanHuyen": "Ia Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cr",
+                    "Point": 5
+                },
+                {
+                    "Key": "ip",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu rang ia pa gia lai",
+            "Point": null,
+            "Abbr": "cr ip gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62207"
+        },
+        {
+            "MaPhuongXa": "60669",
+            "TenPhuongXa": "Ia Trok",
+            "MaQuanHuyen": "6066",
+            "TenQuanHuyen": "Ia Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "it",
+                    "Point": 5
+                },
+                {
+                    "Key": "ip",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia trok ia pa gia lai",
+            "Point": null,
+            "Abbr": "it ip gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62210"
+        },
+        {
+            "MaPhuongXa": "60668",
+            "TenPhuongXa": "Ia K'Đăm",
+            "MaQuanHuyen": "6066",
+            "TenQuanHuyen": "Ia Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "ik",
+                    "Point": 5
+                },
+                {
+                    "Key": "ip",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia k'dam ia pa gia lai",
+            "Point": null,
+            "Abbr": "ik ip gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62214"
+        },
+        {
+            "MaPhuongXa": "60671",
+            "TenPhuongXa": "Ia Ma Rơn",
+            "MaQuanHuyen": "6066",
+            "TenQuanHuyen": "Ia Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "imr",
+                    "Point": 5
+                },
+                {
+                    "Key": "ip",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "ia ma ron ia pa gia lai",
+            "Point": null,
+            "Abbr": "imr ip gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62209"
+        },
+        {
+            "MaPhuongXa": "60673",
+            "TenPhuongXa": "Chư Mố",
+            "MaQuanHuyen": "6066",
+            "TenQuanHuyen": "Ia Pa",
+            "MaTinhThanh": "60",
+            "TenTinhThanh": "Gia Lai",
+            "LstSearchTag": [
+                {
+                    "Key": "cm",
+                    "Point": 5
+                },
+                {
+                    "Key": "ip",
+                    "Point": 2
+                },
+                {
+                    "Key": "gl",
+                    "Point": 2
+                }
+            ],
+            "TenDayDuKhongDau": "chu mo ia pa gia lai",
+            "Point": null,
+            "Abbr": "cm ip gl",
+            "TrangThai": null,
+            "MaBuuChinh": "62213"
+        }
+    ]
+}
